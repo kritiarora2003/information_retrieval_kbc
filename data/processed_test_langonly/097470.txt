@@ -1,0 +1,149 @@
+[French language version follows English language version]
+Federal Court
+Jean-François Bertrand, for the applicants;
+Lisa Maziade, for the respondent.
+Solicitors of Record:
+Bertrand, Deslauriers, Avocats, Montreal, Quebec, for the applicants;
+Myles J. Kirvan, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+Introduction
+[1]
+[Translation]: This is an application for leave and for judicial review of the decision of a visa officer at the Embassy of Canada in Damascus, Syria, dated July 26, 2011, refusing the applicants' application for permanent residence on the ground that they were inadmissible underparagraph 40(1)(
+) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (IRPA).
+Facts
+[2]
+On July 26, 2007, the principal applicant, Behrouz Hakimi Sohrabi, submitted an application for permanent residence in the investor class that included his wife, Taban Bouzarpour, and his two children.
+[3]
+A letter was sent on January 25, 2011, directing the applicant to submit documents to prove that his daughter Parisa, who was included in the application for permanent residence, was enrolled in school full-time.
+[4]
+On February 16, 2011, the principal applicant forwarded the documents, which were examined by the visa officer on February 21, 2011.
+[5]
+By letter dated April 12, 2011, the visa officer informed the principal applicant that he had doubts about the authenticity of the documents submitted, and in particular about the transcript for his daughter Parisa entitled "Art& Culture Applied Science Higher Education Centre". The principal applicant was given 30 days to submit new information, failing which he would be inadmissible to Canada for misrepresentation.
+[6]
+In a letter dated April 25, 2011, the principal applicant explained that he had no knowledge that the documents submitted by his daughter were fraudulent. His daughter had belatedly admitted to him that she was no longer attending an educational institution full-time. That situation was also confirmed by the institution. Accordingly, he had had no knowledge of the situation until he received the letter dated April 12, 2011.
+[7]
+A letter was sent to the principal applicant on July 26, 2011, in which he was informed that he was inadmissible for misrepresentation.
+Decision that is the subject of this application for judicial review
+[8]
+The visa officer determined that the principal applicant was inadmissible underparagraph 40(1)(
+) of the IRPA by reason of the fraudulent school documents submitted by his daughter Parisa. The visa officer concluded that the documents would have meant that a permanent resident visa could have been issued to his daughter as a dependent child over the age of 22.
+The issue is whether the visa officer's decision was reasonable.
+Relevant statutory provisions
+[10]
+The following statutory provisions apply to this case:
+Misrepresentation
+40.
+(1) A permanent resident or a foreign national is inadmissible for misrepresentation
+(
+) for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
+(
+) for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
+(
+) on a final determination to vacate a decision to allow the claim for refugee protection by the permanent resident or the foreign national; or
+(
+) on ceasing to be a citizen under paragraph 10(1)(
+) of the Citizenship Act, in the circumstances set out in subsection 10(2) of that Act.
+Application
+(2) The following provisions govern subsection (1):
+(
+) the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of two years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; and
+(
+) does not apply unless the Minister is satisfied that the facts of the case justify the inadmissibility.
+Non-compliance with Act
+41.
+A person is inadmissible for failing to comply with this Act
+(
+) in the case of a foreign national, through an act or omission which contravenes, directly or indirectly, a provision of this Act; and
+(
+) in the case of a permanent resident, through failing to comply with subsection 27(2) or section 28.
+Inadmissible family memb
+A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
+(
+) their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or
+(
+) they are an accompanying family member of an inadmissible person.
+Application
+Position of the parties
+[11]
+The principal applicant submits that he did not misrepresent anything, given that he was not aware that his daughter had submitted fraudulent documents. He therefore did not have the intent to mislead the visa officer. He submits that the question of whether intent is required in order for a finding of misrepresentation to be made will be addressed by the Federal Court of Appeal shortly, the question having been certified in
+<FRAGMENT_SUPPRESSED>  (CanLII), 2011 FC 1126. Referring to the case law, the principal applicant submits that paragraph 40(1)(
+) of the IRPA requires proof of intent. The principal applicant further submits that his daughter's inadmissibility does not make him inadmissible, since the daughter is over the age of 22 and is not a full-time student, and this means that she is not a dependant of her parents.
+[12]
+The respondent submits, relying on the case law and the ENF 2 Manual, entitled "Evaluating Inadmissibility" (Manual), that the Act is to be interpreted in accordance with its purpose, which is to provide true information based on which a decision will be made. The respondent submits that the standard that applies in this case is proof on a balance of probabilities, the civil standard, which is different from the standard that applies in criminal law. It was not Parliament's intention to import the concept of intent into the provision. The respondent explained that two criteria established in the case law must be met in order to determine that a person is inadmissible: the individual must have misrepresented a material fact and the misrepresentation could have induced an error.
+[13]
+Accordingly, she submits that the visa officer's decision is well founded and is reasonable since a misrepresentation may be unintentional. The Manual states that a mistake by a family member included in the application makes the entire family inadmissible.
+Visa officers' decisions concerning misrepresentation involve assessing facts and therefore command a certain degree of deference (
+Newfoundland and  <FRAGMENT_SUPPRESSED> ).
+[15]
+This Court must distinguish this case from <FRAGMENT_SUPPRESSED> , above, in which the special circumstances resulted in a question being certified. In that case, Justice Roger Hughes had concluded that the applicant had no
+to mislead, since she did not know that her husband, the co-applicant, was not the father of the child included in the application. There was a birth certificate that established paternity and the child had been reared by the applicants. The applicants could not have suspected that the child was, in fact, the product of an extramarital relationship.
+[16]
+Each case turns on its facts, and this Court cannot agree with the principal applicant's submission that that case shows that proof of intent is always required in order for a person to be determined to be inadmissible for misrepresentation.
+[17]
+There is a line of cases that suggests that intent is not required in order to find that there was misrepresentation when the representation was made by another party to the application.  <FRAGMENT_SUPPRESSED>  (CanLII), 2011 FC 433, the Court made the following comment:
+[22] This section catches misrepresentations that may be fraudulent, negligent or innocent (
+<FRAGMENT_SUPPRESSED>  (CanLII), 2010 FC 378, 89 Imm LR (3d) 36 at paras 16 and 18). As such, the fact that Ms. Bashir claims to have been unaware that the documents were fraudulent does not bring to light a reviewable error on the part of the Officer.
+(See also
+<FRAGMENT_SUPPRESSED>  (CanLII), 2005 FC 452;
+<FRAGMENT_SUPPRESSED>  (CanLII), 2011 FC 942).
+[18]
+In addition, the Manual, which provides guidance for visa officers, sets out the following principles in relation to misrepresentation:
+Officers are to be guided by the following principles when applying the misrepresentation provision:
+• Procedural fairness:
+An individual should always be given the opportunity to respond to concerns about a possible misrepresentation. At a visa office, once the applicant has been given the opportunity to respond to the concerns, then the designated officer shall render a final decision regarding the misrepresentation to issue or refuse the visa. At a port of entry or inland
+, the Minister's delegate shall determine whether or not to refer the case to the IRB for an admissibility hearing.
+• It must be recognized that honest errors and misunderstandings sometimes occur in completing application forms and responding to questions. While in many cases it may be argued that a misrepresentation has technically been made, reasonableness and fairness are to be applied in assessing these situations.
+• Material facts are not restricted to facts directly leading to inadmissible grounds.
+However, there are varying degrees of materiality and again, fairness should be applied in assessing each situation.
+[Emphasis added]
+[19]
+The IRPA is therefore not applied blindly. The Manual seems to allow visa officers a degree of latitude in deciding whether a person is inadmissible for misrepresentation. The Manual also addresses the concept of indirect misrepresentation that applies when the misrepresentation is not made by the principal applicant:
+Indirect misrepresentation is where a third party makes a misrepresentation or withholds information.
+Instances of indirect misrepresentation include
+:
+: Situations where the applicant does not make the misrepresentation themselves but, rather, it is done by someone else-a third party to the application. For example, a consultant or agent for an entrepreneur submits a monitoring report on behalf of the entrepreneur and provides false information on the establishment of a business.
+: The misrepresentation need not be willful or intentional-it can also be unintentional. An applicant need not be aware of a misrepresentation in order to be found inadmissible on the grounds of A40. For example, an applicant asks a relative to obtain information in support of an application. The information provided by the applicant's representative is false and the applicant claims to not be aware of the falsity. The applicant is responsible for ensuring that the application is truthful and the supporting documents are genuine. The applicant could therefore be inadmissible for misrepresentation for submitting false documents even though he was not the one who fabricated evidence. . . .
+[20]
+In this case, the principal applicant admitted that his daughter had falsified the educational documents, without his knowledge, in order to make it appear that she was still enrolled in school full-time (Applicant's Record at page 35). The parties did not dispute that this was a representation relating to a material fact, since the misrepresentation would have meant that the applicant's daughter could have been considered to be a dependent child enrolled in school full-time.
+[21]
+In light of the information in the Manual, it must be concluded, in this case, that there was indirect misrepresentation, since the misrepresentation was made not by the principal applicant, but by his daughter, a party to the application for permanent residence. Although that conclusion is sufficient to find that the entire family is inadmissible, it should be noted that the visa officer also questioned the applicant's credibility, as his CAIPS notes show:
+He indicates that he was unaware that his daughter was not attending the program that she was enrolled in and unaware that the education documents were fraudulent. I don't find this explanation to be very credible, and in any case, the PA is responsible for all information on the file.
+(Tribunal Record at page 177).
+[22]
+In the circumstances, having found that there had been a misrepresentation, and having regard to the principles in the Manual, the visa officer reasonably concluded that the family was inadmissible to Canada. The visa officer's decision is justified, having regard to the facts and the law, and this Court cannot intervene.
+Conclusion
+[23]
+For all of the foregoing reasons, the applicants' application for judicial review is dismissed.
+THE COURT ORDERS that
+the applicants' application for judicial review be dismissed. There is no question of general importance to be certified.
+Introduction
+.........................
+Application
+Misrepresentation
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation
+(a) for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
+(b) for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
+(c) on a final determination to vacate a decision to allow the claim for refugee protection by the permanent resident or the foreign national; or
+(d) on ceasing to be a citizen under paragraph 10(1)(
+) of the Citizenship Act, in the circumstances set out in subsection 10(2) of that Act.
+Application
+(2) The following provisions govern subsection (1):
+(a) the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of two years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; and
+) does not apply unless the Minister is satisfied that the facts of the case justify the inadmissibility.
+Non-compliance with Act
+41. A person is inadmissible for failing to comply with this Act
+(a) in the case of a foreign national, through an act or omission which contravenes, directly or indirectly, a provision of this Act; and
+(b) in the case of a permanent resident, through failing to comply with subsection 27(2) or section 28.
+Inadmissible family memb
+42. A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
+(a) their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or
+(b) they are an accompanying family member of an inadmissible person.
+Newfoundland and  <FRAGMENT_SUPPRESSED> ).
+[15]
+He indicates that he was unaware that his daughter was not attending the program that she was enrolled in and unaware that the education documents were fraudulent. I don't find this explanation to be very credible, and in any case, the PA is responsible for all information on the file.
+Conclusion
+[23]
+[End of document]

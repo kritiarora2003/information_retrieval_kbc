@@ -1,0 +1,95 @@
+Federal Court
+July 6, 2007.
+Stewart Istvanffy, for the applicant;
+Michel Pépin, for the respondent.
+Solicitors of Record:
+Stewart Istvanffy, Montréal, Québec, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Montréal, Québec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+[Translation]: This is an application for judicial review filed pursuant to subsection 72(1) of the Immigration and Refugee Protection Act, S.C. 2001, c. 27 (IRPA) of a decision of a Pre-Removal Risk Assessment (PRRA) officer dated October 13, 2006 in which the PRRA application of Ricardo Chacon Colindres (the applicant) was dismissed.
+Facts
+[2]
+The applicant is a citizen of Honduras.
+[3]
+In 2002, the applicant, in conjunction with friends who were small farmers, founded a cooperative called "Tacamiche" to farm lands assigned to them by the national agrarian institute.
+[4]
+The cooperative began having problems with a large landowner in the area named Javier Maldonado, who was suspected of having ties with drug traffickers. Mr. Maldonado threatened Mr. Chacon and other members of the cooperative to get them to give up their land.
+[5]
+In February 2003, Mr. Maldonado had part of the cooperative's harvest burnt.
+[6]
+In September 2004, the applicant and his colleagues were invited to discuss their problems with Mr. Maldonado. At that meeting, Mr. Chacon and his colleagues were fired on by soldiers sent by Mr. Maldonado and three individuals were wounded.
+[7]
+The applicant and his colleagues decided to protest in front of the police station to denounce Mr. Maldonado's actions. During the protest, the applicant and his colleagues were beaten by the police. The next day four men came to the applicant's home, beat him and raped his wife.
+[8]
+The applicant accordingly left Honduras for Canada via the U.S. The applicant's wife and children stayed in Honduras, where they live at a secret location that is inaccessible by car.
+[9]
+The applicant came to Canada on December 20, 2004 and claimed refugee status the same day.
+[10]
+On July 28, 2005, the Refugee Protection Division (RPD) of the Immigration and Refugee Board of Canada found that the applicant was neither a refugee nor a person in need of protection under the IRPA. The reason for dismissing the application was that the panel attached "no credibility to his story because of the serious contradictions, inconsistencies and improbabilities noted during the hearing, for which no satisfactory explanations were provided" (Panel file, RPD decision dated July 28, 2005, page 198). In arriving at this finding, the panel noted at least seven findings of fact which contradicted the applicant's story.
+[11]
+On November 14, 2005, the Federal Court dismissed the applicant's application for leave for judicial review of the RPD decision.
+[12]
+On May 24, 2006, the applicant filed a PRRA application. This was denied on October 13, 2006. The PRRA officer concluded that the application did not show that the applicant was at risk of torture, cruel and unusual treatment or punishment or death if he returned to Honduras. That decision is the subject of the judicial review at bar.
+(1) What is the appropriate standard of review to be applied to decisions by PRRA officers?
+(2) Did the PRRA officer err in his assessment of the evidentiary value of the documents filed?
+(3) Did the PRRA officer err in finding that the applicant had not shown that he could not seek state protection in Honduras?
+(4) Did the PRRA officer's decision infringe sections 7 and 12 of the Canadian Charter of Rights and Freedoms or article 3 of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment?
+(5) Is the PRRA process constitutional?
+(1) What is the appropriate standard of review to be applied to decisions by PRRA officers?
+[13]
+<FRAGMENT_SUPPRESSED> Madam Justice Dawson considered the question of the standards of review applicable to decisions by PRRA officers and she concluded as follows:
+As to the appropriate standard of review to be applied to a decision of a PRRA officer, in  <FRAGMENT_SUPPRESSED>  Mr. Justice Mosley, after conducting a pragmatic and functional analysis, concluded "the appropriate standard of review for questions of fact should generally be patent unreasonableness, for questions of mixed law and fact, reasonableness simpliciter, and for questions of law, correctness". Mr. Justice Mosley also endorsed the finding of Mr. Justice Martineau in  <FRAGMENT_SUPPRESSED>  that the appropriate standard of review for the decision of a PRRA officer is reasonableness simpliciter when the decision is considered "globally and as a whole". This jurisprudence was followed by Madam Justice Layden-Stevenson in  <FRAGMENT_SUPPRESSED> . For the reasons given by my colleagues, I accept this to be an accurate statement of the applicable standard of review.
+[14]
+In the case at bar, the applicant alleges that two errors were made by the PRRA officer. The first is that the PRRA officer erred in determining the evidentiary value of the documents filed by the applicant. This question requires analysis of the decision as a whole and therefore the standard of reasonableness applies. The second alleged error concerns state protection. In considering a PRRA application, the reasonableness standard of review applies to the question of whether an applicant can avail himself of state protection ( <FRAGMENT_SUPPRESSED> ).
+[15]
+The appropriate standard of review for the fourth issue is correctness, as this issue raises a question of law.
+(2) Did the PRRA officer err in his assessment of the evidentiary value of the documents filed?
+[16]
+The applicant alleges that the PRRA officer erred in his assessment of the evidence presented. However, I do not take this view. My reading of the decision suggests that the officer took time to analyze the documents filed by the applicant in support of his PRRA application and carefully explained his findings as to their evidentiary value.
+[17]
+The fact that the applicant may disagree with the inferences drawn by the PRRA officer does not make the officer's decision unreasonable. In my opinion, the applicant is asking the Court in his submissions to substitute its assessment of the evidence for that already made by the PRRA officer. That is not the Court's function in a judicial review ( <FRAGMENT_SUPPRESSED> ).
+[18]
+Further, I would point out that the PRRA application does not allow an officer to reassess facts which have already been the subject of an assessment by the RPD: the PRRA proceeding is not an appeal from RPD decisions. Consequently, the applicant's submissions that the PRRA officer erred in not taking Exhibits P-2, P-3, P-5, P-7 and P-10 into account in his analysis are not persuasive, as those exhibits were filed before the RPD and the latter had already rendered a decision on the applicant's application. The IRPA is clear: a PRRA officer must rely on "new evidence" ( <FRAGMENT_SUPPRESSED> ).
+[19]
+With regard to the new evidence submitted, the PRRA officer commented on it, referring to it and commenting on the respective contents of the documents. It can be seen simply from reading the PRRA decision that the officer gave this new evidence the necessary attention. He even concluded in his analysis that there was only one relevant new fact, namely, the visit to the applicant's residence and the fact that the other coop members were not seen. The officer also found that the evidence in the record did not show that the applicant would be at risk if he were to return to Honduras. Despite that finding, the officer proceeded with an analysis of the objective situation in that country.
+(3) Did the PRRA officer err in finding that the applicant had not shown that he could not seek state protection in Honduras?
+[20]
+The courts have clearly held that the state should be presumed capable of protecting its nationals ( <FRAGMENT_SUPPRESSED> , at 724). That said, the applicant alleges that he had submitted abundant evidence indicating that Honduras could not protect him.
+[21]
+The respondent, for his part, maintains that the applicant did not submit clear and persuasive evidence that Honduras would not or could not protect him. In particular, the respondent argues that the PRRA officer was right to find that the applicant had not exhausted his domestic remedies before seeking international protection, as he submitted no evidence that he had filed a complaint with the police. Further, there was no indication in the evidence that the applicant had complained to the national authorities of the treatment he had received from the police and soldiers in Honduras.
+[22]
+I note that the PRRA officer referred to independent and objective documentation in finding that even though Honduras is a constitutional democracy, corruption in the police is still rife. The PRRA officer referred in particular to the U.S. Department of State Country Reports 2005 - Honduras and the Amnesty International - International Report on Honduras in arriving at this conclusion. That said, the PRRA officer also noted that the documentary evidence indicates that the Government of Honduras is making efforts to fight police corruption and the impunity with which the police is treated.
+[23]
+I therefore feel that although the documentary evidence shows that there are corruption problems in Honduras, the fact that no evidence indicates that the applicant tried to obtain state protection seems conclusive. In this regard, the applicant was confused as to whether he filed a complaint with the police in 2003 (following the events) or in 2004. In its decision of July 28, 2005, the RPD noted this confusion and observed that no evidence was presented to support the filing of complaints. By not supporting his evidence, the applicant did not satisfy the PRRA officer that state protection was not available to him. In the circumstances, this finding is reasonable.
+(4) Did the PRRA officer's decision infringe sections 7 and 12 of the Canadian Charter of Rights and Freedoms or article 3 of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment?
+[24]
+The courts have clearly held that the removal of an individual from Canada is not contrary to the principles of fundamental justice and the enforcement of a deportation order is not contrary to sections 7 and 12 of the Charter (Canada (Minister of Employment and  <FRAGMENT_SUPPRESSED> , at 733-735; see also  <FRAGMENT_SUPPRESSED> , at para. 46).
+[25]
+As to the applicant's argument that the PRRA officer infringed article 3 of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (the Convention), section 97 of the IRPA, which was the basis for the analysis by the PRRA officer under paragraph 113(d), incorporates the principles set out in article 3 of that Convention. In particular, section 97 prohibits the removal of an individual to a country where he or she is at risk of mistreatment, torture or death, which is precisely the kind of protection that article 3 of the Convention requires (see  <FRAGMENT_SUPPRESSED> ).
+[26]
+Accordingly, the applicant's arguments that the PRRA officer's decision infringes the Charter or Canada's international obligations as a signatory of the Convention are ill-founded.
+(5) Is the PRRA process constitutional?
+[27]
+In the oral argument, counsel for the applicant stated that he withdrew this question, as the notices to the Attorneys General had not been served.
+Questions for certification
+[28]
+The parties were invited to submit a question for certification. The applicant submitted the following two questions:
+a. Should article 3 of the Convention be taken into account before the Immigration and Refugee Board and in the PRRA process? What effect should the criteria in paragraph 2 of that article concerning the existence of a "consistent pattern of gross, flagrant or mass violations of human rights" have in the assessment of the risk of return?
+b. In view of the human rights situation in Honduras and the human rights reports in evidence, is it possible to conclude that state protection is available and effective for peasant leaders in Honduras? Can the PRRA decision-maker find that effective protection exists in the absence of any evidence in this regard?
+[29]
+The respondent objected to the request for certification on the ground that the questions did not transcend the interests of the immediate parties to the litigation, were not determinative of the appeal and did not contemplate issues of broad significance or general application, as required by case law (see  <FRAGMENT_SUPPRESSED>  the Court refused to certify a question almost identical to question (a). Concerning question (b), the respondent said that this question should not be certified, as the rules underlying the concept of state protection are well known and were set out by the Supreme Court in Ward, supra.
+[31]
+I agree with the respondent's submissions. In  <FRAGMENT_SUPPRESSED> , at paragraph 39, I in fact refused to certify a question almost identical to question (a) since the said question had "already been dealt with by the case law of this Court [and the Court of Appeal] (see  <FRAGMENT_SUPPRESSED> ). The principles of section 3 of the Convention Against Torture are incorporated into section 97 of the IRPA. The question as stated does not warrant certification". In view of the similarity between question (a) and the question raised  <FRAGMENT_SUPPRESSED> , I will not certify question (a).
+[32]
+I also agree with the respondent's submissions on question (b). I do not see how the question, as stated, merits certification. As stated, the question implies a reassessment of the facts in the case. Consequently, the question does not transcend the interests of the immediate parties to the litigation, is not determinative of the appeal and does not contemplate issues of broad significance or general application. Consequently, question (b) will not be certified.
+Conclusion
+[33]
+In view of the foregoing reasons, the application for judicial review is dismissed and no question is certified.
+THE COURT ORDERS AND DIRECTS THAT:
+- The application for judicial review be dismissed;
+Conclusion
+[33]
+LA COUR ORDONNE ET ADJUGE QUE:
+[End of document]

@@ -1,0 +1,357 @@
+[French language version follows English language version]
+Admiralty Action in  <FRAGMENT_SUPPRESSED>  FC 273)
+Federal Court
+Morneau, Prothonotary.
+David Colford and Sarah M. Kirby, for the defendants.
+Solicitors of Record:
+Robinson Sheppard Shapiro, Montreal, Quebec, for the plaintiff;
+Brisset Bishop, Montreal, Quebec and Metcalf & Company, Halifax, Nova Scotia, for the defendants.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2009] F.T.R. TBEd. MY.036.
+[1]
+Morneau, Prothonotary
+[Translation]: This is a motion by the defendants-and by Proteus Co., which states that it is the owner of the disputed ship-under Rule 221 of the
+Federal Courts Rules
+(the Rules) in response to the statement of claim
+in rem
+and the arrest of the ship; they are also requesting that the ship be released from arrest.
+[2]
+According to the defendants (hereinafter Proteus, which was given leave to intervene to make submissions), there is no cause of action
+in rem
+against the ship, the dredge
+(the dredge <FRAGMENT_SUPPRESSED> ), which has been under arrest since December 20, 2008, because, they say, the record does not disclose Proteus' personal (or in personam) liability. Without personal liability, there can be no action
+in rem
+against the dredge <FRAGMENT_SUPPRESSED> which, according to Proteus, is its property.
+[3]
+It should be noted that the entire statement of claim is
+in rem
+and that if an order striking out is made, the entire statement of claim will be struck out.
+Background
+[4]
+Certain more specific facts will be added in the Analysis below, but for purposes of the essential background, we point out the following.
+[5]
+A company by the name of Mines Seleine, a division of the Canadian Salt Company Limited (hereinafter Seleine), is the owner and operator of a salt mine in the Îles-de-la-Madeleine, province of Quebec. The salt from this mine is sent by boat from the port of Grande-Entrée in the Îles-de-la-Madeleine.
+[6]
+To get to the port of Grande-Entrée, ships must use a channel that is about 10,000 metres long.
+[7]
+This channel must be maintained at a certain depth, and in September 2007 Seleine issued a call for tenders to carry out the necessary dredging during the summer of 2008.
+[8]
+The plaintiff (hereinafter Dragage Verreault) submitted a bid that Saleine eventually accepted, and they entered into a contract on July 22, 2008 (the Main Contract). The contract provided that all work sub-contracted to B+B Dredging Company (hereinafter B+B) would be completed on or before October 31, 2008.
+[9]
+Dragage Verreault's bid stated that it would use its own dredge,
+, and the dredge <FRAGMENT_SUPPRESSED> .
+[10]
+In fact, the
+could only complete roughly 10% of the dredging because at the same time, it also had to dredge the channel in the North Traverse, which is downstream from the Île d'Orléans, for Public Works and Government Services Canada.
+[11]
+Dragage Verreault had already made sure that the dredge <FRAGMENT_SUPPRESSED> would be available by signing a preliminary agreement on October 4, 2007, with B+B (the 2007 Preliminary Agreement).
+[12]
+The 2007 Preliminary Agreement provided, inter alia, that B+B would post a surety bond in the minimal amount of $2,000,000, which roughly corresponded to the cost of the work to be carried out by B+B.
+[13]
+Having obtained the Main Contract, Dragage Verreault signed a contract on July 23, 2008, in which it subcontracted the dredging of a certain amount of material (the Subcontract) to B+B.
+[14]
+It should be noted that this Subcontract (which is reproduced at pages 76 to 82 of Proteus' motion record filed on February 16, 2009, (Proteus' record)) refers to two Appendices, Appendix A and B, in clauses 1 and 10 to 12 of the Subcontract, which read as follows:
+1. B+B undertakes to execute part of the dredging works based on cubic meters, and the fees for its work will be calculated and determined
+according to the quotation already furnished on the third of October 2007, attached hereto (APPENDIX A)
+, which constitutes integral part of the present . . . ;
+10. B+B undertook, in virtue of the previous agreement signed last October between the parties, to provide Verreault with proof of a surety bond for its entire share of works, upon the signature of the present;
+11. For administrative reasons, B+B is not able for the time being to furnish and provide Verreault with such surety bond;
+12.
+Verreault following banking confirmations, accepts the personal guarantee of Mr. Witt Barlow, sole owner of B+B, to guarantee the obligations of B+B contained in the present
+and also the completion by B+B of its share of works, such personal guarantee is attached hereto (APPENDIX B) and constitutes integral part of the present; [Emphasis added.]
+[15]
+Appendix A, which is a quote that B+B provided to Dragage Verreault on October 3, 2007, contains the following clause:
+Our pricing is based on the information provided and:
+. . . . .
+3. Utilizing our Hopper Dredge  <FRAGMENT_SUPPRESSED> .
+[16]
+Appendix B is a personal guaranty of performance from Mr. Barlow and reads as follows:
+The undersigned, Witt Barlow («
+»), acknowledges that it will be to his direct financial interest and benefit that the performance of the work to be accomplished pursuant to the attached Subcontracting Agreement by and between Dragage Verreault, Inc. and B+B Dredging Company be completed in accordance with the terms contained therein. Further, Guarantor hereby acknowledges that this Guaranty is required by Verreault, as a condition precedent and material inducement to enter into the attached Subcontract.
+Now therefore, for and in consideration of the execution of the foregoing Subcontract by Verrault, Guarantor hereby unconditionally and irrevocably personally guarantees the prompt performance by B+B, with whom, the Guarantor will be solidary liable toward Dragage Verrault, of all of the convenants, undertakings, terms and conditions of B+B to be kept and performed by B+B.
+The present surety ship is, like the subcontract subject to the applicable laws in the Province of Quebec, and any litigation will have to be submit [sic] to a judicial court of the District of Quebec City.
+The Guarantor, by the present, renonces to the benefit of discussion and division.
+AND THE GUARANTOR HAS SIGNED:
+AT CHICAGO, IL.
+On this 23 day of July, 2008
+Witt Barlow
+[17]
+In an amended statement of claim
+in rem
+filed on December 19, 2008, in this Court docket (then re-amended lastly on February 11, 2009), Dragage Verreault alleges that B+B breached various provisions in the Subcontract. These breaches, including a significant delay in bringing the dredge <FRAGMENT_SUPPRESSED> to the Subcontract location, caused Dragage Verreault, in turn, to breach its obligations under the Main Contract, which led Seleine to pursue Dragage Verreault for several million dollars. Dragage Verreault's current statement of claim totals $7,794,402.
+If Dragage Verreault arrested the dredge <FRAGMENT_SUPPRESSED> on December 20, 2008, it was because Dragage Verreault via its president, Ms. Claudette Verreault, who signed two affidavits, one dated February 19, 2009 (the Verreault I affidavit), and the other dated February 23, 2009 (the Verreault II affidavit), maintains as a central premise that, at all relevant times, Mr. DeWitt Dukes Barlow III (hereinafter Mr. Barlow) [translation] ". . . constantly represented that he was acting as an owner or on behalf of the owners of the dredge <FRAGMENT_SUPPRESSED> ."
+[19]
+Is it clear and obvious at this stage, on a motion to strike out, that this reading is without merit?
+[20]
+If that is not the case, Proteus' motion cannot be granted, even if the Court on the merits makes a different finding based on the balance of probabilities, including Proteus' central statement that Ms. Verreault simply wanted to believe that B+B was the owner of the dredge without asking specific questions on this point and without receiving a confirmation of this from Mr. Barlow.
+[21]
+With respect to the tests for striking out, the following passage from
+<FRAGMENT_SUPPRESSED> , page 289 (affirmed on appeal: 267 N.R. 143; leave to appeal to the Supreme Court of Canada dismissed: 276 N.R. 193) establishes that a motion that raises the issue of jurisdiction or the lack of a cause of action under paragraph 221(1)(
+) of the Rules must be clear and obvious for the Court to grant it. This passage also points out that evidence is admissible on the issue of jurisdiction.
+[9] I agree that a motion to strike under rule 221(1)(a) [previously rule 419(1)(a)] on the ground that the Court lacks jurisdiction is different from other motions to strike under that subrule. In the case of a motion to strike because of lack of jurisdiction, an applicant may adduce evidence to support the claimed lack of jurisdiction. In other cases, an applicant must accept everything that is pleaded as being true (see
+Federal Court Practice 2000
+[10] . . . The "plain and obvious" test applies to the striking out of pleadings for lack of jurisdiction in the same manner as it applies to the striking out of any pleading on the ground that it evinces no reasonable cause of action.
+The lack of jurisdiction must be "plain and obvious" to justify a striking out of pleadings at this preliminary stage.
+[Emphasis added.]
+(See also the Federal Court decision of December 4, 2007, in
+<FRAGMENT_SUPPRESSED>  paragraph [33], for an application of <FRAGMENT_SUPPRESSED> , supra, on the issue of our Court's jurisdiction
+in rem
+).
+[22]
+Moreover, the parties are not disputing the state of the law in our Court that there must be personal liability on the part of the ship owners in order for an action
+in rem
+against that ship to be commenced.
+[23]
+This state of the law is evident from the following passages of the May 18, 2007, decision by the Federal Court of Appeal in
+<FRAGMENT_SUPPRESSED> to 36:
+[32] In any event, the fact that the beneficial ownership of the ship may have been the same at the two relevant dates is not sufficient to confer
+in rem
+jurisdiction on the Federal Court. The law is clear that the Court's jurisdiction
+in rem
+can only be exercised against a ship where there is in personam liability on the part of its owner. In other words, unless the owner's liability is engaged, the Federal Court's in personam jurisdiction under section 22 and subsection 43(1) of the Act cannot be exercised
+in rem
+against the ship.
+[33] That view was enunciated by Collier J. in
+<FRAGMENT_SUPPRESSED>  (F.C.T.D.), where the learned Judge explained that it was not permissible for the Court to exercise
+in rem
+jurisdiction under 43(2) against a vessel whose owner had no personal liability towards the claimant. In the Judge's opinion, it was the owner's in personam liability which allowed the Court to exercise its jurisdiction
+in rem
+against the ship.
+[34] More recently, that point of view was reaffirmed by this Court in
+<FRAGMENT_SUPPRESSED> . At issue  <FRAGMENT_SUPPRESSED>  Oil, supra
+, was whether the owners of the ship were entitled to a summary judgment dismissing the action brought against them
+in rem
+by the supplier of unpaid bunkers. The shipowners argued that as there was no privity of contract between them and the supplier, the Court's jurisdiction could not be exercised
+in rem
+against their vessel.
+[35] In concluding that there was a "genuine issue" of fact which only a trial could resolve and, hence, dismissing the shipowners' motion for summary judgment, the Court made it clear that its jurisdiction under paragraph 22(2)
+of the Act, i.e. "any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage", could not be exercised
+in rem
+unless there was liability on the part of the ship's owners. At paragraphs 10 and 11 of his Reasons for the Court, Stone J.A. explained the principle in the following terms:
+[10] Although the issue in this appeal goes to the correctness of the order, it is important to understand the principles of Admiralty law upon which the case and its merits must ultimately turn. According to the appellant, the bunkers in question were supplied to the defendant Ship upon a request made by or on behalf of owners and therefore that the appellant is entitled to proceed by way of this action
+in rem
+. The court's jurisdiction over such a claim is conferred by s. 22(2)
+of the
+Federal Court Act
+, which reads:
+Any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage;
+The goods and services of the kind referred to in this paragraph are sometimes described as "necessaries", a term which appeared in former enactments of the United Kingdom. By virtue of subsections 43(2) and (3) of the Act, the jurisdiction conferred by s. 22(2)
+shall not be exercised in rem:
+... unless, at the time of the commencement of the action, the ship, aircraft or other property that is the subject of the action is beneficially owned by the person who was the beneficial owner at the time when the cause of action arose.
+[11] What is clear from these provisions is that the right to proceed
+in rem
+for a claim falling within paragraph 22(2)
+[NOTE: the same goes with respect to a claim falling within paragraph 22(2)
+] exists only if at the time the action is commenced the ship is beneficially owned by the person who was the beneficial owner at the time the cause of action arose. (see
+<FRAGMENT_SUPPRESSED>  N.R. 42 (F.C.A.)).
+There is further refinement. It is well established that the fact that beneficial ownership has not changed since the necessaries were supplied is not in itself sufficient to support a statutory right in rem
+. The cases are all to the same effect, that it is only where the owners of a ship have incurred a debt for necessaries supplied that the creditor acquires a right to proceed
+in rem
+against their ship.
+Thus, in
+Ship Tolla, Re.
+[1921] P. 22, a claim for necessaries was asserted in an action
+in rem
+for expenses incurred at the request of the master while the ship was under a time charter. At page 24, Hill J. stated the applicable principle as follows:
+Unless there is a liability on the part of the owners there cannot be a remedy in rem
+against the ship.
+(See also e.g.
+<FRAGMENT_SUPPRESSED>  (T.D.) and the
+) In the case at bar, unless it be exceptional, application of the above principle will mean that the appellant could not sustain an action
+in rem
+in the absence of proof that the bunkers were supplied to the defendant Ship at the request of owners or by someone acting on their behalf and in a position to bind them. {Emphasis added]
+[36] On the basis of these authorities, I must conclude that the Court could not exercise
+in rem
+jurisdiction against the vessel. The only claim asserted by the appellant is that which is being asserted in the London Arbitration against Atlantic and in respect of which the appellant has commenced actions in the Federal Court in order to obtain interim protection. As I have already made clear, Atlantic is not and has never been the owner of the
+. Consequently, whatever the validity of the appellant's claim against Atlantic, the
+cannot be arrested in respect of that claim. At all material times herein, the vessel was owned by A.P. Moller-Maersk A/S and the respondent Pacific. The appellant has not commenced any proceedings, nor has it sought any remedies, against these parties. Consequently, it is my view that there is simply no basis, on the facts before us, which would allow the Court to exercise
+in rem
+jurisdiction against the vessel.
+[24]
+In the case before us, in an affidavit dated February 13, 2009 (the Barlow I affidavit), Mr. Barlow essentially describes at paragraphs 1 to 9 a dynamic regarding the different roles of B+B and Proteus with respect to the dredge <FRAGMENT_SUPPRESSED> . These paragraphs, without the exhibits referred to, read as follows:
+1. I am the President of B+B Dredging Company ("B+B") and Proteus Co., and as such have personal knowledge of the matters deposed to herein except where knowledge is obtained by way of information and belief in which case I have stated the source of the information and my belief in the truth of such information;
+2. Both Proteus Co. and B+B were incorporated under the laws of Illinois, United States of America on November 21st, 1996 and on November 27, 1006 [sic], respectively. A true copy of their respective Certificates of Incorporation is attached to my Affidavit as Exhibit "A";
+3. Proteus Co. carries on business of equipment rental and B+B carries on business as a dredge from their head office located in Chicago, Illinois;
+4. I am the sole shareholder of B+B; A true copy of the B+B share register is attached to my Affidavit as Exhibit "B";
+5. I own 75% of the shares in Proteus Co. and Matthew McCleery of Gilford, Connecticut, owns 25% of the shareholdings in Proteus Co. A true copy of the Proteus Co. shareholder register dated December 19, 2008 is attached to my Affidavit as Exhibit "C";
+6. Proteus Co. is the sole owner of the M/V  <FRAGMENT_SUPPRESSED>  (the "Vessel"). A true copy of the United States of America Department of Homeland Security United States Coast Guard Certificate of Documentation dated June 17, 2008 is attached to my Affidavit as Exhibit "D";
+7. The Vessel is chartered to B+B under a bareboat charterparty dated July 16, 1998 (the "Charterparty"). A true copy of page 1 of the Charterparty is attached to my Affidavit as Exhibit "E";
+8. B+B entered into an agreement for dredging services with Dragage Verreault Inc. ( <FRAGMENT_SUPPRESSED> ) on July 23, 2008 (the "Sub-Contract"). A true copy of the Sub-Contract is attached to my Affidavit as Exhibit "F";
+9. The Sub-Contract expressly refers in its recitals to an earlier agreement between Verreault and B+B dated October 4, 2007 (the "2007 Agreement"). A true copy of the 2007 Agreement is attached to my Affidavit as Exhibit "G";
+[25]
+Accordingly, despite the existence of the two companies, B+B and Proteus, and his presence or participation in them, Mr. Barlow contends, in short, that Proteus did not have a contractual relationship with Dragage Verreault, nor can it be concluded that he authorized B+B to pledge the credit of Proteus or of the dredge <FRAGMENT_SUPPRESSED> .
+[26]
+It should be noted here that, during the negotiations between the parties, essentially from September 2007 to July 23, 2008, Mr. Barlow, as the Court understands, did not feel or perceive that he could or should clarify to Dragage Verreault all the indications and distinctions contained in paragraphs 1 to 7 of his affidavit I. If we understand Mr. Barlow, this was because Ms. Verreault did not ask any questions along that line. However, it is clear throughout the cross-examination of Ms. Verreault on her affidavit, on the basis of the following factors inter alia, that Ms. Verreault did not feel that she should not trust the information she had been given.
+[27]
+If we go back in time to the beginning of October 2007, that is, to when the 2007 Preliminary Agreement was entered into (see paragraph [11], supra), Dragage Verreault had received a quote from B+B the day before, in which, as already stated in paragraph [15], supra, B+B made the following statement:
+Our pricing is based on the information provided and:
+. . . . .
+Hopper Dredge  <FRAGMENT_SUPPRESSED> .  [Emphasis added.]
+[28]
+On February 27, 2008, to satisfy the federal government's requirements for issuing a coastal trading licence to Dragage Verreault, B+B sent a series of certificates regarding the dredge <FRAGMENT_SUPPRESSED> to Mr. Babineau  <FRAGMENT_SUPPRESSED>  Verreault. Although the vast majority of them do not specify who is the owner or operator of the dredge <FRAGMENT_SUPPRESSED> and three certificates refer to Proteus as the owner, the fact remains that one certificate, the ABS certificate, lists B+B as the owner. Although the Court on the merits might consider that this certificate cannot or could not constitute a serious indication of the ownership of the dredge <FRAGMENT_SUPPRESSED> for someone experienced in the maritime field, it is nonetheless true that this document adds to the representations in the 2007 Preliminary Agreement. The Court here is silent and does not find against Dragage Verreault based on the fact that this certificate refers to B
+&
+B Dredging Co., not to B+B, since it is clear that, at that time, Dragage Verreault could certainly not appreciate that the way the letters B and B in the name were connected meant that this could be a company other than B+B.
+[29]
+Furthermore, for this document as, for example, for the letter dated October 3, 2007, from Hanover Insurance discussing the possibility that the insurance company might stand surety for B+B, it is not clear and certain that these documents were circulating without Mr. Barlow's knowledge. On the contrary, at least with respect to the ABS certificate, it is clear from the cross-examination of Mr. Barlow on his affidavit, that, although he maintains this certificate is erroneous as to ownership, the fact remains that Mr. Barlow used this certificate dated December 1, 2004 (which would still be drafted the same way today). In addition, it is at the very least odd that the certificate was issued like that in 2004 when B+B apparently only had the status of charterer as at July 16, 1998, and that B&B Dredging Co. no longer existed at that time.
+[30]
+Moreover, some e-mails that the parties sent between June 24 and July 1, 2008, cast doubt on the ownership of the dredge <FRAGMENT_SUPPRESSED> . In fact, on June 24, 2008, Mr. Barlow spoke of "our dredge". On July 1, 2008, he spoke of ". . . the appraisals of our equipment". On June 26, 2008, Mr. Barlow stated in an e-mail:
+I am the sole owner of the dredging company. I do not have any other assets approaching that value. For Verrault's information only, the (recently) appraised value of the dredging assets, net of debt, is in excess of $18 million. I can make these appraisals available to you if required. . . .
+[31]
+Then came a letter dated July 7, 2008, sent to the banker for Dragage Verreault by one Mr. Vitale of KeyBanc Capital Markets, the banker for B+B. The letter states the following:
+[translation] Attention:
+Manager, Commercial Accounts
+To the best of my knowledge,
+the two dredging vessels owned by B+B Dredging have a net value
+after accounting for outstanding debt (for which these two vessels are pledged)
+of approximately $18 million as of today
+. Please contact B+B Dredging directly for copies of the appraisals should they be needed. . . [Emphasis added.]
+[32]
+Although Mr. Barlow was not copied with this letter, it is not clear, in my view, that it cannot be considered that this letter might have reflected Mr. Barlow's instructions. Thus, I cannot consider that the only purpose of this letter was to state the value of Mr. Barlow's personal patrimony for purposes of the personal guarantee of performance that would eventually be attached as Appendix B to the Subcontract.
+[33]
+It is true that as of July 23, 2008, the Subcontract did not contain any specific clause that sought Proteus' liability or credit or the credit of the dredge <FRAGMENT_SUPPRESSED> . Furthermore, the Subcontract was supported by Mr. Barlow's personal guarantee, not by any other guarantee involving the patrimony of Proteus or of the dredge <FRAGMENT_SUPPRESSED> .
+[34]
+However, I consider that it is not clear and obvious that Mr. Barlow's conduct and the words he or his mandataries used from time to time between October 2007 and July 23, 2008, did not suggest to Dragage Verreault that B+B was the owner of the dredge <FRAGMENT_SUPPRESSED> . Looked at another way, given that only Mr. Barlow was aware of all the ramifications that he described in paragraphs 1 to 7 of his affidavit I, it cannot be ruled out that he pledged the credit of the dredge through the same conduct and words.
+[35]
+Thus, it cannot be ruled out at this stage that Dragage Verreault may be correct when it states the following at paragraphs 54, 57 and 67 of its written representations filed in response to this motion:
+54. . . . It appears from the above that Mr Barlow purported to engage the credit of the dredges and presented himself as the sole owner of B+B Dredging. Mrs. Verreault was justified at that period (June and July 2008) to believe that B+B Dredging was the owner of the M/V ATCHAFALAYA or that B+B Dredging was authorized implicitly of otherwise to engage the credit the dredges.
+57. We find that Mr. Barlow being the controlling shareholder of Proteus Co, the alleged dredge owner, being the sole owner of B+B Dredging and their authorized representative implicitly contracted for the vessels. . .
+67. In the present instance, Mr Barlow is the beneficial owner [of] the vessels as he refers to his vessels in all situations, offers personal guarantee on vessels purportedly owned by Proteus to execute the obligations of B+B Dredging. It appears from the above that D[ragage] V[erreault] contracted with the beneficial owners of the M/V ATCHAFALAYA.
+[36]
+I believe that such statements are authorized in law by the following teachings of Mr. Justice Marceau of the Federal Court of Appeal in
+<FRAGMENT_SUPPRESSED>  (FCA) 1989 CarswellNat 603, where he wrote at paragraph 30:
+. . . It is not a fact that there are three possibilities which have to be reckoned: the owner may have contracted himself, or he may have authorized someone to contract on his personal credit,
+or he may have expressly or implicitly authorized a person, in possession and control of a ship, to contract on the credit of the ship
+(rather than on the entirety of his personal assets). But, I essentially agree
+that liability as a result of some personal behaviour and attitude on the part of the owner is required
+. . .  [Emphasis added.]
+[37]
+Moreover, I do not intend to draw adverse inferences based on subsection 81(2) of the Rules from the fact that Dragage Verreault did not provide one or more affidavits of Mr. Babineau or Mr. Lapointe in addition to or instead of Ms. Verreault's affidavits.
+[38]
+For these reasons, the motion by the defendants and Proteus will be dismissed with costs according to column III of Tariff B.
+.........................
+in rem
+1. B+B undertakes to execute part of the dredging works based on cubic meters, and the fees for its work will be calculated and determined
+according to the quotation already furnished on the third of October 2007, attached hereto (APPENDIX A)
+, which constitutes integral part of the present ( ...);
+10. B+B undertook, in virtue of the previous agreement signed last October between the parties, to provide Verreault with proof of a surety bond for its entire share of works, upon the signature of the present;
+11. For administrative reasons, B+B is not able for the time being to furnish and provide Verreault with such surety bond;
+12.
+Verreault following banking confirmations, accepts the personal guarantee of Mr. Witt Barlow, sole owner of B+B, to guarantee the obligations of B+B contained in the present
+and also the completion by B+B of its share of works, such personal guarantee is attached hereto (APPENDIX B) and constitutes integral part of the present; [Je souligne.]
+[15]
+Our pricing is based on the information provided and:
+. . . . .
+3. Utilizing our Hopper Dredge  <FRAGMENT_SUPPRESSED> .
+[16]
+The undersigned, Witt Barlow («
+»), acknowledges that it will be to his direct financial interest and benefit that the performance of the work to be accomplished pursuant to the attached Subcontracting Agreement by and between Dragage Verreault, Inc. and B+B Dredging Company be completed in accordance with the terms contained therein. Further, Guarantor hereby acknowledges that this Guaranty is required by Verreault, as a condition precedent and material inducement to enter into the attached Subcontract.
+Now therefore, for and in consideration of the execution of the foregoing Subcontract by Verrault, Guarantor hereby unconditionally and irrevocably personally guarantees the prompt performance by B+B, with whom, the Guarantor will be solidary liable toward Dragage Verrault, of all of the convenants, undertakings, terms and conditions of B+B to be kept and performed by B+B.
+The present surety ship is, like the subcontract subject to the applicable laws in the Province of Quebec, and any litigation will have to be submit [sic] to a judicial court of the District of Quebec City.
+The Guarantor, by the present, renonces to the benefit of discussion and division.
+AND THE GUARANTOR HAS SIGNED:
+AT CHICAGO, IL.
+On this 23 day of July, 2008
+Witt Barlow
+[17]
+[9] I agree that a motion to strike under rule 221(1)(a) [previously rule 419(1)(a)] on the ground that the Court lacks jurisdiction is different from other motions to strike under that subrule. In the case of a motion to strike because of lack of jurisdiction, an applicant may adduce evidence to support the claimed lack of jurisdiction. In other cases, an applicant must accept everything that is pleaded as being true (see
+Federal Court Practice 2000
+[10] [...] The "plain and obvious" test applies to the striking out of pleadings for lack of jurisdiction in the same manner as it applies to the striking out of any pleading on the ground that it evinces no reasonable cause of action.
+The lack of jurisdiction must be "plain and obvious" to justify a striking out of pleadings at this preliminary stage.
+in rem
+in rem
+[32] In any event, the fact that the beneficial ownership of the ship may have been the same at the two relevant dates is not sufficient to confer
+in rem
+jurisdiction on the Federal Court. The law is clear that the Court's jurisdiction
+in rem
+can only be exercised against a ship where there is in personam liability on the part of its owner. In other words, unless the owner's liability is engaged, the Federal Court's in personam jurisdiction under section 22 and subsection 43(1) of the Act cannot be exercised
+in rem
+against the ship.
+[33]
+That view was enunciated by Collier J. in
+<FRAGMENT_SUPPRESSED>  (F.C.T.D.), where the learned Judge explained that it was not permissible for the Court to exercise
+in rem
+jurisdiction under 43(2) against a vessel whose owner had no personal liability towards the claimant. In the Judge's opinion, it was the owner's in personam liability which allowed the Court to exercise its jurisdiction
+in rem
+against the ship.
+[34] More recently, that point of view was reaffirmed by this Court in
+<FRAGMENT_SUPPRESSED> . At issue  <FRAGMENT_SUPPRESSED>  Oil, supra
+, was whether the owners of the ship were entitled to a summary judgment dismissing the action brought against them
+in rem
+by the supplier of unpaid bunkers. The shipowners argued that as there was no privity of contract between them and the supplier, the Court's jurisdiction could not be exercised
+in rem
+against their vessel.
+[35] In concluding that there was a "genuine issue" of fact which only a trial could resolve and, hence, dismissing the shipowners' motion for summary judgment, the Court made it clear that its jurisdiction under paragraph 22(2)
+of the Act, i.e. "any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage", could not be exercised
+in rem
+unless there was liability on the part of the ship's owners. At paragraphs 10 and 11 of his Reasons for the Court, Stone J.A. explained the principle in the following terms:
+[10] Although the issue in this appeal goes to the correctness of the order, it is important to understand the principles of Admiralty law upon which the case and its merits must ultimately turn. According to the appellant, the bunkers in question were supplied to the defendant Ship upon a request made by or on behalf of owners and therefore that the appellant is entitled to proceed by way of this action
+in rem
+. The court's jurisdiction over such a claim is conferred by s. 22(2)
+of the
+Federal Court Act
+, which reads:
+Any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage;
+The goods and services of the kind referred to in this paragraph are sometimes described as "necessaries", a term which appeared in former enactments of the United Kingdom. By virtue of subsections 43(2) and (3) of the Act, the jurisdiction conferred by s. 22(2)
+shall not be exercised in rem:
+... unless, at the time of the commencement of the action, the ship, aircraft or other property that is the subject of the action is beneficially owned by the person who was the beneficial owner at the time when the cause of action arose.
+[11] What is clear from these provisions is that the right to proceed
+in rem
+for a claim falling within paragraph 22(2)
+[NOTE: the same goes with respect to a claim falling within paragraph 22(2)
+] exists only if at the time the action is commenced the ship is beneficially owned by the person who was the beneficial owner at the time the cause of action arose. (see
+<FRAGMENT_SUPPRESSED>  N.R. 42 (F.C.A.)).
+There is further refinement. It is well established that the fact that beneficial ownership has not changed since the necessaries were supplied is not in itself sufficient to support a statutory right in rem
+. The cases are all to the same effect, that it is only where the owners of a ship have incurred a debt for necessaries supplied that the creditor acquires a right to proceed
+in rem
+against their ship.
+Thus, in
+Ship Tolla, Re.
+[1921] P. 22, a claim for necessaries was asserted in an action
+in rem
+for expenses incurred at the request of the master while the ship was under a time charter. At page 24, Hill J. stated the applicable principle as follows:
+Unless there is a liability on the part of the owners there cannot be a remedy in rem
+against the ship.
+(See also e.g.
+<FRAGMENT_SUPPRESSED>  (T.D.) and the
+) In the case at bar, unless it be exceptional, application of the above principle will mean that the appellant could not sustain an action
+in rem
+in the absence of proof that the bunkers were supplied to the defendant Ship at the request of owners or by someone acting on their behalf and in a position to bind them. [Emphasis added]
+[36] On the basis of these authorities, I must conclude that the Court could not exercise
+in rem
+jurisdiction against the vessel. The only claim asserted by the appellant is that which is being asserted in the London Arbitration against Atlantic and in respect of which the appellant has commenced actions in the Federal Court in order to obtain interim protection. As I have already made clear, Atlantic is not and has never been the owner of the
+. Consequently, whatever the validity of the appellant's claim against Atlantic, the
+cannot be arrested in respect of that claim. At all material times herein, the vessel was owned by A.P. Moller-Maersk A/S and the respondent Pacific. The appellant has not commenced any proceedings, nor has it sought any remedies, against these parties. Consequently, it is my view that there is simply no basis, on the facts before us, which would allow the Court to exercise
+in rem
+jurisdiction against the vessel.
+[24]
+1. I am the President of B+B Dredging Company ("B+B") and Proteus Co., and as such have personal knowledge of the matters deposed to herein except where knowledge is obtained by way of information and belief in which case I have stated the source of the information and my belief in the truth of such information;
+2. Both Proteus Co. and B+B were incorporated under the laws of Illinois, United States of America on November 21st, 1996 and on November 27, 1006 [sic], respectively. A true copy of their respective Certificates of Incorporation is attached to my Affidavit as Exhibit "A";
+3. Proteus Co. carries on business of equipment rental and B+B carries on business as a dredger from their head office located in Chicago, Illinois;
+4. I am the sole shareholder of B+B; A true copy of the B+B share register is attached to my Affidavit as Exhibit "B";
+5. I own 75% of the shares in Proteus Co. and Matthew McCleery of Gilford, Connecticut, owns 25% of the shareholdings in Proteus Co. A true copy of the Proteus Co. shareholder register dated December 19, 2008 is attached to my Affidavit as Exhibit "C";
+6. Proteus Co. is the sole owner of the M/V  <FRAGMENT_SUPPRESSED>  (the "Vessel"). A true copy of the United States of America Department of Homeland Security United States Coast Guard Certificate of Documentation dated June 17, 2008 is attached to my Affidavit as Exhibit "D";
+7. The Vessel is chartered to B+B under a bareboat charterparty dated July 16, 1998 (the "Charterparty"). A true copy of page 1 of the Charterparty is attached to my Affidavit as Exhibit "E";
+8. B+B entered into an agreement for dredging services with Dragage Verreault Inc. ( <FRAGMENT_SUPPRESSED> ) on July 23, 2008 (the "Sub-Contract"). A true copy of the Sub-Contract is attached to my Affidavit as Exhibit "F";
+9. The Sub-Contract expressly refers in its recitals to an earlier agreement between Verreault and B+B dated October 4, 2007 (the "2007 Agreement"). A true copy of the 2007 Agreement is attached to my Affidavit as Exhibit "G";
+[25]
+Our pricing is based on the information provided and:
+. . . . .
+Coastal Trading Licence
+I am the sole owner of the dredging company. I do not have any other assets approaching that value. For Verrault's information only, the (recently) appraised value of the dredging assets, net of debt, is in excess of $18 million. I can make these appraisals available to you if required. ( ...)
+[31]
+Attention:
+To the best of my knowledge,
+the two dredging vessels owned by B+B Dredging have a net value
+after accounting for outstanding debt (for which these two vessels are pledged)
+of approximately $18 million as of today
+. Please contact B+B Dredging directly for copies of the appraisals should they be needed. ( ...) [Je souligne.]
+[32]
+54. ( ...) It appears from the above that Mr Barlow purported to engage the credit of the dredges and presented himself as the sole owner of B+B Dredging. Mrs. Verreault was justified at that period (June and July 2008) to believe that B+B Dredging was the owner of the M/V ATCHAFALAYA or that B+B Dredging was authorized implicitly of otherwise to engage the credit the dredges.
+57. We find that Mr. Barlow being the controlling shareholder of Proteus Co, the alleged dredge owner, being the sole owner of B+B Dredging and their authorized representative implicitly contracted for the vessels. ( ...)
+67. In the present instance, Mr Barlow is the beneficial owner [of] the vessels as he refers to his vessels in all situations, offers personal guarantee on vessels purportedly owned by Proteus to execute the obligations of B+B Dredging. It appears from the above that D[ragage] V[erreault] contracted with the beneficial owners of the M/V ATCHAFALAYA.
+[36]
+( ...) It is not a fact that there are three possibilities which have to be reckoned: the owner may have contract ed himself, or he may have authorized someone to contract on his personal credit,
+or he may have expressly or implicitly authorized a person, in possession and control of a ship, to contract on the credit of the ship
+(rather than on the entirety of his personal assets). But, I essentially agree
+that liability as a result of some personal behaviour and attitude on the part of the owner is required
+[End of document]

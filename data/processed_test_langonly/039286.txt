@@ -1,0 +1,225 @@
+<FRAGMENT_SUPPRESSED>  CF 301)
+Federal Court
+David Yazbeck, for the applicant;
+Alexandre Kaufman, for the respondent.
+Solicitors of Record:
+Raven, Cameron, Ballantyne & Yazbeck LLP/s.r.l., Ottawa, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: Ms. Bergeron asks the Court to set aside two decisions of the Canadian Human Rights Commission [Commission] which dismissed her two human rights complaints pursuant to paragraph 41(1)(d) of the
+Canadian Human Rights Act
+CHRA
+] as "trivial, frivolous, vexatious or made in bad faith" because they had already been addressed and remedied through two grievance processes.
+[2]
+Both judicial review applications were heard together. They are largely based on common facts, the records of both, including the decisions, are nearly identical, and the memoranda submitted by the parties are also nearly identical. Accordingly, one set of reasons will issue for both applications, a copy of which will be placed in each of the Court's Files T-315-12 and T-316-12.
+Background
+[3]
+Ms. Bergeron was hired as a lawyer by the Department of Justice Canada [DOJ] in March 1999 and worked there until May 2001, when a chronic illness caused her to leave work.
+[4]
+She began receiving long-term disability payments in July 2001; however, in 2005, Ms. Bergeron began to discuss a return to work with the DOJ. In August, Ms. Bergeron's physician provided Ms. Bergeron's manager with a medical certificate supporting her return to work and the DOJ referred Ms. Bergeron to a Heath Canada [HC] physician for an assessment. The HC physician solicited and received input from Ms. Bergeron's physician and psychiatrist, who provided their recommendations for a return to work plan. The HC physician's preliminary recommendation was that Ms. Bergeron should gradually return to full-time hours over a period of seven months. This recommendation was provided to Ms. Bergeron's two doctors for their comments. Her physician agreed with the plan for the most part, but wished to see monthly health assessments built into the schedule among other changes. Her psychiatrist initially found the recommendation "eminently reasonable and fair."
+[5]
+The HC physician provided his final recommendation to the DOJ and Ms. Bergeron on December 3, 2005. It was the same as his initial recommendation, but contained the following statement: "Should [Ms. Bergeron] be unable to maintain the required work hours or additional concerns present themselves, a work stoppage will be necessary and prudent" [the Work Stoppage Clause].
+[6]
+Ms. Bergeron replied with her concerns about two aspects of the plan: the Work Stoppage Clause and a pre-determined date of return to full-time work. Ms. Bergeron's physician offered similar concerns, and eventually her psychiatrist also indicated a preference for additional flexibility. No consensus could be reached among these doctors and the HC physician's recommendation did not change.
+[7]
+Ms. Bergeron's manager at the DOJ invited her to meet and discuss her return to work on three occasions: in March, April, and August 2007. Ms. Bergeron refused these invitations on the basis that she wished to have an explicit agreement in place prior to any meeting, and one of the proposed meeting dates was said to offer too little notice.
+[8]
+Subsequent to the first two of these proposed meetings, by letters dated July 16 and August 13, 2007, Ms. Bergeron's manager formally proposed dates for Ms. Bergeron's return to work, to be approached in accordance with the HC physician's recommendation. Ms. Bergeron refused these offers on the basis that she would be putting her health at risk.
+[9]
+In May 2008, an Assistant Deputy Attorney General made Ms. Bergeron a final offer to return to work based on the HC physician's recommendation, and informed her that the DOJ otherwise intended to staff her position. The offer removed any reference to full time hours and clarified that any work stoppage decision would only be taken in consultation with the human resources department, the insurance company, and Ms. Bergeron's physicians. Ms. Bergeron rejected the offer. On June 30, 2008, after seven years of absence from work, the DOJ staffed Ms. Bergeron's position.
+The Grievances and Complaints
+[10]
+On July 15, 2008, Ms. Bergeron filed a grievance with the DOJ [the First Grievance] grieving:
+on-going discriminatory conduct directed against [her] by [her] manager ... for the better part of three years now and her consistent and persistent failure to provide [her] with ability-appropriate accommodations. The most recent of these ... violations ... [was the] current initiative ... underway to staff [her] permanent position. This individual grievance [was] founded on the application of Sections 2, 3, 7, 14(1)(c) and 15(2) of the
+Canadian Human Rights Act
+.
+Ms. Bergeron sought the reversal of the initiative to staff her position; to be restored to her position "with a view to engaging with [her] employer in the identification and development of an approach to this issue which is equitable, acceptable to both parties and non-discriminatory in nature;" and such other relief "deemed appropriate in the circumstances including, but not limited to, compensation for mental/psychological distress and emotional harm."
+[11]
+On September 26, 2008, Ms. Bergeron filed a human rights complaint with the Commission [the First Complaint]. She alleged that in denying her the chance to attempt the return to work plan she and her physicians preferred, she was discriminated against on the basis of her disability. Ms. Bergeron also claimed that the Treasury Board policy of "maintaining disabled persons on the priority staffing list for only year" was discriminatory, and that as a result of all of this discrimination she had experienced mental distress and the aggravation of her physical symptoms. The Commission's amended "Summary of Complaint" form summarized the complained-of practices to be "adverse differential treatment," "refusal to accommodate," and "discriminatory policy/practice." The Commission's eventual decision regarding the First Complaint is the subject of Court file T-315-12.
+[12]
+In February 2009, the DOJ proposed another return to work and the extension of Ms. Bergeron's leave-without-pay until April 3, 2009; again, the offer was rejected.
+[13]
+On March 3, 2009, Ms. Bergeron submitted a second grievance [the Second Grievance] complaining of three actions taken by the DOJ:
+(i) The DOJ's refusal to extend her leave of absence without pay which constituted "disciplinary action resulting in financial penalty contrary to s. 209(1)(b) of the
+Public Service Labour Relations Act
+, discrimination contrary to ss. 7 and 15(2) of the
+Canadian Human Rights Act
+and s. 15 of the
+Charter of Rights and Freedoms
+, and retaliation contrary to s. 14.1 of the
+CHRA
+;"
+(ii) The DOJ's refusal to allow her to buy back her pension deficiencies and premiums for her Supplementary Death Benefit during her leave without pay, as well as the DOJ's refusal to continue to make pension contributions and premium payments for her Supplementary Death Benefits on a pay-as-you-go basis, "on the grounds that this comprises disciplinary action resulting in financial penalty pursuant to s. 209(1)(b) of the
+Public Service Labour Relations Act
+, discrimination - contrary to ss. 7 and 15(2) of the
+Canadian Human Rights Act
+and s. 15 of the
+Charter
+, and retaliation contrary to s. 14.1 of the
+CHRA
+;" and
+(iii) The DOJ's "discriminatory, disciplinary and retaliatory acts against [her] on the ground that these actions have created an unbearable return to work situation for [her], thereby constituting a repudiation of [her] employment contract and amounting to constructive dismissal. ..."
+Ms. Bergeron sought assurances that she would not be subjected to further discrimination and retaliation upon her return to work; a written apology from her manager; comprehensive anti-discrimination and anti-harassment training for CIC [
+] managers; "compensation for all lost wages and expenses incurred as a result of [the] discriminatory practices, per s. 53 of the
+CHRA
+;" damages for pain and suffering, "as per s. 53 of the
+CHRA
+;" compensation for the DOJ's "willful and reckless discriminatory actions ... as per s. 53 of the
+CHRA
+;" any other corrective action necessary to make her whole.
+[14]
+On April 27, 2009, Ms. Bergeron filed a second complaint with the Commission [the Second Complaint] alleging that "
+since filing her first Human Rights complaint
+and her first grievance, she has been subjected to numerous examples of retaliatory conduct by the DOJ [emphasis added]." She stated that in filing this complaint she relied on section 14.1 of the
+CHRA
+which makes it a discriminatory practice to retaliate or threaten to retaliate against a person who has filed a complaint.
+[15]
+The Second Complaint lists numerous acts alleged to have been taken in retaliation of the First Compliant. Three of these occurred prior to the date when her First Complaint was filed; namely, (i) letters from the DOJ advising her that it intended to staff her position (May 2008); (ii) being told by her compensation advisor that she was no longer authorized to speak with her and blocked from accessing her human resources information (June 2008); and (iii) letters from the DOJ that it had formally vacated her position (July 2008). The other acts complained of included the DOJ's alleged refusal to accept certain benefits and pension payments from her; the February 6, 2009 "return to work ultimatum (disguised as an "offer" to settle);" an alleged refusal to provide Ms. Bergeron's union with information about why they vacated her position, and stopped paying her Law Society of Upper Canada fees; and the DOJ's decision to place Ms. Bergeron on priority status as of April 6, 2009. The Commission's eventual decision regarding the Second Complaint is the subject of Court file T-316-12.
+[16]
+Asserting that there was a significant overlap between Ms. Bergeron's two grievances and her two human rights complaints, the DOJ initially raised an objection with the Commission regarding the human rights complaints on the basis of paragraph 41(1)(a) of the
+CHRA
+, that Ms. Bergeron "ought to exhaust grievance or review procedures otherwise reasonably available" - in particular, the departmental grievance processes she had already initiated.
+[17]
+Before the Commission reviewed the complaints, Ms. Bergeron received a decision on her First Grievance. After reviewing Ms. Bergeron's written representations (Ms. Bergeron elected not to make oral representations), Donna Miller, Associate Deputy Minister of Justice, found that the DOJ had unsuccessfully corresponded with Ms. Bergeron over the course of two years to coordinate a return to work, that it was incumbent on the department to meet its current and ongoing service requirements, and for those reasons she did not agree with Ms. Bergeron's submission that the decision to eventually staff her position was disguised discipline or a violation of the
+CHRA
+. Ms. Miller extended a further invitation to Ms. Bergeron to come to an agreement on a return to work plan, and extended her leave-without-pay period for an additional five months, to September 4, 2009, to facilitate that process.
+[18]
+On July 13, 2009, the DOJ representative assigned to coordinate with Ms. Bergeron on her return to work reiterated the employer's latest offer. Ms. Bergeron's representative's response on September 2, 2009, only two days before Ms. Bergeron's freshly extended leave period was to expire, was that the DOJ must "necessarily" agree to the following elements: a back to work plan devised by Ms. Bergeron's, not HC's doctors; compensatory damages; legal costs; human rights damages for pain and suffering since November 2005; human rights "willful and reckless" damages for conduct since November 2005; and non-monetary redress including, "but not necessarily limited to," a written apology and sensitivity and awareness training for the department's representatives.
+[19]
+On September 4, 2009, well before the Commission had dealt with the Second Complaint, Ms. Miller replied to the Second Grievance. She lamented Ms. Bergeron's September 2, 2009 reply and "urge[d] [her] to consider providing a more meaningful reply in advancing [her] return to work," and she provided an additional extension to the leave-without-pay period - until October 2, 2009 - to accommodate Ms. Bergeron's counsel's schedule. With respect to the substance of the Second Grievance, she replied as follows:
+(i) As to the allegation that the DOJ had refused to extend Ms. Bergeron's leave of absence without pay, Ms. Miller noted that she had extended her leave until September 4, 2009, and, with this decision, once more until October 2, 2009;
+(ii) As to the allegation regarding payments that had not been accepted, Ms. Miller indicated the matter was administrative in nature as Ms. Bergeron had provided payments with little explanation and without the required forms, and had provided one cheque when two were required; that these formal requirements had already been explained to her and her representative; and that in any event, the DOJ would accept her payments; and
+(iii) Regarding the alleged discriminatory, disciplinary and retaliatory acts, Ms. Miller found "these allegations to be unfounded."
+Finally, the September 4, 2009 reply to the Second Grievance reiterated the May 6, 2009 offer and invited Ms. Bergeron or her representative to advance a detailed proposed solution on her return to work "
+October 2, 2009 [emphasis added]."
+[20]
+On October 2, 2009, Ms. Bergeron's counsel replied reiterating the earlier position, quibbling with certain terminology, requesting that Ms. Bergeron's leave-without-pay period be extended for nearly another nine months, "as [the author's] past experience with this file has demonstrated that medically informed and holistic discussions require comfortable and flexible timelines," and concluding with a demand for a response by October 16, 2009.
+[21]
+The DOJ responded on October 16, 2009, with a response that reflects that the parties were at an impasse:
+The Department wishes to advise that it has no further comments to make as it considers this part of the process closed with respect to the letters of Donna Miller of May 6 and September 4, 2009.
+[22]
+Pursuant to the provisions of the
+Public Service Labour Relations Act
+, SC 2003, c 22, Ms. Bergeron's union had the right to refer her grievances to adjudication. It chose not to do so. It is suggested that its decision was because the DOJ had "threatened" to make a preliminary objection that would be costly for the union which had only recently been certified to represent DOJ lawyers. In any event, as a consequence of the grievances not being referred to adjudication, the responses from Ms. Miller on the two grievances were final decisions.
+The Investigator's Process
+[23]
+On February 09, 2010, Ms. Falconi, a Commission investigator, wrote to the parties advising them that she was assigned to the First Complaint and Second Complaint and was directed to complete fresh "Section 40/41 Report[s] " regarding the preliminary issues in both complaints. Because the ground had shifted since the DOJ's initial objection, the investigator noted that the complaints raised issues under paragraph 41(1)(d) of the
+CHRA
+, specifically whether "the grievance procedure adequately addressed the issues raised in the current complaint[s]." She invited the parties to make submissions on the factors relevant to whether the complaints had become, by reason of Ms. Miller's grievance replies, "trivial, frivolous, vexatious or ... in bad faith" as described in paragraph 41(1)(d) of
+CHRA
+. Specifically, the parties were invited to address the following factors:
+(a) What is the nature of the alternate redress mechanism that was used?
+(b) Was there a hearing on the issues?
+(c) Was the complainant permitted to present his or her case?
+(d) Was the decision-maker independent?
+(e) What did the decision-maker decide?
+(f) Did the decision address all of the human rights issues raised in the complaint?
+(g) What remedies were requested in the grievance or other review procedure?
+(h) If the complainant was successful (or partially successful) under the alternate redress procedure, what remedies were awarded?
+Submissions from the parties ensued, after which the investigator prepared a Section 40/41 Report for each complaint containing a summary of the submissions and facts relevant to each of the above-listed factors, as well as a short analysis and conclusion section. These reports, which recommended the dismissal of the two complaints, were put to the parties for additional submissions, which followed. The reports, the parties' submissions, and other relevant documents were then forwarded to the Commission for decision.
+The Commission's Decisions
+[24]
+The Commission dismissed both of Ms. Bergeron's complaints.
+[25]
+The Commission's decisions in the First Complaint and Second Complaint (the First Decision and Second Decision, respectively) both have three parts. The first part sets out a brief summary of the procedural history of the case. The second part begins as follows:
+"After reviewing and considering the submissions of the parties ..., the Commission adopts the following analysis set out in the Section 40/41 Report."
+That statement is followed,
+in both decisions
+, by the same four paragraph excerpt - the "Analysis" section - from the Section 40/41 Report
+prepared for the First Complaint
+, which reads as follows:
+"The Association of Justice Counsel did not refer the complainant's grievance to arbitration because it expected the respondent would make jurisdictional objections before the [Public Service Labour Relations Board]. It also contended that in the grievance decision, the respondent continued to ignore the complainant's human rights issues. However, despite the respondent's potential objections as well as concluding that her human rights issues were not acknowledged, the [Association of Justice Counsel] still had the option of referring the complainant's grievance to arbitration if it so chose. As well, although the [Associate Deputy Minister] did not find in the complainant's favour in terms of supporting her position that there were human rights violations, it appears that she did turn her mind to the issue. The complainant advised that the [Associate Deputy Minister] is the respondent's human rights expert. She disputes the [Associate Deputy Minister's] objectivity despite the fact that the [Associate Deputy Minister] partially upheld the complainant's grievance and stated her belief that other options were available that would have permitted further discussions between the parties regarding the return to work. The complainant filed her grievance in July 2008, almost 3 years after the initial negotiations were undertaken by the parties regarding the complainant's return to work. For the purposes of the grievance, it appears that the [Associate Deputy Minister] reviewed all documentation that would have also been reviewed at an adjudication hearing.
+"While the complainant takes issue with the lack of specifics in the [Associate Deputy Minister's] letter, with respect to the offer to return to her work unit, this does not discount that the offer was made. In addition, the [Associate Deputy Minister] authorized a further period of leave without pay. She authorized it to allow time for the parties to come to an agreement on a return to work plan which could be supported by the complainant's physicians. It was on this basis that the [Associate Deputy Minister] partially upheld the complainant's grievance. She did not award any financial remedy flowing from the CHRA or otherwise.
+"Having regard to all circumstances in the complaint, it would appear that all of the issues raised in the complaint were considered and addressed in the grievance decision.
+"As well, while the Summary of Complaint identifies a discriminatory policy or practice, the previous complainant's counsel clarified that the complainant was not alleging a discriminatory policy or practice but rather a failure to accommodate."
+[26]
+The third part of each decision "notes[s] and accept[s] the following arguments ... of the respondent," and another four paragraph excerpt is reproduced. These four paragraphs excerpts differ in each decision, and need not be reproduced. Finally, the decisions conclude by saying that "based on the foregoing, the Commission decides ... to dismiss the complaint on the grounds mentioned in s. 41(1)(d) of the [
+CHRA
+]."
+The sole issue raised is the reasonableness of the Commission's decisions. I agree with the parties that the reasonableness standard of review applies when reviewing these decisions.
+Are the Commission's Decisions Reasonable?
+[28]
+The preliminary question is this: "What are the Commission's reasons for dismissing Ms. Bergeron's complaints?" The respondent submits that the Commission's reasons for dismissing both complaints consist of the actual reasons the Commission provided to the parties, as summarized above,
+and also
+the reasons contained in the respective Section 40/41 Reports prepared for each complaint by the investigator, Ms. Falconi. In this regard, the respondent relies on the Federal Court of Appeal's decision in
+<FRAGMENT_SUPPRESSED>  (C.A.), at paragraph 21, per MacGuigan J.A., (Décary J.A. concurring)), it is also well established that, for the purpose of a screening decision by the Commission pursuant to subsection 44(3) [as am. by R.S.C., 1985 (1st Supp.), c. 31, s. 64; 1998, c. 9, s. 24] of the Act, the investigator cannot be regarded as a mere independent witness before the Commission (
+Syndicat des employés de production du Québec et de l' <FRAGMENT_SUPPRESSED> , at page 898 (SEPQA)). The investigator's report is prepared for the Commission, and hence for the purposes of the investigation, the investigator is considered to be an extension of the Commission (SEPQA, at page 898).
+When the Commission adopts an investigator's recommendations and provides no reasons or only brief reasons, the courts have rightly treated the investigator's report as constituting the Commission's reasoning for the purpose of the screening decision under subsection 44(3) of the Act
+(
+<FRAGMENT_SUPPRESSED>  (CanLII), (2001), 198 D.L.R. (4th) 633 (F.C.A.), at paragraph 43). [emphasis added]
+[29]
+In <FRAGMENT_SUPPRESSED> , the Commission had adopted the short "Conclusion" sections of the investigator's reports in its decisions. The Federal Court of Appeal agreed with the Federal Court that it was appropriate,
+in those circumstances
+, to treat the entirety of the investigator's reports as the reasoning for the Commission's decisions. However, in the decisions under review in these applications, the Commission adopted the short "Analysis" section of the reports, not the "Conclusion" section. Does that make a difference? Does one look to the remainder of the investigator's reports in these cases even though the conclusion was not the portion of the report that the Commission specifically adopted?
+The Second Decision: T-316-12
+[30]
+The answer to this question as regards the Second Decision must be that one does not look to the remainder of the investigator's report. As mentioned above, and for reasons that have no explanation other than possible inadvertence or because it did not properly turn its mind to the issue, the Commission excerpted the "Analysis" section from the report made for the First Complaint as its reasons for dismissing the Second Complaint. Because the issues were different in the two complaints, the Commission's overt reasons in the second part of the Second Decision are, on their face, irrelevant and unintelligible. The third part of the Second Decision also contains no analysis which is on point: there is no mention, let alone analysis, of whether Ms. Miller's decision on the Second Grievance adequately dealt with whether Ms. Bergeron was retaliated against for having filed the First Complaint, such that the Second Complaint had become "trivial, frivolous, vexatious or ... in bad faith."
+[31]
+I cannot agree with the submission of the respondent that if the overt reasons alone do not support the conclusion reached, that this Court look to the report prepared for the Second Complaint as the Commission's reasons for the Second Decision.
+[32]
+It is one thing to go behind an excerpt contained in a decision from an investigator's report and to look at the remainder of that report, as was done in <FRAGMENT_SUPPRESSED> . It is an entirely different proposition to ignore that the Commission (apparently) adopted an excerpt from the wrong report and then look to an altogether different report as the 'real' reasons for the Commission's decision. To do so goes beyond "supplementing" the Commission's decision. It would be rewriting the decision.
+[33]
+For that reason, and since the third part of the Commission's decision contains no relevant analysis, the Second Decision - that under review in Court File T-316-12 - will be quashed and remitted to the Commission for reconsideration. I reach that conclusion notwithstanding that roughly a third of the alleged incidents of retaliation in Ms. Bergeron's Second Complaint took place before the First Complaint was even filed, because it remains to be determined by the Commission whether the remaining allegations were adequately dealt with by Ms. Miller's reply to the Second Grievance such that the Second Complaint should be dismissed pursuant to paragraph 41(1)(d) of
+CHRA
+or dealt with in some other manner.
+[34]
+I must therefore allow application T-316-12.
+The First Decision: T-315-12
+[35]
+Unlike the Second Decision, in the First Decision the Commission excerpted the "Analysis" passage from the report that was actually prepared for the First Complaint. Accordingly, the principle in <FRAGMENT_SUPPRESSED> that the remainder of the investigator's report constitutes the Commission's reasoning must be applied unless there is a reasonable basis to distinguish it.
+[36]
+Had the Commission only adopted a small part of the report's "Analysis" section, such that it was reasonably clear that it preferred only certain reasons from the report and not others, the result might be different. However, here the Commission adopts the entire "Analysis" section, and there is no reason to believe that the Commission did not mean, in effect, to adopt the entire report. Therefore, it is appropriate to consider the entire report and not merely the excerpt expressly adopted by the Commission when assessing the First Decision.
+[37]
+As mentioned, the investigator invited the parties to make submissions on the factors relevant to whether the First Complaint was "trivial, frivolous, vexatious or ... in bad faith" by reason of the "the grievance procedure [having] adequately addressed the issues raised." To repeat, those factors were:
+(a) What is the nature of the alternate redress mechanism that was used?
+(b) Was there a hearing on the issues?
+(c) Was the complainant permitted to present his or her case?
+(d) Was the decision-maker independent?
+(e) What did the decision-maker decide?
+(f) Did the decision address all of the human rights issues raised in the complaint?
+(g) What remedies were requested in the grievance or other review procedure?
+(h) If the complainant was successful (or partially successful) under the alternate redress procedure, what remedies were awarded?
+[38]
+These factors are aimed at determining whether a claim has, in substance, already been determined by another mechanism such that the Commission should refuse to deal with it again. The provision permits there to be some divergence as to the exact issues raised, remedies available, procedure used, and so on, in the two mechanisms, or else the use of another non-identical but similar alternative mechanism to that provided under the
+CHRA
+would not prevent a litigant from seeking recourse at the Commission.
+[39]
+The jurisprudence is clear that the Commission is to be afforded great latitude in exercising its judgment and in assessing the appropriate factors when considering the application of paragraph 41(1)(d) of the
+CHRA
+and performing this "screening function:" See, e.g., <FRAGMENT_SUPPRESSED> at para 38.
+[40]
+The report prepared for the First Complaint summarized the facts and the parties' arguments and can itself be summarized as follows:
+(a) The alternative procedure was the DOJ grievance process;
+(b) "There was no hearing on the issues because the grievance did not go to arbitration;"
+(c) The complainant was permitted to fully present her case in the grievance process;
+(d) The complainant argues the decision-maker was not independent (there is no analysis of this issue);
+(e) Ms. Miller decided there was no disciplinary action or violation of the
+CHRA
+; that the DOJ's actions were necessary to meet operational requirements; and that discussions could not go on indefinitely (Ms. Miller noted that several attempts had been made by the department over the course of several years, implicitly saying that Ms. Bergeron had not been particularly cooperative in the accommodation process);
+(f) "It appears that [Ms. Miller] turned her mind to the [human rights] issues;" and
+(g) Similar remedies were requested in the grievance to those requested in the human rights compliant.
+The "Analysis" section of the report is reproduced at paragraph 25 of these reasons. The report concluded that Ms. Bergeron's allegations "were addressed" through the grievance process.
+[41]
+While the Commission's reasons in the First Decision as contained only in the letter given to the parties are far from perfect; the record before it and, in particular, the Section 40/41 Report prepared for the First Complaint, amply supports its conclusion. Through her First Grievance, Ms. Bergeron had raised virtually the same issues as she raised in the First Complaint; she had asked for virtually the same relief; she had the opportunity to present her case (although she did not even fully avail herself of that right); she received a decision which made a finding on her allegations that there was a failure to accommodate (although, largely because of her own delay, it dismissed them); and she received another 'let's negotiate' back-to-work offer which evidenced that, in fact, the accommodation process was still on-going and that therefore, in law, her complaint was not yet ripe.
+[42]
+The one truly different issue raised in Ms. Bergeron's First Complaint and which was not raised and therefore dealt with in the grievance process was whether the unnamed Treasury Board policy of "maintaining disabled persons on the priority list for only one year" was discriminatory. However, Ms. Bergeron's submissions in response to the Section 40/41 Report prepared for the First Complaint did not seriously pursue the argument that the Treasury Board policy would be dealt with if her complaint was dismissed; nor was that issue pursued by Ms. Bergeron in this judicial review. Thus, in addition to the fact that whether the exact issues were raised in both processes is but one factor in the 41(1)(d) analysis, the issue of the Treasury Board policy is of negligible significance in this Court's review of the Commission's decision.
+[43]
+Moreover, although at all times Ms. Bergeron has complained that the grievance process was not independent and thus cannot be considered to have adequately addressed her complaints, there was no evidence that Ms. Miller was biased or did not decide the grievances impartially; nor, in these circumstances, is the alleged lack of independence in the grievance process sufficient to render the Commission's decision unreasonable: the alleged deficiencies are speculative, and, again, only relate to one factor in the above-mentioned list of factors. Most if not all of the other factors weighed in favour of dismissing the complaint.
+[44]
+The Commission's decision that Ms. Bergeron's issues had been reasonably dealt with in the grievance process and should not continue to be litigated was therefore well within the range of possible outcomes and should not be disturbed.
+[45]
+I must therefore dismiss application T-315-12.
+THIS COURT'S JUDGMENT is that
+:
+1. The application for judicial review in Court File T-315-12 is dismissed;
+2. The application for judicial review in Court file T-316-12 is granted, the Commission's decision is quashed, and the matter is remitted back to the Commission;  and
+3. In light of the divided success, there is no order as to costs.
+.........................
+[traduction]
+Charte
+[traduction]
+[traduction]
+[traduction]
+[End of document]

@@ -1,0 +1,142 @@
+<FRAGMENT_SUPPRESSED>  CF 293)
+Federal Court
+Steven L. Meurrens and Larlee Rosenberg, for the applicant;
+Helen Park, for the respondent.
+Solicitors of Record:
+Larlee Rosenberg, Vancouver, British Columbia, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. AP.001.
+[1]
+: Jun Tao Bi [the Applicant], a permanent resident, seeks judicial review of a decision of the Immigration Appeal Division [IAD or panel] dated June 27, 2011. The IAD rejected the Applicant's appeal of a determination that he had failed to comply with the residency obligation of section 28 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA].
+Background
+[2]
+The Applicant is a Chinese citizen who became a permanent resident of Canada on September 3, 2005, along with his parents and sister. He returned to China approximately one month later.
+[3]
+Upon his return to China, the Applicant remained unemployed from October 2005 to February 21, 2007, when he entered into an agreement with a Canadian business to work as an assistant general manager in China until January 20, 2010.
+[4]
+In an application for a travel document dated April 3, 2010, the Applicant indicated that he had spent 130 days in Canada over the previous four-and-a-half years. The visa office refused his application for a travel document based on a lack of supporting evidence and, moreover, determined he had also failed to satisfy his residency obligation. The Applicant appealed this decision to the IAD and a hearing was held in Vancouver on April 18, 2011.
+Impugned Decision
+[5]
+The IAD observed that section 28 of the IRPA provides for a number of ways to meet the residency obligation requirements, but the determining factor in this case was whether the Applicant had met the required time spent working full-time for a Canadian business outside Canada, as prescribed by subsection 61(3) of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [IRPR] :
+(3) For the purposes of subparagraphs 28(2)(a)(iii) and (iv) of the Act, the expression "employed on a full-time basis by a Canadian business or in the public service of Canada or of a province" means, in relation to a permanent resident, that the permanent resident is an employee of, or under contract to provide services to, a Canadian business or the public service of Canada or of a province, and is assigned on a full-time basis as a term of the employment or contract to
+(b) an affiliated enterprise outside Canada; or
+(c) a client of the Canadian business or the public service outside Canada.
+The IAD then referred to this Court's recent decision in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> [2011] FCJ 560 [ <FRAGMENT_SUPPRESSED> ], where it considered the same provision:
+[42] [...] More importantly for the case in issue, subsection 61(3) specifically refers to subparagraph 28(2)(a)(iii) and offers a more precise definition of what working outside Canada means in relation to a permanent resident. On reading subsection 61(3) of the Regulations, which describes the concept of working outside Canada, the Court notes that the permanent resident must be employed but that Parliament added the concept of an assignment, which is absent from subparagraph 28(2)(a)(iii) of the Act.
+[...]
+[52] [...] The word assignment in the context of permanent resident status interpreted in light of the Act and Regulations necessarily implies a connecting factor to the employer located in Canada. The word "assigned" in subsection 61(3) of the Regulations means that an individual who is assigned to a position outside Canada on a temporary basis and who maintains a connection to a Canadian business or to the public service of Canada or of a province, may therefore return to Canada. [...]
+[7]
+Turning to the facts before it, the IAD remarked that the Applicant had provided an undated employment letter and that while he testified as to the nature of the work he did for his employer, there were some discrepancies in the evidence relating to the description of his work. The IAD found no evidence that the Applicant worked for his employer in Canada prior to working in China and noted that when questioned about work in Canada, it said the Applicant "testified that he would submit his information in Canada" (Trial Record [TR] at 4, IAD Reasons at para 7).
+[8]
+The IAD concluded that the Applicant did not appear to have been assigned to a position outside Canada on a temporary basis, nor was there evidence of any expectation that the Applicant would return to work for the company in Canada. It also noted that the Applicant testified he was not aware of any other employees of the company in China and never met any employees of the company in Canada. Based on the evidence before it, the IAD dismissed the appeal, concluding that the Applicant had not met his burden of establishing that his employment circumstances fit within the requirements set out in subsection 61(3) of the IRPR.
+The Applicant argues that the IAD erred in finding there was insufficient credible evidence that his employment circumstances met the requirements of subsection 61(3) of the IRPR. The Applicant also asserts that the IAD erred by not adjourning the hearing once it became clear his counsel was incompetent (the facts surrounding this allegation will be set out in the corresponding section of the analysis below).
+[10]
+The Respondent takes the position that the IAD properly considered and applied the residency requirements under subsection 61(3). It also contends the IAD committed no breach of procedural fairness as the Applicant has failed to establish that his counsel's incompetence, if any, resulted in a miscarriage of justice.
+This Court will consider the following two issues:
+1. Did the IAD err in its determination that the Applicant's employment outside Canada did not meet the requirements of subsection 61(3) of the IRPR?
+2. Did the IAD breach its duty of procedural fairness by not adjourning the hearing?
+Standard of Review
+[12]
+The IAD's interpretation and application of subsection 61(3) of the IRPR calls for deference and the application of the standard of reasonableness (
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). Accordingly, this Court will determine whether there was justification, transparency, and intelligibility within the decision-making process and ensure that the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law ( <FRAGMENT_SUPPRESSED> at para 47). By contrast, issues of procedural fairness call for the standard of correctness and no deference will be shown if the IAD erred in not adjourning the hearing (
+Did the IAD err in its determination that the Applicant's employment outside Canada
+did not meet the requirements of subsection 61(3) of the IRPR?
+[13]
+)(iii) of the IRPA provides that a permanent resident will comply with a residency obligation with respect to every five-year period if, on each of at least 730 days in that five-year period, they are outside Canada employed on a full-time basis by a Canadian business. Subsection 61(3) of the IRPR elaborates further, explaining that the permanent resident must be an employee of, or under contract to provide services to, a Canadian business, and must be assigned on a full-time basis as a term of the employment contract to, among others, a position outside Canada.
+[14]
+According to the Applicant, the IAD unreasonably imported its own criteria rather than follow established principles and jurisprudence. As noted above, to interpret subsection 61(3), the IAD relied almost entirely if not completely on this Court's decision in <FRAGMENT_SUPPRESSED> , above, at para 52:
+[52] [...] The word assignment in the context of permanent resident status interpreted in light of the Act and Regulations necessarily implies a connecting factor to the employer located in Canada. The word "assigned" in subsection 61(3) of the Regulations means that an individual who is assigned to a position outside Canada on a temporary basis and who maintains a connection to a Canadian business [...]
+therefore return to Canada. [...] [Emphasis added.]
+The Applicant underscores this Court's use of the word 'may' above. He does so because the IAD appears to have held against him the fact he did not show evidence of any expectation he would return to work for his employer in Canada (TR at 4-5, IAD Reasons at para 7). The Applicant contends the Court in <FRAGMENT_SUPPRESSED> does not require that the employee return to Canada, only that he "may".
+[15]
+I disagree with the Applicant's interpretation of <FRAGMENT_SUPPRESSED> on this point. The Court made its view clear ( <FRAGMENT_SUPPRESSED> , above, at paras 49, 52-54):
+[49] [...] the record contains no documentary evidence pointing to a commitment on the part of the employer to promote [the employee], within a specified timeframe, to a position [with the employer in Canada]
+following a temporary stay in China
+[...]
+[52] [...] The word "assigned" in subsection 61(3) of the Regulations means that an individual who is assigned to a position outside Canada
+on a temporary basis and who maintains a connection to a Canadian business
+, may therefore return to Canada. [...]
+[53] The clarification added by Parliament to subsection 61(3) of the Regulations creates an equilibrium between the obligation imposed on the permanent resident to accumulate the required number of days under the Act while recognizing that there may be opportunities for permanent residents to work abroad.
+[54] Consequently, the Court is of the opinion that, in light of the evidence in the record, the panel's finding that permanent residents holding full-time positions outside Canada with an eligible Canadian company can accumulate days that would enable them to comply with the residency obligation set out in section 28 of the Act, is unreasonable.
+Clearly, the Court was opposed to an employee accumulating days towards meeting their residency requirement simply by being hired on a full-time basis outside of Canada by a Canadian business. Instead, it was this Court's view that the permanent resident must be assigned temporarily, maintain a connection with his or her employer, and to continue working for his or her employer in Canada following the assignment.
+[16]
+The Applicant also contends that the IAD reproached him for not having first worked for his employer in Canada prior to working abroad (Trial Record [TR] at 4-5, IAD Reasons at para 7). I would agree here that <FRAGMENT_SUPPRESSED> does not mandate that the permanent resident first worked in Canada. The emphasis is instead on the temporary nature of the assignment that requires the employee to maintain a connection with the Canadian business and to then remain employed for that business in Canada.
+[17]
+As for the questioning of maintaining a sufficient connection between the Applicant and his employer (the "connecting factor"), the IAD's only findings appear to be that the Applicant was not aware of any other employees of the company in China and that he never met any of the employees of the company in Canada. The Applicant argues the finding on the latter point was based on inaccurate translation. He claims that while the IAD asked him at the hearing whether he had ever met with his employer or its employees in Canada, the interpreter actually mistranslated the question and asked whether he had ever worked together with the employer or its employees while he was in Canada, to which the answer was no.
+[18]
+this Court determined there was no "connecting factor". The employer testified and the record showed that he had no intention to promote his employee to a position in Canada and the employee would have to re-apply for any position there. The Applicant argues that this Court should reach a different conclusion than in <FRAGMENT_SUPPRESSED> because here the Applicant was hired in Vancouver, and while his employment agreement stated he would be required to spend a significant amount of time in China, nothing in the agreement prevented him from working in Canada so long as he fulfilled his duties. He argues that, unlike in <FRAGMENT_SUPPRESSED> , he would have been able to return to work in Canada for his employer without having to re-apply. He also testified at the hearing that he was waiting to return to Canada to re-negotiate his contract and that he hoped for someone else to assume the duties that required him to be in China.
+[19]
+The Respondent rightfully points out that while the Applicant's employment agreement may not have required him to work exclusively in China, in reality he did work there on a full-time basis and testified that he had never worked for his employer in Canada. Furthermore, while his contract was for a temporary period of time, there was no provision that he would work in Canada once his contract expired, which occurred in January of 2010 after three years of employment. While I recognize that the Applicant appears to have continued working for his employer after the contract expired and that he expressed a desire to continue the work in Canada, I find the Applicant has nevertheless failed to meet the requirements established in <FRAGMENT_SUPPRESSED> , above.
+[20]
+The Applicant entered into an employment agreement with a Canadian business for a period of three years. In that time, the Applicant worked on a full-time basis in China, only returning to Canada for short periods of time "to report to the job and to stay in the country" (TR at 29, Transcript of Proceedings at line 7). Whether he had intended it or not, the Applicant was hired on a full-time basis to work outside of Canada. He now wishes to count the days he spent working in China towards his residency requirement. This is precisely the situation this Court found unreasonable in <FRAGMENT_SUPPRESSED> .
+[21]
+It was this Court's view in <FRAGMENT_SUPPRESSED> that to have time spent outside of Canada count toward the residency requirement, the permanent resident must be assigned temporarily, must maintain a connection with his employer, and must return to work for it in Canada following the assignment. Even if a translation error occurred during the hearing which caused a misunderstanding as to the Applicant's continued connection with his employer, there is no doubt the Applicant was not assigned to temporarily work abroad. Instead, his work abroad began from the moment he was hired and continued to the expiry of his contract nearly three years later. Furthermore, there is simply no evidence his employer had agreed to keep the Applicant on in Canada after this period. The Applicant only indicated at the hearing that he now wanted to talk to the employer to tell him or her that he wanted to work in Canada and inquire as to whether another employee could be sent abroad in his place (TR at 28, Transcript of Proceedings at lines 10-15). As a result, I find the IAD's conclusion that the Applicant did not meet his burden of establishing that he had satisfied the requirements under subsection 61(3) of the IRPR to be reasonable.
+[22]
+While the Applicant questioned, in his written submissions only, the adequacy of the reasons, the Supreme Court's recent decision in
+Newfoundland and  <FRAGMENT_SUPPRESSED> [2011] SCJ 62, makes clear that where, as here, there are reasons given, any challenge to the reasoning or result of the officer's decision should be made within the reasonableness analysis. As stated above, I have determined the IAD's decision to be reasonable and its reasons are supported by the record.
+Did the IAD breach its duty of procedural fairness by not adjourning the hearing?
+[23]
+The Applicant argues the IAD should have adjourned the hearing once it became clear his counsel was incompetent. He alleges its failure to do so was a breach of natural justice.
+[24]
+Because he is still in China, the Applicant could not attend the hearing, but participated instead by telephone. An interpreter was required to translate for him between Cantonese and English. Two individuals were at the hearing to represent the Applicant: Ms. Leung was there as a volunteer from a benevolent organization while Mr. Lam was a friend of the Applicant's father, having met him through the Guangzhou Huadu Benevolent Association.
+[25]
+There was initially some question as to whether the appropriate representation forms had been submitted. It was determined that Ms. Leung had in fact submitted the required forms, but Mr. Lam had not. Ms. Leung requested that the hearing be adjourned as she and Mr. Lam had not understood the hearing would take place until very recently and were not prepared for it. Ms. Leung tried to explain the confusion, stating at one point (TR at 15-16, Transcript of Proceedings at lines 38-40 and 1-5):
+We just want to tell you the story because this is our first time before you and we're absolutely green on the matter. And the fact is that we got a letter this weekend - only this weekend Mr. Bi just been told of it because we - the (indiscernible) we notified them a change of address. They sent it to a vacant house because he's stuck in China and the letter says something about the document hasn't been reviewed, so we kind of panicked on Sunday. We immediate wrote in here - faxed it last night at eight o'clock, which they acknowledge received this morning, that we don't know - we don't understand what's going on.
+The presiding member of the IAD [member] cut Ms. Leung off at that point, indicating they would proceed with the hearing. She added that Ms. Leung should not agree to assist people if she didn't really know what was going on. The member also indicated she was prepared to take the Applicant through the usual areas that are covered and then, if necessary, Ms. Leung or Mr. Lam could ask any other questions before the Minister's counsel asked its questions. The member added that as time had been set aside for that day, there was no point in wasting taxpayers' money, and then proceeded with the hearing. None of the preceding was translated to the Applicant.
+[26]
+Another discussion followed to determine whether Mr. Lam would assist Ms. Leung during the hearing or whether he would testify and hence be asked to leave the room. It was eventually decided Mr. Lam would stay. Other remarks made by the member pertinent to the issue of procedural fairness and the quality of the Applicant's counsel include the following: "There's not going to be an issue about whether or not [the Applicant] is going to get a fair hearing. I'm going to take him through the issues" (TR at 18, Transcript of Proceedings at lines 31-32) and "Yes, okay, I accept that. But sir again, parties shouldn't accept taking on a role of representative if you don't follow the rules and if you don't know the rules, you should learn the rules before you act for people" (TR at 21, Transcript of Proceedings at lines 16-18). I also note that Ms. Leung asked only a few questions, none of which addressed the Applicant's employment with a Canadian business or the terms of the agreement. Indeed, Ms. Leung was clearly out of her element, as illustrated by the following exchange (TR at 41, Transcript of Proceedings at lines 13-21):
+Presiding Member: Okay. Is there any other questions in reply that you'd like to ask?
+Ms. Leung: The last question about did he not tell the Canadian - but I have - Exhibit 6 here -
+Presiding Member: Ma'am, do you have a question? Submissions come after.
+Ms. Leung: Oh, I better ask him. Oh, God, I don't - I apologize.
+Ms. Leung's closing submissions similarly leave no doubt that she did not understand the proceedings, her role, or even the issues at hand (TR at 42-44, Transcript of Proceedings).
+[27]
+Mr. Lam was in no better position, appearing nervous (according to Ms. Leung) and having difficulty communicating in English. When the member asked whether they had a reply, Ms. Leung asked if Mr. Lam could speak in Chinese and have it translated into English. The member responded that he needed to speak in English given his role as counsel (TR at 45, Transcript of Proceedings at lines 23-27). Another exchange indicative of the situation is as follows (TR at 46-47, Transcript of Proceedings from line 14):
+Presiding member: If the documents aren't true it would be illegal.
+Mr. Lam: Then of course, Mr. - I'm sorry, I could not make a comment on - I just want honourable member just consider all the fact have been given to you and - I'm sorry, madam, I lost word and I -
+Ms. Leung: Calm down. Calm down for a minute and then you tell he what you want to say. Just calm down a minute. I know you want to say something.
+Mr. Lam: Yeah, reconsider and give a chance to Mr. Bi submit all this document. Sure, the documents might not be 100 percent perfect fit for the department's requirement and I have - please ask the honourable madam to consider and review the documents we submit.
+Presiding member: I'm going to reserve my decision, so the decision will be provided to the parties in a few weeks. I'll just make one comment. In future if either of you intend to assist people, either at the Immigration Appeal Division or somewhere else, you ask that organization what the rules are and follow those rules well before a hearing date and, in fact, observe a hearing, because they're usually public, so you're aware of what to do or what you can do or not do to order to better assist whoever you're attempting to assist, because you might not get as much leeway as you would in these types of circumstances. It's generally not helpful to anybody to offer assistance when you're not sure what you're doing.
+[28]
+To convince this Court that the IAD erred in not adjourning the hearing, the Applicant must establish that his counsel's acts or omissions constituted incompetence resulting in a miscarriage of justice (
+]). In <FRAGMENT_SUPPRESSED> , above, this Court applied the test in
+, confirming that the right to effective counsel has been recognized in the refugee context and that subsection 167(1) of the IRPA provides persons who are the subject of Immigration and Refugee Board proceedings a statutory right to be represented by counsel. The Court also offered the following caution ( <FRAGMENT_SUPPRESSED> , above, at para 36):
+[36] However, in proceedings under the IRPA, the incompetence of counsel will only constitute a breach of natural justice in "extraordinary circumstances" (
+<FRAGMENT_SUPPRESSED>  at 15 (T.D.)). With respect to the performance component, at a minimum, "the incompetence or negligence of the applicant's representative [must be] sufficiently specific and clearly supported by the evidence" (
+, above, at 60). With respect to the prejudice component,
+the Court must be satisfied that a miscarriage of justice resulted
+. Consistent with the extraordinary nature of this ground of challenge, the performance component must be exceptional and the miscarriage of justice component must be manifested in procedural unfairness, the reliability of the trial result having been compromised, or another readily apparent form. [Emphasis added.]
+[29]
+There is no doubt Ms. Leung and Mr. Lam were unqualified to act as the Applicant's counsel. Neither appeared to have any legal training or even a rudimentary understanding of the proceedings. This also quickly became evident to the member, who indicated that while she would proceed with the hearing, she was prepared to take the Applicant through the usual issues covered. The member remarked at one point: "There's not going to be an issue about whether or not [the Applicant] is going to get a fair hearing. I'm going to take him through the issues" (TR at 18, Transcript of Proceedings at lines 31-32).
+[30]
+The Applicant notes that the IAD's decision was based in part on alleged discrepancies and omissions contained within his testimony. He argues that while this would usually constitute an acceptable reason to conclude he had not met his onus of proving his case, in this case the member chose to conduct the examination-in-chief. Hence she had the ability to ask him any questions that would have addressed her concerns and by failing to do so and basing her decision on his failure to adequately address the issues, she breached her duty of procedural fairness. This was further compounded by her failure to adjourn the hearing when initially asked to do so.
+[31]
+The Respondent is of the view that the Applicant has failed to show his counsel's incompetence resulted in a miscarriage of justice and has not shown a reasonable probability that, but for this incompetence, the IAD would have reached a different conclusion or that it rendered the hearing process unfair.
+[32]
+<FRAGMENT_SUPPRESSED> [2005] FCJ 1672, my colleague Justice Harrington observed that, "[t] here is a great deal of jurisprudence in these matters to the effect that a party must suffer the consequences of his or her own counsel. I subscribe to that view. If a case has been poorly prepared; if relevant jurisprudence was not brought to the attention of the Court in a civil case; if there was a bad choice in witness selection, the consequences fall on that party." I am of the view that the facts in the case at bar are analogous to the examples listed by Justice Harrington. The Applicant simply chose untrained and unqualified representatives from which more could not have been expected and he must unfortunately suffer the consequences. The Applicant did have a lawyer at a certain time. A request for an extension of time was sought because of the withdrawal of his counsel and for the time required to find another lawyer (see TR at page 218).
+[33]
+, 2003 BCCA 667 at para 26, [2003] BCJ 2767, the Court of Appeal of British Columbia considered the prejudice component as follows:
+[26] The prejudice component requires the appellant to show that the incompetence of trial counsel resulted in a miscarriage of justice. Doherty J.A. discussed the meaning of "miscarriage of justice" in this context in
+, supra at 64. He explained that a miscarriage of justice can result where the appellant establishes a reasonable probability that but for counsel's errors, the result of the proceedings would have been different. A reasonable probability is one that is "sufficient to undermine confidence in the outcome" and "lies somewhere between a mere possibility and a likelihood":
+<FRAGMENT_SUPPRESSED>  C.C.C. (3d) 303 at 319. Alternatively, a reliable outcome may still constitute a miscarriage of justice where the process through which that verdict was reached was unfair:
+<FRAGMENT_SUPPRESSED>  the Applicant has failed to show a reasonable probability that were it not for his counsel, the result of the proceedings would have been different. In answering the questions posed to him, the Applicant simply failed to provide clear and satisfactory answers that would have established he met the requirements under subsection 61(3) of the IRPR. The IAD's conclusion is not a result of it having asked insufficient questions during the hearing, as alleged by the Applicant, but rather a reflection of the Applicant's answers and the evidence brought forth. Accordingly, I find there was no breach of procedural fairness in this case and the IAD's decision was reasonable.
+[34]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed and no question will be certified.
+.........................
+(3) For the purposes of subparagraphs 28(2)(a)(iii) and (iv) of the Act, the expression "employed on a full-time basis by a Canadian business or in the public service of Canada or of a province" means, in relation to a permanent resident, that the permanent resident is an employee of, or under contract to provide services to, a Canadian business or the public service of Canada or of a province, and is assigned on a full-time basis as a term of the employment or contract to
+(b) an affiliated enterprise outside Canada; or
+(c) a client of the Canadian business or the public service outside Canada.
+[6]
+[traduction]
+[traduction]
+[traduction]
+, 2000 CSC 22, paragraphe 26, [2000] 1 RCS 520 [
+[traduction]
+[End of document]

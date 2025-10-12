@@ -1,0 +1,104 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 1110)
+Federal Court
+October 31, 2013.
+Tara McElroy, for the applicant;
+Ada Mok, for the respondent.
+Solicitors of Record:
+Waldman & Associates, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: Mr. Bighashi applied for permanent residence in Canada as a member of the Federal Skilled Worker Class. He indicated in his application that he had work experience as an accountant - National Occupation Classification code 1111 [NOC 1111].
+[2]
+An officer determined that his application was not eligible for processing because the officer was "not satisfied" that he had worked as an accountant as described in NOC 111. The officer stated that Mr. Bighashi had failed to provide sufficient evidence that he had performed "the actions described in the lead statement for the occupation" and that he had "performed all of the essential duties and a substantial number of the main duties, as set out in the occupational descriptions of the NOC."
+[3]
+In the officer's Computer Assisted Immigration Processing System (CAIPS) notes, he explains that the duties "described in the employment letter [of the Applicant] match those of bookkeeper rather than accountant." The employment letter states that the Applicant:
+Has been working at Accounting Unit since Aug. 3, 2005 and as an accountant and officer responsible for preparation of expenditures and payments document [sic], has been performing the following duties and responsibilities:
+1- Payment of different forms of liabilities by check [
+2- Preparing list of expenses and their documents.
+3- In charge of payment of employees loan.
+4- Preparation of different forms of inventory reports and the related correspondences.
+[4]
+The lead statement of NOC 1111 states that financial auditors and accountants:
+... examine and analyze the accounting and financial records of individuals and establishments to ensure accuracy and compliance with established accounting standards and procedures ... plan, organize and administer accounting systems for individuals and establishments.
+[5]
+In contrast, the lead statement of NOC 1311 states that accounting technicians and bookkeepers:
+... maintain complete sets of books, keep records of accounts, verify the procedures used for recording financial transactions, and provide personal bookkeeping services. They are employed throughout the private and public sectors, or they may be self-employed.
+[6]
+The Applicant submits that:
+1. The officer breached the principles of procedural fairness and natural justice by failing to inform him about his concerns and provide him with an opportunity to address them;
+2. The officer's finding that he is a bookkeeper rather than an accountant is unreasonable; and
+3. The officer failed to provide sufficient reasons for the decision reached.
+[7]
+For the reasons that follow, none of those submissions are accepted.
+Was the Duty of Fairness Breached?
+[8]
+The Applicant submits that he was entitled to be informed of the officer's concerns and provided with an opportunity to address them either because of manual OP 6A - a guide provided to immigration officers for assessing federal skilled worker applications - or the jurisprudence of this Court.
+[9]
+I agree with the Minister that at the relevant time, there were three steps in the Ministerial Instructions in OP 6A for processing Federal Skilled Worker applications. First, the application is reviewed in a cursory manner and an initial determination made as to whether it is complete and meets the criteria in the Ministerial Instructions. Mr. Bighashi's application passed this step. If that step is passed, the applicant is asked to submit his complete application and it is referred to a visa office for a final determination of
+for processing. It is this step that Mr. Bighashi's application failed. It is only if the application is finally determined to be eligible for processing at step two, that the application moves to the final step where the application itself is then subject to final processing and either approved or refused.
+[10]
+Section 10 of OP 6A which provides that if an officer has "any concerns about the applicant's ability or likelihood to accept and carry out the employment, they will communicate these to the applicant and provide the opportunity to respond", and that "where officers have concerns about whether or not the applicant has carried out 'a substantial number of main duties ... including all of the essential duties,' they should give the applicant an opportunity to respond to these concerns," only applies to the processing at the last step of the process. I agree with the Minister that it does not apply to either of the first two steps and, as Mr. Bighashi's application was rejected at the second step as ineligible for processing, there was no requirement for notification under OP 6A as he claimed.
+[11]
+It is also submitted that a duty of procedural fairness by way of notification and an opportunity to respond was triggered because the officer brought Mr. Bighashi's credibility into question.
+[12]
+Mr. Bighashi cites
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at paragraph 22, for the proposition that the duty of fairness requires an officer to provide an applicant with an opportunity to disabuse the officer's concerns "even where such concerns arise from evidence tendered by the applicant." However, Justice Mosley went on at paragraph 23 to explain that it is not every concern about the evidence tendered that raises such a procedural duty:
+However, this principle of procedural fairness does not stretch to the point of requiring that a visa officer has an obligation to provide an applicant with a "running score" of the weaknesses in their application. And there is no obligation on the part of a visa officer to apprise an applicant of her concerns that arise directly from the requirements of the
+former Act
+or
+Regulations
+[references omitted].
+[13]
+Although Mr. Bighashi has framed the officer's concerns as issues with his credibility, there is
+in the record that his credibility was questioned, nor was the authenticity of the documents he submitted questioned. The fact that the officer found there was insufficient evidence to support the Applicant's assertion that he was an accountant, as described in NOC 1111, is not a credibility finding. As was stated by Justice Muldoon in
+<FRAGMENT_SUPPRESSED> "this duty does not arise merely because the visa officer has not been convinced, after weighing the evidence, that the application is well founded." If it were otherwise, then every negative decision under the Federal Skilled Workers Program would become a negative credibility finding requiring officers to advise applicants. This would be exactly the sort of "running score" process the Court in <FRAGMENT_SUPPRESSED> exempted from any fairness requirement.
+[14]
+Since credibility is not in issue, I agree with the Minister's submission that the officer was not required to give the Applicant additional notice. That result is consistent with the decision of Justice Pinard in
+<FRAGMENT_SUPPRESSED>  wherein at paragraph 26, he writes:
+...where the visa officer's concerns arise directly from the requirements of the legislation or regulations, he is under no duty to notify the applicant (
+Relevant work experience is a concern that arises from the regulations: a visa officer is under no duty to mention his concerns as to the applicant's work experience
+(
+at para 12). Ultimately, the visa officer has no obligation to make inquiries where the applicant's application is ambiguous: "there is no entitlement to an interview if the application is ambiguous or supporting material is not included" (
+To hold otherwise would impose on visa officers an obligation to give advance notice of a negative finding of eligibility
+Was the Officer's Decision Reasonable?
+[15]
+Having determined that the officer did not breach the duty of fairness owed to the Applicant, I also find that the officer's conclusion that the Applicant did not submit sufficient evidence that he performed the actions required of an accountant as set out in NOC 1111, was reasonable. I agree with the officer's observation that the duties set out in the employment letter more closely matched those of the bookkeeper classification than those of an accountant. I reject the submission that Mr. Bighashi's application was
+against the bookkeeper NOC code. All the officer did was to make an observation. The application was properly assessed for eligibility against NOC 1111.
+[16]
+Subsection 75(2) of the
+Immigration and Refugee Protection Regulations
+Regulations
+], sets out the requirements for immigrants applying for permanent residence under the Federal Skilled Workers class:
+75. (2) A foreign national is a skilled worker if [during his or her employment, he or she]:
+...
+(b) ... performed the actions described in the lead statement for the occupation as set out in the occupational descriptions of the National Occupational Classification; and
+(c) ... performed a substantial number of the main duties of the occupation as set out in the occupational descriptions of the National Occupational Classification, including all of the essential duties ... [emphasis added]
+Mr. Bighashi may be correct that the officer's reasons are not adequate because of the failure to identify which of the main duties were met and which were not. However, it is not immediately obvious to me that the description in the employment letter corresponds with
+of the listed main duties and counsel was not able to offer much assistance to the Court in identifying them.
+[18]
+In any event, the requirements in paragraphs 75(2)(b) and (c) are joint and a failure to meet either one renders the application ineligible. In this case, the officer found that Mr. Bighashi failed to meet both of them.
+[19]
+The officer found that the employment letter did not establish on the balance of probabilities that Mr. Bighashi "performed the actions in the lead statement." Nothing in the listed responsibilities in the employment letter can be interpreted as examining, analyzing, planning, or organizing and administering accounting and financial records. The Applicant's duties are limited to making payments and preparing lists, reports, and correspondence. The officer's reasons for this finding are adequate and reasonable.
+[20]
+Mr. Bighashi has asked the officer to reconsider the decision and filed a second employment letter. That letter, as was readily admitted, cannot form part of the record before this Court as it was not before the officer when he made the decision. It was tendered on the fairness issue as proof that Mr. Bighashi could have provided evidence that he was performing the duties of an accountant had he been given an opportunity to do so.
+[21]
+The Applicant submits that the second letter from Mr. Bighashi's employer adequately describes the activities set out in NOC 1111. Although irrelevant for present purposes, I note that there are reasons to doubt the reliability of the evidence because:
+(a) Mr. Bighashi's name is misspelled (it is spelled "Bighash" instead of  <FRAGMENT_SUPPRESSED> );
+(b) The date is incorrect (the letter is dated 2002 instead of 2012); and
+(c) The letter lists five duties that Mr. Bighashi has had for the past 14 years, but none of the duties listed in the first letter appear in the second letter - the described duties are entirely new and different.
+[22]
+Comparing the second letter to the first letter leads to the view that two entirely different jobs are being described. The first letter clearly emphasizes the clerical nature of Mr. Bighashi's duties while the second letter focuses solely on the higher level analytical aspects of Mr. Bighashi's role. If the second letter truly is a more accurate description of Mr. Bighashi's duties, it begs the question of why he would have submitted the first letter instead of immediately requesting a revised version that more accurately described his actual duties.
+[23]
+For these reasons the application must be dismissed. Neither party proposed a question for certification.
+THIS COURT ORDERS AND ADJUDGES that
+the application is dismissed and no question is certified.
+.........................
+75. (2) A foreign national is a skilled worker if [during his or her employment, he or she]:
+...
+(b) ... performed the actions described in the lead statement for the occupation as set out in the occupational descriptions of the National Occupational Classification; and
+(c) ... performed a substantial number of the main duties of the occupation as set out in the occupational descriptions of the National Occupational Classification, including all of the essential duties ... [emphasis added]
+[17]
+[End of document]

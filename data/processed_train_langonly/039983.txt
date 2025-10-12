@@ -1,0 +1,341 @@
+..................................................
+Douglas
+],
+Cuddy Chicks
+[traduction]
+37. (1) A permanent resident or a foreign national is inadmissible on grounds of organized criminality for
+being a member of an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment, or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence, or engaging in activity that is part of such a pattern;
+[42]
+33. The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred, are occurring or may occur.
+[43]
+Charte
+Charte
+[67] <FRAGMENT_SUPPRESSED> Stables,
+Charte
+Charte
+Charte
+<FRAGMENT_SUPPRESSED>  (F.C.A.) [ <FRAGMENT_SUPPRESSED> ];
+Charte
+Charte
+Charte
+[72] <FRAGMENT_SUPPRESSED> Stables
+Charte
+.
+[80]
+Conclusion
+[81]
+Charte
+Charte
+Charte
+?
+Charte
+Douglas
+,
+Cuddy Chicks
+Charte
+.
+[93]
+[Translation]: This is an application for judicial review under subsection 72(1) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA], of a decision of the Immigration Division [ID], in which the ID determined that the applicant is inadmissible on grounds of serious criminality and organized criminality under paragraphs 36(1)(
+) and 37(1)(
+) of the IRPA.
+[2]
+The applicant is challenging solely his inadmissibility on the grounds of organized criminality under paragraph 37(1)(
+Facts
+[3]
+The applicant is an Italian citizen and obtained his permanent residence in Canada on April 13, 1967.
+[4]
+He was arrested in Toronto in April 1996 while attempting to pick up 170 kilograms of cocaine.
+[5]
+On September 27, 1996, the applicant pleaded guilty to a charge of conspiracy to traffic cocaine. He was sentenced to eight years and nine months in prison. In the same matter, Frank Cotroni Sr. pleaded guilty, and Francesco Cotroni and Giovanni Marra, the owners of Café Sinatra, where the applicant had been working for four years, were convicted.
+[6]
+In 2006, the applicant was arrested as part of Operation Colisée targeting the Italian mafia in Montréal. No charges were brought against him.
+[7]
+On April 8, 2013, two reports were prepared regarding the applicant under subsection 44(1) of the IRPA; they were referred to the ID for an admissibility hearing in June 2013.
+[8]
+On March 13, 2014, the applicant filed a motion for a stay of proceedings for unreasonable delay, given the time that had elapsed between his conviction in 1996 and the referral of the reports in 2013. The ID dismissed this motion on March 19, 2014.
+In an oral decision dated March 19, 2014, the ID declined hearing the applicant's motion for a stay of proceedings for unreasonable delay since it did not have the necessary jurisdiction. It noted in its reasons, however, that even though 17 years had elapsed since the applicant's conviction for trafficking cocaine, this delay did not adversely affect the conduct of the hearing since the applicant had an excellent recollection of the events surrounding his arrest in 1996.
+[10]
+Regarding the documentary evidence on the record, the ID stated that it was not bound by any legal or technical rules of evidence under section 173 of the IRPA. Having said that, the ID accepted the evidence on the record and rejected the applicant's argument that some of the evidence, including the reports from Correctional Service Canada  <FRAGMENT_SUPPRESSED>  and the National Parole Board [NPB], and the document entitled "Sentence / Michel Torre / 500-01-025160-968", could not be taken into consideration. Moreover, the ID accepted an excerpt from a book by Peter Edwards, well-recognized for his work on organized crime, and the information regarding Operation Colisée.
+[11]
+In light of all the evidence, the ID concluded that "when taken as a whole, [the evidence was] relevant, credible and trustworthy".
+[12]
+The ID reviewed the burden the Minister has to satisfy in order to establish that the applicant is covered by paragraph 37(1)(
+) of the IRPA. It noted, among other things, that the burden of proof in this case is not the same as in a criminal proceeding. Moreover, the ID was not in any doubt about the Italian mafia's presence in Montréal and noted that the applicant maintained close ties with the members of the Cotroni clan over the years. Applying the decisions in
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the ID concluded that it was implausible for "[the applicant] to [claim] that he was not aware, in general, of the criminal nature of some of the activities of his employers . . . and in particular, of the nature of the job to be carried out in Toronto in April 1996".
+[13]
+Consequently, there were reasonable grounds to believe that the applicant was or is a member of a criminal organization and that he engaged in activity that was part of a pattern of organized or planned criminal activity.
+This application for judicial review raises the following issues:
+1. Did the ID err in stating that it lacked jurisdiction with respect to the stay of proceedings for unreasonable delay?
+2. Was there an abuse of process?
+3. Was the ID's assessment of the evidence reasonable?
+4. May the applicant raise the issue of whether paragraph 37(1)(
+) is constitutional for the first time before the Federal Court?
+5. If so, is paragraph 37(1)(
+) constitutionally valid?
+Standards of review
+[15]
+It is trite law that the ID's determination of inadmissibility on grounds of membership in a criminal organization "is largely an assessment of facts, and is thus to be reviewed on the standard of reasonableness", see:
+Consequently, it is not for this Court to reweigh the evidence or to change the panel's decision, as long as the decision falls "within a range of possible, acceptable outcomes which are defensible in respect of the facts and law":
+Regarding constitutional questions, the Supreme Court of Canada held in <FRAGMENT_SUPPRESSED> , above, at paragraph 58, that these are subject to correctness review. Similarly, abuse of process questions are also reviewable against a correctness standard:
+Douglas
+],
+Cuddy Chicks
+], and
+], the Supreme Court has established that an administrative tribunal with the authority to decide questions of law is in the best position to hear and decide the constitutionality of its statutory provisions.
+[19]
+More recently, in
+R v Conway
+, 2010 SCC 22, [2010] 1 SCR 765, it developed an analysis framework for determining whether a tribunal has the authority to grant a Charter remedy. Justice Abella had the following to say at paragraph 81:
+Building on the jurisprudence, therefore, when a remedy is sought from an administrative tribunal under s. 24(1), the proper initial inquiry is whether the tribunal can grant Charter remedies generally. To make this determination, the first question is whether the administrative tribunal has jurisdiction, explicit or implied, to decide questions of law. If it does, and unless it is clearly demonstrated that the legislature intended to exclude the Charter from the tribunal's jurisdiction, the tribunal is a court of competent jurisdiction and can consider and apply the Charter - and Charter remedies - when resolving the matters properly before it.
+[20]
+In the matter at bar, subsection 162(1) of the IRPA clearly establishes that the ID has jurisdiction to dispose of questions of law. In this case, it has jurisdiction to examine and apply the Charter. Having said that, does it have the jurisdiction to grant the specific remedy sought, namely, a permanent stay of proceedings?
+[21]
+In my opinion, in light of the statutory framework, it is unlikely that this is the case.
+[22]
+In fact, the ID has limited authority at the stage when a report is referred to it under subsection 44(2) of the IRPA. In fact, the ID has no discretion. It has to hold an admissibility hearing quickly, and if it finds the person inadmissible, it must make a removal order:
+<FRAGMENT_SUPPRESSED>  my colleague Justice Barnes reiterated at paragraph 11 that the ID's admissibility hearing "is not the place to embark upon a humanitarian review or to consider the fairness or proportionality of the consequences that flow from a resulting deportation order. Those are consequences that flow inevitably by operation of law and they impart no mitigatory discretion upon the [ID] ".
+[24]
+Allowing the ID, therefore, to examine the issue of whether the delay before the admissibility hearing was excessive would amount to giving it the jurisdiction to examine the individual's ability to make a full answer and defence and the consequences of the removal order for the individual, issues that are at the centre of a debate on unreasonable delay. Following this review, the ID would then have to examine whether it should grant a stay of the proceeding it is obliged to hold quickly.
+[25]
+The specific remedy sought seems incompatible with Parliament's intention. In my opinion, the ID did not err when it refused to hear the motion for a stay of proceedings because it lacked jurisdiction.
+Abuse of process
+[26]
+However, even though I have concluded that the ID did not have the required jurisdiction to hear the motion for a stay of proceedings, the delay remains, and I must determine whether there was an abuse of process.
+[27]
+The applicant claims that the delay between his conviction for drug trafficking and the preparation of reports under section 44 of the IRPA is sufficient in itself to raise the question of an abuse of process.
+[28]
+In order to determine whether this delay does in fact qualify as an abuse of process, it is important to properly define abuse of process.
+[29]
+Writing for the majority in
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], Justice Bastarache described abuse of process in the following manner:
+[120]
+In order to find an abuse of process, the court must be satisfied that, "the damage to the public interest in the fairness of the administrative process should the proceeding go ahead would exceed the harm to the public interest in the enforcement of the legislation if the proceedings were halted"
+(Brown and Evans,
+, at p. 9-68). According to L'Heureux-Dubé J. in
+, at p. 616, "abuse of process" has been characterized in the jurisprudence as
+a process tainted to such a degree that it amounts to one of the clearest of cases. In my opinion, this would apply equally to abuse of process in administrative proceedings.
+For there to be abuse of process, the proceedings must
+, in the words of L'Heureux-Dubé J.,
+be "unfair to the point that they are contrary to the interests of justice"
+"Cases of this nature will be extremely rare"
+(
+, at p. 616). In the administrative context, there may be abuse of process where conduct is equally oppressive.
+[Emphasis added]
+[30]
+It is my opinion that for the delay to qualify as an abuse of process, it must have been part of an administrative or legal proceeding that was already under way. As emphasized by Justice Bastarache in <FRAGMENT_SUPPRESSED> , at paragraph 132:
+As expressed by Salmon L.J. in
+<FRAGMENT_SUPPRESSED>  difficult to recognise inordinate delay when it occurs". In my opinion, the five-month inexplicable delay or even the 24-month period from the filing of the Complaints to the referral to the Tribunal was not so inordinate or inexcusable as to amount to an abuse of process. Taking into account the ongoing communication between the parties, the delay in this case does not strike me as one that would offend the community's sense of decency and fairness. While I would not presume to fix a specified period for a reasonable delay, I am satisfied that the delay in this case was not so inordinate as to amount to an abuse of process.
+[31]
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  (QL), a case concerning a revocation of Canadian citizenship, Justice Nadon writes as follows at paragraph 23:
+There is a difference between the point in time when the alleged wrong came to the attention of the authorities, about 1986, the point in time when the authorities chose to begin proceedings against the wrongdoer, 1996, and the point in time of the unfolding of the proceedings, 1997-1998. As the Minister has demonstrated that Mr. Katriuk obtained his citizenship by concealing material circumstances, any suffering by Mr. Katriuk will be the result of his own making.
+The only period of delay with which I am concerned is the period between the filing of the statement of claim in October 1996 and the unfolding of these proceedings in 1997 and 1998.
+I cannot conclude that the respondent has suffered due to an undue delay in this matter.
+[Emphasis added]
+[32]
+In light of the above, the only delay this Court should consider in order to determine whether there was an abuse of process is the delay between the decision made by the Minister to prepare a report under section 44 of the IRPA and the ID's admissibility finding. Any other period of time should not be used to calculate an unreasonable delay resulting in an abuse of process.
+[33]
+In any event, if the 17-year delay before the inadmissibility proceeding was instituted were part of the calculation to determine whether there was an abuse of process, the applicant would have to establish that the delay caused "actual prejudice of such magnitude that the public's sense of decency and fairness is affected": <FRAGMENT_SUPPRESSED> , above, at para 133.
+[34]
+Even though the applicant alleges that the delay jeopardized his physical and psychological integrity, and [translation] "undermined his ability to make a full answer and defence to" the allegations against him as part of the inadmissibility inquiry, he failed to establish that it caused prejudice of such magnitude.
+[35]
+The applicant's evidence does not support his claim that the referral to the ID tainted the proceeding and that he was unable to defend himself against the allegations made under paragraph 37(1)(
+) of the IRPA.
+[36]
+While it is certainly unfortunate for the applicant to be found inadmissible 17 years after he committed a wrongful act, it is not clear here that the administrative proceeding instituted against him was unfair to the point of being contrary to the interests of justice.
+[37]
+The applicant was able to enjoy being in Canada for a long time even though he could have been found inadmissible 17 years ago.
+[38]
+In my view, the comments made by Justice Gibson in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  128 FTR 309, apply, by analogy, to the facts of this case. At paragraph 17, Justice Gibson writes as follows:
+Indeed, it might be argued in the absence of evidence to the contrary, that the Respondent, rather than suffering prejudice, benefitted from the fact that he has remained in Canada, as a Canadian citizen, throughout the length of time taken to bring this matter before this Court.
+[39]
+In fact, if any prejudice was caused in this case, it would be the respondent who could complain about it, as the burden was on the respondent to establish that the applicant is covered by paragraph 37(1)(
+). The passing of time could not have helped him in this.
+[40]
+The process following the issuance of the inadmissibility report on the grounds enumerated in paragraph 37(1)(
+) of the IRPA was carried out quickly and did not cause the applicant any serious prejudice. Even though some witnesses are deceased, the evidence on the record was sufficient for the panel to conclude that the applicant is inadmissible under paragraph 37(1)(
+) of the IRPA. Consequently, it is my opinion that there was no abuse of process as the result of an unreasonable delay.
+ID's assessment of the evidence
+[41]
+The impugned provision, paragraph 37(1)(
+) of the IRPA, provides as follows:
+37. (1) A permanent resident or a foreign national is inadmissible on grounds of organized criminality for
+being a member of an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment, or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence, or engaging in activity that is part of such a pattern;
+Section 33 of the IRPA sets out the standard of proof applicable in assessing the facts under paragraph 37(1)(
+), and reads as follows:
+33. The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred, are occurring or may occur.
+These provisions of the IRPA provide that a person may be found inadmissible if there are reasonable grounds to believe that the person is a member of a criminal organization or engaged in activity that is part of a pattern of organized or planned criminal activity.  <FRAGMENT_SUPPRESSED>  Justice Mactavish writes as follows at paragraph 9:
+[9] In order to conclude that Mr. Talavera was inadmissible to Canada under paragraph 37(1)(
+) of IRPA, the Immigration Division had to find that he was, or had been, a member of an organization for which there are reasonable grounds to believe is or was engaged in organized criminality as defined in section 37 of the Act. There are thus three aspects involved in such an inadmissibility finding: the definition of "organized criminality", the "reasonable grounds to believe" standard, and the concept of "membership".
+In the matter at bar, the ID found the applicant to be inadmissible for these two reasons.
+[44]
+It is important to recall that the "reasonable grounds to believe" standard requires something more than mere suspicion, but less than the standard applicable in civil matters of proof on the balance of probabilities. There must be an objective basis for the belief which is based on compelling and credible information:
+<FRAGMENT_SUPPRESSED> ; and
+Did the evidence before the ID include enough credible information to offer an objective basis for its findings of fact?
+[46]
+The applicant submits that the ID erred in its assessment of the evidence, specifically with respect to its findings concerning the CSC and NPB reports. In his opinion, no weight should be given to these exhibits, in accordance with this Court reasoning in
+<FRAGMENT_SUPPRESSED> . Moreover, the ID erred in characterizing as an [translation] "expert" a journalist and author of a book on organized crime from which excerpts were considered by the ID.
+[47]
+The respondent points out that paragraphs 173(
+) and (
+) of the IRPA allow the ID to "receive . . . evidence adduced in the proceedings that it considers credible or trustworthy". It is therefore the ID's role to assess the evidence and not the Court's to reassess the weight given to this evidence as the applicant is asking it to do here. I believe this for the following reasons.
+[48]
+The ID first found the evidence about the existence, in Montréal, of Italian-based organized crime (the mafia and the Cotroni crime family) to be compelling. This conclusion was based on serious, trustworthy documentary evidence from various sources, such as journalists who have covered the world of organized crime for years, authors of books on the subject and officers from the Royal Canadian Mounted Police and the Criminal Intelligence Service Canada. The applicant did not establish that this conclusion is unreasonable.
+[49]
+The ID then analyzed the evidence in order to determine whether there were reasonable grounds to believe that the applicant engaged in activity that was part of a pattern of organized or planned criminal activity.
+[50]
+As summarized by the respondent in its memorandum, the ID considering the following evidence to conclude that this was the case.
+• The applicant's testimony on some aspects of his knowledge of and participation in the criminal activities allegedly committed by his bosses, Mr. Cotroni Jr. and Mr. Marra, lacks credibility.
+• It is inconceivable that the heads of the Cotroni crime family would send a person whom they did not fully trust to Toronto to pick up 170 kilograms of cocaine.
+• The applicant admitted at the admissibility hearing that he suspected that there was something shady about the operation.
+• The applicant's statement that he was not aware until after his arrest of a $25,000 bonus for carrying out this task contradicts the CSC report.
+• The applicant knew that Mr. Cotroni Sr. was considered to be one of the leaders of the Montréal mafia. He came regularly to the Café Sinatra, where the applicant worked, and occasionally met other people there.
+[51]
+Relying on all of this evidence, the ID concluded that the applicant was an associate in the organization and that, even though he was not a decision-maker, he had the trust of the organization, which led him to be involved in the 1996 activities. In my opinion, it was not unreasonable to conclude that there are reasonable grounds to believe that the applicant was engaged in activity that was part of a pattern of organized or planned criminal activity. This finding falls within the "range of possible, acceptable outcomes which are defensible in respect of the facts and law": <FRAGMENT_SUPPRESSED> , above, at para 47.
+[52]
+It is true that the applicant provided a different explanation, which the ID deemed not to be credible, given the implausibility of Mr. Torre's claim that he was not aware of the criminal nature of some of the activities of his employers, Mr. Cotroni Jr. and Mr. Marra. I emphasize that it is the administrative tribunal's role to assess the credibility of the testimony: <FRAGMENT_SUPPRESSED> , above.
+[53]
+Regarding membership in a criminal organization, for the purposes of paragraph 37(1)(
+), it is unnecessary to establish that the person in question is a member of an organization but rather that there are reasonable grounds to believe that he or she is or was a member, regardless of the time that has gone by:
+In <FRAGMENT_SUPPRESSED> , above, I discussed the definition of the word "organization" within the meaning of paragraph 37(1)(
+). At paragraphs 22 and 23 of this decision, reiterating the words of Justice Linden in
+<FRAGMENT_SUPPRESSED>  I wrote as follows:
+Justice O'Reilly's approach to the definition of organization was affirmed by Justice Linden of the Federal Court of Appeal in
+<FRAGMENT_SUPPRESSED> . Justice Linden clarified two issues on appeal. First, Justice Linden confirmed that the provision does not require current membership. Thus, a person can be inadmissible for a prior association. Second, Justice Linden confirmed at paragraph 36 that the definition of organization is to be given a broad and unrestricted definition and affirms the interpretation of organization provided for by Justice O'Reilly . . .
+Justice Linden concluded at paragraph 55:
+The word "organization", as it is used in paragraph 37(1)(
+) of the IRPA, is to be given a broad and unrestricted interpretation. While no precise definition can be established here, the factors listed by O'Reilly J. in
+, by the Board member, and possibly others, are helpful when making a determination, but no one of them is an essential element. The structure of criminal organizations is varied, and the Board must be given flexibility to evaluate all of the evidence in the light of the legislative purpose of IRPA to prioritize security in deciding whether a group is an organization for the purpose of paragraph 37(1)(
+The word "member" must be given a broad and unrestricted interpretation, and therefore member simply means belonging to an organization. To be a member of an organization, it is not necessary for the individual to have a membership card or to be a member in good standing:
+Regarding the question of membership in a criminal organization, the ID relied on the following evidence:
+• Mr. Torre was employed by Mr. Cotroni Jr. and Mr. Marra from 1992 to 1996. He was subsequently arrested, along with nearly 100 people, in fall 2006, as a result of Operation Colisée.
+• Although Mr. Torre might not have been convicted as part of Operation Colisée-recall that the burden of proof in a criminal court is very different from the burden of proof for the Immigration Division-the judge who reviewed his case decided, after considering the evidence before him at that time, not to release him with conditions pending his trial because [translation] "...he was nevertheless involved". Mr. Torre's closeness to well-known members of the Montréal mafia, their trust in him, and the association's persistence over the years are indications to me that there are also reasonable grounds to believe that Mr. Torre is or was a member of the Cotroni crime family.
+[57]
+Even though the applicant challenges the probative value of the documentary evidence, specifically Exhibits C-10 and C-12, the Court notes first that the ID is not bound by the usual rules of evidence and may receive any evidence considered credible or trustworthy. Exhibit C-10 was written by a representative of the Crown with respect to the applicant's arrest in Toronto and indicates that the applicant is a barman at Café Sinatra, that he is Francesco Cotroni's and Giovanni Marra's go-to guy in the distribution of drugs and Mr. Marra's associate in major cocaine deals. It was not unreasonable for the ID to find this document to be relevant, credible and trustworthy.
+[58]
+Similarly, it could give probative value to the documents from the CSC and the NPB, which are contemporaneous to the time of the applicant's incarceration.
+[59]
+Indeed, the ID explained that it was not basing its decision solely on these two documents and did not accept the information in them to be fact.
+[60]
+Regarding the probative value of Exhibit C-20, the ID noted that the document corroborates the information from other sources concerning the events surrounding the conspiracy to possess cocaine for the purpose of trafficking, to which Mr. Torre pleaded guilty. The document was part of the evidence, and it was open to the applicant to challenge its probative value, which he failed to do.
+[61]
+Generally speaking, the Minister was not governed by the best evidence rule and could adduce any credible or trustworthy evidence. It was the ID's role to assess the probative value of this evidence, and it is not this Court's role to reassess the probative value the ID afforded it.
+Failure to raise the constitutional question before the ID
+[62]
+The applicant did not raise the unconstitutionality of paragraph 37(1)(
+) before the ID. The respondent submits that the failure to argue the unconstitutionality of paragraph 37(1)(
+) before the ID does not authorize the applicant to do so before this Court. While it is true that in
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], Justice de Montigny found that it was preferable, in principle, that this Court not dispose of a constitutional question when it had not been raised before the administrative tribunal, he nonetheless ruled on the constitutional question in the event that he had erred in concluding that it should have been raised before the ID first.
+[63]
+More recently, in
+Canada (Public Safety and  <FRAGMENT_SUPPRESSED>  [
+] at para 101, the Federal Court of Appeal was asked to rule on this issue. Justice Mainville noted that the failure to complete a notice of constitutional question before the administrative tribunal was not fatal. Where the factual foundation is sufficient to determine constitutional issues, the Court may be in a position to address the issues. He recalled that the Federal Court of Appeal has held that, as a general principle, it will not entertain arguments that are not supported by a proper evidentiary foundation, principally to avoid prejudice to the opposing party who could have adduced evidence concerning the arguments:
+<FRAGMENT_SUPPRESSED> . In the matter at bar, I fail to see which missing facts would result in prejudice to the respondent since he replies to the constitutional arguments in his memorandum and does not refer to any prejudice suffered.
+[64]
+In light of the case law of the Federal Court of Appeal, it is my opinion that it is open to me to consider the argument concerning the constitutional validity of paragraph 37(1)(
+) raised by the applicant. Even though the applicant did not prepare a notice of constitutional question before the ID, he nonetheless respected subsection 57(1) of the
+Federal Courts Act
+, RSC 1985, c F-7, and served the attorney generals with his intention to challenge the constitutionality of paragraph 37(1)(
+Constitutionality of paragraph 37(1)(a)
+[65]
+The applicant submits that paragraph 37(1)(
+) of the IRPA is not constitutionally valid because it violates his right to life, liberty and security of the person under section 7 of the Charter. He notes that the wording of paragraph 37(1)(
+) is vague and that the provision carries a light burden of proof; consequently [translation] "strange situations lead to expulsions from Canada without right to appeal", and certain statutory provisions, such as section 25, which provides for an exemption on humanitarian and compassionate considerations, do not apply to the applicant.
+[66]
+In <FRAGMENT_SUPPRESSED> , above, my colleague Justice de Montigny thoroughly analyzed whether or not paragraph 37(1)(
+) of the IRPA was constitutional in relation to the rights under section 7 of the Charter. The same constitutional argument is made in the matter at bar. I fully agree with Justice de Montigny's analysis, and reach the same conclusions.
+[67]
+In <FRAGMENT_SUPPRESSED> , the applicant argued that the terms "member", "organized criminality" and "pattern of criminal activity" found in paragraph 37(1)(
+) of the IRPA were "unconstitutionally vague and overbroad", which violated his rights under section 7 of the Charter: <FRAGMENT_SUPPRESSED> at para 38.
+[68]
+However, Justice de Montigny found this argument to be flawed because one must first establish that the interest in respect of which the applicant asserted his or her claim falls within the ambit of section 7 of the Charter. He writes at paragraph 39:
+. . . It is well established that the principles of fundamental justice in section 7 of the Charter are not independent self-standing notions, and are to be considered only when it is first demonstrated that an individual is being deprived of the right to life, liberty or security of the person. As Justice Bastarache stated, on behalf of the majority of the Supreme Court in
+[...] before it is even possible to address the issue of whether the respondent's s. 7 rights were infringed in a manner not in accordance with the principles of fundamental justice, one must first establish that the interest in respect of which the respondent asserted his claim falls within the ambit of s. 7.
+[69]
+Moreover, as Justice de Montigny points out at paragraph 40, a finding of inadmissibility does not, in and of itself, engage an individual's section 7 interests, as confirmed by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , above:
+It has been held, time and again, that a finding of inadmissibility does not, in and of itself, engage an individual's section 7 interests (see, for example,
+<FRAGMENT_SUPPRESSED> . Even if it is true that the Applicant, not being a refugee, could be deported while he awaits the processing of his ministerial relief application, it would still not be sufficient to trigger the application of section 7 rights (citations omitted).
+[70]
+In fact, if we continue to follow the reasoning of Justice de Montigny in <FRAGMENT_SUPPRESSED> , "[i]t [is] the risk of torture on removal, though, and not the fact of removal itself, that engage the applicant's section 7 interests: <FRAGMENT_SUPPRESSED> at para 42.
+[71]
+Indeed, more recently, the Federal Court of Appeal confirmed in
+, above, that an inadmissibility hearing did not engage section 7 of the Charter because the foreign national was not going to be deported to a country that could subject him to a danger of torture. In fact, it is only at a subsequent stage of the inadmissibility finding that section 7 of the Charter may be engaged:
+In <FRAGMENT_SUPPRESSED> , the applicant was facing removal to the United Kingdom. However, no evidence was offered in that matter to establish that the applicant's life, liberty and security were in danger should he return to this country. Similarly, the applicant in the case at bar has not adduced any evidence to demonstrate how his life, liberty and security would be in danger should he return to Italy.
+[73]
+In <FRAGMENT_SUPPRESSED> , Justice de Montigny also dealt with the very broad application of section 37, noting that the courts have upheld this interpretation because it is "consistent with Parliament's objective to ensure the security of Canadians": paras 45-47.
+[74]
+Another point raised in <FRAGMENT_SUPPRESSED> concerns whether the inadmissibility process is consistent with the principles of fundamental justice. Justice de Montigny reviews the various stages of the process available to the applicant in that matter and concludes that the process is indeed consistent with the principles of fundamental justice: para 56.
+[75]
+In the matter at bar, other steps in the inadmissibility process under paragraph 37(1)(
+) are available to the applicant. As indicated by the respondent in his memorandum, despite the inadmissibility finding, it remains open to the applicant to apply for a pre-removal risk assessment [PRRA] or an exemption under section 42.1 of the IRPA. Both avenues are reviewable by the Federal Court.
+[76]
+While it is true that subsection 25(1) of the IRPA does not apply to a person found inadmissible under section 37, it must be remembered that section 25 provides for a discretionary exceptional remedy. It does not set out a right or a principle of fundamental justice.
+[77]
+The Supreme Court held that "in determining the scope of principles of fundamental justice as they apply to this case, the Court must look to the principles and policies underlying immigration law. The most fundamental principle of immigration law is that non-citizens do not have an unqualified right to enter or remain in the country":
+Canada (Minister of Employment and  <FRAGMENT_SUPPRESSED>  at para 46.
+[78]
+It follows that Parliament has the right to enact legislation that sets out the conditions to be fulfilled by non-citizens wishing to enter and to remain in Canada. Public policy consideration may outweigh humanitarian considerations.
+[79]
+For the reasons set out above, therefore, I do not see how the wording of paragraph 37(1)(
+) violates the applicant's section 7 rights.
+[80]
+Consequently, as in <FRAGMENT_SUPPRESSED> , the applicant's argument regarding the constitutionality of paragraph 37(1)(
+) is rejected.
+Conclusion
+[81]
+The applicant did not demonstrate that his section 7 rights were breached because the case law clearly establishes that the inadmissibility hearing alone cannot engage section 7 rights.
+[82]
+In the matter at bar, the evidence considered by the ID was credible and compelling. It provided an objective basis for the ID's conclusion that there were reasonable grounds to believe that the applicant was a member of a criminal organization and that he engaged in activity that was part of a pattern of organized or planned criminal activity.
+[83]
+Regarding the delay, the applicant failed to establish that he would suffer prejudice of such magnitude as to result in an abuse of process. I note that the applicant is also inadmissible on grounds of serious criminality under paragraph 36(1)(
+) of the IRPA. This finding was not disputed even though the question of unreasonable delay also applies to it.
+[84]
+Unfortunately for the applicant, his actions led to the inadmissibility finding. He was nonetheless able to enjoy the benefits of living in Canada for almost 50 years.
+[85]
+<FRAGMENT_SUPPRESSED> , the Supreme Court held that immigration to Canada is a privilege and not a right. Not being a citizen, the applicant has no right to stay in Canada since he abused the privilege this country granted him.
+[86]
+For all these reasons, the application for judicial review is dismissed.
+) of the IRPA, a decision of the Federal Court may be appealed only if, in rendering judgment, the judge certifies that a serious question of general importance is involved.
+[88]
+<FRAGMENT_SUPPRESSED>  the Federal Court of Appeal reiterated the test for certifying a question, writing as follows at paragraph 9:
+It is trite law that to be certified, a question must (i) be dispositive of the appeal and (ii) transcend the interests of the immediate parties to the litigation, as well as contemplate issues of broad significance or general importance. As a corollary, the question must also have been raised and dealt with by the court below and it must arise from the case, not from the Judge's reasons
+(Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  at paragraphs 28, 29 and 32).
+[89]
+Moreover, for a question to be certified, it must not have already been determined:
+The applicant submitted the following questions for certification:
+) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27, infringe section 7 of the
+Canadian Charter of Rights and Freedoms
+?
+(2) If so, is the infringement subject to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society, in accordance with section 1 of the
+Canadian Charter of Rights and Freedoms
+?
+(3) Does the Immigration Division of the Immigration and Refugee Board have the jurisdiction to dispose of a motion filed under the Charter?
+(4) If so, does it have the jurisdiction to grant relief under subsection 24(1) of the
+Canadian Charter of Rights and Freedoms
+?
+[91]
+The Federal Court of Appeal has dealt with the first two questions on at least two occasions, determining that an inadmissibility finding does not engage section 7 rights: <FRAGMENT_SUPPRESSED> , above, and
+The third question was ruled on by the Supreme Court in the
+Douglas
+,
+Cuddy Chicks
+and
+trilogy, where the Court concluded that administrative tribunals have jurisdiction to determine Charter issues.
+[93]
+Having said that, I find the fourth question to have merit as it transcends "the interests of the immediate parties to the litigation". I would, however, reword the question so that it reads as follows:
+Does the Immigration Division of the Immigration and Refugee Board have the jurisdiction to grant a stay of proceedings under subsection 24(1) of the
+Canadian Charter of Rights and Freedoms
+in the context of an admissibility hearing following the referral of a report prepared under subsection 44(1) of the IRPA?
+THIS COURT ORDERS that:
+1. The application for judicial review is dismissed.
+2. The following question is certified:
+Does the Immigration Division of the Immigration and Refugee Board have the jurisdiction to grant a stay of proceedings under subsection 24(1) of the
+Canadian Charter of Rights and Freedoms
+in the context of an admissibility hearing following the referral of a report prepared under subsection 44(1) of the IRPA?
+Application dismissed.
+Editor: E. Joanne Oley
+[End of document]

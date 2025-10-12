@@ -1,0 +1,141 @@
+<FRAGMENT_SUPPRESSED>  CF 748)
+Federal Court
+Roy, J.
+July 28, 2014.
+Fiona Jane Edwards, on her own behalf, for the applicant;
+Camille Audain, for the respondent.
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Edmonton, Alberta, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2014] F.T.R. TBEd. JL.063.
+[1]
+Roy, J.
+: Fiona Jane Edwards, the applicant, seeks to appeal, pursuant to subsection 14(5) of the
+Citizenship Act
+, RSC, 1985, c C-29 [the Act], the decision of a Citizenship Judge, on September 3, 2013, to refuse her Canadian citizenship application.
+[2]
+The facts of the case are simple and undisputed. The applicant is a citizen of the United Kingdom. She immigrated to Canada on March 3, 2003. Mrs Edwards is the mother of a child born on June 1, 2002. The daughter is a citizen of the United Kingdom and Canada. The applicant acquired permanent resident status on March 15, 2005. The application for citizenship was made on May 15, 2009. Given her frequent absences from Canada for work and vacations, the applicant had accumulated 892 days of physical presence in Canada.
+[3]
+Section 5 of the Act provides for the conditions under which citizenship shall be granted. It is paragraph 5(1)(c) that is relevant for our purposes:
+Grant of citizenship
+5. (1) The Minister shall grant citizenship to any person who
+...
+(c) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, and has, within the four years immediately preceding the date of his or her application, accumulated at least three years of residence in Canada calculated in the following manner:
+(i) for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence, and
+(ii) for every day during which the person was resident in Canada after his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one day of residence;
+In her decision, the Citizenship Judge concluded that the relevant period in order to assess the residence requirements was May 15, 2005 to May 15, 2009, the day she made her application. Given that permanent residence was acquired some two months before the application to become a citizen was made, Mrs Edward showed an early interest in being awarded the Canadian citizenship.
+[5]
+However, by making her application so early after becoming a permanent resident, the applicant fell short of the number of days of residence found in paragraph 5(1)(c). Out of the 1460 days during that period, between May 15, 2005 and May 15, 2009, it is not disputed that the applicant was 203 days short as the Act seems to require at least 1095 days out of 1460 days. At 892 days, the applicant was in Canada 61% of 4 years. Indeed, the shortfall of 203 days is close to 20% short of the target.
+[6]
+In the case at hand, the Citizenship Judge considered the availability of three accepted tests for residency and chose the one requiring the physical presence for 1095 days out of 1460 days. There was no ambiguity in the choice that was made. The Citizenship Judge also specifically declined to make favourable recommendations to waive some requirements under subsection 5(3) and for a discretionary grant of citizenship under subsection 5(4) in special circumstances, concluding that there was no evidence to justify such a recommendation.
+[7]
+The applicant takes issue with the choice made by the Citizenship Judge to pick a test, one dubbed "physical presence", which resulted in the decision to dismiss her application for citizenship. She claims that the use of the criteria found in
+, [1993] 1 FC 286 [ <FRAGMENT_SUPPRESSED> ], another test that is available and has been used by some judges in some circumstances, should have produced a different result in view of her circumstances and justification for not meeting the threshold of 1095 days.
+[8]
+It will not be necessary to examine what standard of review should apply and whether or not the <FRAGMENT_SUPPRESSED> criteria could have been satisfied in this case because I have concluded that the Citizenship Judge was entitled to decide to rely on the "physical presence" test as she did.
+[9]
+Mrs Edwards does a remarkable job of presenting the views of some of my colleagues who have lamented the availability of different tests to Citizenship Judges. That has made some conclude that the <FRAGMENT_SUPPRESSED> test ought to prevail. With great respect, I disagree.
+[10]
+In spite of what would appear to many to be the intent of Parliament that a person be physically present, Thurlow ACJ ruled in
+], that it would be possible to consider a different period of time because the word "residence" is not defined in the Act. Residence does not require physical presence as long as the person has centralized her mode of living somewhere in Canada.
+[11]
+I would have thought that Parliament's intent could rather easily be deciphered. I find it difficult to accept that deemed residence is possible where a non-permanent resident is allowed, through a formula, one-half day of residence for every day that person is residing in Canada. Parliament's intent, surely, is that the non-permanent resident be in Canada for that residence to count as half for the purpose of being granted citizenship. The alternative would lead to an absurdity: a non-permanent resident could be credited on half-day of residence for residing outside of Canada. The purposive examination of the provision would lead me to conclude that Parliament intended physical presence to be the test. It is difficult to see how a complete absence from Canada can count when Parliament has expressed itself so clearly by even providing for a formula in certain circumstances. If for non-permanent residents only physical presence in Canada can satisfy the formula, I would have thought that the same physical presence would have applied to permanent residents: one cannot require physical presence for one class of applicants (non-permanent residents) and not for another (permanent residents).
+[12]
+Actually the use of the word "shall" in the chapeau of subsection 5(1), which commands an imperative (
+Interpretation Act
+, RSC, 1985, c I-21, section 11), suggests that Parliament did not intend to confer a broad discretion to Citizenship Judges, as the
+decision allows and the <FRAGMENT_SUPPRESSED> ,
+, decision suggests to a lesser extent. To my way of thinking, a construction put on paragraph 5(1)(c) which would allow someone to spend barely 79 days in Canada, like in
+, hardly conforms to a statute that speaks in terms of "for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence".
+[13]
+Indeed, Reed J in <FRAGMENT_SUPPRESSED> ,
+, seems to have recognized that the amendments to the Act in 1978 did not show an intent that physical presence for the whole three-year period was not required. She writes at page 292:
+I have read the Parliamentary debates and committee proceedings of that period and can find nothing to substantiate that conclusion. Indeed, quite the contrary seems to be the case. The requirement of three-year residence within a four-year period seems to have been designed to allow for one year's physical absence during the four-year period. Certainly, the debates of the period suggest that physical presence in Canada for 1,095 days was contemplated as a minimum. In any event, as has been noted above, the jurisprudence which is now firmly entrenched does not require physical presence for the whole 1,095 days.
+[14]
+Without further analysis, Reed J leaves the issue hanging and rather concludes that the jurisprudence "is now firmly entrenched" and it "does not require physical presence for the whole 1,095 days." She then proceeds to suggest a series of questions in order to assist in the determination of "whether Canada is the country in which he or she has centralized his or her mode of existence." (page 293)
+[15]
+I note in passing that Reed J relies on the physical presence significantly in many of the questions that should be considered under the test she devised. Question 4 puts the issue squarely: "What is the extent of the physical absences -- if an applicant is only a few days short of the 1,095-day total it is easier to find deemed residence than if those absences are extensive?"
+[16]
+I find myself in general agreement with Muldoon J in
+Re Pourghasemi
+, [1993] 62 FTR 122, a decision which came after
+, and <FRAGMENT_SUPPRESSED> ,
+, and considered both. After commenting that
+, "stretches the meaning of paragraph 5(1)(c) of the present
+Citizenship Act
+almost beyond recognition" (para 5), Muldoon J, in his colourful way, proposes the following rationale for his reading of the section that Parliament meant an accumulation of three years of residence:
+6 So those who would throw in their lot with Canadians by becoming citizens must first throw in their lot with Canadians by residing among Canadians, in Canada, during three of the preceding four years, in order to Canadianize themselves. It is not something one can do while abroad, for Canadian life and society exist only in Canada and nowhere else.
+[17]
+I share the view of Muldoon J that the reference in subsection 5(1) of "at least three years of residence in Canada" signals that Parliament meant physical presence. He said:
+3 It is clear that the purpose of paragraph 5(1)(c) is to insure that everyone who is granted precious Canadian citizenship has become, or at least has been compulsorily presented with the everyday opportunity to become, "Canadianized".
+[18]
+It is not overly surprising that the debate, involving three different ways to interpret the test of residence in the Act, has remained unresolved. Now that Bill C-24,
+An Act to amend the Citizenship Act and to make consequential amendments to other Acts
+, 2nd Sess, 41st Parl, 2014 (assented to 19 June 2014), SC 2014, c 22 (short title being
+Strengthening Canadian Citizenship Act
+), has received Royal Assent, one hopes that the uncertainty has disappeared (see clause 3 of the
+Strengthening Canadian Citizenship Act
+which replaces paragraph 5(1)(c)).
+[19]
+What is a Citizenship Judge to do in those circumstances? Justice Lutfy, before he became Chief Justice of this Court, in
+<FRAGMENT_SUPPRESSED>  ruled that Citizenship Judges may apply any of the three tests. Lutfy J was followed by Pelletier J, as he then was, in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ].
+[20]
+There have been some views expressed in the last few years proposing that the Court depart from the position expressed in 1999 that it is for the Citizenship Judge to decide on the approach to be chosen. As put aptly by Pelletier J, "[t]he function of the judge sitting in appeal is to verify that the Citizenship Judge has properly applied the test of his or her choosing." ( <FRAGMENT_SUPPRESSED> , para 9)
+[21]
+Starting perhaps with
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> . In that case, Mainville J, as he then was, wrote:
+[47] Although I am of the view that the test of physical presence for three years maintained by the first jurisprudential school is consistent with the wording of the Act, it appears to me preferable to promote a uniform approach to the interpretation and application of the statutory provision in question. I arrive at this conclusion in an attempt to standardize the applicable law. It is incongruous that the outcome of a citizenship application is determined based on analyses and tests that differ from one judge to the next. To the extent possible, coherence in administrative decision making must be fostered, as Mr. Justice Gonthier properly indicated in
+It is obvious that coherence in administrative decision making must be fostered. The outcome of disputes should not depend on the identity of the persons sitting on the panel for this result would be "[TRANSLATION] difficult to reconcile with the notion of equality before the law, which is one of the main corollaries of the rule of law, and perhaps also the most intelligible one": Morissette,
+<FRAGMENT_SUPPRESSED>  Phelan J had, the year before, found that the "strict physical presence test has become of limited, if any, use and would (if it were the appropriate test) hardly require the involvement of a citizenship judge in the mathematical calculation of physical presence." (para 24) Harrington J, in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED>  found that if the threshold of 1095 days of residence in Canada has not been met, the judge had to consider the <FRAGMENT_SUPPRESSED> test. Similarly, Barnes J in
+<FRAGMENT_SUPPRESSED>  expressed the view that he preferred the line of cases following <FRAGMENT_SUPPRESSED> ,
+, although he reckoned that "there will continue to be two lines of divergent authority on this issue and others may be quite properly disposed to follow Lam, above." (para 16)
+[23]
+Scott J, as he then was, followed the approach advocated in <FRAGMENT_SUPPRESSED> ,
+, in his decision in
+<FRAGMENT_SUPPRESSED> . There has also been some variation on that theme. Mactavish J, in
+<FRAGMENT_SUPPRESSED>  recognized that there are three approved residency tests. It would seem that the choice of tests is not as free as the
+case proposes: "If the underlying rationale for the application of a particular test is not present on the facts of the case, then the application of the test simply does not make sense. That is, it is not reasonable." (para 18)
+[24]
+With great respect, I cannot follow this line of cases. I find it impossible to relegate what I believe is the clear language of section 5 in order to apply the <FRAGMENT_SUPPRESSED> test. I would have thought that the <FRAGMENT_SUPPRESSED> test is useful in cases where the applicant is very close to the 1095-day threshold and the Citizenship Judge does not want to rely on a recommendation to the executive branch of Government, in accordance with subsection 5(4) of the Act (subsection 5(4) gives discretion to the Governor in Council for citizenship to be granted without meeting the conditions precedent; the new subsection 5(4), once Bill C-24 has been proclaimed into law, grants that same discretion in the Minister.) It is ironic that the preference for the <FRAGMENT_SUPPRESSED> test would be based on the need to standardize the applicable law as the uncertainty comes from judge-made-law created in spite of what, to some, would appear to be an unambiguous legislative pronouncement. Even the author of the <FRAGMENT_SUPPRESSED> test recognized that Parliament's intent may well be the physical presence test.
+[25]
+Part of the rationale for espousing the Koo test was that the uncertainty in the law was seen as becoming permanent (see
+, at para 46). With the passage of Bill C-24, a temporary situation would appear to have been finally remedied.
+[26]
+I cannot find any reason to do away with the physical presence test (
+Pourghasemi
+,
+). The existence of some case law to a different effect does not change the clear wording of para 5(1)(c) of the Act(see also
+<FRAGMENT_SUPPRESSED> ). The Chief Justice of this Court reviewed carefully our jurisprudence in
+<FRAGMENT_SUPPRESSED> . He concluded:
+[24] What is clear from the foregoing is that the jurisprudence pertaining to the test(s) for citizenship remains divided and somewhat unsettled.
+[25] In this context, it is particularly appropriate that deference be accorded to a citizenship judge's decision to apply any of the three tests that have a long and rich heritage in this Court's jurisprudence.
+[27]
+In my view, once the Citizenship Judge has settled on the test to be applied, the role of a judge of this Court is limited to ensuring that the test has been properly applied. "Blending" is not appropriate (
+The initial decision to rely on one test is however one that the Citizenship Judge could make. I share the view of Rennie J expressed at paragraph 53 of the decision in
+[53] It is my opinion that
+Re Pourghasemi
+is the interpretation that reflects the true meaning, intent and spirit of subsection 5(1)(c) of the Act:
+, paras 22 and 41. For this reason it cannot be said that the Citizenship Judge erred in applying the
+Re Pourghasemi
+test. Furthermore, the Citizenship Judge correctly applied the
+Re Pourghasemi
+test in determining that a shortfall of 771 days prevented a finding that 1,095 days of physical presence in Canada had been accumulated.
+[29]
+As a result, the appeal must fail. There is no order as to costs.
+THIS COURT'S JUDGMENT is that
+the appeal is dismissed, without costs.
+.........................
+Grant of citizenship
+5. (1) The Minister shall grant citizenship to any person who
+...
+(c) is a permanent resident within the meaning of subsection 2(1) of the
+Immigration and Refugee Protection Act
+, and has, within the four years immediately preceding the date of his or her application, accumulated at least three years of residence in Canada calculated in the following manner:
+(i) for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence, and
+(ii) for every day during which the person was resident in Canada after his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one day of residence;
+[4]
+Re Pourghasemi
+Pourghasemi
+[End of document]

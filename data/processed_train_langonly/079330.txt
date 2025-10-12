@@ -1,0 +1,69 @@
+<FRAGMENT_SUPPRESSED>  CF 890)
+Federal Court
+Near, J.
+July 16, 2012.
+Solicitors of Record:
+Carmelle Salomon-Labbé, Department of Justice, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Near, J.
+: Peter Misek (the Applicant) seeks judicial review of the granting of leave to appeal to the Respondent by a Designated Member of the Pension Appeals Board (Designated Member) in respect of a decision of the Review Tribunal allowing his appeal for a
+, RSC 1985, c C-8 (CPP) disability pension.
+[2]
+For the reasons set out below, this application is dismissed.
+Preliminary Matters
+[3]
+The Court agreed with the position of the Respondent that it is proper for the Attorney General of Canada as opposed to the Pension Appeals Board to be named in the Notice of Application. Accordingly, the style of cause was amended to reflect this change. In addition, I indicated during the hearing that I would not consider documents not previously before the decision-maker.
+Background
+[4]
+The Applicant made three separate applications for disability benefits based on injuries sustained in car accidents. His first application was approved and he received these benefits from 1982 to 1987. The Minister of Human Resources and Skills Development Canada (the Minister) denied a second application in 1989.
+[5]
+The Applicant applied for a third time on January 22, 2008. He claimed to have stopped working due to "Painful knees and right hip" as early as 2001.
+[6]
+By way of a letter dated June 18, 2008, the Minister denied his third application stating: "We recognize that you have identified limitations resulting from a motor vehicle accident. However, we concluded that your condition did not continuously prevent you from doing some type of work since December 2004." The Applicant was not seen as having a disability that was severe and prolonged to qualify for CPP benefits.
+[7]
+The Applicant requested that the Minister reconsider this decision. In its letter dated August 28, 2008, the Minister again concluded:
+We recognize that you have identified limitations resulting from your injuries and the degenerative disc disease of your lumbar spine and we realize that you cannot work now. However, we have concluded that your condition did not stop you from work in December 2004, the date that you were last eligible for a CPP disability benefit.
+[8]
+Thereafter, the Applicant filed a Notice of Appeal with the Office of the Commissioner of Review Tribunals (OCRT). A hearing was held before a Review Tribunal on February 3, 2011. The Review Tribunal allowed the Applicant's appeal on March 14, 2011 for the following reasons:
+[27] We find that in the real world the Appellant was not employable in 2004 and onward.
+[28] We agree with Dr. Model that he was stoical for many years, but reached a point where he could no longer work. The Appellant has proved, on the balance of probabilities, that he was incapable regularly of pursuing any substantially gainful occupation after his motor vehicle accident in August 2001, and his condition became severe as of and since that time.
+Prolonged Criterion
+[29] [...] He still suffers significant pain from degenerative disc disease and osteoarthritis in his back and other parts of his body. He still suffers from depression. He is now 65 years old, and his condition is unlikely to ever improve. For these reasons we find the Appellant's disability of indefinite duration, and is prolonged for the purposes of the CPP.
+Conclusion
+[30] The Tribunal finds that the Appellant has a severe and prolonged disability as defined in paragraph 42(2)(a) of the Canada Pension Plan. We find the Appellant was disabled and met these criteria as of his third motor vehicle accident in August 2001.
+[9]
+The Minister sought leave to appeal the Review Tribunal's decision from the Pension Appeals Board (PAB). According to the Minister, the Review Tribunal ignored or failed to consider (a) the evidence before it, (b) the Applicant's failure to follow his physician's recommendations, and (c) the Applicant's earnings contributions in 2007 and 2008 as evidence of his capacity to work.
+[10]
+The Designated Member granted leave to appeal to the Minister on this basis in a decision dated July 14, 2011. The Applicant now brings this application for judicial review of that decision.
+The sole issue before the Court is the reasonableness of the Designated Member's decision to grant leave to appeal to the Respondent.
+Standard of Review
+[12]
+In this context, the Court has held that a review of whether the Designated Member applied the appropriate legal test in granting leave to appeal is based on correctness, while the determination as to the application raising an arguable case is evaluated against the reasonableness standard (see for example
+To be granted leave to appeal by the Designated Member, the Respondent had to raise an arguable case in its application for leave. According to this Court in
+<FRAGMENT_SUPPRESSED> rguable case relates to adducing new evidence with the application or raising an issue of law or of relevant significant facts not appropriately considered by the Review Tribunal in its decision. The Federal Court of Appeal has also suggested that the term reasonable chance of success would in substance be the correct test as related to an arguable case (see
+For the purposes of judicial review, the application for leave to appeal on becoming the Notice of Appeal with a grant of leave are deemed to be the reasons for the Designated Member's decision (see
+As is evident in the application for leave to appeal and in the Respondent's submissions, the Minister focused on demonstrating an arguable case by raising three errors in the consideration of relevant significant facts in line with <FRAGMENT_SUPPRESSED> , above. The Respondent submitted that the Review Tribunal failed to consider and adequately analyze evidence before it. More specifically, it noted there was no evidence of the Applicant pursuing training and his previously measured academic and computer skills were not addressed. Similarly, the Review Tribunal did not direct its attention to a statement on his questionnaire that he could sit and stand for a few hours as well as the advice of a physician that the Applicant seek sedentary work. The Respondent further claimed that the Review Tribunal erred by failing to consider the Applicant not following his physician's recommendations for treatment. Finally, the Respondent raised the Applicant's earnings and contributions in 2007 and 2008.
+[16]
+Based on this material, I am satisfied that it was reasonable for the Designated Member to conclude the Respondent raised an arguable case because these are relevant significant facts that should have been appropriately considered by the Review Tribunal. It was justifiable to recognize the potential relevance of those facts to the overall determination of the Applicant's claim for disability benefits. They relate to his ability to work, possibly in different capacity, as well as efforts to seek training and follow through with treatment.
+[17]
+The Applicant's position amounts to asking this Court to reweigh the evidence or delve into the merits of the Review Tribunal's determination that he suffers from a severe and prolonged disability - both issues are outside the scope of a judicial review related to the Designated Member's grant of leave to appeal. In this context, my role is to assess whether the granting of leave based on the arguable case test was within the range of possible, acceptable outcomes (
+The Applicant disputes the analysis provided by the Respondent of evidence not being appropriately considered. He takes issue with the timeline provided and the reference to computer and academic skills tests taken years earlier. He also asserts that he never avoided his physician's advice but followed that of his family physician, Dr. Model. He insists that Dr. Ellis misdiagnosed his condition and this explains his optimistic assessment.
+[19]
+Further assessing the impact of this evidence, however, relates to the merits of the case on appeal. His arguments do not undermine the reasonableness of the Designated Member's determination. There were relevant facts not appropriately considered by the Review Tribunal as raised in the Respondent's application for leave to appeal, irrespective of whether the Applicant disagrees with the characterization of those facts as significant.
+[20]
+At this stage, the Designated Member is merely assessing whether there are relevant significant facts not appropriately considered. It must be borne in mind that "[a] leave to appeal proceeding is a preliminary step to a hearing on the merits. It is a first, and lower, hurdle for the applicant to meet than that that must be met on the hearing of the appeal on the merits. The Applicant, at the leave stage, does not have to prove his or her case" (
+<FRAGMENT_SUPPRESSED> ). They must still raise some arguable ground on which the proposed appeal might succeed ( <FRAGMENT_SUPPRESSED> , above at para 39). The Pension Appeals Board remains tasked, however, with determining whether those facts ultimately warrant reversing the Review Tribunal's decision.
+[21]
+The Applicant does raise a valid point that the failure to consider the earnings and contributions in 2007 and 2008 cannot be considered an error of the Review Tribunal where that information was not available prior to issuing the decision. The Respondent acknowledges, and I agree, that this information should have been explicitly labelled as new evidence in its application for leave to appeal. I am, however, prepared to overlook this error as it is one of various bases raised by the Respondent that could reasonably justify the granting of leave to appeal.
+[22]
+Contrary to the Applicant's submissions on procedural fairness concerns, there was also no requirement to verify the facts presented with him prior to making an application for leave to appeal.
+Conclusion
+[23]
+The Designated Member reasonably concluded, based on the facts presented, that the Respondent should be granted leave to appeal the Review Tribunal's decision. Accordingly, this application for judicial review is dismissed.
+THIS COURT'S JUDGMENT is that
+this application for judicial review is dismissed.
+.........................
+Conclusion
+[End of document]

@@ -1,0 +1,63 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 510)
+Federal Court
+Mosley, J.
+Brjorn Harsanyi, for the applicant;
+Rick Garvin, for the respondent.
+Solicitors of Record:
+Stewart Sharma Harsanyi, Calgary, Alberta, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Calgary, Alberta, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mosley, J.
+: The Refugee Protection Division of the Immigration and Refugee Board accepted that the applicant, Mr. Coreas Contreras, faced a personal risk to his life in El Salvador and that if he returned, it was likely that gang members would at some point find him. The Board Member found, however, that the risk faced by Mr. Coreas was common to that shared by small business owners in El Salvador. Accordingly, she determined that he was not a person in need of protection as provided for under s 97 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA].
+[2]
+For the reasons that follow, I find that the Member erred and that this matter must be returned to the Board for a fresh determination.
+Mr. Coreas recounted a history of extortion demands, threats and violence from the Mara 18 gang beginning in March 2000 and continuing to 2011. He sought aid from the police and was advised to move. He did so on several occasions but the demands continued. At various times over the course of the next eleven years he paid the extortion until the amounts demanded became too great for him to manage and he would stop. The threats and violence would then resume. His son was threatened at school. His store and parents' home were vandalized, his parents were assaulted. His father suffered a heart attack from which he died.
+[4]
+The applicant went into hiding in another city, Santa Marta. On January 15, 2011, the gang found him there. They came to his house and beat him up in front of his family. The neighbours heard the children screaming and came to the house with rocks and sticks to help, scaring off the gang. Mr. Coreas was taken to hospital with stab wounds to the leg and stomach. At that point, he realized he had to leave the country.
+[5]
+Mr. Coreas left El Salvador in March 2011. He spent several months in the US and then crossed into Canada to seek protection as he has a sister in Red Deer, Alberta.
+The applicant's claim for refugee protection was abandoned at the Refugee Protection Division (RPD) hearing as he conceded that there was no nexus to a Convention ground. The claim was pursued on the basis of being a person in need of protection. Mr. Coreas' evidence was found to be credible and consistent with the country documentation. The Member expressed sympathy for the horrific history Mr. Coreas had experienced. Given the facts presented, which the Member accepted, there was no question of state protection or of an internal flight alternative.
+[7]
+The Member found that Federal Court jurisprudence held that a personalized risk which was also experienced by a wide subgroup of the population did not meet the test for s 97. A key matter, in her view, was the initial reason for targeting. Mr. Coreas had not been picked out for any personal reason at the outset, but simply because he was a person who worked in a small business. His circumstances were part of the "general practice of violence, intimidation, and extortion that occurs in El Salvador."
+[8]
+The Member took note of the country documentation showing that failure to comply with gang demands could include consequences reaching the risk of being killed. However, this was not unique to Mr. Coreas. The Member commented that many Federal Court cases dealing with generalized risk included situations in which the consequences to the claimant included death threats.
+[9]
+The Member stated that she had no jurisdiction to grant relief against the hardships the applicant faced in his home country. For s 97 protection, she found, the claimant must face a personal risk that is not faced generally.
+The sole issue in my view is whether the board member made a reasonable decision based on a reasonable assessment of the evidence. This is not a case in which the Member was required to interpret the statute but rather to apply the statute as it has been interpreted by this Court to the facts of the case. That is a mixed question of fact and law calling for the reasonableness standard:
+<FRAGMENT_SUPPRESSED>  (Gleason J) at paras 9-17.
+[11]
+The applicant raised another issue. He contends that the member erred in failing to apply the interpretation of s 97 set out by Justice Campbell in
+I note that Justice Campbell's reasons in <FRAGMENT_SUPPRESSED> were released approximately five weeks after the Board's decision in this matter. Moreover, as of the date of writing of this decision the Reasons for Order and Order in <FRAGMENT_SUPPRESSED> had yet to be published on the Federal Court website. The Member could not be faulted, therefore, for not having included those reasons in her review of the jurisprudence and analysis.
+The elements of a claim under s 97 were set out by Justice Zinn in
+<FRAGMENT_SUPPRESSED>  97(1)(b)(ii) of the Act defines a person in need of protection as "a person in Canada whose removal to their country or countries of nationality ... would subject them personally to a risk to their life or a risk of cruel and unusual treatment or punishment if the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country."
+[26] Parsing this provision, it is evident that if a claimant is to be found to be a person in need of protection, then it must be found that:
+a. The claimant is in Canada;
+b. The claimant would be personally subjected to a risk to their life or to cruel and unusual treatment or punishment if returned to their country of nationality;
+c. The claimant would face that personal risk in every part of their country; and
+d. The personal risk the claimant faces "is not faced generally by other individuals in or from that country."
+All four of these elements must be found if the person is to meet the statutory definition of a person in need of protection; it is only such persons who are permitted to remain in Canada.
+[14]
+Justice Zinn went on to observe, at paragraphs 27 and 28, that a finding of personal risk was essential before determining whether it was a risk faced generally by others in the country and that the risk must be that stated in subparagraph 97(1)(b)(ii): a risk to their life or to a risk of cruel and unusual treatment or punishment. It is only after finding that there is such a personal risk to the individual claimant - for if there is none that is the end of the matter - that the decision-maker may go on to consider whether that risk is one faced generally by the population.
+[15]
+Justice Gleason adopted a somewhat different view in
+<FRAGMENT_SUPPRESSED> holding that a risk is no longer general if an individual is subject to a personal risk to his life or a personal risk of cruel and unusual treatment or punishment. She went on to review the developing jurisprudence in this Court. That jurisprudence has been described in other decisions as divided over the appropriate interpretation to be given to the notion of "generalized risk":
+In my view, the suggested division within the Court is more apparent than real. These cases turn on their facts. In those decisions which have found for the applicant, the history of abuse is aggravated, persistent and distinct from that experienced by others likely to form part of the group to which the applicants belong. Where the claim fails, the evidence falls short of establishing that the applicant would face a risk in the future with any greater likelihood than any other member of their comparator group in their country of origin. See for example
+<FRAGMENT_SUPPRESSED> the cases cited therein.
+[17]
+I note that in <FRAGMENT_SUPPRESSED> , above, Justice Campbell held that as a matter of law the RPD must define the characteristics and size of the population against whom the applicant's experience is being compared. At paragraph 8, he stated that it is not enough to say that the sub-group is "other shopkeepers similarly targeted" and the RPD must determine the members of the group that face the risk in common with the applicant and the size of that population of people. This would effectively shift the burden of proof from the applicant to the RPD and goes beyond what the Courts have to date required in the application of s 97. See for example
+In this case, the RPD found that the applicant faces a personal risk to his life or of cruel and unusual treatment if he returns home. The Member accepted that Mara 18 had kept track of Mr. Coreas over a decade and had followed him from neighbourhood to neighbourhood, that they "must maintain fear and compliance to their demands in order to perpetuate their power" (para 9 of the decision) and that "If you return to your country, it is likely that gang members would at some point find you again and resume their demands" (para 10). A reasonable conclusion on the evidence which the Member accepted would have been that the applicant was subject to a forward-looking personalized risk.
+[19]
+Where the Member erred was in conflating the current risk with the original reason for that risk. In her reasons for decision, the Member stated that "A key matter in this analysis is the initial reason for the targeting" (para 15). However, the fact that the risk had initially arisen from criminal activity which might have threatened any small business operator was not relevant to the personalized situation which had eventually developed and which was the basis for the s 97 claim:
+<FRAGMENT_SUPPRESSED> . Section 97 must not be interpreted in a manner that strips it of any content. The issue is not what first created the risk, but whether it is a risk faced by the claimant personally and not faced generally by other individuals in the country:
+The question then for the Court is whether the Member's decision requires deference. I agree with the applicant that the Member's reasons disclose that she focused unduly on the origin of the risk that he faced as a small business operator and did not adequately consider whether that risk had mutated from there over the years as Mr. Coreas defied the Mara 18 demands. Given the Member's findings, I do not think that it was a possible, acceptable outcome to conclude that Mr. Coreas was not a person in need of protection.
+[21]
+No questions were proposed for certification.
+THIS COURT'S JUDGMENT is that
+the application is granted and the matter is remitted to the Immigration and Refugee Board for redetermination in accordance with these reasons. No question is certified.
+.........................
+[End of document]

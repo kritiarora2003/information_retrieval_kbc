@@ -1,0 +1,120 @@
+Federal Court
+January 10, 2014.
+Michel Girard, for the respondent.
+Solicitors of Record:
+Giovanni Mancini, Montreal, Quebec, for the applicant;
+Michel Girard, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2014] F.T.R. TBEd. FE.018.
+[1]
+[Translation]: This is an application for judicial review filed by the applicant under section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7, regarding a decision dated October 17, 2012, by an adjudicator appointed pursuant to the
+Public Service Labour Relations Act
+(SC 2003, c 22, s 2). The application for judicial review seeks to quash a part of the adjudicator's decision that deals with the amount awarded to the applicant for his first overtime shift.
+Factual background
+[2]
+The applicant is a corrections officer at La Macaza Penitentiary in Quebec.
+[3]
+On December 20, 2011, he escorted an inmate outside of the Headquarters area during a non-contiguous overtime shift, that is, on a day of rest. This overtime shift started at 7:00 a.m. and ended at 3:00 p.m. It was followed by a second eight-hour overtime shift, from 3:00 p.m. to 11:00 p.m., for which no advance notice was given.
+[4]
+The applicant was unable to take any meal breaks at any time during his two overtime shirts because there was no one to cover for him.
+[5]
+The applicant received 16 hours at double time for his overtime hours, two overtime meal allowances of $10 each and two paid 30-minute meal breaks at double time. However, following the final-level grievance response, the employer withdrew the two $10 meal allowances and the two meal breaks paid at the overtime rate.
+[6]
+The grievance was referred to the adjudicator to determine what the applicant was entitled to receive.
+The adjudicator referred to articles 21.07 and 21.15 of the collective agreement for the Correctional Services Group signed on June 26, 2006, by the Treasury Board and the Union of Canadian Correctional Officers - Syndicat des agents correctionnels du Canada - CSN (the collective agreement), appendices "C" and "D" to the collective agreement, and the Travel Directive of the National Joint Council (NJC Directive). These provisions are reproduced in Appendix "A", at the end of these reasons for judgment.
+[8]
+He found that article 21.15 and Appendix "C" cover the payment of meals and meal breaks for contiguous overtime shifts and do not apply to the applicant's first overtime shift. Section 5 of Appendix "C" expressly provides that neither that appendix nor article 21.15 applies if the employee is scheduled to work overtime on a day of rest and has been given prior notification to that effect, as in the present case. Article 21.15 and Appendix "C" apply only to the applicant's second shift, given that he did not receive prior notification of it.
+[9]
+The adjudicator found that Appendix "D" applies to both shifts, which under section 3(a) entitled the applicant to be reimbursed for reasonable meal expenses incurred "as normally defined by the Employer". Considering that Mr. Kearney, who works for the employer in a labour relations management position, testified that the employer uses the meal rates in the NJC Directive to determine what reasonable expenses may be reimbursed in accordance with Appendix "D", the adjudicator awarded the applicant a lunch allowance of $14.60 at the midpoint of his shift (paragraph 40 of the decision).
+[10]
+The adjudicator therefore determined that for his first overtime shift, the applicant was entitled to eight hours at double time and one meal, lunch, at the midpoint of his shift.
+[11]
+For his second, unscheduled shift, the applicant was entitled to eight hours at double time for the hours worked, one hour at double time for the meal break that he was unable to take, $40.30 for dinner and $15.35 for breakfast.
+At issue is whether the adjudicator's decision is reasonable.
+Standard of review
+[13]
+The adjudicator's decision concerns the interpretation of the collective agreement and its appendices, as well as his assessment of the evidence supporting the grievance. The standard of review in similar cases is reasonableness (
+<FRAGMENT_SUPPRESSED> ). The Court must therefore consider whether the findings are justified, transparent and intelligible, and fall "within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" (
+The applicant submits that the parties to the collective agreement intended that corrections officers should have a half-hour meal break or, failing that, a half hour's pay at the applicable rate when an overtime shift is worked on a day of rest, or when any full period of eight hours is worked.
+[15]
+The adjudicator's decision is therefore unreasonable because it contradicts the parties' intentions and the evidence. In particular, he erred in ignoring the evidence showing that the applicant has always been entitled to paid meal breaks on his overtime shifts, including those worked on his days of rest. Moreover, in the present case, the employer gave the applicant an allowance for the two half-hour meal breaks that he was unable to take, and it was not until July 19, 2012, six years after the parties signed the collective agreement, that the employer changed its position and denied him a paid meal break, relying on a 2012 policy known as Bulletin 2012-11.
+[16]
+The adjudicator confused two concepts: allowances on the one hand and meal breaks on the other.
+[17]
+The applicant suggests that the only reasonable interpretation of articles 21.07 and 21.15 of the collective agreement and of its Appendix "C" entitles corrections officers to a meal break for each full period of eight hours worked, regardless of whether or not it is overtime work.
+[18]
+If for some absurd reason the parties to the collective agreement had intended to deny an officer working 16 hours a meal break on the first shift, they would have expressed this clearly in the agreement, which they did not do.
+The respondent submits that the provisions of the collective agreement are clear and unequivocal and that they create a distinction between pay for meal breaks during overtime hours worked just before or just after scheduled working hours and with overtime hours worked with prior notice.
+[20]
+The adjudicator's interpretation of the collective agreement is reasonable. He correctly stated that the more specific provisions of appendices "C" and "D" take precedence over articles 21.07 and 21.15, which are more general provisions (
+Section 5 of Appendix "C" expressly states that where an employee is scheduled to work overtime on a day of rest, the provisions of article 21.15 and the benefits of Appendix "C" apply only with respect to overtime hours worked without prior notification. Because the applicant was given prior notification of his first shift on a day of rest, the monetary benefit set out in article 21.15 of the collective agreement and in section 6 of Appendix "C" does not apply to him.
+[22]
+Moreover, it was reasonable for the adjudicator to find that the half hour of overtime pay in lieu of an untaken meal break, as set out in article 21.07, does not apply to the applicant. Article 21.07 is found under the "General" heading, applies only to normal hours worked and does not mention overtime hours. The collective agreement contains specific provisions dealing with overtime situations.
+[23]
+The applicant criticizes the adjudicator for having ignored evidence of the employer's previous practices. However, evidence of past practice is extrinsic evidence. It is well established that when an adjudicator finds no ambiguity in how the document under consideration is to be interpreted, it is open to the adjudicator to not consider other evidence, such as extrinsic evidence (
+<FRAGMENT_SUPPRESSED>  (FCA) at para 11). In the present case, the collective agreement is clear, and there was no need for the adjudicator to consider the issue of extrinsic evidence.
+[24]
+The evidence shows that the employer did not have the same interpretation of the collective agreement as the one alleged by the applicant. Mr. Kearney testified that Bulletin No 2006-11 was drafted and then disseminated across the country to ensure that the collective agreement is applied uniformly with respect to the reimbursement of meals and the payment of meal breaks.
+The Court is of the opinion that the reasons for decision, at paragraphs 35 to 40, which aim to resolve the issue in this case, that is, to what benefits was Mr. Bernatchez entitled on his first overtime shift, are not unreasonable.
+[26]
+The Court's job in such situations is not to determine the best answer to be given to the questions submitted by the parties. Given the specialized expertise that adjudicators are recognized as having, the role of the Court must be limited to reviewing whether the adjudicator's decision meets the standard of reasonableness as set out in <FRAGMENT_SUPPRESSED> .
+[27]
+In the case at bar, the adjudicator justified his finding by applying a specific provision dealing with a particular situation, rather than a general provision, to determine the rights and responsibilities of the parties (paragraph 35 of the decision). This approach is entirely logical.
+[28]
+The adjudicator's interpretation of the provisions of the collective agreement, its appendices and the NJC Directive in Appendix "A" is justifiable, intelligible and based on evidence. The Court's intervention is unwarranted in the circumstances.
+[29]
+However, the Court acknowledges that another interpretation could have been given, but the part of the decision in issue here has sufficient reasons, and its conclusion falls within the range of possible, acceptable outcomes which are defensible in respect of the facts and law ( <FRAGMENT_SUPPRESSED> at para 47).
+[30]
+At the suggestion of this Court, the parties agreed that the winning party would be awarded an amount of $1,500 for costs, plus GST and disbursements.
+THE COURT ORDERS AND ADJUDGES that
+the application for judicial review be dismissed. The applicant shall pay the respondent an amount of $1,500 as costs, plus GST and disbursements.
+Appendix "A"
+Collective agreement for the Correctional Services Group, signed on June 26, 2006, by the Treasury Board and the Union of Canadian Correctional Officers - Syndicat des agents correctionnels du Canada - CSN
+21.07 Except as may be required in a penitentiary emergency, the Employer shall:
+a. grant a Correctional Officer a paid thirty (30) minute period, away from his work post, to have a meal within the institution, for every complete eight (8) hour period,
+and
+b. notwithstanding paragraph (a) above, a Correctional Officer may exceptionally be required to eat his or her meal at their work post when the nature of the duties makes it necessary.
+c. In the event that the Employer is unable to grant an employee a meal break, in lieu thereof the employee shall receive an additional one half (½) hour of compensation at time and one half (1 ½).
+. . .
+21.15 Overtime Meal Allowance
+a. An employee who works three (3) or more hours of overtime immediately before or following the scheduled hours of work shall be reimbursed expenses for one (1) meal in the amount of ten dollars ($10.00) except where a free meal is provided.
+b. When an employee works overtime continuously beyond the period provided in (a) above, he or she shall be reimbursed for one (1) additional meal in the amount of ten dollars ($10.00) for each four (4) hour period of overtime worked thereafter, except where a free meal is provided.
+c. Reasonable time with pay, to be determined by management, shall be allowed the employee in order that the employee may take a meal break either at or adjacent to his or her place of work.
+d. When an employee is on travel status, meal and lodging allowances shall be those provided by Treasury Board policy.
+OVERTIME MEAL ALLOWANCE
+In view of the unique requirements found in the Correctional Service of Canada, and for the duration of the Correctional Services Group Collective Agreement, the Employer agrees to the following interpretation and application of the Overtime Meal Allowance.
+1. The Overtime Meal Allowance will not be paid when an employee is provided with a meal(s) at departmental expense.
+2. The "free meal" to be provided in lieu of the Overtime Meal Allowance means a regular full course meal as prepared in the institution where the employee is employed.
+3. A snack or sandwiches will not be considered by the Employer as a full course meal.
+4. Notwithstanding the provisions of clause 21.15, when there is a reasonable expectation that an employee will work the full eight (8) hours' overtime shift, the first (1st) meal break will be allowed prior to the working of the first three (3) hours of overtime, and the second (2nd) meal break will be allowed after approximately four (4) hours of overtime have been worked.
+5. Where an employee is scheduled to work overtime on a day of rest or on a designated paid holiday, the provisions of clause 21.15, and this appendix, shall be applicable to the employee only with respect to such additional overtime hours which the employee may work in excess of the employee's prior scheduled hours of overtime on that day without prior notification.
+6. In the event that the Employer is unable to grant an employee reasonable time off with pay for the purpose of taking an overtime meal break, in lieu thereof the employee shall receive an additional one-half (½) hour of overtime compensation at the same overtime rate of the shift completed.
+INMATE ESCORTS
+For the duration of the Correctional Services Group Collective Agreement, the Employer agrees to the following:
+1. To the extent practicable, the Employer will endeavour to avoid assigning Correctional Officers on inmate escorts on other than their regular working days.
+2. When an officer is required to escort an inmate outside of the Headquarters area the employee will be compensated as follows:
+a. the total period during which the officer is escorting the inmate or has the inmate under visual surveillance will be considered as time worked and the officer will be compensated at the applicable straight time and/or overtime rate;
+b. an officer who is required to escort inmates at a time which is outside the officer's normal regular scheduled hours of work will be compensated at the applicable overtime rates;
+c. an officer who escorts an inmate for a period of less than eight (8) hours will receive his or her regular pay for the day, that is eight (8) hours. However, on these occasions, where practicable, an officer may be required to perform other correctional officer duties for the balance of the eight (8) hour period;
+d. on a statutory holiday or on a day of rest the employee will be compensated at the applicable overtime rate for the actual hours worked but in any event, no less than the equivalent of eight (8) hours at the straight-time rate;
+e. all hours included between the time of reporting to the institution until the time of return shall be considered as hours worked when these hours are consecutive without interruption by overnight stopover for a suitable rest period;
+f. when an officer's journey is interrupted by an overnight stopover the officer will be paid up to the time of the officer's arrival at his or her destination including normal travelling time to register at a hotel and will be paid for normal travelling time from the hotel to the officers point of departure. Thus, all hours between the normal time of registration at the hotel until the time of departure from the hotel will not be considered as hours worked;
+g. on an inbound or outbound journey, without an inmate, the correctional officer will be compensated for his regular hours of work as if he or she had been working and the remaining time in travel to be compensated at the applicable overtime rate to a maximum of eight (8) hours;
+h. on the return journey after a stopover and when escorting an inmate, the officer will be compensated as in paragraph (a) above;
+i. when a Correctional Officer, who has been performing escort duty outside the officer's Headquarters area, does not have a reasonable rest period between the completion of the officer's escort duty and the start of his or her next scheduled shift, the officer will not be required to perform his or her duties for that day, however, the officer will receive a day's pay and the eight (8) hours will be deducted from the compensation earned during the period of escort.
+3. When an officer is required to escort an inmate outside of the officer's Headquarters area the officers will be subject to the following travelling conditions:
+g. an officer will be reimbursed for reasonable expenses incurred as normally defined by the Employer;
+h. an officer who is required to escort an inmate on a journey involving at least nine (9) hours will be given an overnight stopover whenever it is expected that the journey will exceed twelve (12) hours from the time of departure from the institution to the time of return to the institution;
+i. whenever it is expected that an officer may be required to drive more than eighty (80) kilometers (fifty (50) miles) in any day beyond the number of kilometers normally defined by the Employer the officer will be given an overnight stopover.
+. . .
+Travel Directive of the National Joint Council
+3.2.9 Meals
+A traveller shall be paid the applicable meal allowance for each breakfast, lunch and dinner while on travel status.
+Meal allowances shall be reimbursed in accordance with the rates specified in Appendix C or D, as applicable.
+. . .
+Reimbursement of meals for shift workers shall be based on the meal sequence of breakfast, lunch and dinner, in relation to the commencement of the employee's shift.
+.........................
+APPENDICE « C »
+[End of document]

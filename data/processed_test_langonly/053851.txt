@@ -1,0 +1,700 @@
+[English language version follows French language version]
+Federal Court
+Hughes, J.
+Anthony G. Creber, Jay Zakaib, John Norman and Cristin Wagner, for the applicant, Eli Lilly Canada Inc;
+Jonathan Stainsby, Andrew Skodyn and Andy Radhakant, for the respondent, Novopharm Limited.
+Solicitors of Record:
+Gowling Lafleur Henderson LLP, Ottawa, Ontario, for the applicant;
+Heenan Blaikie LLP, Toronto, Ontario, for the respondent, Novopharm Limited;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario,  for the respondent, The Minister of Health.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2007] F.T.R. TBEd. JN.022.
+[1]
+Le Dr Williams
+M. Murphy
+M. Thisted
+M. Press
+Le Dr Healy
+M. Greco
+Mme Hucman
+<FRAGMENT_SUPPRESSED>  (CAF).
+[38]
+43(2) After the patent is issued, it shall in the absence of any evidence to the contrary, be valid and avail the patentee and the legal representatives of the patentee for the term mentioned in section 44 or 45, whichever is applicable.
+53(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, of the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading.
+[92]
+LA CHARGE DE LA PREUVE
+[100]
+Whirlpool
+(3) The specification of an invention must
+. . . . .
+b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct, compound or use it.
+[130]
+Halsbury's Laws of England
+Journal of Medical Chemistry
+FreeWorld Trust c. Électro Santé Inc.
+<FRAGMENT_SUPPRESSED> , paragraphe 80:
+Q D'accord.
+(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, of if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading
+[167]
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+CONCLUSION
+[191]
+LA COUR STATUE CE QUI SUIT:
+Hughes, J.
+[Translation]: This is an application for prohibition brought under the provisions of the Patented Medicines (Notice of Compliance) Regulations, SOR / 93-133 as amended (NOC Regulations) by Eli Lilly Canada Inc., asking the Court to prohibit the Minister of Health from issuing a Notice of Compliance to Novopharm Limited in respect of tablets for oral administration of drugs containing olanzapine in strengths of 2.5 mg, 5 mg, 7.5 mg, 10 mg and 15 mg until the expiry of Canadian Letters Patent No. 2, 041, 113 (the ‘113 patent). For the reasons that follow, I find that Lilly has not demonstrated that the allegation by Novopharm that the specification of the ‘113 patent is insufficient is not justified. This application is dismissed with costs to the Respondent Novopharm.
+The Issues
+[2]
+A number of issues have been raised in this proceeding. I will discuss them in the following paragraphs:
+1.
+Abuse of Process
+(Paragraphs 14 to 29)
+What is the effect of Novopharm having served a first Notice of Allegation alleging invalidity of the ‘113 patent, Lilly having commenced proceedings in respect thereof and filed its affidavit evidence, only to have Novopharm withdraw its NOA and subsequently file another NOA alleging invalidity which is the basis for this present proceeding
+2.
+The Apotex Proceedings
+(Paragraphs 30 to 99)
+What is the effect of a very recent decision of this Court respecting the validity of the ‘113 patent, not involving Novopharm but a different generic, Apotex.
+3.
+Validity of the ‘113 Patent
+(Paragraphs 100 to 190)
+a) Who Bears the Burden (Paragraphs 100 to 102)
+b) Construction (Paragraphs 103 to126)
+c) Sufficiency (Paragraphs 127 to 165)
+d) Section 53 (Paragraphs 166 to 173)
+f) Obviousness (Paragraphs 177 to 180)
+g) Double Patenting (Paragraphs 181 to 185)
+h) Utility (Paragraphs 186 to 190)
+I will first list the witnesses then consider each of these issues and sub-issues.
+Lilly filed affidavit evidence of thirteen witnesses in all. All but three (Pullar, Forman and Schuurmans) were offered as experts. Four of the expert witnesses Drs. Williams, Bauer, Thisted and Szot provided further evidence in reply together with another witness offered as expert, McEvoy. All but the law clerk, Schuurmans, were cross-examined. These witnesses are:
+1.
+(factual) former head of a neuroscience research group  <FRAGMENT_SUPPRESSED> ;
+2.
+– Medicinal Chemist who researches in this area and interprets the prior art for anticipation, obviousness (including selection) and double patenting;
+3.
+– Medicinal Chemist and neuropsychopharmacologist who interprets the prior art for anticipation, obviousness (including selection) and double patenting;
+4.
+– Chemist who review the references relied upon for anticipation;
+5.
+– Toxicologist who testifies to the unobviousness of the reduced toxicity exhibited by olanzapine and fraud allegation including whether the Lilly dog study was flawed;
+6.
+Dr. Williams
+– Psychiatrist who testifies to the unobviousness, unexpected benefits and commercial success of olanzapine;
+7.
+– Patent Agent who testifies to the practice and procedure of the Canadian Patent Office responds to the allegations of fraud and double patenting; I gave no weight to those portions of his evidence that purported to give opinions as to the law;
+8.
+(factual) – U.S. Patent Attorney, involved in U.S. proceedings in which the dog study was an issue, who provides information regarding (1) the dog study done by Ivax (known as the MPI Study) and (2) the dog study conducted by another defendant in the U.S. action, Dr. Reddy’s Laboratories, Ltd. (the Calvert dog study). I gave no weight to those portions of his evidence that purported to give evidence as to scientific matters.
+9.
+– Veterinarian and comparative human and animal biomedicine. He deals with dog study matters.
+10.
+Dr. Thisted
+– Biostatistician who responds to the allegation that the results of the dog study were not statistically significant;
+11.
+– Economist who testifies as to the commercial success of ZYPREXA, and
+12.
+(factual) – Law Clerk who provides background information in the first NOA and provides a better copy of one document.
+13.
+– Psychiatrist and Co-Principal Investigator of CATIE study who addressed new issues raised by Drs. Rosenheck and Leber.
+[4]
+Novopharm provided affidavit evidence from eight witnesses all of whom except one, Ms. Hucman, a law clerk, were offered as experts. All of them, including the law clerk, were cross-examined. These witnesses are:
+1.
+a medicinal chemist who testifies as to the state of the art on the 1980’s and obviousness;
+2.
+a medicinal chemist who testifies as to anticipation and obviousness;
+3.
+Dr. Healy
+a psychiatrist who acts as an independent consultant, on occasion to Lilly. He testifies as to anticipation and obviousness and the efficacy and side effects of olanzapine;
+4.
+a psychiatrist who is involved in monitoring in the order of 100,000 patients affected by schizophrenia. He testifies as to the efficacy and side effects of olanzapine;
+5.
+Dr. Greco
+a veterinary endocrinologist who testifies as to dog studies matters;
+6.
+a medical doctor specialising in internal medicine. He testifies as to toxicological matters;
+7.
+a medical doctor previously employed by the United States Food and Drug Administration (USFDA) and former director of the neuropharmalogical division of the USFIA. He testifies as to the claims to superiority of olanzapine and regulatory matters;
+8.
+Ms. Hucman
+, Law Clerk, a factual witness who submitted several documents referred to in the NOA.
+[5]
+I pause to comment that the Canada Evidence Act, R.S. 1985, c. C-5, section 7 provides that a party cannot submit the evidence of more than five expert witnesses without leave of the Court. I am sure that certain jurisprudence of this Court has lead some to believe that this means five witnesses per issue. I leave that for another day.
+[6]
+The Federal Court of Appeal in  <FRAGMENT_SUPPRESSED> has told us that validity is a single issue. That is the only issue before the court in this proceeding.
+[7]
+I remarked in open Court that the parties should limit themselves to five experts. This went unheeded largely because it was in the parties’ mutual interest to do so. It must be pointed out how difficult it is for a court  <FRAGMENT_SUPPRESSED>  proceedings to assimilate masses of purportedly expert opinions, predominantly on scientific matters, all in written form, often comprising several volumes. Judges are human, not computers.
+[8]
+I provide these remarks as a caution. The number of witnesses and volume of documents must be reduced  <FRAGMENT_SUPPRESSED>  proceedings. I refer to this matter again when dealing with costs.
+[9]
+Novopharm argued that several paragraphs in the affidavits of Lilly’s witnesses Drs. Szot, Mailman, Williams (2), Bauer (2) and Thisted ought to be struck out as not being properly addressed to the appropriate issues.
+[10]
+I view these arguments as marginal. No parts of the impugned evidence is so irrelevant as to warrant striking out. I will give the evidence appropriate weight.
+United States Decisions
+[11]
+The United States District Court for the Southern District of Indiana in  <FRAGMENT_SUPPRESSED>  a United States Patent which is very similar to the ‘113 patent at issue here. Much of the prior art considered here was considered there. The dog study was at issue there as well as here. That Court upheld the validity of the patent. That decision was affirmed by the United States Court of Appeals for the Federal Circuit (CAFC) on December 26, 2006, 471 F. 3d 1369.
+[12]
+It was argued by Novopharm that the effect of those decisions, particularly as to the issue of obviousness, is seriously in question having regard to the subsequent decision of the United States Supreme Court in  <FRAGMENT_SUPPRESSED> .
+[13]
+I decline to enter into any consideration of these United States Court decisions. While decisions of foreign Courts, particularly superior and appellate Courts of respected jurisdictions such as the United States are frequently instructive, it is not the function of this Court to consider whether an earlier decision of a foreign court would have been differently decided in view of a later decision of a higher court of that country nor should this court consider as binding in any way a decision of a foreign court even if the patent and parties are similar and related although the decision may be instructive.
+Abuse of Process
+[14]
+Lilly raises a preliminary argument that Novopharm’s Notice of Allegation dated June 20, 2005, which is the basis for Lilly’s application for prohibition to this Court, is an abuse. The basis for this argument is that Novopharm had served upon Lilly an earlier Notice of Allegation, dated August 5, 2004, in which Novopharm had stated that it had made an application to the Minister for a Notice of Compliance to sell olanzapine tablets in Canada of 2.5, 5, 7.5, 10, 15 and 20 mg strengths and that Novopharm alleged that the pertinent claims of the ‘113 patent were invalid. Upon being served with this first Notice of Allegation, Lilly commenced proceedings in this Court (T-1734-04) under section 6 of the NOC Regulations putting at issue the allegations as to invalidity. Lilly filed its affidavit evidence in chief. Near the day that Novopharm was due to file its evidence Novopharm withdrew its Notice of Allegation. No reason or explanation for such withdrawal was given by Novopharm. This Court by Order dated June 19, 2006 in T-1734-04 permitted the proceedings to be discontinued and, awarded Lilly its costs. The issue of abuse was not addressed in the formal Order however, Prothonotary Tabib said at paragraph 9 of her Reasons:
+For my part, I cannot see how Novopharm’s subsequent filing should be sanctioned through an award of costs in these proceedings. If there is indeed substance to Lilly’s assertion that Novopharm’s new Notice of Allegation is found on similar grounds and constitutes an abuse of process, then the issue should properly be determined in the context of the application in T-787-05, concerned with that Notice of Allegation. If found to be an abuse of process, Lilly will have its remedy in the application on the merits or on costs. If abuse there is, it resides in the actions of Novopharm subsequent to the withdrawal of the Notice of Allegation. It is therefore in the consequence of that abuse that sanctions should be visited – not in the circumstances that preceded the abuse. There is no sense or logic in sanctioning future conduct by awarding solicitor-client costs in a proceeding which was not itself abusive.
+[15]
+Lilly argues that the present Notice of Allegation is identical to the earlier one in that the only issue is the validity of ‘113 patent. This argument is set out in paragraphs 14 to 21 of its Notice of Application. Paragraphs 17 to 21 say:
+17. A 55.2 proceeding becomes moot if an allegation is withdrawn, and such Lilly Canada is in the process of attempting to wind up this earlier proceeding. To date, however, the earlier proceeding has not been resolved at T-1734-04 is still before the Court due to Novopharm’s unwillingness to agree to a payment of Lilly Canada’s costs.
+18. While it is open to a second person to withdraw its allegation, such a procedure should not be used to gain an unfair advantage or in such a manner that amounts to abuse. The procedure that Novopharm used, however, is an abuse.
+19. Specifically, Novopharm now brings this new allegation after fully analyzing Lilly Canada’s evidence in the first proceeding (T-1734-04) for over seven months.
+20. In its second letter, Novopharm reasserts much of the same art in respect of its allegations of anticipation and obviousness. In addition, Novopharm has modified its previous allegation of invalid selection to add an allegation under Section 53 of the Patent Act.
+21. As such, Novopharm’s latest allegation should be dismissed as an abuse of process.
+The grounds for invalidity raised in the former Notice of Allegation differ from the present Notice of Allegation. From those raised earlier, the allegations of indefiniteness and overbreadth of certain claims have been dropped while the allegations as to double patenting, section 53 of the Patent Act and inoperability have been added.
+[16]
+Allegations as to abuse by a generic  <FRAGMENT_SUPPRESSED>  Proceedings must be handled carefully. The NOC Regulations section 6(5)(b) permit only a generic and not a first party such as Lilly to move to set aside the proceedings on the grounds of abuse. Rule 221 of this Court’s Rules permits only a pleading to be struck out for abuse. A Notice of Allegation is not a pleading, thus is not amenable to Rule 221. There is no procedure in the NOC Regulations for amending a Notice of Allegation, certainly once the matter reaches the  <FRAGMENT_SUPPRESSED>  a unanimous decision of that Court, delivered by Sexton JA, the Court said at paragraph 41:
+“…Consequently, multiple NOA from the same generic relating to a particular pharmaceutical and alleging invalidity of a particular patent will generally not be permitted, even if different grounds for invalidity are put forward in each. As a majority of this Court identified in P&G at paragraph 22, on exception to the application of this rule might be in cases where facts material to the issue could not have been discoverable in reasonable diligence at the time of the first litigation…”
+[18]
+The question must be asked at what stage of proceedings, as contemplated by the NOC Regulations, does the issue of abuse by serving multiple NOC’s arise? The serving of the Notice of Allegation (NOA) by a generic (second party) upon an innovator (first party) does not, at that point, engage the Court process. The Court process is only engaged if and when the innovator brings an application for prohibition under section 6(1) of the NOC Regulations. When such an application is brought, the innovator may select which of the allegations made in the NOA that it wishes to challenge. Thus, all or only a part of the NOA may become involved in the Court process and only if and when an innovator brings an application to the Court.
+[19]
+Justice Gibson of this Court in  <FRAGMENT_SUPPRESSED>  dealt with a situation where two NOC proceedings in the Court were both heard by him at the same time. The parties and the patent were the same. One proceeding dealt with a first NOA which alleged invalidity on the basis of a Chilean patent. The second proceeding dealt with an NOA that alleged invalidity not only on the basis of the Chilean patent but also a Spanish patent and a German patent application. There was no satisfactory explanation as to why the Spanish and German references were not included in the first NOA. Justice Gibson found that the second NOA was an abuse except to the extent that it dealt with the Chilean patent. He said at paragraphs 32 and 33 of this Reasons:
+[32] …Where a “second person” finds its notice of allegation to be incomplete and an application has already been instituted arising out of that notice of allegation, if no satisfactory explanation for the failure to put all of the facts forward in the notice of allegation is provided, I cannot conclude that any obligation arises on the “first person.”
+[33] I find that the fifth notice of allegation provided by Apotex to Bayer is not a separate and distinct from the fourth notice of allegation. In the result, I am satisfied that it constitutes an abuse of process, not of the process of this Court since it is not a document in a proceeding in this Court other than as evidence, but rather of the regulatory scheme established by Regulations. By reason of that abuse of process, the result in the proceeding on file T-591-96 will follow the result of the proceeding on file T-35-96. I will rely upon material filed on T-591-96 only to the extent that it in any way refers to the patent application in Chile and the resulting patent. Material relating to the patent application in Germany, I and to the patent application in Spain and the resulting patent will be disregarded.
+[20]
+It is to be noted that  <FRAGMENT_SUPPRESSED>  both NOAs proceeded to be adjudicated by the Court contemporaneously, neither had been terminated at some earlier stage.
+[21]
+In the Pharmascience case, supra, the Court of Appeal reviewed the decision of Justice Gibson  <FRAGMENT_SUPPRESSED>  and said at the conclusion of paragraph 43 of its Reasons:
+“... Because no sufficient explanation was given to explain why the new evidence was not referred to in the earlier NOA, Gibson J. ruled the fifth NOA to be an abuse of process”
+[22]
+The Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  went on to discuss one of its own earlier decisions in  <FRAGMENT_SUPPRESSED>  and said at paragraph 45:
+[45] Another case cited by Pharmascience is the decision of this Court in  <FRAGMENT_SUPPRESSED>  (“AstraZeneca”). There it was alleged that a second NOA submitted by a generic was an abuse of process. In deciding the issue, Evans J.A. began by restating the principle that “it is an abuse of process for a second person to repeat an allegation in a second NOA, unless the legal and factual bases are separated and distinct from those supporting its earlier application” (AstraZeneca at paragraph 21). He then went on to evaluate the two NOAs at issue and concluded that the allegations contained in them were separate and distinct such that the second was not an abuse of process. However, two crucial differences exist between that case and the one at present that prevent its application to the present facts. First,  <FRAGMENT_SUPPRESSED> , Apotex Inc. withdrew the first NOA because it was having difficulty complying with regulatory standards for safety and effectiveness with the formulation of its drug product. The prohibition proceeding launched by AstraZeneca AB was therefore discontinued and, significantly, there was no hearing of the merits of the allegations in the NOA…
+[23]
+Thus,  <FRAGMENT_SUPPRESSED>  the Court was prepared to hear an application respecting a second NOA where an explanation was given for the withdrawal of the first, namely difficulties with the drug approval authorities. The second NOA  <FRAGMENT_SUPPRESSED>  raised a new issue of non-infringement.
+[24]
+The Federal Court of Appeal concluded Pharmascience, by supporting the Trial Judge who precluded a generic from relying on allegations raised in its second NOC. The Court said at paragraphs1, 2 and 60 to 62:
+[1] This is an appeal from the decision of O’Keefe J. of the Federal Court in  <FRAGMENT_SUPPRESSED>  in which he applied issue estoppel to preclude Pharmascience Inc. (“Pharmascience”) from relying on the allegations in its second notice of allegation (“NOA”) respecting Canadian Patent No. 2,261,732 (the “732 patent”) owned by Abbott Laboratories. In O’Keefe J’s view, Pharmascience could not attempt to litigate additional questions which it failed to raise in previous litigation before Gibson J. between the same parties and with respect to the same patent.
+[2] In this appeal, this Court is called upon to determine whether generic drug manufacturers should be permitted to submit multiple NOAs in respect of a patent, each one alleging that the patent is invalid. I have concluded that generics should in most circumstances be precluded by the doctrine of issue estoppel from alleging for a second time that a patent is invalid, unless the basis relied upon for the subsequent allegation could not be determined with reasonable diligence at first instance, or some special overriding circumstance exists to warrant a judge exercising her discretion not to apply issue estoppel on the facts of the particular case.
+. . . . .
+[60] Contrary to Pharmascience’s assertion, there has not been a change in the law from position where multiple NOAs alleging invalidity were permissible to a position where such conduct gives rise to issue estoppel. As explained in the preceding section, Pharmascience has failed to show us any such cases endorsing the issuance of multiple NOAs alleging invalidity. This Court and the Federal Court have permitted successive NOAs only in cases where the allegations contained in them can be considered separate and distinct, such as where the generic seeks to rely on a new formulation or process for making a drug, or where the previous NOA was
+withdrawn before proceeding to a hearing
+. [emphasis added]
+[61] Issue estoppel is a long-standing concept in the common law. The fact that no decision has specifically considered the question before us in this appeal does not mean that this decision changes the applicable law. Indeed, as the foregoing analysis has illustrated, the holding in this appeal is completely consistent with the existing state of the law.
+[62] Consequently, Pharmascience has provided insufficient support for its contention that O’Keefe J’s decision not to exercise his discretion to refuse to apply issue estoppel was not open to him.
+[25]
+What is common to Bayer and Pharmascience is that the previous NOA had been actually litigated through a hearing. In Bayer, that was done in conjunction with the second NOA. In AstraZeneca, a plausible reason for dropping the earlier NOA, difficulties with the approval authorities, was put in evidence.
+[26]
+Here, the first NOA never did proceed to a hearing but no reason was offered and nothing put into evidence as to why the first NOA was withdrawn. Both NOAs deal only with validity of the ‘113 patent. The second NOA raises some further arguments as to invalidity and drops some made in the first. Novopharm argues that the withdraw of an NOA and subsequent provision of a new NOA is the only way a generic can amend its NOA given that no amendments can be made directly to an NOA, at least once it is involved in a Court proceeding. This process is clumsy but, given the arcane and often illogical procedure offered in NOA proceedings, this is the only way to do it. A generic may suffer by way of an order as to costs in the withdrawn proceeding and will suffer if its new NOA triggers an application to the Court and thus the imposition of a fresh 24 month stay of the generic’s application for drug approval. The generic should not be driven from its day in Court for amending its NOA in the only way practically possible.
+[27]
+I agree with Novopharm’s position. The arcane and awkward procedures offered  <FRAGMENT_SUPPRESSED>  proceedings offered no practical way to amend an NOA. If a generic is willing to suffer cost penalties and a new 24 month stay, the price of amendment is high, but that is its only choice given the current procedures.
+[28]
+Once the Court is seized of the matter at a hearing of the merits, such as  <FRAGMENT_SUPPRESSED>  or where a decision has been made by the court as  <FRAGMENT_SUPPRESSED>  only then the generic has lost its possibility of furnishing a new NOA directed to the issue of validity unless a new matter not previously discoverable has arisen.
+[29]
+I find therefore that there is no abuse in the present circumstance.
+The Apotex Proceedings – T-156-05 and T
+-787-05
+[30]
+The hearing of this application took place shortly after the release of the Reasons for Judgment and Judgment by Justice Gauthier of this Court in a similar proceeding brought by Eli Lilly Canada Inc. in respect the ‘113 patent, against Apotex Inc. Court files numbered T-156-05 and T-787-05 (Apotex). In that proceeding, the Reasons for which are to be found at neutral citation 2007 FC 455, Justice Gauthier granted an order of prohibition. The only issue before her was that related to the validity of the ‘113 patent. She found that the allegations made by Apotex in respect of that issue were not justified
+[31]
+In Apotex, as well as in the present proceedings, infringement was not an issue. The only issue raised in those proceedings as well as the present proceedings is that of validity of the ‘113 patent. Justice Gauthier in her decision considered the following grounds raised by Apotex in respect of the ‘113 patent:
+1)
+: particularly in respect of the previous Chakrabarti and Schauzu references (paragraphs 247 – 295). She concluded that the evidence before her did not meet the strict test as to anticipation
+2)
+: particularly in respect of previous Chakrabarti references (paragraphs 296 – 358). She found that the allegation of obviousness was not justified.
+3)
+Double Patenting
+: having regard to Canadian Patent 1, 075, 687 (the ‘687 patent) previously issued and granted to Lilly on April 19, 1980 (paragraphs 359 to 364). She found that there was no double patenting.
+4)
+Section 53
+: wherein Apotex alleged that Lilly withheld relevant prior art and conveyed misleading information as to a dog study referred to in the ‘113 patent and that Lilly’s intent to mislead, while not directly in evidence , could be inferred from the evidence (paragraphs 365 to 382). She found that there was no evidence that Lilly knew at the relevant time and that the dog study was not a proper model or that the study was flawed. She found that no intention to mislead could be inferred.
+[32]
+Justice Gauthier concluded at paragraph 383 of her Reasons that Lilly had established that the various allegations made by Apotex in its Notice of Application were not justified.
+Comparing the Present Proceeding with the Apotex Proceeding
+[33]
+In the present proceeding, Apotex is not a party, however the Applicant Lilly is identical with that in the Apotex proceeding and the ‘113 patent is identical. Novopharm , the Respondent in these proceedings, referred to as the “second party” in the NOC Regulations, is not related to Apotex however it raises some of the same allegations as to invalidity as did Apotex in the earlier proceedings.
+[34]
+Justice Gauthier provided a useful list at Appendix A to her Reasons in the Apotex proceedings listing witnesses who provided evidence in that proceeding with a brief summary of their qualifications. Many of the witnesses who provided evidence on behalf of Lilly in the Apotex proceeding are the same as those who provided evidence in the present proceeding. It should be noted that, while not listed, Tom Brogan also gave evidence for Lilly in the Apotex proceeding. Lilly provided additional evidence in this proceedings the evidence of Dr. Mailman, a medicinal chemist, Dr. McEvoy, a psychiatrist and a further reply of affidavit of Dr. Williams who was a witness in the Apotex proceeding.
+[35]
+Novopharm, in the present proceedings, provided evidence by way of affidavits from eight witnesses, including one law clerk, all of whom were cross-examined. None of these witnesses were witnesses in the Apotex proceedings.
+[36]
+It would not be proper to compare the precise evidence given by the witnesses in the Apotex case with that given by the witnesses, both the identical witnesses and the others, in the present case since the evidence given in the Apotex case is not of record in the present case. I do point out however that this exercise has been done. I am satisfied that the affidavits of the Lilly witnesses are essentially the same, and no material differences exists in respect of cross-examination. I am satisfied that the nature of the evidence given by the Apotex witnesses both by affidavit and in cross-examination is not materially different in any meaningful respect from that given by the Novopharm witnesses in the present proceeding. However, I will not refer to that comparison nor use it in arriving at my decision in the present case. The reason why I refrain from comparing the evidence in the two proceedings, other than using only what is apparent from the Reasons of Justice Gauthier, is that the evidence in the Apotex proceedings forms no part of the record in these proceedings. It would not be possible for the Court of Appeal or any person to look at the record in the present proceedings and be able to make an informed determination as to a comparison with the Apotex proceedings. The only way that such comparison should be made is if a motion were made for instance, under section 6(5)(b) of the NOC Regulations and the Apotex proceedings were made of record. However, such a motion can only be brought by a second party, in this case Novopharm, who understandably would have no interest in doing so.
+[37]
+Another way that the Apotex proceedings could be made of record in these proceedings would be for Lilly to move for summary judgment under the Federal Court Rules, 1998, SOR/98-106 Rules 213-219. These are practical reasons why this could not be done. First, Justice Gauthier’s Reasons were issued less than a month before the trial in the present proceedings was scheduled to begin and Rule 214 requires at least 20 days notice for a summary judgment motion. Second, the test for a summary judgment, as set out in Rule 216 is whether there is a “genuine issue” for trial. Cases such as  <FRAGMENT_SUPPRESSED>  (Ont. CA) and  <FRAGMENT_SUPPRESSED>  (FCA) clearly demonstrate that the appellate Courts are reluctant to permit any great latitude to the trial courts to determine a proceeding on less than a full trial record particularly where disputed issues as the fact or credibility or law arise.
+[38]
+It would be impractical for Lilly to move to strike under Rule 221 since Novopharm had filed no pleading. A Notice of Allegation is not a pleading.
+[39]
+Thus, what this Court in the present proceeding is faced with is the identity of the applicant, Lilly, and the patent, the ‘113 patent, and the reasons of Justice Gauthier in the Apotex proceedings. Those reasons demonstrate that Lilly has used the same witnesses and that four issues as to validity, namely anticipation, obviousness, double patenting and section 53, are at issue in both proceedings. It can also be clearly inferred from Justice Gauthier’s reasons that the proceedings before her were seriously contested and robustly argued.
+[40]
+I am advised that the Apotex proceedings are now under appeal.
+The Points of Difference in these Proceedings
+[41]
+With respect to its allegation that the ‘113 patent is invalid, Novopharm raises two issues beyond that considered by Justice Gauthier in her Apotex reasons. They are sufficiency and utility.
+[42]
+Novopharm says that the Lilly dog study referred to in the ‘113 patent was flawed. Novopharm recognizes that to advance its argument under section 53 of the Patent Act, R.S.C. 1985, c. P-4, as amended, it must show that Lilly included the flawed study, or failed to give all relevant information, with the intention to mislead. Intention is difficult to prove by direct evidence and more difficult to prove by inference.
+[43]
+Novopharm uses a different approach in law. It says that the dog study was flawed and the insertion in the descriptive portion of the ‘113 patent of certain pieces of information but not others pertaining not only to the dog study but other information as well, means that Lilly has failed to meet the provisions of section 27(3) (b) of the Patent Act which require that the patent specification must clearly set out the invention in such full, clear, concise and exact terms so as to enable a person skilled in the art to make, construct, compound or use the invention. This argument is set out, in part, in paragraphs 151, 152 and 153 of the Novopharm Memorandum, as follows:
+151. Section 27(3)(b) of the Patent Act provides as follows:
+The
+specification of an invention must ... set out clearly
+the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter,
+in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains
+, or with which it is most closely connected,
+to make, construct, compound or use it
+;
+Patent Act, R.S.C. 1985, c. P-4, s. 27(3)(b).
+152. The highlighted portions of each section above reveal that both s. 53 and s. 27(3)(b) address the sufficiency of the specification and the ends for which disclosure is made. Section 53 adds a wilfulness component to the question (i.e. was the addition or omission “wilfully made for the purpose of misleading”). Section 27(3)(b) asks only whether the specification clearly sets out in such “full, clear, concise and exact” terms what is needed to enable a person skilled in the art of make and use the invention.
+153. While the bar for s. 27(3) is “very low”, where the patentee’s assertion of utility prove to be false, the patentee has not “vaulted over the low bar” and the patent is void for insufficiency.
+[44]
+This argument is sufficiently different from the arguments considered by Justice Gauthier such that it cannot be said to have been considered or subsumed in the reasoning of Justice Gauthier in arriving at the Apotex decision. Justice Gauthier specifically commented at paragraphs 115, 119, 122 and 123 of her Reasons that the sufficiency argument has not been raised by Apotex. It is therefore open to Novopharm to raise this issue in these proceedings and argue it as a matter of first principle.
+How does the Apotex Decision Impact Upon the Present
+[45]
+To consider what impact, if any, the Apotex decision has upon the present proceedings, the NOC Regulations must be considered. The history of these Regulations has been discussed in many decisions of this Court and higher Courts and need not be repeated here. I refer to the recent decision of this Court in  <FRAGMENT_SUPPRESSED>  is an appropriate place to start. The NOC Regulations, section 5 contemplate that when a “second person”, usually a generic such as Novopharm, wishes to enter the Canadian market with a drug which is similar to one already approved and for which a Notice of Compliance had been issued by the Minister to a “first person” such as Lilly, and the second person wants to save itself the trouble and expense of doing clinical testing and the like, one of the things that the second person must do is send a Notice of Allegation (NOA) to the first person if that first person has listed one or more patents under the scheme of the NOC Regulations. The NOA must allege one or more things such as that the patent is invalid or not infringed. The NOA must also provide factual and legal bases for such allegations. The first person, if it chooses, may institute prohibition proceedings, such as the one  <FRAGMENT_SUPPRESSED>  or now before this Court, to prohibit the Minister for approving, by way of issuing a Notice of Compliance, the application of the second person.
+[47]
+The NOC Regulations section 6 provide that the first party may take “action” and “apply to a court” for an Order of Prohibition. In the Federal Court, this has been done by way of an application under sections 18 and 18.1 et seq. of the Federal Courts Act, R.S. 1985 c. F-7 and Rules 300 et seq.. Such a proceeding is commenced by a Notice of Application. Evidence is led by way of an affidavit and cross-examination which occurs out of Court with a transcript provided to the Court. There is no discovery; there are no live witnesses before the Court. Each party chooses what evidence it wishes to lead, the other party does not have the opportunity to probe or prove its case by way of discovery. The Court has no opportunity to see and hear witnesses in person or ask its own questions. Rarely can credibility be assessed properly.
+[48]
+When the case has been presented to the Court, the Court must determine in accordance with section 6(2) of the NOC Regulations, whether the allegations made by the second person are “justified”.
+[49]
+The whole proceeding must be done in a hurry. From start to finish, including a decision of the Court, the matter must be concluded within 24 months from institution of the proceedings in accordance with section 7(1) of the Regulations, subject to appeal. As a practical matter, it takes some time for the parties to prepare and file their affidavits, to conduct cross-examination, to attend to any matters arising from the evidence and prepare and file written argument. By the time oral argument is heard at trial, the Court often has only a few weeks to prepare and deliver a reasoned decision. Usually that decision requires consideration of complex issues not only of law, but of chemistry, pharmacy and medicine upon which there usually is a mass of conflicting evidence.
+[50]
+The procedure is wholly unsatisfactory from almost any point of view.
+[51]
+The summary nature of these proceedings taken by way of application and the meaning of “justified” under the NOC Regulations was considered by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  & Gamble supra. As to the nature of the proceedings, the Court did not adopt the “genuine issue for trial” standard used in summary judgment proceedings. At paragraph 21 of the Reasons, the Court said:
+The Governor in Council has determined that the decision under the Regulations is to be based on written and not oral evidence and without the trappings of pre-trial procedures that apply to actions leading to a trial. I agree with P&G that the Regulations are a result of policy considerations by the Governor in Council involving the balancing of the interests of patentees and generics. They provide benefits and obligations for both patentees and generics. It is not for the Court to change that balance by adopting a “genuine issue for trial” standing of proof that is not supported by anything in the words and context of the Regulations.
+[52]
+As to the meaning of the word “justified”, the Court held that it simply meant that the Court must determine the issues on the “ordinary civil standard of proof”, no lower standard was to be suggested. At paragraph 17, the Court said:
+Contrary to the Genpharm’s submission, the term “justified” does not connote a lower standard of proof than proof on a balance of probabilities. In a civil case, the presumption is that, in the absence of anything to the contrary, the term “justified” connotes the ordinary civil standard of proof. Such a presumption might be rebutted if the context in which the term is used so indicates. However, there are no other words in the Regulations that Genpharm has pointed to that suggest the standard is anything other than the ordinary civil standard.
+[53]
+Thus, with all of its failings, the proceeding takes place by way of application and the standard to be applied to the ultimate issue of “justification” is that of the ordinary civil burden.
+[54]
+In establishing justification in accordance with the ordinary civil burden, the question usually arises as to who has the burden. Much as been argued and written about this point. The Federal Court of Appeal has recently, and emphatically, put the matter to rest in its decision in  <FRAGMENT_SUPPRESSED> . It is the applicant, the first person, who bears the burden of establishing its entitlement to an order of prohibition against the Minister. This includes the burden where validity of the patent is at issue and the second person has led any evidence that, if accepted, is capable of rebutting the presumption of validity under the Patent Act. As the Federal Court of Appeal said at paragraphs 9 and 10 of that decision:
+The Presumption of Validity
+[9] It is now beyond debate that the applicant for a prohibition order under the NOC Regulations bears the burden of establishing its entitlement to the order. Abbot argues that the Judge in this case failed to recognize and apply that principle correctly, in light of the presumption of validity in subsection 43(2) of the Patent Act, R.S.C. 1985, c. P-4, which reads as follows:
+43 (2) After the patent is issued, it shall in the absence of any evidence to the contrary, be valid and avail the patentee and the legal representatives of the patentee for the term mentioned in section 44 or 45, whichever is applicable.
+[10] In my view, the Judge made no such error. The presumption in subsection 43(2) is weakly worded ( <FRAGMENT_SUPPRESSED>  contains any evidence that, if accepted, is capable of rebutting the presumption (see  <FRAGMENT_SUPPRESSED>  considering Procter & Gamble and Abbott  <FRAGMENT_SUPPRESSED> , the effect is that the applicant, the first person, bears the burden with the usual civil burden of proof, to persuade the Court on the evidence and in law, that the allegations made by the second person as to invalidity of the patent, are not justified. This occurs if the second person has put some evidence before the Court as to the allegations made as to invalidity.
+[56]
+With the test of “justified” in mind, the Court must also be aware that the issues can be those of infringement (not at issue here or  <FRAGMENT_SUPPRESSED> ) and of validity. While there may be several bases for arguing why a patent may be invalid, there is only one “issue” namely, validity. Therefore, the Courts have been reluctant to have that issue re-litigated in the context of proceedings under the NOC Regulations. In the past, the question has arisen in the context of the same generic (second party) who lost once on validity who attempts to try a second time. This was the case, for example, recently in  <FRAGMENT_SUPPRESSED>  where the Federal Court of Appeal refused to permit a generic to attack the validity of a patent a second time where new grounds for that attack were made. Sexton JA for the court said at paragraph 41:
+[41] What the NOC Regulations require the second person to establish is, inter alia, that the patent is invalid or that it would not be infringed. In other words, the “issue” to be addressed is invalidity and non-infringement. The specific grounds on which the second person wishes to demonstrate invalidity, whether that be by obviousness, anticipation, overbreadth or lack of sound prediction, do not constitute separate issues for the purpose of the issue estoppel but are merely different bases on which the second person may address the issue of invalidity. Consequently, multiple NOAs from the same generic relating to a particular pharmaceutical and alleging invalidity of a particular patent will generally not be permitted, even if different grounds for establishing invalidity are put forward in each. As a majority of this Court identified in P&G at paragraph 22, an exception to the application of this rule might be made in cases where the facts material to the issue could have been discovered with reasonable diligence at the time of the first litigation. No such exception applies in the present case, however, Pharmascience does not deny that it could have raised additional grounds of invalidity in the first NOA, but merely contends that splitting its claims is permissible within the scheme of the regulations.
+[57]
+Very recently, the Federal Court of Appeal in  <FRAGMENT_SUPPRESSED>  considered whether a first person could assert a patent in a proceeding under the NOC Regulations against a different second person where in a previous final decision, the Court had determined, that the patent was invalid. The decision of the Court was split, Sexton JA spoke for the majority. The matter arose on a motion brought by the generic under section 6(5)(b) of the NOC Regulations, where a second person (generic) brought a motion on the ground that it would an abuse of process for the first person to assert a patent which was previously held to be invalid against a different second person. Sexton J.A. for the majority said at paragraphs 37 and 38 of his Reasons:
+[37] In the context of the NOC Regulations, encouraging the efficient use of scarce judicial resources is also of particular concern. Judicial resources are already taxed considerably by the voluminous proceedings brought under the regulations. An attempt to further strain the resources of parties and of the courts through repetitious litigation without any compelling justification strongly favours a finding of abuse in the process.
+[38] Therefore, despite the fact that Mactavish J.’s decision would not dictate the outcome of the present application and consequently, that it is not possible to say that Sanofi-Aventis has no chance of success, I nevertheless am compelled to hold that the application in respect of the Novopharm NOA is an abuse of process and therefore should be dismissed.
+[58]
+The proceedings now before this Court arise from a different perspective. We are dealing with a different generic (second person) who is attacking the validity of a patent recently held to be valid in other NOC Regulations proceedings involving a different generic.
+[59]
+Sexton JA, addressed the situation where a patent was held to be valid having regard to allegations raised by a first generic. He said that the first generic would be precluded from raising subsequent allegations as to invalidity of the same patent. However, he held that a different generic would not be precluded from alleging invalidity of the patent on better evidence or more appropriate legal argument. At paragraph 50 of his Reasons, he said:
+... Multiple NOAs issued by the same generic relating to a particular drug and alleging invalidity of a particular patent will generally not be permitted, even if different grounds for establishing invalidity are put forward in each. However, where one generic has made allegation but has failed to put forward the requisite evidence and argument to illustrate the allegation is justified, it would be unjust to preclude a subsequent generic, who is apprised of better evidence or a more appropriate legal argument, from introducing it. Although the situation may give rise to the possibility of an inconsistent result, this concern is overridden by the potential for unfairness to the generic that is barred from bringing forward its case simply because another generic’s approach was inadequate. In each situation, it is necessary to balance the effect of a proceeding on the administration of justice against the unfairness to a party from precluding it from bringing forward its case.
+[60]
+The question becomes how can the Court know if the evidence is “better” or the legal argument “more appropriate”. As previously discussed, the NOC Regulations do not permit a first party to bring an application for abuse under section 6(5)(b). The Rules of this Court for summary judgment or to strike are inappropriate. Thus this Court can only know these matters by examination of the Reasons given in the earlier decision.
+[61]
+Notwithstanding that no motion has been brought by any party, and probably could not have been brought, there is an inherent and residual discretion in the Court itself to prevent an abuse of process.  <FRAGMENT_SUPPRESSED>  per Arbour J. at paragraph 35 where she states:
+“Judges have an inherent and residual discretion to prevent an abuse of the court’s process”
+[62]
+The jurisprudence therefore provides that this Court, in its own discretion, can review the Reasons given  <FRAGMENT_SUPPRESSED>  by Justice Gauthier and determine whether there is “better evidence” or “more appropriate legal argument” made by the generic in the present proceeding as to validity of the ‘113 patent than was presented  <FRAGMENT_SUPPRESSED> . If so, the better evidence and more appropriate arguments must be considered. If no better evidence or more appropriate argument is found, it would be an abuse to permit the matter to be considered again. The word “abuse” is not used in any sense so as to imply that the second generic has acted improperly, it has not; it could not have been known until a few days before the hearing of this case that the decision  <FRAGMENT_SUPPRESSED>  would be released. The word “abuse” is used in the sense that it would be a waste of the Court’s resources and possibly lead to unwanted inconsistent results, were the matter to be considered as a matter of first instance on this the subsequent occasion. The consideration in the second instance should only be one as to “better evidence” or “more appropriate” argument which, if determined to exist, must be considered as a matter of first instance. Of course if a different attack on validity is raised, one that was not raised  <FRAGMENT_SUPPRESSED> , it will be considered as a matter of first instance.
+[63]
+There is another matter to consider. It is that of judicial comity. Comity was recently considered by Justice Barnes of this Court in  <FRAGMENT_SUPPRESSED> . Justice Barnes considered the reasons of Sexton JA  <FRAGMENT_SUPPRESSED> -Aventis particularly at paragraph 50 referred to previously. The principle of comity, Justice Barnes found, particularly at paragraphs 30 to 33 of his Reasons, may not be readily applicable  <FRAGMENT_SUPPRESSED>  proceedings, however, where matters such as patent construction were considered having regard to the patent itself and not the evidence, or where the evidence is not different, the need for predictability and consistency remains.
+[64]
+Thus, the Court may approach the matter from the point of view of “abuse” or “comity” or both.
+[65]
+I will, therefore, proceed to review the evidence and argument in this case and compare it only with the evidence and argument presented through the reasons of Justice Gauthier in the Apotex case to determine if there is better evidence or more appropriate argument before me. I have no doubt that the case before Justice Gauthier was a fully litigated and strongly contested case. The Court should not, at some future time, be faced with a situation where a previous case was simply perfunctory or where a party was put forward simply as a straw man. In such circumstances, the Court should not be readily bound by a previous decision.
+What was Determined  <FRAGMENT_SUPPRESSED>
+[66]
+Apotex challenged the validity but not infringement of the ‘113 patent. That is the same circumstance as the present proceeding. Novopharm challenges the validity but not infringement of the ‘113 patent.
+[67]
+Justice Gauthier, who was an experienced trial advocate, did a credible job in keeping the parties in the NOC proceeding before her focused on the pertinent evidence and issues. She states at paragraph 6 and 7 of her Reasons:
+[6] The hearing of the present applications lasted a full seven days and did not go longer only because the parties agreed to limit their representations to pointing the way to the most pertinent evidence that the Court should consider and to outlining the legal and procedural issues to be determined. There was little time to go through the voluminous books of authorities submitted by the parties even though they agree that some of the legal issues relating to “selection patents” are quite new and important. Indeed, Apotex implies that such patents are to figure in many future NOC proceedings and that, in the same manner that these patents are sometimes described as “second generation patents”, one could describe the procedure for addressing them as “second generation NOC”. Hopefully, we will find a more efficient way of dealing with these so-called “summary proceedings” given that, in this case, the need to limit the hearing to seven days meant that the Court had to review more than 100 cases as well as a very substantial amount of evidence after the hearing.
+[7] As will become apparent later, a good portion of this evidence relates to issues which are simply not that relevant to the ultimate decision to be made. Each side raised numerous objections to the evidence presented by the other, including objections on the basis of hearsay and failure to put in evidence facts underlying the experts’ opinions. The objections also include attacks on the admissibility of certain evidence while both parties challenge the weight to be attributed to various experts’ opinion.
+[68]
+At paragraphs 8 and 9 of her Reasons, Justice Gauthier expressed the sentiments of every judge hearing an NOC matter. The overloading of the Record of evidence, the use of too many experts, and the pressure to deliver detailed reasons dealing with the most sophisticated technical and legal matters in too short a time all points to a conclusion that the whole process is strongly in need of revision.
+1) Construction of the ’113 Patent Claims
+[69]
+In a very general way it can be said that the ‘113 Patent is directed to a specific chemical compound, olanzapine, which is said to have special properties, and lack of certain detrimental properties that make it useful in the treatment of disorders of the central nervous system.
+[70]
+Representative of the claims at issue  <FRAGMENT_SUPPRESSED>  as well as those at issue here are claims 3, 6, and 13 which were set out at paragraph 39 of Justice Gauthier’s Reasons; she said there was no issue with respect to the construction:
+[39] At the hearing, the parties were agreed that there is no issue with respect to the construction of the ‘113 Patent and that Apotex’s proposal to manufacture and sell tablets of olanzapine would infringe at least the following claims:
+3. 2-Methyl-10-(4-methyl-1-piperazinyl-4H-thieno-[2,3-b] [1,5] benzodiazepine, or a pharmaceutically acceptable acid addition salt thereof.
+6. The use of a compound according to the claim 2 or 3 for the manufacture of a medicament for the treatment of schizophrenia.
+13. A pharmaceutical composition comprising the compound of claim 3 together with a pharmaceutically acceptable diluent or carrier therefor.
+[71]
+The chemical formula set out in claim 3 can, for purposes of the discussion here, be simply called olanzapine.
+[72]
+The question of construction came up before Justice Gauthier again when considering the issue of obviousness. She began with a discussion with respect to “special properties” and selection at paragraphs 332 and 333 of her Reasons. In paragraphs 334 to 337 she addressed specifically the construction issues:
+[334] The first step is therefore to consider what the patent says. At the end of the hearing, the Court was left with the impression that the parties had no disagreement in respect to construction of the patent. Both appeared to agree with olanzapine was described as an antipsychotic that, in clinical situation, had overall a better profile than prior known antipsychotic agents (including the compounds encompassed in the ‘687 Patent) because:
+(I) of its high level of activity in humans (better than expectations based on animal tests;
+(iii) low and transient elevation of liver enzyme and CPK
+(iv) lower elevation of prolactin level than other currently used neuroleptic drugs;
+(v) no alteration of white blood cell count;
+(vi) no increase of cholesterol level in dogs (plus, less risk of cholesterol in humans).
+[335] During a telephone conference with the parties above, it became apparent that this was not so in respect of cholesterol. In further correspondence dated April 2, 2007, Apotex asserted “that the ‘113 Patent promises that olanzapine would not raise cholesterol to a clinically significant extent in humans”. In that respect, the respondent relies particularly on the wording of the first paragraph on page 6 of ‘113 Patent. It also refers to paragraph 34 of Dr. Klibanov’s affidavit which in fact deals with the comparison between the ‘222 compound and olanzapine rather than the distinct issue of the representation made in respect of olanzapine itself.
+[336] In fact, when Drs. McClelland and Castagnoli were asked to take the patent at face value during their cross-examinations, they both appeared to understand the patent to say that olanzapine did not raise cholesterol in dogs.
+[337] Be it as it may, there is no need for the Court to finally determine this issue. In effect, even if the Court adopts, for the purpose of this case only, the construction proposed by Apotex, it would not conclude that its allegation of obviousness is justified.
+[73]
+Thus, the construction put on the claims by Justice Gauthier was that they were directed to olanzapine as an antipsychotic agent that, in a clinical situation, had a better overall profile than previously known antipsychotic agents (including those of the ‘687 Patent) because of a number of factors, at least five, and possibly six if cholesterol levels were included as a factor. She found no need to determine if cholesterol levels were essential for the purposes of construction when addressing obviousness.
+The first basis for challenging the validity of the ‘113 patent in the Apotex proceeding was that of anticipation. The assertion made by Apotex was concisely set out by Justice Gauthier at paragraph 246:
+[246] An invention must be new. Here, Apotex asserts that the invention as described in the claim of the ‘113 Patent is fully disclosed in the ‘687 Patent and in the Schauzu article. As mentioned, Apotex initially alleged in its NOA that the claims were anticipated by “Chakrabarti 1980”; however, it will not be necessary to address this publication in detail as Apotex called little attention to it at the hearing. It is here sufficient to note that everybody agrees that olanzapine is not specifically disclosed in “Chakrabarti 1980” and that this publication is much relevant for the analysis in the context of obviousness.
+[75]
+Justice Gauthier at paragraphs 247 to 268 reviewed the leading legal authorities pertinent to anticipation particularly with respect to so-called selection patents, that is, patents claiming compositions that could be said to have been previously disclosed as being among a vast number of similar compositions, but have been selected from that vast number as having particular and unexpected properties.
+[76]
+In paragraph 266 of her Reasons, she summarized the law in respect of anticipation as applicable to so-called selection patents:
+... Only compounds that have not been made before and whose properties cannot be predicted with any confidence (those that required empirical research in order to discover their special advantages) can be the subject of a selection. These compounds will not be anticipated by the publication of a disclosure in general terms of their class or by enumeration of the members of the class through mere recital of their names.
+[77]
+It was with these principles in mind that she considered the prior art.
+[78]
+The prior art references relied upon by Apotex, the ‘687 Patent and the Schauzu article and the Chakrabarti 1980 articles, are the same references relied upon by Novopharm in these proceedings.
+[79]
+In brief, the ‘687 Patent (Canadian Patent 1,978,687 issued to Lilly on April 15, 1980 naming Chakrabarti and Tupper as inventors) discloses a vast number of compounds having a three ring structure in common which are said to be useful in respect of central nervous system (CNS) activity. That structure is depicted at paragraph 22 of Justice Gauthier’s Reasons. As she states in paragraph 256 of her Reasons, Lilly did not contest that a person skilled in the art could make such compounds including the specific compound covered by the claim of ‘113 Patent.
+[80]
+Justice Gauthier, at paragraph 273 of her Reasons states that the compound known as olanzapine, which is that specifically claimed in the ‘113 patent was within such a large class of compounds stated to the most preferred compounds generally described by reference to several criteria , but it was not specifically disclosed in the ‘687 Patent. She found at paragraphs 274 - 275 that olanzapine had not been made by anyone prior to the critical date in 1982. At paragraph 276, she rejected Apotex’s argument that the so-called special advantages of olanzapine could have been predicted and merely required simple verification. She found that the side effects of olanzapine could only have been ascertained through empirical research. She concluded at paragraph 277 that the ‘687 patent did not anticipate the claims of the ‘113 patent.
+[81]
+Next, at paragraphs 278 and following of her Reasons, Justice Gauthier considered a scientific paper that has been called the Schauzu article. That article discussed certain antipsychotic compounds of a three ring structure similar to olanzapine except that, in order to arrive at olanzapine, one would have to add a second nitrogen atom in one of the rings, an argument that Apotex urged was in fact disclosed except for a readily recognizable mistake. Lilly argued that a flourine atom which appears in another one of the three rings in some of the prior art compounds was in fact present in the compounds analyzed by Schauzu but was erroneously omitted in the diagram. Lilly refered to a footnote to make this argument. Thus each partly asserted errors in Schauzu.
+[82]
+At paragraph 294 and 295 of her Reasons, Justice Gauthier concluded that the Schauzu article did not anticipate olanzapine.
+The second basis for challenging the validity of the ‘113 patent raised in the Apotex proceeding was that of obviousness.
+[84]
+Starting with the commonly referred to principle expressed in  <FRAGMENT_SUPPRESSED>  paragraphs 296 and following of her Reasons.
+[85]
+Specifically, with respect to so-called selection patents she stated the law at paragraphs 301 to 304 to be:
+[301] An invention is obvious only if the solution to the problem is very plain and crystal clear. In Canada, the test for obviousness is not whether a solution is “worth a try”, but whether an invention would have arisen without any serious thought, experimentation or research (See, for example,  <FRAGMENT_SUPPRESSED>  (QL))
+[302] As noted by the Supreme Court of Canada in Hoechst, above (quoting earlier decision), “a patient searcher is as much entitled to the benefit of a monopoly as someone who hits upon an invention by some lucky change or inspiration”.
+[303] As mentioned, whether the properties of a selected compound encompassed in a class claimed in an originating patent are predictable is relevant to the novelty analysis. However, there is no doubt that the inventiveness of a selection patent lies in those special properties that must be stated in the disclosure (Pfizer (2006 FCA) above).
+[304] To determine whether a compound not made has unexpected properties, one must determine whether these properties could be ascertained through simple verification or if empirical investigation was required.
+[86]
+With these principles in mind (paragraphs 307) she considered the facts presented in the case before her.
+[87]
+Apotex’s argument was set out in paragraphs 308 and 309 of her Reasons:
+[308] Apotex says that the Court only needs to determine whether a person skilled in the art looking for a good neuroleptic or for an alternative atypical antipsychotic would have been led directly and without difficulty to olanzapine. The Court does not need to be satisfied that the advantages described in the ‘113 Patent were also obvious because there are simply inherent properties of olanzapine. Also, these advantages could be ascertained by simple verification because of the tests used by Lilly were known.
+[309] In any event, Apotex says that if a compound is obvious for one purpose, any additional benefit gain is an irrelevant bonus ( <FRAGMENT_SUPPRESSED>  (PAT) CIID at para. 65(v)). Finally, it submits that even if the person skilled in the art has many equally obvious choces, all courses of action that present themselves without the exercise of inventiveness are obvious ( <FRAGMENT_SUPPRESSED>  at para. 65(i)).
+[88]
+Justice Gauthier reviewed the evidence. Her conclusions are found at paragraphs 314 – 316 and 350-351 of her Reasons where she did not find the invention to be obvious:
+[314] The Court has examined very closely the evidence of Apotex’s experts in light of Apotex’s original arguments (memorandum) as well as the outline on obviousness used at the hearing. The court cannot conclude either that an ordinary person skilled in the art would have been led directly and without difficulty to olanzapine.
+[315] Apotex’s position was not helped by the number of experts it presented in effect, Drs. McClellant, Castagnoli and Klibanov all come to olanzapine but in somewhat different ways. This seems counter-intuitive to the test which required a very plain and crystal clear solution.
+[316] They all explain how they get to include olanzapine in their distinct short list of candidates of back-up candidates for drug development by referring to the prior art. But the court has the distinct impression that they all use hindsight.
+. . . . .
+[350] The Court concludes that the discovery of the special advantages of olanzapine required empirical research and was inventive.
+[351] Also, having considered the evidence as a whole, the Court has no doubt that the overall side effect profile described in the ‘113 Patent constitutes a substantial advantage of the selected compound over the other members of the ‘687 Patent as well as other known antipsychotic agents.
+4) Double Patenting
+[89]
+The third basis for challenging the validity of the ‘113 Patent raised in the Apotex proceedings was that of double patenting.
+[90]
+Justice Gauthier reviewed the appropriate jurisprudence at paragraphs 359 to 362 of her Reasons noting that there were two types of double patenting, both judge made law, that of “same invention” and that of “obviousness”. She noted at paragraph 360 that while Apotex had originally asserted both types, it relied in argument at trial only on the obviousness type. She found at paragraph 363 that no obviousness type double-patenting had been demonstrated:
+[363] As I have concluded in my analysis of Apotex’ argument that the prior art cited in the NOA and referred to in the various expert affidavits before me do not anticipate or make olanzapine and its advantages for the treatment of schizophrenia obvious, the Court concluded that there can not be double patenting.
+5) Section 53
+[91]
+The final basis for challenging the validity of the ‘113 patent raised in the Apotex proceedings was in respect of section 53 of the Patent Act, supra. Section 53(1) provides:
+53.(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, of the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading.
+This section, in dealing with additions or omissions to the specification of a patent, requires that this be made wilfully for the purpose of misleading.
+[93]
+Apotex’s argument in this respect had to do with a dog study that is set out at pages 5 and 6 of the specification of the ‘113 patent.
+In dog toxicity studies with a closely analogous compound, 2-ethyl-10-(4-methyl-1-piperazinyl)-4H-thino[2,3-b] -[1,5] benzodiazepine, at the dosage of 8mg/kg, it was observed that four out of eight dogs showed a significant rise in cholesterol levels, whereas the compound of the invention did not show any rise in cholesterol levels.
+[94]
+The ‘113 patent at pages 4, 4a and 5 had referred to experimental screens for lasting activity on the central nervous system and to clinical trials. This testing and these trials, together with the dog study led to the conclusion at page 6 of the Patent:
+Overall, therefore, in clinical situations, the compound of the invention shows marked superiority, and a better side effects profile than prior known antipsychotic against, and has a highly advantageous activity level.
+[95]
+Apotex’s argument in this respect is set out at paragraphs 365 and 366 of Justice Gauthier’s reasons:
+[365] Apotex says that Lilly purposely withheld relevant prior art from the examiner and that the information conveyed to the examiner in respect of the comparative dog study (see page 5 line 25 of the ‘113 Patent) was misleading for various reasons that relate to the suitability of the dog model, the quality of the study and its statistical significance.
+[366] Apotex virtually conceded that it has no direct evidence of Lilly’s intention to mislead the Commissioner of Patents, but it argues that such intent can be inferred on the basis that evidence in this case shows that Lilly’ information was, in fact, misleading.
+[96]
+As to whether or not the dog study was misleading, Justice Gauthier found it was not. At paragraph 377 and 378, she said:
+[377] There is no evidence that Lilly knew at the relevant time that the dog was not a proper model; that its study was flawed or the data obtained insignificant.
+[378] In fact, the Court accepts the evidence of Drs. Szot and Bauer that the dog which is a cholesterol resistant animal was a recognized model at the time for this type of study. In that respect, it is worth noting that Apotex’s expert did not say or opine that another specific specie was a more recognized and suitable animal model.
+[97]
+As to the element of intention required by section 53(1), Justice Gauthier found that there was no evidence to support a finding of intention whether directly or by inference. At paragraph 381 she found:
+[381] As mentioned, there is no direct evidence of knowledge or of an intention to mislead on the part of Lilly. On the basis of the evidential record produced by Apotex, it is also clear that the Court cannot infer an intention to deceive. As mentioned before, this is an essential element to establish the validity of Apotex’s allegation made pursuant to this section. Therefore, the Court is not satisfied that Apotex, has met its evidential burden and that the presumption of validity is spent.
+6. Conclusion  <FRAGMENT_SUPPRESSED>
+[98]
+In conclusion, at paragraph 383 of her reasons, Justice Gauthier found that the various allegations made by Apotex in its Notice of Allegation were not justified. The order for prohibition was granted.
+What is Required in these Proceedings
+[99]
+In the present proceedings therefore, I am required to determine as to each of the arguments as to invalidity raised by Novopharm:
+1. Is the argument new and different, in which case it will be determined as a matter of first instance.
+2. If the matter has been dealt with by Justice Gauthier is there, having regard to her Reasons, “better evidence” or “more appropriate legal argument” in this proceeding such that Justice Gauthier’s finding should not be followed.
+Validity of the ‘113 Patent
+The issue of who bears the burden, particularly as to validity,  <FRAGMENT_SUPPRESSED>  proceedings often arises. In an ordinary action brought under the Patent Act supra, section 43(2) of the latest version of the Act, section 43 or 45 in earlier versions, affords a presumption of validity to a patent in the absence of any evidence to the contrary.
+[101]
+In NOC proceedings, the burden lies on the party applying to the Court, the first person such as Lilly, to prove that none of the allegations made by a generic (second person) are justified. Such allegations include an allegation of invalidity. Many first persons have struggled greatly in an attempt to persuade the Court that the presumption of validity afforded by the Patent Act shifts the burden  <FRAGMENT_SUPPRESSED>  proceedings to the generic to prove invalidity notwithstanding the burden on the first party to prove that the allegations of invalidity is not justified.
+[102]
+This debate has been put to rest by the Federal Court of Appeal in  <FRAGMENT_SUPPRESSED>  referred to earlier in these Reasons. I repeat, without repeating all that I said earlier, if the second person has to put some evidence before the Court as to the allegations which it made as to invalidity, the first person (the applicant such as Lilly) bears the burden with the usual civil burden of proof, to persuade the Court on the evidence and in law, that the allegations made by the second person (a generic such as Novopharm) as to invalidity of the patent are not justified.
+Construction of the ‘113 Patent
+[103]
+A patent decision should, begin with a construction of the patent ( <FRAGMENT_SUPPRESSED>  at para. 43). This applies not only to the claims but to the whole of the patent as well when required ( <FRAGMENT_SUPPRESSED>  at page 572).
+[104]
+Construction is a task for the Court alone (Whirlpool supra; Burton  <FRAGMENT_SUPPRESSED> .) the role of an expert, if required, is limited to assisting the Court in putting the Court in the position of a person skilled in the art of the relevant time ( <FRAGMENT_SUPPRESSED>  at paragraph 33 the Federal Court of Appeal stated what the role of the expert is:
+It is a matter of accepted law that the task of constructing a patent’s claim lies within the exclusive domain of the trial judge. In strict legal theory it is the role of expert witnesses, that is those skilled in the art, to provide the judge with the technical knowledge necessary to construe a patent as though he or she were so skilled. Where the experts disagree, it is incumbent on the trial judge to make a binding determination.
+[105]
+Justice Gauthier did not have to deal with extensively with the issue of construction for, the parties were largely in agreement and, where they disagreed, she was able to make the findings regardless as to the disagreement.
+[106]
+The parties are agreed that only claim 1 through 16 are at issue and that claims 3, 6 and 13 can be taken as representative of those claims. They read:
+6. The use of a compound according to claim 2 or 3 for the manufacture of a medicament for the treatment of schizophrenia.
+13. A pharmaceutical composition compromising the compound of claim 3 together with pharmaceutically acceptable diluent or carrier therefore.
+[107]
+It is agreed that the chemical formula set out in the claim 3 can be simply stated as “olanzapine” and the claims can be more simply restated as:
+6. The use of olanzapine for the manufacture of a medicament for the treatment of schizophrenia.
+13. A pharmaceutical composition comprising olanzapine together with a pharmaceutically acceptable diluent or carrier therefore.
+[108]
+The construction of the specification as well is necessary in order to understand the arguments raised in respect of what might be termed “selection patents”.
+[109]
+The ‘113 patent is a so-called “new Act” patent, that is, it arises from a patent application filed in Canada after October 1, 1989. Thus the patent is to be interpreted as of the date of the publication of the application which is October 26, 1991.
+[110]
+The specification begins at page 1 by stating that it relates to “novel” compounds used as pharmaceuticals:
+This invention relates to novel organic compounds and the use thereof as pharmaceuticals.
+[111]
+The specification narrows the field of interest to disorders of the central nervous system such as schizophrenia and states that drugs available for such conditions are often associated with “undesirable side effects”:
+Currently there are many drugs available for the treatment of disorders of the central nervous system. Amongst these drugs is a category known as antipsychotics for treating serious mental conditions as schizophrenia and schizophreniform illnesses. The drugs available for such conditions are often associated with undesirable side effects, and there is a need for better products that control or eliminate the symptoms in a safer and more effective way. Furthermore, many patients do not respond or only partially respond to present drug treatment, and estimate of such partial- or non-responders vary between 40% and 80% of those treated.
+[112]
+It is acknowledged by the parties that there have long been known two general categories of antipsychotic drugs, typical and atypical. The typical category includes drugs that are known to cause what is known as extra pyramidal side effects, in layman’s terms, involuntary shaking of the head and body. The atypical category, those that do not exhibit such side effects, are seen as more desirable. The patent at page 1 describes these effects:
+Ever since antipsychotics were introduced it has been observed that patients are liable to suffer from drug-induced extra pyramidal symptoms which include drug-included Parkinsonism, acute dystonic reactions, akathisia, tardrive dyskinesia and tardive dystonia. The Simpson Angus Scale, Barnes Akathisa Rating Scale and Abnormal Involuntary Movement Scale (AIMS) are well known scales for assessing extra pyramidal symptoms. The great majority of drugs available for treatment of schizophrenia are prone to produce these extra pyramidal side effects when used at dosages that yield a beneficial effect on the symptoms of the disease. The severity of adverse events and/or lack of efficacy in a considerable number of patents frequently results in poor compliance or termination of treatment.
+[113]
+At the top of page 2 the patent discusses other undesirable side effects including, sedation and depression. In the next paragraph the patent identifies two pre-existing drugs, haloperidol and clozapine which have exhibited undesirable side effects. Haloperidol may cause unwanted shaking. Clozapine may cause a lowering of white blood cell count, agranulocytosis:
+A widely-used antipsychotic, haloperidol, is one such drug, which has been reported as causing a high incidence of extra pyramidal symptoms and may also cause tardive dyskinesia. More recently, clozapine, one of a large group of tricyclic antipsychotics, has been introduced with the claim that it is free from extra pyramidal effects. However, the compound was found to cause agranulocytosis in some patients, a condition resulting in a lowered white blood cell count which can be life-threatening, and it may now only be employed under very strict medical observation and supervision.
+[114]
+Commencing at line 17 of page 2 there is a discussion of prior art, British Patent 1 533 235. This patent is acknowledged by the parties to be the counterpart of the Canadian ‘687 Patent discussed by Justice Gauthier in her Reasons and asserted by Novopharm in these proceedings. Thus the ‘113 patent has acknowledged that the British Patent (or Canadian ‘687 Patent) is prior art.
+[115]
+The ‘113 patent says at page 2 line 17 to page 3 line 1 that the prior art comprises a group of compounds that are antipsychotic and that group can be described using chemists convention, by a particular structure having three rings. The lines occurring in 3 places in the diagram indicate that other chemicals or groups of chemicals may be placed at those locations. Where a line occurs at the middle of a line in a ring it means that the chemical(s) may be placed at one of several suitable locations on the corners of that ring. The ‘113 patent says:
+A further group of antipsychotic compounds is that described in British Patent 1 533 235. These include thienozenzodiazepines having the following structural nucleus.
+The parties are agreed that the number of compounds that could be included within the general formula indicated could be in the trillions. The ‘113 patent, however, identifies one such compound, flumezapine, as a “lead compound” and describes that, after clinical trials, the trials were terminated because of possible toxicity related to liver problems. Extra pyramidal side effects were also noted:
+The lead compound from this group, flumezapine, (7-fluoro-2-methyl-10-(4-methyl-1-piperazinyl)-4H-thieno-[2,3-b] [1,5] -benzodiazepine), was developed to the stage of being clinically administered to psychiatric patients suffering from schizophrenia. A total of 17 patients received treatment with flumezapine before the clinical trial was terminated after consultation with the U.S. Food and Drug Administration, because of an unacceptably high incidence of raised enzyme, creatinine phosphokinase (CPK), and the liver enzymes, serum glutamate oxalacetic transaminase (SGOT) and seum glutamate pyruvate transaminase (SGPT), estimated from blood samples taken from patients, were in substantial excess of normal values, indicating the possibility of toxicity. In respect of its tendency to raise liver enzyme levels, flumezapine is similar to chlorpromazine, an antipsychotic which has long been in use but whose safety has been called into question.
+In clinical trials with flumezapine two of the patents showed the emergence of extra pyramidal side effects as measured on the AIMS scale referred to above.
+[117]
+Therefore, with respect to “prior art” the ‘113patent has told us that two drugs used to treat patents, haloperidol and clozapine, have undesirable side effects. A third drug, which is among the class described  <FRAGMENT_SUPPRESSED> ’s British Patent (Canadian ‘687 patent), flumezapine, was withdrawn from clinical trials after exhibiting undesirable side effects.
+[118]
+The “invention” is stated at page 3 of the ‘113 patent as a compound having “surprising and unexpected” properties by comparison, with flumenzapine and other related compounds. It says:
+We have now discovered a compound which possesses surprising and unexpected properties by comparison with flumezapine and other related compounds.
+The compound of the invention is of the formula
+or an acid addition salt thereof. The free base of formula (I) is 2-methyl-10-(4-methyl-1-piperazinyl)-4H-thieno[2,3-b] -[1,5] benzodiazepine.
+[119]
+A “surprising and excellent results” statement is made at page 4 of the patent describing the compound, in “experimental screens” and “clinical trials” as providing “relatively safe and effective treatment” of nervous disorder. It says:
+The compound of the invention has given surprising and excellent results, described in greater detail below, in experimental screens for testing activity on the central nervous system in the clinical trials, which results indicate its usefulness for the relatively safe and effective treatment of a wide range of disorders for the central nervous system.
+[120]
+The patent describes at pages 4, 4a and 5 that a “high level of activity” is found in treating disorders such as schizophrenia at “surprisingly low dosage levels”. An open (not blind) study is referenced in a general way and “these ongoing clinical trials” are noted as conferring “high level of activity at the “low end of dosage level” exemplified as 2.5 to 5 mg per day.
+The results of pharmacological tests show that the compound of the invention is an antagonist of dopamine at D-1 and D-2 receptors, and in addition has antimuscarinic anticholinergic properties and antagonist activity at noradrenergic receptors. These properties indicate that the compound is a potential neuroleptic with relaxant, anxiolytic or anti-emetic properties, and is useful in treating psychotic conditions such as schizophrenia, schizophreniform diseases and acute mania. At lower doses, the compound is indicated for use in the treatment of mild anxiety states.
+As mentioned above, the compound of the invention has shown a high level of activity in the clinical evaluation of psychiatric patients suffering from schizophrenia, and it exhibits this high activity at surprisingly low dosage levels. The dosage levels have been found to be lower than would be expected from observations of the compound made in initial tests on animal models. Its response profile in patients follows that of known antipsychotic agents when they have been used successfully, there being a clear similarity between the performance of the compound and that of known antipsychotic agents in its ratings on the major assessment scales such as Brief Psychiatric Rating Scale (BPRS) (Schizophrenia Sub-scale), and Clinical Global Impression (CGI).
+In the first completed open (as opposed to blind) study of the compound of the invention in schizophrenic patients, six out of eight patients who completed at least 2 weeks of treatment showed between 66% and 87% improvement at least 4 weeks, as assessed on BPRS scale, at daily dosage s between 5 and 30 mg. Preliminary results from a further three ongoing clinical trials now appear to confirm this high level of efficacy and at doses lower than or at the low end of the dosage level used in the first study, for example, at 2.5 and 5 mg. per day.
+[121]
+Skipping to pages 12 to 15 more statements are made, based on “models” and “in vitro binding assays” suggesting dosages 0.05 to 30 mg per day, preferably 0.1 to 20 mg per day may be used depending on the condition to be treated, more serious situations may be dosed at from 2 to 15 mg; preferably 2.5 to 10 mg per day. Milder cases may be dosed at 0.1 to 5 mg, preferably 0.5 to 1 mg per day.
+[122]
+Back to page 5, the patent describes in general terms only, that the compound has only “mild” effects on the liver, “lower” elevation of prolactin levels and “no alteration” of white blood cell count, no data to support these assertions is given:
+Moreover, there is a low incidence of only mild and transient elevation of liver enzymes in patients treated with therapeutic doses, and plasma levels of creatinine phosphokinase (CPK) are lower than with flumezapine, indicating a lower adverse effect on muscular tissue. Furthermore, the compound of invention causes lower elevation of prolactin levels than other currently used neuroleptic drugs and this suggests fewer disturbances of the menstrual cycle, and less gynecomastia and galactorrhea. No alteration of white blood cell count had been observed in clinical studies.
+[123]
+There follows at page 5 and on to page 6 a brief discussion of a dog study, a matter which was greatly discussed in evidence and argument in this case. The passage says that in a dog toxicity study, olanzapine was compared with another compound which in the evidence is called ethyl olanzapine or, sometimes the 222 compound. The patent says that four of eight dogs showed a “significant rise” in cholesterol levels when given 222, whereas that dogs given olanzapine showed no rise:
+In dog toxicity studies with a closely analogous compound, 2-ethyl-10-(4-methyl-1-piperazinyl)-4H-thieno[2,3-b] -[1,5] benzodiazepine, at a dosage of 8 mg/kg, it was observed that four out of eight dogs showed a significant rise in cholesterol levels, whereas the compound of the invention did not show any rise in cholesterol levels.
+[124]
+The patent summarize at page 6 of the alleged advantages of olanzapine:
+Overall, therefore, in clinical situations, the compound of the invention shows marked superiority, and a better side effects profile than prior known antipsychotic agents, and has a highly advantageous activity level.
+[125]
+The balance of the descriptive portion of the patent is not relevant to the matters before the Court. It describes that olanzapine can be used both in free base and salt form with a variety of salt forms discussed. Processes for producing olanzapine are described. There is no controversy on this point; the parties are agreed that a person skilled in the art at all relevant times could make olanzapine. It is stated that olanzapine may be administered in several ways such as capsules, tablets and by injection.
+[126]
+Thus, to construe the claims of the patent, the relevant claims simply claim olanzapine or its use in making a medicine to treat schizophrenia or a pharmaceutical composition including olanzapine. No particular property or benefit is claimed in the claims. The descriptive portion of the patent, however, particularly at page 4 to 6, promises the reader that in clinical situations in treating central nervous disorders such as schizophrenia, olanzapine shows marked superiority (to flumenzapine and some other compound or compounds which are not named), has a better side effects profile than “prior known” antipsychotic agents (three are mentioned in the patent only haloperidol and clozapine were known, the third, flumezapine was in clinical studies thus not public known), and has a highly advantageous activity level (compared to something again not defined). In brief, olanzapine is said to be better, but to what? Just flumenzapine, or to all the other trillion compounds in the British Patent, or just some of them and if so, which?
+Sufficiency and Selection Patents
+[127]
+I will go directly to the argument as to invalidity of the ‘113 patent not raised before Justice Gauthier, that of insufficiency. This argument has been raised in sections 7 and 7.1 of the Novopharm’s Notice of Allegation.
+[128]
+The question of sufficiency of disclosure when it comes to the selection patents of the type represented by the ‘113 patent has particular importance. The general jurisprudence as to sufficiency of disclosure must be considered in light of the particular requirements respecting selection patents that the inventive feature of selection of a compound or group of compounds from a larger group must reside in the unexpected or surprising attributes of the selected compound or groups and that this inventive feature must be clearly set out in the specification.
+[129]
+Section 27(3)(b) of the post October 1996 version of the Patent Act supra, requires that a patentee set out clearly in the specification the method of making or using the composition in such full, clean and concise and exact terms as to enable a person skilled in the art to make or use it. It says:
+(3) The specification of an invention must
+. . . . .
+b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct, compound or use it.
+This section previously was numbered 34 or 36 of the Patent Act at various earlier times. Two leading cases in the Supreme Court of Canada discuss the requirements that a specification be sufficient. The first is  <FRAGMENT_SUPPRESSED> . At pages 517 and 518 Justice Dickson, for the Court, wrote the frequently cited passages as to the requirements of disclosure dictated by section 36 as it then was numbered:
+Section 36 of the Patent Act lies at the heart of the whole patent system. The description of the invention therein provided for is the quid pro quo for which the inventor is given a monopoly for a limited term of years on the invention. As Fox points out in Canadian Patent Law and Practice (4th ed.), p. 163, the grant of a patent is in the nature of a bargain between the inventor on the one hand and the Crown, representing the public, on the other hand. The consideration for the grand it twofold: “first, there must be a new and useful invention, and secondly, the inventor, must, in return for the grand of a patent, give to the public an adequate description of the invention with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired”. The “description to which Fox refers is that required by s. 36 of the Patent Act.
+It cannot be said that s. 36 of the Act is happily phrased. It gives the impression of a mélange of ideas gathered at random rather than an attempt to enunciate, clearly and concisely, a governing principle or principles. This is perhaps understandable in that the section of the product of amendment over a period of many years. The language simply does not lend itself to a tight, literal interpretation. It is, and should be treated as, a parliamentary pronouncement, in general terms, of that which must be set forth by the applicant to the world before being qualified to receive the grand of monopoly under a patent.
+[131]
+The subsequent discussion by Dickson J. as to the disclosure of the utility in the specification is what gives rise to the difficulties when it comes to considering a selection patent. At pages 525 to 527 he said that while it was a requirement that an invention possess utility, a patentee was not required in the disclosure to describe in what way the invention was new or extol the effect or advantage thereof. He said at 525-6:
+In my respectful opinion the Federal Court of Appeal erred also in holding that s. 36(1) requires distinct indication of the real utility of the invention in question. There is a helpful discussion Halsbury’s Laws of England, (3rd ed.), vol. 29 at p. 59 on the meaning of “not useful” in patent law. It means “that the invention will not work, either in the sense that it will not do what the specification promises that it will do”. There is no suggestion here that the invention will not give the result promised. The discussion in Halsbury’s Laws of England, ibid., continues:
+... the practical usefulness of the invention does not matter, nor does its commercial utility, unless the specification promises commercial utility, nor does it matter whether the invention is of any real benefit to the public, or particularly suitable for the purposes suggested. [Footnotes omitted.]
+and concludes:
+... it is sufficient utility to support a patent that the invention gives either a new article, or a better article, or a cheaper article, or affords the public a useful choice. [Footnotes omitted]
+Canadian law is to the same effect.  <FRAGMENT_SUPPRESSED> ) the Quebec Court of Appeal adopted at p. 53 the following quotation from the case of Unifloc Reagents, Ld. V. Newstead Colliery, Ld. At p. 184:
+If when used in accordance with the directions contained in the specification the promised results are obtained the invention is useful in the sense in which that term is used in patent law. The question to be asked is whether, if you do what the specification tells you to do, you can make or do the thing which the specification says that you can make or do.
+Although (I) s. 36(1) requires the inventor to indicate and distinctly claim the part, improvement or combination which he claims as his invention and (ii) to be patentable an invention must be something new and useful (s. 2), and not known or used by any other person before the applicant invented it (s. 28(1)(a)), I do not read the concluding words of s. 36(1) as obligating the inventor in his disclosure or claims s to be described in what respect the invention is new or in what way it is useful. He must say what it is he claims to have invented. He is not obliged to extol the effect or advantage of his discovery, if he describes his invention so as to produce it.
+[132]
+The patents at issue  <FRAGMENT_SUPPRESSED>  were not selection patents, thus the issue as to disclosure in that regard did not arise.
+[133]
+The issue as to sufficiency of disclosure arose again in the Supreme Court decision of  <FRAGMENT_SUPPRESSED>  where Justice Lamer, for the Court, discussed the same provisions of the Patent Act which were later renumbered to section 34. Sufficiency was discussed at paragraphs 22 to 27 of the Reasons and summarized at paragraph 27, everything essential must be disclosed, the “nature of the invention” must be defined:
+[27] In summary, the Patent Act requires that the applicant file a specification including disclosure and claims (Consolboard Inc., supra at p. 520). Canadian courts have stated in a number of cases the test to be applied in determining whether [page 1638] disclosure is complete. The applicant must disclose everything that is essential for the invention to function properly. To be complete, it must meet two conditions: it must describe the invention and define the way it is produced or built (Thorson P. in  <FRAGMENT_SUPPRESSED>  and describe how it is put into operation. A failure to meet the first condition would invalidate the application for ambiguity, while a failure to meet the second invalidates it for insufficiency. The description must be such as to enable a person skilled in the art or the field of the invention to produce it using only the instructions contained in the disclosure (Pigeon J. in  <FRAGMENT_SUPPRESSED> , at p. 563;  <FRAGMENT_SUPPRESSED>  at p. 1113) and once the monopoly period is over, to use the invention as successfully as the inventor could at the time of his application (Minerals Separation, supra. at p. 316).
+[134]
+Next the requirements for a proper selection patent must be examined. The Federal Court of Appeal provided a recent summary in  <FRAGMENT_SUPPRESSED> to 19. Put simply, a valid selection patent is one which claims an advantage for a compound that is within a previously disclosed class of compounds which advantage has not been disclosed in the prior art. The court said at paragraphs 16 to 19:
+[16] As background to its arguments on appeal, the appellant claims that Shore J. erred in treating the patent in issue as a valid selection patent. Although Shore J. did not actually use the expression “selection patent”, he did conduct his analysis on the basis that the ‘777 Patent came without description. Simply put, a valid selection patent is one which claims an advantage for a compound within a previously disclosed class of compounds which has not been disclosed in the prior patent.
+[17] The law with respect to selection patents was recently applied by this Court  <FRAGMENT_SUPPRESSED>  Canada Inc. v. (Minister of Health), 2006 FCA 214 ( <FRAGMENT_SUPPRESSED>  patents:
+[3] There are two general classes of chemical patents. The first is the ‘originating patent’ where there is an originating invention involving the discovery of a new reaction or a new compound. The second is the ‘selection patent’ which is based on a selection from related compounds derived from the original compound and which have been described in general terms and claimed in the originating patent (see In Matter of I.G. Farbenindustrie A.G.’s Patents, (1930) 47 R.P.C. 283 at page 321 per Maugham J.).
+[4] While there is little Canadian jurisprudence on the subject of selection patents, its elements are well defined in I.G. Farbenindustrie. Lord Diplock cited this decision with approval of the House of Lords where the stated that the ‘inventive step in a selection patent lies in the discovery that one or more members of a previously known class of products possess some special advantage for a particular purpose which could not be predicted before the discovery was made’ (see  <FRAGMENT_SUPPRESSED>  at page 579). All claimed members of the known class must have the advantage and the advantage must not be one that those skilled in the art would expect to find in a large number of the previously disclosed class (i.e. a quality of special character) (see I.G. Farbenindustrie at page 323).
+[5] Selection patents exist to encourage researchers to further use their inventive skills so as to discover new advantages for compounds within the known class. A selection patent can be claimed for a selection from a class of thousands or for a selection of one out of two (see for example I.G. Fabenindustrie at page 323 and E.I. Dupont de Nemours & Co (Witsiepse’s) Application, [1982] F.S.R. 303 (H.L.) at page 310).
+[18] In E.I. Dupont de Nemours & Co., Lord Wilberforce provided the following guidance in determining when a prior publication will preclude the patenting of a related development (pp. 310-311):
+..., in disclosing a prior invention does not amount to prior publication of a later invention if the former merely points the way which might lead to the latter. A much quoted and useful passage is that from the judgment of the Court of Appeal in  <FRAGMENT_SUPPRESSED>  at 486. There Sachs L.J. said:
+“A signpost however, clear, upon the road to the patentee’s invention will not suffice. The prior invention must be clearly shown to have planted his flag at the precise destination before the patentee.”
+Attractive metaphors may be dangerous for those in search of precision, but the passage illustrates the necessity that the alleged prior disclosure must clearly indicate that use of the relevant material (i.e. that ultimately selected) does result in a product having the advantages predicted for the class. The point is well put by the New Zealand Court of Appeal. Dealing with semi-synthetic penicillin, the court (per Cooke J.) said:
+“If such a compound has not been made before, its properties often cannot be predicted with any confidence; and where that is the case we do not consider that the invention claimed can be fairly or accurately be described as ‘published’, even if a skilled chemist would realize that to make the compound by routine means would be practicable. A making of the compound and a discovery of its properties is necessary before the ‘invention’ has occurred and can be published.” (My emphasis)
+This is in line with, but adds a useful precision to what was said by Maugham J.:
+“It must be remembered, of course, that the selected compounds have not been made before, or the patent would fail for want of novelty.” (I.G. Farbenindustrie A.G.’s Patents, 1.c. p. 321)
+[19] The ‘875 Patent and the ‘777 Patent lend themselves to the analysis predicated for selection patents. The ‘875 Patent discloses a general class of compounds useful in providing platelet aggregation inhibiting activity and a process for the preparation of such compounds. The ‘777 Patent on the other hand identifies the dextro-rotatory isomer of a particular racemate disclosed in the ‘875 Patent which has never been separated and which, once separated, produces an insomer found to have special properties.
+[135]
+The invention thus lies in the determination that a compound that lies within a previously disclosed class of compounds and which possesses a previously undisclosed advantage, an advantage that “cannot be predicted with any confidence” one that a person skilled in the art would not “expect to find in a large number of the previously defined class” can be the subject of a valid patent. That “advantage” was stated by the Federal Court of Appeal in  <FRAGMENT_SUPPRESSED>  at paragraph 31 to include a disadvantage to be avoided:
+[31] To meet the statutory requirement in subsection 34(1) of the Patent Act, R.S.C. 1985, c. P-4 (old Act) that a patent be "useful", the selected species must have an advantage over the class as a whole (see  <FRAGMENT_SUPPRESSED> , 122 D.L.R. (3d) 203). That case broadly defined the utility required for valid patent as discussed in Halsbury's Laws of England (3rd ed.), vol. 29 at page 59:
+... it is sufficient utility to support a patent that the invention gives either a new article, or a better article or a cheaper article, or affords the public a useful choice.
+However, there are no special legal requirements regarding what particular type of advantage is required. The test for advantage is understood to include a disadvantage to be avoided, as is the case here (see I.G. Farbenindustrie at page 322).
+[136]
+The advantage, however, must be stated in the specification. A patentee cannot merely state that the selected compound or group has advantages. The patentee must state clearly what the invention is, namely the specific advantages; as Maugham J. said at pages 321 and 323 of the I.G. Fabenindustrie case referred to by the Federal Court of Appeal in  <FRAGMENT_SUPPRESSED>  supra. In the matter of I.G. Fabrenindustrie A.G.’s Patents (1930) 47 R.P.C. 23, Maugham J. states at page 322:
+…It is clear, for example, that mere verification is not invention. ( <FRAGMENT_SUPPRESSED> ). Where the method of manufacture is laid down in the originating patent, the selection patent must not be an exact repetition of the same process coupled with a statement of the properties possessed by the selected bodies. No man can have a patent merely for ascertaining the properties of a known substance.
+. . . . .
+I must add a word on the subject of the drafting of the specification of such a patent. It should be obvious, after what I have said as to the essence of the inventive step, that it is necessary for the patentee to define in clear terms the nature of the characteristic which he alleges to be possessed by the selection for which he claims a monopoly. He has in truth disclosed no invention whatever if he merely says that the selected group possesses advantages. Apart altogether from the question of what is called sufficiency, he must disclose an invention; he fails to do this in the case of a selection for special characteristics, if he does not adequately define them. The cautions repeatedly expressed in the House of Lords as regards ambiguity have, I think, special weight in relation to selection patents. (Natural Colour, etc.  <FRAGMENT_SUPPRESSED> , at p. 47)
+[137]
+The resolution of the requirement for disclosure in the specification in a selection patent as opposed to an ordinary patent such as  <FRAGMENT_SUPPRESSED>  can be resolved in the same way that the House of Lords did in  <FRAGMENT_SUPPRESSED> . While not dealing with a selection patent, their Lordships had to consider the same issue namely: What level of disclosure is required in a specification. There answer was: Where you have to rely on the presence or absence of an effect or an advantage, it must be clearly stated in the specification. At page 134 Lord Upjohn said:
+There was some discussion before your Lordships upon the question as to the essential contents of the specification. I think it is clearly established that, provided the specification sets out with the necessary particularity the invention and the means of carrying it out, and the claim defines with equal particularity what the invention is, the patentee is not bound to describe the theory upon which the invention works, and he may, indeed, even mis-state the reason why or theory upon which he believes it works and in general he is not bound to state the advantages of the invention. But I agree entirely with the observations of Fletcher Moulton, L.J. in  <FRAGMENT_SUPPRESSED>  at 750 in these words:
+“Counsel for the plaintiff urged the well-known principle in patent law that a man need not state the effect or the advantages of his inventions if he describes his invention so as to produce it. But that is not true where he has to rely on the presence or absence of such effect or advantage as part of the necessary delimitation. The fact that it is a mere consequence cannot be pleaded by him as an excuse for not putting it in, if the leaving it out leaves his invention inadequately defined.”
+In this case, in my opinion, the specification nowhere describes the advantage obtained, namely, the removal of lint or fly from the whole of the floor by the mere passage of the vacuum cleaning apparatus up and down the aisles at frequent intervals.
+[138]
+Lord Wilberforce made similar comments at page 139 of the decision.
+[139]
+Thus, in considering the law as to sufficiency in regard to selection patents, the following may be concluded:
+1. A valid selection patent may be obtained where the invention lies in selecting a member or members from a previously disclosed group where the member or members selected possess a particular advantage not previously to be found or predicted in a large number of members of the class by a person skilled in the art.
+2. The advantage may also be a disadvantage to be avoided.
+3. The advantage must be clearly set out in the specification. A statement that the selected group possesses advantages or lack of disadvantages is not in itself sufficient; the advantage must be plainly and fully set out in sufficient detail so as to enable a person skilled in the art to know and appreciate what they are.
+Where the Advantages Sufficiently Stated in the ‘113 Patent Specification
+[140]
+The question as to sufficiency that has to be resolved here is whether in the specification of the ‘113 patent the “advantages” were sufficiently stated.
+[141]
+This matter must be approached by determining what were the “advantages”, namely, what could not reasonably to have been found or predicted by a person skilled in the art as to the class of compounds set out in the ‘687 or British Patent as of the relevant date. The relevant date here for construing the ‘113 patent is the date that it was placed open for public inspection, October 26, 1991. ( <FRAGMENT_SUPPRESSED>  supra). That British Patent is essentially the same as the Canadian ‘687 patent referred to by Justice Gauthier in her decision and asserted by Novopharm in the present proceedings.
+[143]
+The evidence of witnesses such as Dr. Szot, a Lilly witness, at paragraph 27 of his affidavit was that in the 1980’s, Lilly was concerned with finding a compound that was as effective as the existing known compound clozapine, without the known side effects of clozapine such as extra pyramidal effects, hepatic, haematological and endocrine system problems. In particular clozapine caused problems related to agranulocylosis, loss of white blood cells. Thus a different group of compounds were being investigated namely those disclosed in the British Patent.
+[144]
+The British Patent (Canadian ‘687) was described in the ‘113 patent as disclosing a “group of antipsychotic compounds”. The British Patent states, in opening:
+The invention relates to a novel class of compounds having useful central nervous system (hereinafter abbreviated to “CNS” activity.”
+[145]
+The British Patent describes a general formula from which can be derived a large number of compounds all fitting within the general formula as defined. The patent reduced the size of the group into a preferred and then a most preferred group. It is acknowledged by all parties that if one took the trouble to write out all conceivable formulae, olanzapine would be one of them. The largest group was estimated to be in the trillions, the most preferred group about 150,000 compounds. The parties agreed that olanzapine fell into the preferred group as well as the larger group as defined but there was a dispute as to whether it fell into the most preferred group or not.
+[146]
+It is agreed that olanzapine is nowhere specifically disclosed in the British or ‘687 patents. Structurally similar compounds known as ethyl olanzapine, flumezapine and ethyl flumezapine are disclosed. To give an idea of the structural similarity of these compounds and clozapine, I reproduce the following diagram supplied by Novapharm:
+The British Patent at page 10 (the Canadian ‘687 at pages 21 and 22) states that the compounds covered by the patent have useful central nervous system activity, including treatment of schizophrenia and anxiety. The compounds are said to be effective over a wide dosage range, giving examples of ranges within 0.1 to 20 mg/kg per day, preferably 0.1 to 10 mg/kg per day. This translates at the low range for a 50 kg person (110 pounds) to 5 mg/day for a 100 kg person it would be 10mg/day. The compounds are said to be capable of being administered orally or by ingestion in the form of pharmaceutical compositions that are well known.
+[148]
+At this point reference can be made to page 3 of the ‘113 patent where it says:
+“We have now discovered a compound which possesses
+and
+by comparison
+with flumezapine and other related compounds [emphasis added] ”
+[149]
+Flumezapine is one of the compounds specifically disclosed in the British Patent and Canadian ‘687 patent, the “other related compounds” are presumably other compounds disclosed in these patents. There are 69 compounds disclosed specifically in these patents.
+[150]
+Lilly argued that the “other related compounds” would be those disclosed more particularly by the named inventor of the British Patent, the Canadian ‘687 patent and who is also a named inventor in the ‘113 patent at issue here, Dr. Chakrabarti (now deceased). He wrote two papers in 1980, one in particular which is sometimes referred to as Chakrabarti 1980 (a) appearing in the Journal of Medical Chemistry, Vol. 23 at pages 878 - 884 which gave detailed data as to the 76 compounds falling within the class of compounds disclosed by the British Patent showing some to be more effective and less toxic than others. Olanzapine is not among them.
+[151]
+The fact is that the “other related compounds” are not particularly defined in the ‘113 patent. All that is said to be the invention is “surprising and unexpected properties” in comparison with them in addition to flumenzapine.
+[152]
+At pages 4, 4a and 5 of the ‘113 patent, some “greater detail” is said to be given but it is simply rhetoric, even the first full paragraph to page 5 which is the only paragraph to present data, that data is scanty and not presented in comparison with any other compound be it flumenzapine or otherwise. I repeat these passages:
+The compound of the invention has given surprising and excellent results, described in greater detail below, in experimental screens for testing activity on the central nervous system and in clinical trials, which results indicate its usefulness for the relatively safe and effective treatment of a wide range of disorders of the central nervous system.
+The results of pharmacological tests show that the compound of the invention is an antagonist of dopamine at D-1 and D-2 receptors, and in addition has antimuscarinic anticholigergic properties and antagonist activity at 5HT-2 receptors sites. It also has antangonist activity at noradrenergic a-receptors. These properties indicate that the compound is a potential neuroleptic with relaxant, anxiolytic or anti-emetic properties, and is useful in treating psychotic conditions such as schizophrenia, schizophreni8form diseases and acute mania. At lower doses the compound is indicated for use in the treatment of mild anxiety states.
+As mentioned above, the compound of the invention has shown a high level of activity in the clinical evaluation of psychiatric patients suffering from schizophrenia, and it exhibits this high activity at surprisingly low dosage levels.
+The dosage levels have been found to be lower than would be expected from observations of the compound made in initial tests on animal models. Its response profile in patients follows that of known antipsychotic agents when they have been used successfully, there being a clear similarity between the performance of the compound and that of known antipsychotic agents in its ratings on the major assessment scales such as Brief Psychiatric Rating Scale (BPRS) (Schizophrenia Sub-scale), and Clinical Global Impression (CGI).
+In the first completed open (as opposed to blind) study of the compound of the invention in schizophrenic patients, six out of eight patents who completed at least 2 weeks of treatment showed between 66% and 87% improvement at least 4 weeks, as assessed on BPRS scale, at daily dosages between 5 and 30 mg. Preliminary results from a further three ongoing clinical trials now appear to confirm this high level of efficacy and at doses lower than or at the low end of the dosage level used in the first study, for example, at 2.5 and 5 mg per day.
+[153]
+What is stated here is not very different from what was stated in the British Patent and Canadian ‘687 Patent, namely, that central nervous disorders including schizophrenia and mild anxiety can be treated, and that dosages as low as 5 mg per day can be administered.
+[154]
+There is absolutely no comparative data to support the statement of invention at page 3 which says that olanzapine has “surprising and unexpected properties
+by comparison
+with flumezapine and other related compounds” [emphasis added].
+[155]
+At page 5 the ‘113 patent continues with “advantages” which are said to reside in lesser side effects. Again,
+is given, rhetoric in the use of adjectives such as “mild” and “lower” is all that is given:
+Moreover, there is a low incidence of only
+and transient elevation of liver enzymes in patients treated with therapeutic doses, and plasma levels of creatinine phosphokinase
+(CPK) are lower
+than with flumezapine, indicating a lower adverse effect on muscular tissue. Furthermore, the compound of the invention causes
+lower elevation
+of prolactin levels than other currently used neuroleptic drugs and this suggests fewer disturbances of the menstrual cycle, and less gynecomastia and galactorrhea. No alteration of white blood cell count has been observed in clinical studies [emphasis added].
+[156]
+Then the dog study is discussed in the ‘113 patent. This is the only comparative data given anywhere in the patent. The comparison is not to flumezapine but to ethyl olanzapine which, presumably, is one of the “other related compounds” discussed at page 3. The dog study is reported at pages 5 and 6:
+In dog toxicity studies with a closely analogous compound, 2-ethyl-10-(4-methyl-1-piperazinyl)-4H-thieno[2,3-b] -[1,5] benzodiazepine, at a dosage of 8 mg/kg, it was observed that four out of eight dogs showed a significant rise in cholesterol levels, whereas the compound of the invention did not show any rise in cholesterol levels.
+[157]
+Much was made in evidence and argument as to the dog study. It is not argued that what is set out itself incorrect. It is argued that there was much more data that Lilly had recorded which ought to have been presented and that, in looking at all the data, a person skilled in the art may have come to different conclusions as to the effectiveness of olanzapine not only in respect of cholesterol but other things as well.
+[158]
+The dog study data given leaves one to wonder why only a particular comparator, ethyl olanzapine, was chosen. Would others have yielded different results? One wonders what the protocols of the study were, how many dogs received olanzapine is not disclosed? There is disagreement among the experts as to whether such data can be extrapolated to humans?
+[159]
+Lilly apparently gave the patent examiner responsible for processing the application for the ‘113 patent further data respecting the dog study, as shown by the Murphy affidavit. However what goes on in the patent office, the so-called file wrapper, is not admissible in construing a patent (FreeWorld Trust v. Électro Santé Inc.[2000] 2 S.C.R. 1024 at paras. 62 to 67). What is at issue here is the sufficiency of the disclosure in the patent itself, not of any disclosure to a patent examiner.
+[160]
+The conclusion as to the invention in selecting olanzapine from the known group is stated at page 6 of the patent. It says there is “marked” superiority “better” side effect profile and “highly advantageous” activity. Again, simply rhetoric.
+Overall, therefore, in clinical situations, the compound of the invention shows
+superiority, and a
+than prior to known antipsychotic agents, and has a
+highly advantageous
+activity level. [emphasis added].
+[161]
+It may be that in subsequent tests and uses, olanzapine has demonstrated some of these characteristics. Although in one such study done in the early 2000’s, the so called CATIE study, two of the authors of that study, Drs. Rosenheck and McEvoy who appeared as witnesses for opposite parties, disagreed as to whether, even as recently as three or so years ago, it could be shown that olanzapine possessed any remarkable superiority or lack of side effects. The point is that one must not consider any recent study but rather whether the patent itself sets out the invention sufficiently in the specification. After the fact confirmation would only lead to the abuses warned against by Binnie J. in the Supreme Court decision of  <FRAGMENT_SUPPRESSED>  at paragraph 80:
+Were the law to be otherwise, major pharmaceutical corporations could (subject to costs considerations) patent whole stables of chemical compounds for all sorts of desirable but unrealized purposes is a shot-gun approach hoping that, as in a lottery, a certain percentage of compounds will serendipitously turn out to be useful for the purposes claimed. Such a system would reward deep pockets and the ingenuity of patents rather than the ingenuity of true inventors.
+[162]
+I find that the ‘113 patent fails to provide sufficient disclosure in its specification as to the invention, if any, in selecting olanzapine from a previously disclosed group of compounds. The prior art British Patents teaches the whole class of compounds to be useful in treating central nervous system disorders. The invention in selecting olanzapine is the so called “surprising and unexpected” properties of olanzapine in “comparison with flumezapine and other related compounds”. No such comparison is made anywhere in the ‘113 patent. No data was given. We are left only with rhetoric such as “high level of efficiency” and “mild and transient” and “lower” side effects. The puzzling and scant mention of a dog study refers only to ethyl olanzapine and tells nothing of flumezapine or other compounds.
+[163]
+I accept as a sound and rational observation the answers given by Dr. Leber, a Novopharm expert witness, a medical doctor who for many years had been the Director of the Division of Neuropharmalogical Drug Products of the United States Food and Drug Administration, to questions put to him on cross-examination found at pages 75 and 76 of the transcript:
+Q You say, to be clear, randomized clinical trials could have been conducted to evaluate the comparitibe toxicities of flumezapine and olanzapine, on administered at equal effective doses. And then, you go onto say, but as far as can be determined from the ‘113, such trials were not carried out by Lilly.
+I just want to clarify, for Lilly to have done those randomized head-to-head clinical trials they would have had to take flumezapine off the clinical hold?
+A Now, let’s step one step back. Nobody obliged anyone to say that one drug is superior to another. If you want to make a claim that something is superior I think that you have to produce evidence that would allow someone to reliably and fairly reach that conclusion.
+A So the fact that you can’t adduce the evidence does not, to me, mean that you have the right to make the assertion, because you can’t adduce the evidence.
+[164]
+Given that Lilly has already enjoyed a patent monopoly for a group of compounds that included olanzapine all said to be useful in treating central nervous disorders, it simply has not paid the price, by way of a clear and explicit disclosure to what the invention is, if any, in the properties of olanzapine alone that merit a further monopoly in a separate further patent.
+[165]
+I find that Lilly has failed to demonstrate that Novopharm’s allegations in respect of sufficiency of disclosure are not justified.
+Section 53 of the Patent Act supra, provides that if a patentee has, in specification, intentionally provided more or less than is needed, for the purpose of misleading, the patent may be invalid:
+(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, of if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading
+The discussion as to sufficiency elsewhere in those Reasons is directed to whether the patentee put enough into the specification so as to enable a person skilled in the art to clearly identify and understand the invention. Intention so as to deliberately mislead is not an element in considering sufficiency.
+[168]
+Section 53 requires a subjective element to be proven namely did the patentee have an intention to mislead. Novopharm alleges that Lilly had such intention. Lilly challenges that allegation thus, once challenged, Novopharm must lead some evidence to support the allegation. If that evidence is lacking or inadequate Novopharm’s allegation is not justified, even if Lilly leads no evidence. If both Lilly and Novopharm lead evidence, then the evidence must be weighed by the Court and the outcome as to “justification” determined on the usual civil balance.
+[169]
+Relying on Eli Lilly and  <FRAGMENT_SUPPRESSED>  (FCA) at paragraphs 18-19 Novopharm says that where knowledge is particularly within one of the parties, that party has the obligation to prove it in order to come within the provisions of an exception. What Nu-Pharm was discussing however was whether an assertion by one of the parties as to its own conduct must be proved or can it simply rely on assertions in its Notice of Allegation. Here we are dealing with assertions by one party, Novopharm, as to the other party’s conduct (Lilly). Novopharm cannot simply make assertions as to the other party’s conduct in its Notice of Allegation and expect to sit back and wait for Lilly to lead evidence to disprove the allegation. The old maxim “He who alleges must prove” still stands. Here Novopharm alleges that Lilly had a certain intention. Novopharm must lead evidence to that effect or take steps to obtain evidence from Lilly by request or obtain an appropriate Court Order. It sought no such Order in this case.
+[170]
+Novopharm has lead the evidence of two witnesses on this subject. One is Dr. Healy who is an independent psychiatrist who has done counseling for Lilly on occasion. His evidence in cross-examination was that about 10 years ago, while he was in discussions with some people in the marketing department  <FRAGMENT_SUPPRESSED>  he asked questions about the history of olanzapine and got no answer. I do not find this evidence to be persuasive. At questions 288 to 295 of the transcript:
+288 Q. And would you agree with me that you’re not aware of any evidence in this case that says what involvement, if any, the marketing department had in this decision, any factual evidence?
+A. Well, I’ve told you that when I went disinterestedly chase the history of this drug, roughly 10 years before I got involved in this case, that I found the company reluctant to talk on the record about how this drug was actually developed, in a way that I didn’t find – in fact, I don’t believe I found with any of the other drugs I’ve actually tried to investigate the history of.
+289 Q. So Lilly chose not to talk with you?
+A. That’s the way it appears to be
+290 Q. And this would be about 10 years ago?
+A. This would have been around ’95 or so, yes.
+291 Q. And are you aware of any reason why Lilly may not have wanted to chat with you?
+A. Well, I’ve indicated to you that one of the reasons that they may not have wished to chat with me may have been because they didn’t want to go into the details of the history of the origins of this drug all that closely.
+292 Q. Might it have to do with some of the things you were saying about Prozac at the time?
+A. No, because I have to tell you that the P.R. person for Prozac in the U.K. when I met her around that time – well, you see, you have to be reminded that at this point in time I was a consultant for the company, working reasonably closely with the company, given talks to the copy, I had loads of friends in the company. And a few years later the P.R. person for Prozac in the U.K., when she met me she said: “Dr. Healy, I am so pleased to meet you. You are doing more for the sales of Prozac in the U.K. than anyone else” so…
+293 Q. What she meant by that is the controversy that you raised relating to Prozac?
+A. Didn’t do any harm to the company, any harm to the sales. I still met and talked with people in the company, very, very friendly.
+294 Q. They are a friendly company?
+A. What was distinctly different about this was they were very reluctant to talk about the history of this company.
+295 Q. And this would have been 1995 or 1996
+A. That’s my best guess.
+[171]
+Novopharm also lead the affidavit of Dr. Leber, previously referred to, who speculated that Lilly probably did a number of trials on the compound, none of which found their way into the patent. This, at the end of the day is simply speculative.
+[172]
+Novopharm makes much of what it describes as lack of evidence and perhaps concealment of evidence by Lilly. As discussed, Lilly has no obligation to lead evidence. Novopharm did not seek the assistance of the Court to compel evidence. Lilly did lead the evidence of Dr. Pullar, a recently retired employee who was, I am satisfied, heavily involved in the management of several of the research departments and studies related to olanzapine. Novopharm’s cross-examination of Dr. Pullar at times amounted to little more than a discovery seeking documents beyond those available to Dr. Pullar. These proceedings go forward by way of application and are intended to be summary in nature. If a discovery was to be sought, other remedies by way of an action for a declaration of invalidity, for instance, are available.
+[173]
+I am satisfied, on the evidence, that Novopharm’s allegations made in respect of section 53 of the Patent Act and, in particular, as to intent of Lilly to mislead, are not justified.
+Novopharm had alleged that the claims at issue of the ‘113 patent were anticipated having regard, in particular, to the ‘687 Canadian patent and the Schauzu article.
+[175]
+I am satisfied that I do not need to write in these reasons an extensive analysis with respect to this allegation. The evidence is the same in all material respects to that discussed by Justice Gauthier in her Reasons. The argument is the same.
+[176]
+I reach the same conclusions as Justice Gauthier as to anticipation. Novopharm’s allegations in this respect are not justified.
+Novopharm has alleged that the claims at issue of the ‘113 patent were obvious having regard to the common general knowledge as of the late 1980’s including prior art such as the ‘687 Canadian patent, the Schauzu article, two 1980 articles by Chakrabarti and other art.
+[178]
+The question is not simply was “olanzapine” obvious because sooner or later anyone making their way through the formulae disclosed in the ‘687 would have written down or perhaps made olanzapine. The question is rather, would it be obvious to have recognized that out of all of those compounds disclosed in the ‘687 patent and other relevant prior art, would a person skilled in the art have been led directly and without difficulty to the determination that olanzapine was the compound that had the special qualities articulated in the patent specification commencing at page 3 and continuing to page 6 namely:
+“… a compound which possesses surprising and unexpected properties by comparison with flumezapine and other related compounds
+. . . . .
+... the compound of the invention shows marked superiority, and a better side effects profile than prior known antipsychotic agents, and ahs a highly advantageous activity level.”
+[179]
+Unlike the question of sufficiency we do not have to inquire as to whether there is a sufficient disclosure in the patent to support validity. For the purpose of obviousness these statements are accepted. The inquiry is whether a person skilled in the art would be led directly and without difficulty to the determination that it was olanzapine that had such qualities.
+[180]
+Again, I find that Novopharm has not provided evidence that is materially different from that considered by Justice Gauthier in her reasons. The arguments of Novopharm are no different than those considered by Justice Gauthier in her reasons. I make the same finding that she did. The allegations as to obviousness are not justified.
+Novopharm alleges that the claims at issue of the ‘113 patent are invalid since they have already been patented by Lilly in the ‘687 patent.
+[182]
+As discussed by Justice Gauthier in her reasons, double patenting is a judge made rule and can be considered in two ways. One is whether the “same invention” has been claimed. The other is whether the latter patent claims were “obvious” in light of the earlier. Novopharm’s counsel stated that reliance was placed only on the “obviousness” ground.
+[183]
+Double patenting is an assertion that is important only when the earlier patent is not sufficiently early in its date that classic arguments as to anticipation or obviousness cannot be made. There is little point in asserting double patenting when the earlier patent is of sufficiently early date so as to enable the classic arguments to be made. If those arguments succeed, it is unnecessary to consider double patenting. If the arguments fail, so does the double patenting argument.
+[184]
+Here the arguments as to anticipation and obviousness have failed. So does double patenting.
+[185]
+Just as Justice Gauthier did, I find that Novopharm’s allegations as to double patenting are not justified.
+Novopharm alleged that the claims at issue of the ‘113 patent lacked utility and were therefore, invalid. This was not an argument advanced, before Justice Gauthier and therefore, it may be considered as a matter of first principle.
+[187]
+There is no dispute between the parties that olanzapine is a medicine that is on the market and used commercially to treat nervous disorders such as schizophrenia. The evidence of Brogan, which is not seriously contradicted, is that the commercial version, ZYPREXA, has achieved a significant level of commercial success.
+[188]
+Novopharm’s allegation is that the level of utility promised in the specification as to “marked” superiority and “better” side effects profile and “highly advantageous” activity level at page 6 of the ‘113 patent has not been met. In this regard Lilly’s counsel has relied on the statement made at page 150 of Dr. Fox’s “The Canadian Law and Practice Relating to Letters Patent for Inventions” 4th ed, 1969, Carswell, Toronto at page 150:
+Utility as Specified:
+The true test of utility of an invention is whether it will, when put into practice by a competent person, do what it assumes to do, and be practically useful at the time when the patent is granted, for the purpose indicated by the patentee. “If when used in accordance with the directions contained in the specification, the promised results are obtained, the invention is useful in the sense in which that term is used in the patent law. The question to be asked is whether, if you do what the specification tells you to do, you can me or do the thing which the specification says that you can make or do. As Maugham L.J. observed in  <FRAGMENT_SUPPRESSED>  indicated by the patentee, whether or not commercial utility is involved. It is sufficient if the invention in the hands of a competent person does what it purports to do, a thing sometimes expressed by the words that ‘the wheels must go round.’” Simonds J. put the matter even more succinctly when he observed: “There is real utility. The thing works.”
+[189]
+Evidence has been led, such as through Drs. Rosenheck and McEvoy, authors of the recent CATIE study as to whether olanzapine is truly any better than other drugs on the market directed to such purposes and whether its use causes cholesterol increase and weight gain in patients.
+[190]
+It is not necessary to resolve such evidence in view of the findings as to sufficiency. If the specification does not sufficiently set out what the invention is or the intended results, then no proper assessment can be made as to whether the utility promised for those results can be achieved.
+CONCLUSION
+[191]
+The Court finds that Lilly has not demonstrated that Novopharm’s allegations as to sufficiency are not justified and for that reason, the application is dismissed. Lilly has demonstrated that Novopharm’s allegations as to anticipation, obviousness; double patenting and section 53 are not justified. It is unnecessary to consider the allegations as to utility in view of the findings as to sufficiency.
+[192]
+As to costs, they will be awarded to Novopharm. The parties shall make submissions as to the quantum of a fixed sum, or alternatively, the appropriate and level for assessment. These submissions shall not exceed five pages, of normal type and spacing, in length and are to be made within ten days from the date of this Judgement. I will allow Novopharm costs, respecting five experts only since there is no order of the Court permitting more than five. Novopharm may select which five.
+[193]
+The Minister did not participate in these proceedings and will neither pay nor receive costs.
+FOR THE REASONS PROVIDED:
+THE COURT ADJUDGES THAT:
+1) The Application is dismissed;
+2) Novopharm is entitled to its costs; the parties shall make submissions in respect of the costs in accordance with these Reasons within 10 days of the date of this judgment.
+[End of document]

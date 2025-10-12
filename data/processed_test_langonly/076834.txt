@@ -1,0 +1,208 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 688)
+Federal Court
+July 11, 2014.
+Richard Fader, for the applicant;
+Andrew Raven, for the respondents.
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the applicant;
+Raven, Cameron, Ballantyne & Yazbeck LLP, Ottawa, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is an application for judicial review of a decision of an Adjudicator appointed pursuant to the
+Public Service Labour Relations Act
+, SC 2003, c 22, s 2 (PSLRA) regarding policy grievances brought by the Public Service Alliance of Canada (PSAC) and the Professional Institute of the Public Service of Canada (PIPSC).
+Background
+[2]
+PIPSC and PSAC, as bargaining agents for their respective bargaining units, each presented policy grievances pursuant to section 220 of the PSLRA. The grievances related to the manner in which the Treasury Board applied the Workforce Adjustment Appendix, which forms a part of the collective agreements between PSAC and the Treasury Board, and the Workforce Adjustment Agreement, which is incorporated in all collective agreements between PIPSC and the Treasury Board. The grievances were consolidated as they raised similar issues and the relevant provisions of the Workforce Adjustment Appendix and the Workforce Adjustment Agreement (collectively, the WFAA) were identical.
+[3]
+Pursuant to section 221 of the PSLRA, the grievances were referred to adjudication. No witnesses were called and the grievances proceeded on the basis of oral and written submissions. The Adjudicator was asked to rule on four questions. Question 1 is the subject of the application for judicial review.
+Decision Under Review
+[4]
+The decision, dated April 9, 2013 (Decision), sets out Question 1 as follows:
+1. Is the employer [Treasury Board] required under the WFAA [collectively, the Workforce Adjustment Appendix and the Workforce Adjustment Agreement] to establish an alternation system or establish systems and processes to facilitate alternation opportunities?
+[5]
+The Adjudicator also set out the relevant provisions of the Workforce Adjustment Appendix, as representative of the WFAA, and the positions of the parties.
+[6]
+In that regard, the Adjudicator stated that PSAC and PIPSC took the view that sections 1.1.5, 1.1.30 and 6.2.1 of the WFAA gave rise to an obligation of the Treasury Board, as the employer, to establish an alternation system and to establish systems and processes to facilitate alternation opportunities. Section 1.1.5 should be read to include alternations and section 1.1.30 to include an obligation to facilitate alternations. Section 6.2.1 required all departments or organizations to participate in the alternation process. The primary objective of the WFAA was an attempt to secure continued employment in the federal public service for affected employees.
+[7]
+The Adjudicator stated that the Treasury Board took the position that the WFAA did not create, and that the Treasury Board had no obligation to establish, an alternation process. The WFAA specified, in detail, the duties of the different actors, and almost all of the duties were imposed on employees or departments. There was no role for the employer in the alternation process. It was not legitimate to rely on the general obligations of the WFAA to create any obligation in this regard for the employer. As for section 1.1.5, it simply required departments to "...establish systems to facilitate redeployment or retraining of their affected employees, surplus employees, and laid-off persons", and that it was not legitimate to interpret "redeployment" as being the equivalent of an alternation.
+[8]
+The Adjudicator interpreted the issue before him, in part, to be whether the WFAA required the Treasury Board (or departments) to establish an alternation system or establish systems and processes to facilitate alternation opportunities. He did not accept the submissions of PSAC and PIPSC that sections 1.1.30 or 6.2.1 supported their position. However, with respect to section 1.1.5, he found as follows:
+24. However, section 1.1.5 requires the establishment of systems that "...facilitate redeployment or retraining of ...affected employees, surplus employees, and laid-off persons." The word "redeployment" is not a term used in any pertinent legislation and is not a term of art (although the word "deployment" is defined in subsection 2(1) of the
+Public Service Employment Act
+, S.C. 2003, c 22, ss 12, 13). The ordinary dictionary meaning of "redeployment," in my view, is the assignment (of troops, employees or resources) to a new place or task: see
+www.oxforddictionaries.com
+. The question I have to address is whether the word "redeployment" could have been intended to include alternations. I agree with the employer's submission that it would be wrong in principle to interpret the word "redeployment" as a synonym for "alternation." However, in an alternation, several things are happening: the opting employee and the alternate find each other; the proposed alternation is examined by the department; and then the two employees switch positions, the opting employee moving to the position that is intended to continue, and the alternate moving to the position that is slated for elimination. In my view, the word "redeployment", while not a synonym for "alternation," is apt to describe part of an alternation, namely, the process whereby the two employees switch positions. It must be recalled that the whole purpose of the WFAA is to address the issue of lay-offs and potential lay-offs in a workforce adjustment situation, and that this is the context of the parties' use of the word "redeployment." I also note that the systems that departments are required to establish are those that will facilitate the redeployment, among others, of "affected employees," a term that includes opting employees. I am therefore satisfied that section 1.1.5 applies to the alternation process.
+25. The obligation on the employer in section 1.1.5 is to "...establish systems to facilitate redeployment ...of ... affected employees ..." Given the limited arguments I received in relation to Question 1, I do not intend to spell out in this interim decision the parameters of this obligation. It is sufficient for me to state that the obligation extends to the facilitation of opting employees switching positions with alternates.
+In my view the issues are as follows:
+1. Is the Applicant's submission a new argument not advanced before the Adjudicator and, if so, should it be considered on judicial review?
+2. What is the standard of review?
+3. Was the Adjudicator's decision reasonable?
+Collective Agreement Terms
+[10]
+It is of assistance to set out the relevant provisions of the Workplace Adjustment Agreement, which are identical to the relevant provisions of the Workplace Adjustment Appendix:
+Objectives
+It is the policy of the Treasury Board to maximize employment opportunities for indeterminate employees affected by workforce adjustment situations, primarily through ensuring that, wherever possible, alternative employment opportunities are provided to them. This should not be construed as the continuation of a specific position or job but rather as continued employment.
+[...]
+Definitions
+Affected employee
+(employé-e touché) Is an indeterminate employee who has been informed in writing that his or her services may no longer be required because of a workforce adjustment situation.
+(échange de postes) Occurs when an opting employee (not a surplus employee) who wishes to remain in the Core Public Administration exchanges positions with a non-affected employee (the alternate) willing to leave the Core Public Administration with a transition support measure or with an education allowance.
+[...]
+Education Allowance
+(indemnité d'étude) - is one of the options provided to an indeterminate employee affected by normal workforce adjustment for whom the deputy head cannot guarantee a reasonable job offer. The Education Allowance is a cash payment, equal to the Transitional Support Measure (see Annex "B"), plus a reimbursement of tuition from a recognized learning institution, book and mandatory equipment costs, up to a maximum of ten thousand dollars ($10,000).
+[...]
+Opting Employee
+(employé-e- optant) is an indeterminate employee whose services will no longer be required because of a workforce adjustment situation, who has not received a guarantee of a reasonable job offer from the deputy head and who has one hundred and twenty (120) days to consider the options in section 6.3 of this Appendix.
+[...]
+(employé-e excédentaire) - is an indeterminate employee who has been formally declared surplus, in writing, by his or her deputy head.
+[...]
+Workforce adjustment
+(réaménagement des effectifs) - is a situation that occurs when a deputy head decides that the services of one or more indeterminate employees will no longer be required beyond a specified date because of a lack of work, the discontinuance of a function, a relocation in which the employee does not wish to relocate or an alternative delivery initiative.
+Departments or organizations
+1.1.1
+Since indeterminate employees who are affected by workforce adjustment situations are not themselves responsible for such situations, it is the responsibility of departments or organizations to ensure that they are treated equitably and, given every reasonable opportunity to continue their careers as public service employees.
+1.1.5
+Departments or organizations shall establish systems to facilitate redeployment or retraining of their affected employees, surplus employees, and laid-off persons
+[...]
+Options for employees
+Deputy heads will be expected to provide a guarantee of a reasonable job offer for those affected employees for whom they know or can predict employment availability. A deputy head who cannot provide such a guarantee shall provide his or her reasons in writing, if requested by the employee. Affected employees in receipt of this guarantee would not have access to the choice of options below.
+6.1.2
+Employees who are not in receipt of a guarantee of a reasonable job offer from the deputy head have one hundred and twenty (120) days to consider the three options below before a decision is required of them.
+6.1.3
+The opting employee must choose, in writing, one (1) of the three (3) options of section 6.3 of this Appendix within the one hundred and twenty (120) day window. The employee cannot change options once he or she has made a written choice.
+6.1.4
+If the employee fails to select an option, the employee will be deemed to have selected Option (a), twelve (12) month surplus priority period in which to secure a reasonable job offer, at the end of the one hundred and twenty (120) day window.
+[...]
+6.2
+All departments or organizations must participate in the alternation process.
+6.2.2
+An alternation occurs when an opting employee who wishes to remain in the Core Public Administration exchanges positions with a non-affected employee (the alternate) willing to leave the Core Public Administration under the terms of Part VI of this Appendix.
+6.2.3
+Only an opting employee, not a surplus one, may alternate into an indeterminate position that remains in the Core Public Administration.
+[....]
+Only opting employees who are not in receipt of the guarantee of a reasonable job offer from the deputy head will have access to the choice of options below:
+(i) Twelve (12) month surplus priority period in which to secure are reasonable job offer: should a reasonable job offer not be made within a period of twelve (12) months, the employee will be laid off in accordance with the Public Service Employment Act. Employees who choose or are deemed to have chosen this Option are surplus employees.
+(ii) At the request of the employee, this twelve (12) month surplus priority period shall be extended by the unused portion of the one hundred and twenty (120) day opting period referred to in 6.1.2 which remains once the employee has selected in writing Option (a).
+(iii) When a surplus employee who has chosen, or who is deemed to have chosen, Option (a) offers to resign before the end of the twelve (12) month surplus priority period, the deputy head may authorise a lump-sum payment equal to the surplus employee's pay for the substantive position for the balance of the surplus period, up to a maximum of six (6) months. The amount of the lump sum payment for the pay in lieu cannot exceed the maximum of that which he or she would have received had they chosen Option (b), the Transition Support Measure.
+(iv) Departments or organizations will make every reasonable effort to market a surplus employee during the employee's surplus period within his or her preferred area of mobility
+or
+(b) Transition Support Measure (TSM) is a cash payment, based on the employee's years of service in the public service (see Annex "B") made to an opting employee. Employees choosing this Option must resign but will be considered to be laid-off for purposes of severance pay.
+or
+(c) Education allowance is a Transitional Support Measure (see Option (b) above) plus an amount of not more than ten thousand dollars ($10,000) for reimbursement of receipted expenses of an opting employee for tuition from a learning institution and costs of books and mandatory equipment.
+Employees choosing Option (c) could either:
+[....]
+Submissions and Analysis
+Issue 1 - Is the Applicant's submission a new argument not advanced before the Adjudicator and, if so, should it be considered on judicial review?
+The Respondents submit that the sole issue raised by the application for judicial review could have been, but was not raised before the Adjudicator. Accordingly, the Court should not exercise its discretion so as to now consider this new issue (
+Alberta (Information and  <FRAGMENT_SUPPRESSED>  at paras 22-23 [
+<FRAGMENT_SUPPRESSED> (CA) [ <FRAGMENT_SUPPRESSED> ]).
+[12]
+The Respondents submit that the issue raised by the Applicant is that the term "affected employees" cannot be interpreted to include opting employees and, therefore, opting employees do not fall within the scope of section 1.1.5 of the WFAA. However, that none of the Applicant's arguments in this respect were made before the Adjudicator. Further, the Respondents' written adjudication submissions clearly relied on section 1.1.5 and argued that the provision must be read as including alternating employees. As an alternation by definition includes opting employees this should have alerted the Applicant to the issue of whether affected employees include opting employees and caused them to raise it before the Adjudicator. Additionally, the Applicant made responding arguments concerning the applicability of section 1.1.5 which disputed the relevance of that provision on the basis that "redeployment" did not include the concept of alternation, but this was not on the basis that "opting employees" did not fit within any of the groups of employees listed in section 1.1.5.
+Applicant's Position
+[13]
+The Applicant made no written submissions on this point. However, when appearing before me submitted that the issue of whether the term affected employees includes opting employees arose from the Adjudicator's reasons, it was not dealt with at the hearing. In such circumstances, the Applicant cannot be expected to speculate on what the Adjudicator's reasons may include and raise these as issues at the hearing. These circumstances are distinguished from <FRAGMENT_SUPPRESSED> , above, which concerned the raising of a Charter argument for the first time and without notice at judicial review; <FRAGMENT_SUPPRESSED> , above, which concerned the admissibility of new evidence on judicial review; and, <FRAGMENT_SUPPRESSED> , above, which concerned the dismissal of a complaint by an employee alleging that a union had failed in its duty of fair representation. There, an argument was advanced that a relevant provision of the subject collective agreement was invalid which had not been argued before the Labour Relations Board. The Court held that it could not decide a question which had not been raised before the administrative tribunal.
+[14]
+The Applicant also submitted that while the PSAC's written arbitration submission addressed section 1.1.5, it did not address the question of whether the term affected employees includes opting employees. Further, the Applicant's submissions directly addressed the Respondents' submissions in that they asserted that section 1.1.5 makes no mention of alternations. In any event, the interpretation of section 1.1.5 is not a new issue.
+The Court has the discretion not to consider an issue for the first time on judicial review where it would be inappropriate to do so. Generally, this discretion will not be exercised in favour of an applicant on judicial review where the issue could have been, but was not, raised before the tribunal (
+above, at paras 22-23).
+[16]
+The Court in
+noted that there are a number of rationales justifying this general rule. These include that the legislature has entrusted the determination of the issue to the administrative tribunal. Accordingly, Courts should respect the legislative choice of the tribunal as the first instance decision-maker by providing the tribunal with an opportunity to address and treat the issue first and to make its views known. This is particularly true where the issue raised for the first time on judicial review relates to the tribunal's specialized function or expertise. In such circumstances, the Court should be careful not to overlook the loss of the benefit of the tribunals' views inherent in allowing the issue to be raised. Further, the raising of an issue for the first time on judicial review may unfairly prejudice the opposing party and may deny the Court the adequate evidentiary record required to consider the issue (
+, above, at paras 24, 26).
+[17]
+, the Court ultimately concluded that the rationale for the rule had limited application in that case. There, the Commissioner had expressed his views in several other decisions and, therefore, had the opportunity to decide the issue in first instance providing the benefit of his expertise. Further, no evidence was required to consider the issue and no prejudice was alleged. Rather, it was a straightforward determination of the law, the basis of which could be considered on judicial review.
+[18]
+In this matter, the record indicates that in its written submissions to the Adjudicator, PSAC relied on section 1.1.5 (and 1.1.30 and 6.2.1) of the WFAA to support its position that the Treasury Board was required to establish an alternation system or establish systems and processes to facilitate alternation opportunities. As regards to section 1.1.5, PSAC submitted:
+PSAC maintains that this provision must be read as including alternating employees. First, while 1.1.5 is a provision that relates to all workforce adjustment situations, there is nothing in the WFAA that suggests the provision should be limited so as to not include alternation. PSAC further submits that, as "redeployment" is not defined in the WFAA or the collective agreement generally, the definition of "deployment" from the
+Public Service Employment Act
+...should inform the interpretation of 1.1.5. "Deployment" is defined in the
+as "the transfer of a person from one position to another." This broad definition clearly encompasses alternation and therefore 1.1.5 should be read as including alternation.
+[19]
+The Applicant's written submissions to the Adjudicator argued that if the parties had intended to impose an obligation on the Treasury Board to establish an alternation system or establish systems and processes to facilitate alternation opportunities, it would have indicated this expressly and in detail. However, the WFAA is silent on these obligations and reading them in by way of reference to general provisions would be a significant departure from the parties' intentions. With respect to section 1.1.5, the Applicant submitted that it only concerns systems to facilitate redeployment or retraining and does not mention a system for alternations.
+[20]
+In the present application, the Applicant argues that the Adjudicator linked the requirement in section 1.1.5 to the alternation process by reading "opting employees" into "affected employees". However, an "opting employee" is neither an affected employee, a surplus employee nor a laid off employee, all three of which terms are defined in the WFAA provisions separately from the definition of opting employees. The term "affected employees" cannot be interpreted to include opting employees and, therefore, the latter does not fall within section 1.1.5.
+[21]
+Ultimately, the Adjudicator found that the term "redeployment", as found in the context of section 1.1.5, described a part of the alternation process. He then went on to note that the systems that departments are required to establish are those that will facilitate redeployment, amongst others, of affected employees - a term that he stated included opting employees. For both of these reasons, the Adjudicator was satisfied that section 1.1.5 applies to the alternation process.
+[22]
+In my view, it was open to the Applicant to have argued before the Adjudicator, as regards to section 1.1.5, that the term "affected employee" does not include an "opting employee". However, on review of the record, it appears that this was not the focus of the parties at the adjudication, rather that this question arose from the Adjudicator's reasons. Further, because the parties both addressed section 1.1.5 at the adjudication, what the Applicant now raises is not so much a new issue but one which is related to the central focus of their submissions, being whether or not section 1.1.5 included alternations.
+[23]
+Additionally, as in
+, here the rationales for the rule against permitting new issues to be addressed at judicial review may have limited application. In this case, the Court has the benefit of the Adjudicator's view on this issue of the interpretation of section 1.1.5. While his reasons on the point are limited, his contextual approach in interpreting the provisions of the WFFA is sufficient to explain his finding. Further, there is no allegation that permitting the argument to proceed would prejudice the Respondents. And, finally, there are also no concerns about a further evidentiary record to support this argument given that at the adjudication no witnesses were called and the matter was before the Adjudicator on the basis of written and oral submissions only.
+[24]
+Accordingly, the application may proceed.
+Issue 2 - What is the standard of review?
+Applicant's Submissions
+[25]
+The Applicant submits that the standard of review for a decision of the Public Service Labour Relations Board and its adjudicator in interpreting and applying the provisions of a collective agreement has previously been determined to be reasonableness (
+A decision of an adjudicator or arbitrator will be found to be unreasonable where they have ignored the plain and ordinary meaning of a term of a collective agreement (
+Newfoundland and  <FRAGMENT_SUPPRESSED> leave to appeal to SCC refused in [2009] SCCA No 544 [
+Newfoundland and Labrador Nurses
+]) or they have interpreted a collective agreement in a manner that produces an absurdity (
+The Respondents agree that the standard of review in this matter is reasonableness ( <FRAGMENT_SUPPRESSED> , and <FRAGMENT_SUPPRESSED> , both above). In <FRAGMENT_SUPPRESSED> , the Court found that while the employer's proposed interpretation of the collective agreement would have been reasonably open to the adjudicator, the Court had no basis to interfere with his decision as the interpretation he adopted was also reasonably open to him. It is insufficient for a Court to conclude that another interpretation would have been reasonable, or that it would have reached a different result. The Court could only set aside the adjudicator's decision if it fell outside the range of possible, acceptable outcomes in light of the facts and the law.
+An exhaustive analysis is not required in every case to determine the proper standard of review. Courts must first ascertain whether jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded to a decision-maker with regard to a particular category of question
+(Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  at para 53 [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> , above, at paras 57, 62). If so, then that standard of review may be adopted.
+[29]
+I agree with the parties that the Adjudicator's Decision in interpreting and applying the provisions of a collective agreement is subject to a standard of reasonableness ( <FRAGMENT_SUPPRESSED> , above; <FRAGMENT_SUPPRESSED> , above; see also
+In reviewing the Decision on the standard of reasonableness, the Court should not intervene unless the Adjudicator came to a conclusion that is not transparent, justifiable and intelligible and within the range of acceptable outcomes based on the evidence before it ( <FRAGMENT_SUPPRESSED> , above, at para 47; <FRAGMENT_SUPPRESSED> , above, at para 59). It is not up to a reviewing court to substitute its own view of a preferable outcome, nor is it the function of the reviewing court to reweigh the evidence.
+Issue 3 - Was the Adjudicator's Decision reasonable?
+Applicant's Submissions
+[31]
+The Applicant submits that the Adjudicator's Decision is unreasonable as it ignores the plain and ordinary meaning of defined terms of the WFAA and because it interprets the WFAA in a manner that produces an absurdity by extending the scope of section 1.1.5 in a manner not contemplated or negotiated by the parties.
+[32]
+The essence of the Applicant's submissions is that the parties chose to separately define "affected employee", "opting employee" and "surplus employee" in the WFAA. The term "affected employee" does not include an "opting employee". As the terms are defined separately and are mutually exclusive, there was no basis for the Adjudicator to read "opting employees" into "affected employees" when interpreting section 1.1.5 and, thereby, extending the reach of that provision.
+[33]
+The Applicant submits that each of these defined terms represents a stage along a continuum for employees. An employee begins as an affected employee whose services may no longer be required because of a workforce adjustment situation. This can cover a wide group of employees who, ultimately, may not find themselves in an actual workforce adjustment situation. When it is determined that an employee's services are no longer required, they are no longer an "affected employee" and become either an "opting employee" or receive a guarantee of a reasonable job offer. At the end of the 120-day opting period, an employee may move further along the continuum and become a surplus employee (section 6.3.1(a)(i)). This illustrates that the parties to the WFAA cast their minds to the issue and choose to separately define these terms.
+[34]
+This is not a point requiring the application of the Adjudicator's expertise and it is clear that he simply made an error.
+The Respondents submit that the Adjudicator's interpretation of the term "affected employees" as including opting employees was reasonable. This interpretation was consistent with the context of the WFAA and its underlying objective and was reasonably open to the Adjudicator. The Applicant has not presented any compelling argument that an "affected employee" cannot reasonably be interpreted to include an "opting employee" and its interpretation would undermine the overall purpose of the WFAA.
+[36]
+In essence, the Adjudicator found that once an employee becomes an opting employee, he or she is still an affected employee and, therefore, can have both affected and opting status at the same time. The Adjudicator interpreted opting employees as being a subgroup of affected employees.
+[37]
+The Respondents submit that the Applicant has not presented an interpretive argument supporting its assertion that affected employees and opting employees are mutually exclusive. The mere fact that they are separately defined terms does not necessarily mean that they are mutually exclusive. Therefore, there is nothing inherently unreasonable about the Adjudicator's conclusion that "opting employees" constitute a defined subgroup of "affected employees".
+[38]
+The Adjudicator's interpretation is consistent with other provisions of the WFAA such as the definition of the "education allowance". Since an education allowance is one of the three options available to opting employees, it implies that for the purposes of the WFAA, opting employees are still considered to be affected employees. Further, the interpretation is also consistent with the "Objectives" section of the WFAA. Therefore, the Applicant's claim that each employee status represents a discrete stage along a continuum is inconsistent with the language of the WFAA.
+[39]
+The Applicant's interpretation would lead to absurd results as indicated by section 6.2.2 of the alternation provisions of the WFAA. This provision only makes sense if the term affected employee includes opting employees. Further, according to the Applicant's interpretation, the employer is obligated to establish systems to facilitate redeployment or retraining of affected employees, surplus employees, and laid off persons, but it has no such obligation for opting employees. This is illogical and undermines the purpose of maximizing employment opportunities for employees affected by a workforce adjustment. It also frustrates the purpose expressed in the "Objectives" section of the WFAA.
+[40]
+The Adjudicator's finding that "affected employees" includes opting employees was logical, consistent with the WFAA as a whole and its underlying purpose and fell within the range of possible acceptable outcomes.
+The WFAA does separately define the terms "affected employee", "opting employee" and "surplus employee", all of which terms are used in section 1.1.5. The commonality of the three terms is that they all concern indeterminate employees.
+[42]
+The Applicant argues that these defined terms are mutually exclusive and that a continuum applies that precludes an affected employee from also being an opting employee. However, the continuum described by the Applicant is not explicit in the WFAA nor is the subcategory characterization of the Respondents.
+[43]
+That said, in my view, the provisions of the WFAA do not entirely support the Applicant's position. For example, section 6.1.1 requires deputy heads to provide a guarantee of a reasonable job offer for those "affected employees" for whom they know or can predict employment availability. It goes on to state that affected employees
+of the guarantee would not have access to the choice of options set out below (in section 6.3.1). Thus, while the definition of "affected employees" states that they are indeterminate employees who have been informed that their services "may" no longer be required because of a workforce adjustment situation, while "opting employees" are defined as those whose services "will" no longer be required, section 6.1.1 refers to "affected employees" in reference to employees who have received a guarantee. Their services
+be required, yet they remain affected employees. This implies that affected employees not in receipt of the guarantee would have access to the opting provisions, but also remain affected employees.
+[44]
+Further, section 6.2.2 of the alternation provisions of the WFAA states that "[a]n alternation occurs when an opting employee who wishes to remain in the Core Public Administration exchanges positions with a non-affected employee (the alternate) willing to leave the Core Public Administration under the terms of Part VI of this Appendix". If, as the Applicant suggests, an affected employee excludes an opting employee then there would be no need to refer to a "non-affected" employee. The Applicant's interpretation would mean that an opting employee could alternate with another opting employee as it is not an affected employee. The provision, as written, reflects the intent of the parties and the alternation process only if the term "affected employee" includes opting employees.
+[45]
+Similarly, the WFAA defines an "education allowance" as "...one of the options provided to an indeterminate employee affected by normal workforce adjustment for whom the deputy head cannot guarantee a reasonable job offer ..." . The education allowance uses the term "affected by" yet it is one option available to opting employees as per section 6.3.1.
+[46]
+I would also note that where the WFAA intended to exclude one group of employees in reference to another, it does so explicitly. For example, the definition of alternation makes it clear that it occurs when "an opting employee (not a surplus employee) who wishes to remain in the Core Public Administration exchanges positions with a non-affected employee". Section 6.2.3 states that "only an opting employee, not a surplus one, may alternate into an indeterminate position that remains in the Core Public Administration". There are no similar carve outs between affected employees and opting employees.
+[47]
+In his reasons, the Adjudicator addresses the question of whether the word "redeployment" as used in section 1.1.5 could include alternations. In concluding that a redeployment was apt to describe part of an alternation but was not synonymous with one, he noted that it must be recalled that the whole purpose of the WFAA is to address the issue of lay-offs and potential lay-offs in a workforce adjustment situation and that it was in that context that the parties to the WFAA used the word "redeployment". From there, he found that the systems that departments are required to establish are those that will facilitate the redeployment, amongst others, of "affected employees," "a term that includes opting employees". He was therefore satisfied that section 1.1.5 applies to the alternation process. In my view, while the Adjudicator's Decision turned on the redeployment issue, he also considered section 1.1.5 in the context of the purpose of the WFAA as a whole which is consistent with the principles of collective agreement interpretation (Ronald M. Snyder,
+Collective Agreement Arbitration in Canada
+(4th ed), (LexisNexis: Canada 2009) at pp 28-31).
+[48]
+In that regard, the stated objectives of the WFAA are to maximize employment opportunities for indeterminate employees "affected by" workforce adjustment situations, primarily through ensuring that, wherever possible, alternative employment opportunities are provided to them. Section 1.1.1 states that since indeterminate employees who are "affected by" workforce adjustment situations are not themselves responsible for such situations, it is the responsibility of departments or organizations to ensure that they are treated equitably and, given every reasonable opportunity to continue their careers as public service employees.
+[49]
+Given this, and considering the deference owed to adjudicators in cases of this nature ( <FRAGMENT_SUPPRESSED> , above, at para 37; <FRAGMENT_SUPPRESSED> , above, at paras 23, 35) and that all employees are in one way or another "affected by" workplace adjustments regardless of the ultimate outcome in any given circumstances, the Adjudicator's interpretation of the term "affected employees" as including "opting employees" was reasonably open for him to make and falls within a range of acceptable and possible outcomes ( <FRAGMENT_SUPPRESSED> , above, at paras 47-48;
+Newfoundland and Labrador  <FRAGMENT_SUPPRESSED> , at para 15).
+THIS COURT'S JUDGMENT is that
+1. The application for judicial review is dismissed; and
+2. The Respondents shall have their costs in the amount of $3,500.00.
+.........................
+[traduction]
+www.oxforddictionaries.com
+(opting employee)
+(affected employee)
+(education allowance)
+(work force adjustment)
+Alberta (Information and  <FRAGMENT_SUPPRESSED>  (
+[traduction]
+Newfoundland and Labrador Nurses
+Collective Agreement Arbitration in Canada
+Newfoundland and Labrador Nurses
+[End of document]

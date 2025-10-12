@@ -1,0 +1,586 @@
+Federal Court
+Luc Cadieux, Catheryne Beaudette, Daniel Latulippe and Alexander Gay, for the applicant;
+Johanne Doyon, for the respondent;
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the applicant;
+Doyon and Associates Inc., Montreal, Quebec, for the respondent;
+Poupart, Dadour, Touma and Associates, Montreal, Quebec, amici curiae;
+Osler Hoskin & Harcourt LLP, Montreal, Quebec, amici curiae.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2014] F.T.R. TBEd. NO.009.
+[1]
+[Translation]: On June 1, 2010, the Attorney General of Canada filed in the Federal Court a notice of application, pursuant to section 38.04(1) of the
+CEA
+), for an order with respect to the disclosure of certain excerpts in 31 documents. Said documents were to be included in the tribunal record in respect of which the two applications for judicial review filed by the respondent were made, as required by Rule 318 of the
+Federal Courts Rules
+.
+[2]
+The disclosure of the information contained in these 31 documents to the respondent was denied following notice to the Attorney General under subsections 38.01(1) and (3), as provided in subsection 38.02(1)(
+) of the
+CEA
+. The Attorney General sought to have the prohibition confirmed by the Court or, alternatively, to have the Court exercise its discretion under subsection 38.06(2) to authorize the disclosure, subject to any conditions that the judge considers appropriate to limit any injury to international relations or national defence or national security. The respondent obviously objected to the request and sought to obtain the disclosure, of all or at the very least part, of the information the Attorney General sought to protect.
+[3]
+These reasons follow a public hearing of both parties, followed by an
+and
+hearing of the applicant and his witnesses attended by two
+appointed by the Court. These reasons set out the history of the proceedings, of the arguments raised by the parties and the
+and the legal principles that guided me in the processing of this application. They are accompanied by a confidential order setting out my specific findings concerning the information for which non-disclosure was sought.
+History of the proceedings
+[4]
+The respondent was born on September 1982 in Saudi Arabia. Being a citizen of Palestine, he is considered to be stateless; he became a permanent resident of Canada on January 21, 2004. On June 4, 2008, he was denied the right to board an Air Canada flight to Saudi Arabia, where he was apparently going to retain his permanent resident status in that country. In so doing, the respondent was given a copy of an Emergency Direction dated June 4, 2008, stating that the Department of Transport, Infrastructure and Communities (the Minister) had determined that he posed an immediate threat to aviation security.
+[5]
+That decision gave rise to the first application for judicial review, filed by the respondent on June 19, 2008 (docket T-973-08). The respondent challenged the decision to add his name to the Specified Persons List (SPL) as part of the Passenger Protect Program, the Emergency Direction issued under section 4.76 of the
+Aeronautics Act
+. In the context of the application, the respondent also challenged the constitutional validity of the at-risk persons list, of Transport Canada's Passenger Protect Program, and the above provision of the
+Aeronautics Act
+on the ground that these instruments are contrary to sections 6, 7 and 15 of the
+Canadian Charter of Rights and Freedoms
+.
+[6]
+On June 24, 2008, a lawyer from the Department of Justice in Montréal gave to the Attorney General the notice prescribed by subsection 38.01(1) of the
+CEA
+. The notice issued was for seven (7) documents. As a result, on July 30, 2008, Transport Canada sent a record to the respondent from which these seven documents were excluded, and subsequently sent these documents to the respondent after having redacted them. In the face of Transport Canada's refusal to send him the full record to which he claimed to have a right of access, the respondent filed a request to obtain full disclosure of the record concerning him, under Rule 317 of the
+Federal Courts Rules
+. Seized with this request, Justice Frenette denied the request in a decision rendered on November 27, 2008, and ordered a stay of proceedings to allow the Attorney General to file a notice of application pursuant to section 38 of the
+CEA
+, so the matter of whether the sensitive or potentially injurious information referred to in the notice under subsection 38.01(1) could be dealt with in a separate proceeding, pursuant to section 38.04 of the
+CEA
+. The respondent appealed that decision, but discontinued his appeal on September 22, 2009.
+[7]
+At the same time as the first application for judicial review, the respondent filed an emergency request for reconsideration with Transport Canada's Office of Reconsideration (the Office) on June 6, 2008. On October 29, 2008, the Office recommended that the Deputy Minister declare that the decision to put the respondent's name on the SPL and to issue an Emergency Direction was void and of no effect. Accordingly, the Office recommended that the respondent's name be removed from the SPL. The respondent was only informed of that recommendation in June 2009; no information was provided to the Court as to why it took that long to advise him of this decision.
+[8]
+On September 10, 2009, the Deputy Minister of Transport decided not to follow the Office's recommendation and concluded that he had reasonable suspicion that the respondent may pose a threat to aviation. He accordingly decided to keep the respondent's name on the SPL.
+[9]
+Following this new decision, on October 14, 2009, the respondent filed a second application for judicial review (docket T-1696-09).
+[10]
+On April 8, 2010, an "official" within the meaning of subsection 38.01(3) of the
+CEA
+notified the Attorney General that sensitive information or potentially injurious information could be disclosed in the course of a proceeding. Said notice involved information contained in the 31 documents. On April 15, 2010, the Attorney General authorized the full disclosure of the seven documents and the disclosure of a redacted version of the other 24 documents; the respondent received said documents on May 7, 2010.
+[11]
+On April 23, 2010, the Chief Justice ordered that the two applications for judicial review proceed simultaneously and that Transport Canada's record be transmitted to the Registry, including the documents in their redacted form. Justice Frenette's order was also stayed, and it was decided that the timelines and proceedings associated with an application under section 38 of the
+CEA
+be the subject of a case management conference.
+[12]
+On June 1, 2010, the Attorney General filed his application for non-disclosure pursuant to subsection 38.04(1) of the
+CEA
+for the two applications for judicial review. Subsequently, on June 21, 2010, the Attorney General filed a copy of the public affidavit of "Eric", an employee of the Canadian Security Intelligence Service (the Service) in support of his application. On August 27, 2010, the respondent filed a motion to strike said affidavit which was dismissed on December 22, 2010. This affidavit was to ultimately be replaced by an identical affidavit sworn by another employee of the Service, Robert Young. The affidavit explains in general terms the Service's mandate, the reasons that the Service's investigations must remain secret and the various categories of information the disclosure of which, in the Service's view, would be injurious to Canada's national security.
+[13]
+Pursuant to an order of the Chief Justice rendered on June 22, 2010, Mr. Al Telbani was named by the Court as respondent in the present case, by virtue of his being a party whose interests are affected by the information for which the Attorney General seeks a non-disclosure order.
+[14]
+On November 10, 2010, the Court ordered the appointment of two counsel as
+(the
+) in this case, François Dadour and Sylvain Lussier. The normal course of proceedings was however interrupted by the motion filed by the respondent on February 17, 2011, seeking payment of his costs from the applicant. The undersigned dismissed the motion on July 27, 2011, and the appeal from that decision was dismissed on June 20, 2012. Following a direction issued by this Court on April 4, 2013, setting the time limits for the prosecution of this case, the Attorney General filed his public affidavit on May 6, 2013, and the respondent filed his own affidavit on May 31, 2013.
+[15]
+The public hearing of both parties was held in Montréal on October 15, 2013. Discussions subsequently ensued between the
+and counsel for the Attorney General regarding the information in respect of which non-disclosure is sought by the Attorney General. The
+made various proposals to which counsel for the Attorney General responded. At the end of that process, which occurred over a period of a few months, 16 of the 31 documents containing information the Attorney General seeks to protect were the subject of a common position between counsel for the Attorney General and the
+. As for the other 15 documents, they were the subject of a partial agreement: the
+and the Attorney General agreed that certain information should be protected, but disagreed about other information.
+[16]
+Following that process, an
+and
+hearing was held in Ottawa on April 3, 4 and 11, 2014. On that occasion, the Attorney General called the two witnesses who swore secret affidavits in support of the application for non-disclosure, and the
+were able to conduct their cross-examination. The
+then filed their submissions, on the basis of the written submissions they had previously filed with the Court and served on the applicant, and counsel for the Attorney General did the same, also on the basis of the written submissions filed earlier with the Court and served on the
+The central question raised by this application is, of course, whether the prohibition to disclose the information identified by the Attorney General, as provided for in paragraph 38.02(1)(
+) of the
+CEA
+, must be confirmed by this Court pursuant to subsection 38.06(3), or whether the disclosure must be authorized, in full or subject to certain conditions, pursuant to subsections 38.06(1) or (2).
+[18]
+The
+however raised a few preliminary questions about their role and function, about the limited nature of the main piece of information in issue and about the uncertainty arising from the current lack of alternative to the non-disclosure of the disputed information in the underlying proceeding. I will deal with the last two questions as part of my summary of the principles that will guide me in reviewing the Attorney General's application, while addressing the role of the
+in the introduction to my remarks.
+The legal framework
+[19]
+It is certainly not necessary to reiterate that the open court principle is a fundamental principle of our legal system. The restrictions on this principle by Parliament and the case law have been carefully delineated, and arise from the balancing sometimes required to take into account other important interests to protect, such as informant privilege, or to protect the right of an individual to a fair hearing: see
+Sections 38 and seq of the
+CEA
+create another restriction on the open court principle. Section 38.01 requires every participant, as well as all officials, other than a participant, to notify the Attorney General of the possibility of disclosure of sensitive or potentially injurious information. The Attorney General of Canada shall, within 10 days after the day on which he or she receives a notice, make a decision with respect to disclosure of the information (section 38.03(3)). In the event that the Attorney General does not unconditionally authorize the disclosure of information and no disclosure agreement is entered into, the disclosure issue may come before the Federal Court (section 38.04). Such an application does not constitute a judicial review of the Attorney General's decision; the designated judge seized of the application must rather determine whether or not the prohibition to disclose the information sought to be protected should be confirmed.
+[21]
+The relevant provisions of the
+CEA
+in this regard are reproduced in Appendix A, namely, 38.01(1) and (3), 38.02(1), 38.03, 38.031, 38.04, 38.06.
+[22]
+In the exercise of his or her powers under sections 38 et seq of the
+CEA
+, the designated judge applies the tests developed by the Federal Court of Appeal in
+<FRAGMENT_SUPPRESSED> . The judge must first determine whether or not the information sought to be disclosed is relevant to the proceedings in which it is intended to be used. The applicant for disclosure bears that burden. If the judge is satisfied that the information is relevant, the judge must then determine whether disclosure of that information would be injurious to international relations, national defence or national security. At this stage, the Attorney General must prove the potential injury if disclosure of the information were to be ordered. Finally, if satisfied that disclosure of the sensitive information would result in injury, the judge must determine whether the public interest in disclosure outweighs in importance the public interest in non-disclosure. The burden of proving that the public interest scale is tipped in favour of disclosure rests with the party seeking it. This three step test was adopted by this Court in a number of cases (see,
+<FRAGMENT_SUPPRESSED> ), and the parties agree on its application in the present application.
+As noted above, I will now address the role of the
+in this proceeding, before turning to consider the principles that will guide me in reviewing the Attorney General's application for an order.
+- The role of the
+in this proceeding
+[24]
+The
+argued, in their written submissions, that the mandate and responsibilities vested in them leads them to playing a [Translation] "role opposite" to that of the public department. During the hearing, they went even further by asserting that the interests of the
+and those of counsel for the respondent converge as they are equally [Translation] "adversaries" of the Attorney General. They rely on the wording of the order ordering their appointment, particularly their power to "cross-examine" the applicant's affiants and witnesses, as well as the need for a [Translation] "robust" system to ensure a just determination of the issues as part of an
+and
+proceeding.
+[25]
+This understanding of the role the
+are called upon to play in proceedings conducted under section 38 of the
+CEA
+, at least in the context of an underlying civil proceeding, is erroneous in my view. Although the perception of their role did not have a significant impact on the conduct of this matter where the
+discharged the mandate given to them by in strict accordance with the terms of the order, it is nevertheless important to note the spirit in which they must normally approach their functions.
+[26]
+Sections 38 et seq of the
+CEA
+do not explicitly provide for the possibility for the Court to appoint an
+. However, it is well established that the Court may, on its own initiative, appoint an
+when entertaining an application under section 38 of the
+CEA
+:
+, 2004 FC 1717, at paragraph 20. Chief Justice Lutfy also indicated in
+<FRAGMENT_SUPPRESSED>  (at paragraph 57) that the judge's discretion to appoint an
+for the purposes of an application under section 38 contributed to assuring adherence to the principles of fundamental justice in the national security context. Indeed, the Attorney General did not contest the appointment of the two
+in this case and agreed at the outset with such an appointment.
+[27]
+That said, there is no precise definition of the role of
+that is applicable to all possible situations where a court may find it beneficial to obtain advice from a lawyer not acting on behalf of the parties:
+(1998), 41 O.R.(3d) 434 (C.A). It is generally agreed that the appointment of an
+is generally intended to represent interests that are not represented before the court, to inform the court of certain factors it would not otherwise be aware of, or to advise the court on a question of law: see
+There is no doubt, however, that the
+is not the accused's lawyer (in a criminal proceeding) or respondent (in a civil proceeding). The role of an
+is not any more analogous to that of a special advocate appointed under section 83 of the IRPA in the context of a security certificate. The role of the
+is to assist the court and ensure the proper administration of justice, and the sole [Translation] "client" of the
+is the court or the judge that appointed him or her. As Justice Fish (speaking on behalf of the dissenting judges) pointed out in
+<FRAGMENT_SUPPRESSED>  (at paragraph 87), "[o] nce appointed, the amicus is bound by a duty of loyalty and integrity to the court and not to any of the parties to the proceedings".
+[29]
+It cannot be otherwise if the
+is to be able to fully carry out the role assigned to him or her. Indeed, it is not inconceivable that he or she may be required to raise arguments or points of law that are not necessarily favourable to the accused or the respondent. Indeed, that is the reason that the Supreme Court unanimously concluded in
+Criminal Lawyers' Association
+that a lawyer appointed as amicus who takes on the role of defence counsel is no longer a friend of the court (see paragraphs 56 for the majority and 114 for the minority). Although the Court was divided on the issue of whether a superior court has the inherent power to set rates of remuneration for amici, all the judges considered that the role of an
+and that of defence counsel are incompatible. I find that the same is true in a civil proceeding, although the dividing line may not always be so clear cut and the consequences of the blurring of lines may not be as dramatic.
+[30]
+In short, playing a role that may sometimes be opposite to that of the Attorney General does not make the
+a defence counsel or counsel for the civil party. The objective of the
+and the state of mind in which he or she acts is not to assume the role of an advocate for the accused or the respondent, but to provide the Court with insight that it would not otherwise obtain and to assist it in making a decision that is in the best interests of justice. The fact that these interests may converge in certain circumstances does not change anything and merely represents, in a manner of speaking, a marginal benefit resulting from the appointment of
+. He or she must therefore act at all times with transparency, without ever attempting to take counsel for the Attorney General by surprise. The tactics and strategies that defence counsel, and even, in certain circumstances, a special advocate, may properly use are misplaced in a proceeding under section 38 of the
+CEA
+.
+[31]
+That said, the role of the
+in such a proceeding may be modulated by the judge who appoints him or her to take into account the unique nature of an application under section 38 of the
+CEA
+. The very nature of the information to which the
+will have access, the seriousness of the issues raised by the balancing of national security and the fairness of the proceedings, and the degree of transparency with which the Attorney General as well as the witnesses called in support of the application discharge their duties, are factors that may lead an
+to play a more or less interventionist role depending on the circumstances.
+[32]
+In closing, I note that the order dated November 10, 2010, was entirely clear and left no doubt as to the role the
+were called upon to play. It ordered that Mr. Dadour and Mr. Lussier be appointed [Translation] "to act as
+in this proceeding to assist the Court in preparation for the
+hearings and intervene in those same hearings", and that they could not communicate with the respondent or his counsel from the moment they had access to confidential material and information. As for the power to cross-examine the applicant's affiants and witnesses, it is a clause found in all the orders issued by this Court in similar cases. Again, the object of such cross-examinations is not to advocate for the respondent and embrace his interests as if the
+had a solicitor-client relationship with the respondent, but rather to verify the reliability and the probative value of the evidence filed by the applicant and the strength of his arguments.
+[33]
+The Court was obviously not a party to the discussions between counsel for the Attorney General and the
+regarding the disclosure of information contained in the 31 documents in issue in this application. Clearly, these discussions were successful to the extent that an agreement was concluded on much of the information for which non-disclosure was sought. It is undoubtedly useful for the Court (and perhaps for the Attorney General as well) to know prior to the
+and
+hearing the reasons underlying the position of the
+when there is disagreement between them. That said, the position of the Attorney General is no more explicit and is solely based, for each piece of information, on xxxxxxx xxxxxxxx xxxxx generically representing the basis for the exclusion sought. In short, I find nothing objectionable about the manner in which the
+discharged their duty, and further, I do not consider that they ought to have sought the Court's permission before filing their preliminary submissions in writing. This was authorized by order dated November 10, 2010, and their memorandum was submitted to the Attorney General almost a month before the hearing.
+[34]
+With these clarifications in mind, I now turn to the three-step test developed by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> .
+(a) Relevancy of the information sought in the application for non-disclosure
+[35]
+As mentioned above, the Attorney General's application for an order under section 38.06(3) of the
+CEA
+only pertains to a limited number of documents (31). Furthermore, non-disclosure is not sought for the documents in full but only for portions of these documents. Finally, it is important to note that several documents are redundant or contain the same information, which limits even more the amount of information being sought to be protected.
+[36]
+Sixteen of the thirty-one documents for which an application for non-disclosure has been filed were the subject of a total agreement between counsel for the Attorney General and the
+. Although said agreement is not binding on the Court, it will nonetheless be of keen interest when the time comes to determine whether the non-disclosure of certain information claimed by the Attorney General is justified or not. It must be said that the redacted information in the sixteen documents is not really relevant for the purposes of the underlying judicial reviews to the extent that it essentially reveals the names of certain employees of the Service as well as operational telephone numbers that are not known to the public. In one document, the redacted information is related to a file xxxxxxx xxxxxxxxx xxxxx xx xxxxxxxx whereas in another document, the information could reveal the success or failure of an investigation. Indeed, the only information appearing in a few of these sixteen documents (as well as in other documents on which a comprehensive agreement was not reached) that could potentially be of some use to the respondent was obtained from third parties. I will have an opportunity to explain my reasoning a little later.
+[37]
+There are therefore only fifteen documents that are not the subject of a common position in their entirety between counsel for the Attorney General and the
+. Once again, it must be reiterated that the Attorney General is not seeking the non-disclosure of the fifteen documents in full but only certain portions (more or less substantial) of these documents. However, the disagreement between counsel for the Attorney General and the
+is not over all the excerpts sought to be protected, but only some of them.
+[38]
+As stated in <FRAGMENT_SUPPRESSED> , the first task of a designated judge tasked with examining an application for non-disclosure pursuant to section 38 of the
+CEA
+is to determine whether the information for which exclusion is sought is relevant to the underlying proceeding. Although the burden rests with the party seeking the non-disclosure, the threshold is low. In a criminal proceeding, the test of relevance will be dependent on the rule set out in
+R v Stinchcombe
+, [1991] 3 SCR 326, that is, that the information at issue may reasonably be useful to the defence.
+[39]
+The relevance test will not be the same in a civil proceeding, as was the case in
+<FRAGMENT_SUPPRESSED>  or even in an inquiry procedure (
+In this case, the underlying proceedings are two judicial reviews of decisions made by Transport Canada. In this regard, it is Rule 317 of the
+Federal Courts Rules
+that governs relevance and determines the documents that must be produced by the tribunal whose order is the subject of judicial review. That Rule sets out that a party may request material "relevant to an application". That Rule has been given a broad interpretation to the point of encompassing any document that "may affect the decision that the Court will make on the application":
+<FRAGMENT_SUPPRESSED> , at page 460 (FCA). In another matter, it was concluded that a document could be relevant even if the decision-maker did not refer to it or use it in support of his or her decision:
+<FRAGMENT_SUPPRESSED>  (FC). That means that the obligation to present a complete record covers not only the documents before the decision-maker at the time of the decision, but also the documents that should have been before the decision-maker for the purposes of the judicial review:
+In this case, the Attorney General conceded that much of the information he is seeking to protect is relevant for the purposes of the applications for judicial review filed by the respondent. At the relevance stage, only information concerning the names and contact information of certain employees of the Service, as well as internal and administrative procedures, like file numbers, are excluded. For all other information, it is necessary to proceed to the second step set out in <FRAGMENT_SUPPRESSED> and determine whether the disclosure of that information would be injurious to national security.
+(b) Identification of an injury to national security
+[42]
+When it is established that the information is relevant, the Attorney General bears the burden of proving that that information, if disclosed, "could injure international relations or national defence or national security", to use the words of the definition of the expression "potentially injurious information" in section 38. In this regard, the assessment made by the Attorney General will be of considerable weight given the special information and expertise to which he has access. The Court of Appeal stated the following in <FRAGMENT_SUPPRESSED> (at para 19):
+This means that the Attorney General's submissions regarding his assessment of the injury to national security, national defence or international relations, because of his access to special information and expertise, should be given considerable weight by the judge required to determine, pursuant to subsection 38.06(1), whether disclosure of the information would cause the alleged and feared injury. The Attorney General assumes a protective role
+the security and safety of the public. If his assessment of the injury is reasonable, the judge should accept it. . . .
+See also:
+As a result, the Court must show deference when it is called upon to determine an application for non-disclosure under the authority of section 38 of the
+That attitude is all the more justified since the very concept of "national security" is fluid and does not lend itself to a specific definition. My colleagues Justice Mosley and Justice Noël engaged in a lengthy analysis of this concept in <FRAGMENT_SUPPRESSED> and
+<FRAGMENT_SUPPRESSED> , and they concluded, in particular, that national security could not be limited to the preservation of national integrity or the capacity to respond to the use or threat of force, and meant, at minimum, the preservation of the Canadian way of life, including the safeguarding of the security of persons, institutions and freedoms in Canada. I agree with their comments. The difficulty in identifying exactly what constitutes a threat to national security is, in my opinion, an additional reason in favour of a fairly high degree of deference from this Court in respect of assessments carried out by government authorities. The Supreme Court stated the following in this regard in
+. . . a fair, large and liberal interpretation in accordance with international norms must be accorded to "danger to the security of Canada" in deportation legislation. We recognize that "danger to the security of Canada" is difficult to define. We also accept that the determination of what constitutes a "danger to the security of Canada" is highly fact-based and political in a general sense. All this suggests a broad and flexible approach to national security and, as discussed above, a deferential standard of judicial review. Provided the Minister is able to show evidence that reasonably supports a finding of danger to the security of Canada, courts should not interfere with the Minister's decision.
+[44]
+That said, the Court cannot abdicate the role entrusted to it by Parliament and merely blindly endorse the applications for non-disclosure which may be filed by the Attorney General. Even though the Court must show deference, it is nonetheless entitled to expect the Attorney General to demonstrate, from the facts established by the evidence, that the alleged injury is not merely possible or speculative, but probable:
+, para 49; <FRAGMENT_SUPPRESSED> , para 70. In other words, it is not sufficient to speculate that a piece of information could be potentially injurious to national security; it must be established, through concrete and reliable evidence, that the injury is serious and not based on mere speculation. We are no longer in the days when courts had to comply each time a minister refused to produce a document by availing himself of Crown privilege in relation to national security. With the coming into force of section 36.2 of the
+CEA
+(S.C. 1980-81-82, c 111, section 4), now section 38, the Federal Court has been given the mandate to determine whether information can be disclosed under section 38.04. To fulfil this role, the Court must not only take notice of the information that the Attorney General seeks to not make public, but also verify that that information is indeed covered by the prohibition on disclosure set out in subsection 38.02(1) of the
+CEA
+.
+[45]
+It is recognized that the disclosure of certain categories of information would generally be injurious to national security. Since 1988, this Court has stated that the disclosure of information that identified or tended to identify human or technical sources, past or present investigation subjects, the nature and the content of classified information, techniques or methods of investigation or even the length, scope, success or failure of investigations, could be considered injurious to national security: see
+<FRAGMENT_SUPPRESSED> , at para 29; see also, similarly,
+<FRAGMENT_SUPPRESSED>  still a member of this Court, provided the following examples of information of the type that must be kept confidential:
+1. Information obtained from human sources, where disclosure of the information would identify the source and put the source's life in danger . . . . As well, jeopardizing the safety of one human source will make other human sources or potential human sources hesitant to provide information if they are not assured that their identity will be protected.
+2. Information obtained from agents of the Service, where the disclosure of the information would identify the agent and put the agent's life in danger.
+3. Information about ongoing investigations where disclosure of the information would alert those working against Canada's interest and allow them to take evasive action.
+4. Secrets obtained from foreign countries or foreign intelligence agencies where unauthorized disclosure would cause other countries or agencies to decline to entrust their own secret information to an insecure or untrustworthy recipient. . . .
+5. Information about the technical means and capacities of surveillance and about certain methods or techniques of investigation of the Service where disclosure would assist persons of interest to the Service to avoid or evade detection or surveillance or the interception of information.
+In the public affidavit in support of this application for non-disclosure, Robert Young categorized the information that the Service seeks to protect according to, more or less, that classification. Two other confidential affidavits were also submitted and use that same classification by providing more specifics about the information involved. Those categories are as follows:
+- Information that would identify or tend to identify the Service's interest in individuals, groups or issues, including the existence or nonexistence of past or present files, the intensity of investigations, or the degree or lack of success of investigations;
+- Information that would identify or tend to identify the methods of operation and investigative techniques used by the Service;
+- Information that would identify or tend to identify relationships that the Service maintains with other police and security and intelligence agencies and would disclose information exchanged in confidence with such agencies;
+- Information that would identify or tend to identify the identity of certain employees, internal procedures and administrative methodologies of the Service, such as names and file numbers;
+- Information that would identify or tend to identify human sources of information for the Service or the content of information provided by human sources which, if disclosed, could lead to the identification of human sources.
+[48]
+In the present case, and following discussions between counsel for the Attorney General and the
+, the only information that was not the subject of an agreement falls exclusively under the first three categories of information mentioned in the preceding paragraph. Of course, some of the information may fall under more than one category. Therefore, I will now address each of those three categories.
+[49]
+The Attorney General is first seeking the non-disclosure of information concerning the interest the Service might have in Mr. Al Telbani and the investigations into his activities or those of other persons with which he is or was in contact. It is true that Mr. Al Telbani is obviously aware of the Service's interest in his online activities following the interview he had with the Service on June 2, 2008, during which he was confronted with certain facts concerning the technical support he apparently provided to extremist activities. What the Service is seeking to protect is other facts that were not brought to the attention of Mr. Al Telbani and that are likely to reveal the nature and scope of the xxxxxxxxxxxxxxxxxxxxxxx investigation and the resulting assessments and analyses.
+[50]
+There seems to be no doubt, as the witness who swore an affidavit on behalf of CSIS argued, that a security agency cannot operate effectively if the subjects of its investigations are able to ascertain that they are persons of interest or determine the state of the agency's operational knowledge about them at a particular point in time, the resulting operational evaluation and even the fact that the agency is able to make some findings regarding the targets of its investigations. The disclosure of such information would allow a person of interest to take steps to avoid the Service's investigative efforts, or even introduce false or misleading information into the investigation. The extent and reliability of the information gathered by the Service would be diminished, and its capacity to identify and deal with potential threats would be compromised.
+[51]
+In this case, the respondent's interview with the Service, xxxxxxx xxxxxxx xxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxxx xx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx I agree with the applicant that the disclosure of the information the Service provided to Transport Canada as part of its recommendation that the respondent's name be put on the SPL would be of great help to the respondent in his alleged role of xxxxxxxx xxxxxxxxxxx xxxxxx xxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxx xx xxxx By providing him with specific information regarding the investigation xxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxx xx x xxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx x x x xx xxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxxx That would have negative consequences not only for the present investigation, but also for other investigations conducted by the Service xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+[52]
+In light of the foregoing, I am therefore of the view that the disclosure of all of the xxxxxxxxxxxxxxxxxx excerpts in the fifteen documents that the Attorney General and the
+did not fully agree upon would be injurious to national security. Of course, the real issue is whether the public interest reasons that justify disclosure outweigh in importance the public interest reasons that justify non-disclosure, and if so, under what conditions and in what medium must the information be disclosed. Before proceeding to the last step in the test, it is appropriate, however, to examine the two other categories of information for which the Attorney General is seeking non-disclosure and that were not the subject of an agreement with the
+The second category of information for which non-disclosure is sought is information that would identify or tend to identify the methods of operation and investigative techniques utilized by the Services. In this regard, the Service's affiant testified that the disclosure of that type of information would render the techniques and methods that could be utilized in the context of this investigation or investigations of other persons less effective, to the extent that the potential subjects of such investigations may be able to thwart the Service's efforts or at the very least reduce the effectiveness of current methods.
+[54]
+That risk is greater in this case because the respondent has completed a master's degree in information systems security. Xxxxxxxxx xxxxxxx xxxxx xxxxxxx xxxxx xx x xxxx xxxxxxx xxxx xxxxxxx xxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxxx xxxxxxxxxx It is also worth noting that, according to the affiant, the respondent was visibly shaken to learn during his interview that the Service had discovered his aliases and wanted to know how they had discovered that he was "Mujahid Taqni". In this context, the Attorney General's concerns seem to me to be particularly well founded. The serious possibility that the respondent may be able to exploit the information at issue in this application to jeopardize the investigation that he or other persons could be the subject of, which would make the task of the Service and even, potentially, third parties, considerably more difficult, certainly cannot be ruled out.
+[55]
+Among the pieces of information sought to be protected, there is one specific piece of information that would tend to demonstrate, according to the position of the Attorney General, that the respondent constitutes a threat to aviation security. That information, which is found in various forms in several documents, xxxxxxxxxxx xxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxx xx xx xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxx x x xxx xxxx During the
+and
+hearings, the
+referred to that information as "the elephant in the room".
+[56]
+The Attorney General forcefully objects to the disclosure of that information for two reasons. He first contends that that information xxxxxxxxxx xxxxxxxxxxxxxxxxx x xxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx xxxxxxx xx xxxxxxxx xxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx. Moreover, it is argued that the disclosure of that information would enable the respondent to suspect, if not confirm, that that information xxxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxx xxx xxxxxxxxxxxxxx.
+[57]
+Once again, the fact that the disclosure of information under that second category and xxxxxxxxxxxxxxxxxx in the impugned documents would be injurious to national security does not end the analysis that this Court must carry out under section 38 of the
+CEA
+. The fact that the respondent xxxxxxxx xxxxxxxxxxxxxxx xxxxx xxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxxx will of course be an important consideration in the injury balancing step required by <FRAGMENT_SUPPRESSED> .
+[59]
+The last category of information in dispute between the Attorney General and the
+is information that would identify or tend to identify relationships that the Service maintains with other intelligence agencies or that would disclose or tend to disclose information exchanged in confidence with such agencies. The numerous excerpts sought to be protected under this category all contain the same information, which is xxxxxxxxxxxxxxxxxxxxxxxx.
+[60]
+The Attorney General argued that it was essential for the Service to cooperate with other secret services to fulfil the mandate that was conferred on it to advise the government in the fight against terrorism. This is because terrorist acts are not necessarily planned, funded, managed or executed by the residents of one country or within the borders of one State. Consequently, the only way to effectively investigate those threats to try to prevent them is to engage in close collaboration and information sharing at the international level.
+[61]
+That sharing of secret information by foreign intelligence agencies with which the Service has a comprehensive or ad hoc agreement is always done assuming that the source or content of the information thus obtained will not be disclosed without the consent of the agency that the information came from. It is what is sometimes called the "third party rule". It is an acknowledgment that foreign agencies provide information to the Service not only because agreements are entered into to ensure that that information will be utilized in confidence, but also because those agencies are confident that the Canadian government in general, and the Service in particular, are fully aware of and recognize the need to preserve the confidentiality of that information and have taken steps in that respect.
+[62]
+Of course, a failure on the part the Canadian government or the Service to protect intelligence obtained from a foreign agency could have disastrous consequences on the maintenance of existing agreements or on the Service's capacity to enter into new agreements with other foreign agencies. As has been said in numerous cases, Canada is a net importer of intelligence information, and any interruption or reduction in the exchanges of that information would adversely affect the maintenance of our collective security and the role Canada plays in the international arena in that respect.  <FRAGMENT_SUPPRESSED> , the Supreme Court recognized (at paras 43 and 54) the importance of that "pressing and substantial" concern. More recently, it stated in
+<FRAGMENT_SUPPRESSED>  (at para 68) that Canada is a net importer of security information, that that information is "essential to the security and defence of Canada", and that its disclosure "would adversely affect its flow and quality". My colleague Justice Noël aptly summarized the importance of that rule in
+, at paragraph 77 of his reasons:
+This being said, in my view the third party rule is of essence to guarantee the proper functioning of modern police and intelligence agencies. This is particularly true given that organized criminal activities are not restricted to the geographic territory of a particular nation and that recent history has clearly demonstrated that the planning of terrorist activities is not necessarily done in the country where the attack is targeted so as to diminish the possibility of detection. Consequently, the need for relationships with foreign intelligence and policing agencies, as well as robust cooperation and exchanges of information between these agencies, is essential to the proper functioning of policing and intelligence agencies worldwide.
+See also:
+, I do not doubt that the disclosure of the information xxxxxxxxxx xxxxxxxxxxxx xxxxxxx would be injurious to the national interest of Canada. The case law in this area, and the secret testimony of the affiants, convinces me that the Service xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxx xxxxxxx. This would certainly result in a diminished capacity to fulfil the mandate xxxxxxxx xxxxxxxx xxx by Parliament, in particular in the fight against terrorism in Canada and around the world.
+[69]
+As important as the third party rule might be, however, it cannot be absolute. There is no statutory basis for that "rule", and the mere fact that a foreign agency did not relieve the Service (or any other Canadian agency) of its confidentiality obligation cannot suffice, on its own, to conclude that the disclosure of information thus obtained would be injurious to national security. Other factors must be considered, including the fact that the information in question was subsequently disclosed and is now in the public domain, as well as the passage of time. There must also consideration for how the sharing of information, both quantitative and qualitative, with a foreign agency might be important for Canada. My colleague, Justice Noël, stated the following in
+When determining whether disclosure will cause harm, it is also important to consider the nature of Canada's relationship with the law enforcement or intelligence agency from which the information was received. It is recognized that certain agencies are of greater importance to Canada and thus that more must be done to protect our relationship with them. Consequently, care must be taken when considering whether to circumvent the third party rule in what concerns information obtained from our most important allies.
+[71]
+In this case, xxxxxxxxxx xxxxxxxxxxxxxx xxxxxxxxxxxx xxx x xxxxxxxxxxxxxxxxxxxxxxxxx are critically important for Canada. I also accept the Attorney General's argument that the disclosure of information obtained from an agency with which Canada has not so critical ties could still have long-term repercussions, not only because this could cause information from that agency to dry up but also because it could discourage other agencies from maintaining or creating ties with Canada.
+[72]
+Another factor that must be considered, both in assessing the injury and in balancing public interests, is the Canadian government's effort (or lack of effort) to obtain the consent of a foreign agency in the disclosure of the information provided by that agency.  <FRAGMENT_SUPPRESSED>  (reversed on other grounds by the Supreme Court), the Federal Court of Appeal seemed to be of the opinion that Canadian authorities had to make "reasonable efforts" to seek the consent of the third party agency that provided the information before finding that it would be injurious to disclose that information. See also, similarly: <FRAGMENT_SUPPRESSED> , at paras 145-146;
+More recently, this Court somewhat qualified that obligation. In
+(at paras 75 and 94), Justice Noël stated that he was of the opinion that it was not appropriate to draw a negative conclusion from the fact that the Attorney General did not seek consent from a foreign agency to disclose information, given the fact that such authorization would have likely been refused based on the evidence in the record. Justice Mosley found that the failure to make inquiries of foreign agencies regarding the disclosure of their information was not fatal but could be taken into consideration and could undermine a privilege claim, especially when the information appears innocuous on its face. In <FRAGMENT_SUPPRESSED> , he nonetheless accepted the Attorney General's submissions to the effect that it would be futile to ask certain countries to consent to the disclosure of their information.
+[74]
+I am therefore of the opinion that the information for which non-disclosure is sought on the basis that it comes from third parties passes the second step of the test set out in <FRAGMENT_SUPPRESSED> . That does not necessarily mean that that information must be completely removed from the record that Mr. Al Telbani has a right to in his applications for judicial review. To determine this issue, it is necessary to proceed to the third step of the test and determine which public interest prevails: the public interest in disclosure or the public interest in non-disclosure. As with the other categories of information for which non-disclosure is sought, at that step, other considerations must be taken into account, like the passage of time and the fact that some information is now in the public domain. From this perspective, there must also be an examination of the possibility of minimizing the injury that the disclosure of a piece of information could cause, by replacing, for example, an excerpt deemed too sensitive with a summary. In that regard, it would have been useful if the original document transmitted by the third parties was submitted before the Court to better compare the text to be protected with that document and thus better assess the damage that a redacted version or a summary of that text could cause. Despite the Court's request to that effect, the Attorney General did not see fit to submit the original documents provided by the third parties and it is thus with a certain disadvantage that the Court must engage in that review.
+(c) Balancing public interest in disclosure and public interest in non-disclosure
+[76]
+Pursuant to the case law that has developed with respect to the interpretation of section 38 of the
+CEA
+, the party seeking disclosure bears the burden at this stage of proving that the public interest scale is tipped in its favour. If the Court is satisfied that public interest favours disclosure, subsection 38.06(2) provides for the authorization of disclosure of information in the form and under the conditions that are most likely to limit any injury to international relations or national defence or national security.
+[77]
+Section 38 of the
+CEA
+does not specify the test to apply, but of course the Court must consider several different factors that may vary from case to case. In a criminal context, the issue of whether the information at hand would likely establish a fact crucial to the defence is an important factor that must be considered when weighing the interests. This case is not of that nature as the respondent does not face criminal charges. The applications for judicial review that the respondent filed are more akin to a civil case, and in that context the Federal Court of Appeal confirmed in <FRAGMENT_SUPPRESSED> (at para 22) that it was important to apply a more stringent test than that of relevance, and that there must instead be consideration of whether the information sought would establish a fact crucial to the case of the party seeking it.
+[78]
+From that perspective, the courts identified several factors to consider in when weighing competing interests in disclosure and non-disclosure: see
+, at para 98; <FRAGMENT_SUPPRESSED> , at para 174. Although not necessarily exhaustive, this list includes, but is not limited to, the following elements:
+- the nature of the public interest sought to be protected by confidentiality;
+- the admissibility of the documentation, its usefulness and the probative value of the information it contains;
+- the seriousness of the criminal charges or the issues raised in the underlying proceeding;
+- whether the party seeking disclosure has established that there are no other reasonable ways of obtaining the information;
+- whether the disclosure sought amounts to legitimate disclosure or a fishing expedition;
+- whether the redacted information is already known to the public, and if so, the manner by which the information made its way into the public domain;
+- whether there are higher interests at stake such as a breach of Charter rights, the right to make full answer and defence in the criminal context, etc.
+[79]
+Counsel for the applicant and the
+also argued that the stigma created by the respondent's association to a group or terrorist activities and the application of preventive measures restricting his liberty also involved rights under sections 7, 8, 9 and 10 of the
+Canadian Charter of Rights and Freedoms
+. The Attorney General argued that the ban on taking a commercial flight to which the respondent was subject did not restrict his liberty or security rights, as interpreted by the courts, given that such a ban is not akin to interference with fundamental personal choices or what constitutes the core of human dignity, or even interference with the psychological integrity of an individual. That debate has not occurred and will take place in the context of the two applications for judicial review filed by the respondent. For that reason, I decline to rule on that issue, directly or indirectly, in connection with the application for non-disclosure.
+[80]
+For the purposes of this discussion, suffice it to say that the Charter arguments raised by the respondent are not completely lacking in merit and cannot be dismissed out of hand. Consequently, the Court must consider them when weighing interests in this case. If the non-disclosure of certain information could compromise not only the right to procedural fairness but also the respondent's ability to assert his fundamental rights, it is an additional factor to consider.
+[81]
+This now leads me to consider more specifically the various pieces of information for which non-disclosure is sought and for which the Attorney General and the
+have not been able to find a common solution. The first document is attached to the letter from the Deputy Director of the Service to the Deputy Minister of Transport dated September 3, 2009, found at tab xx of the supplementary
+affidavit of xxxxxxxxxxxxxx. In that letter, the Deputy Director of the Service informs the Deputy Minister of Transport, pursuant to section 19 of the
+Canadian Security Intelligence Service Act
+However, the
+raised several arguments against these justifications. First they argued that the Service xxxxxxxxxxxxxxxxx xxxxxxxxxxxx by going to Mr. Al Telbani's home on June 2, 2008, and by calling him by his pseudonym Mujahid Taqni. Xxxxxxxxxxx xxxxxxxxxxxxxxxxx Mr. Al Telbani apparently confirmed that he had used this pseudonym to participate in discussions on Internet forums. Xxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxx xxxxxxx xxxxxxxxxxxxx x xxxxxxxxxxx xxxxxxxx xxx xxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Mr. Al Telbani with this information and by relying xxxxxxxxxxxxxxxxx xxxx to thus encourage him to stop his activities, the Service ended up implicitly revealing to him their interest in him and the scope of their investigation. This seems to be a convincing argument to me.
+[85]
+The
+Last, the
+It is true that Mr. Al Telbani is aware of some of the information relied upon to add his name to the SPL, as the Attorney General contended. The letter that the Assistant Deputy Minister of Safety and Security of Transport to his counsel on June 10, 2009, set out the factors that would be considered in Mr. Al Telbani's request for reconsideration:
+• That your client has technical training in Information Systems security
+• That your client provided technical support to participants on the Al Ekhlas Internet site to maintain the security of their communications by evading surveillance systems.
+• That your client, using the pseudonym "Mujahid Taqni", participated in discussions on various Internet sites regarding the protection of communications from surveillance systems.
+• That the purpose of the discussions and activities of the Internet discussion forums is to support "mujahedeen" terrorists who fight against European and North American countries.
+• That your client created and managed an electronic journal "Mujahid Taqni", published on the Al Ekhlas site, specialized in sharing information on important topics for "mujahedeen" terrorists such as how to protect communications against surveillance systems and how to commit terrorist acts especially in relation to aviation safety.
+[89]
+This information, which stems largely from the interview that the Service had with Mr. Al Telbani a year earlier, does not clearly link Mr. Al Telbani to a threat to aviation safety. The only link to this concern in the public evidence can be found in an article published in the February 20, 2007, edition of the magazine
+, which the respondent is the editor of, entitled "Smart weapons: Short-range ground-to-air missiles" (Respondent's Record, page 244.12).
+[90]
+It goes without saying that the fact xxxx xx xxxxxxxxx xx xxxxxxxxx xxxxxxxxxxxx xxxxxxxxx xxxx is not enough to say that the principle of procedural fairness was respected and to enable him to advance all the arguments likely to help him succeed in his challenge to the legality of Transport Canada's decision. We cannot require the respondent to speculate on the grounds that resulted in the decision to put his name on the SPL or insist that he blindly try to rebut all the facts that could be raised against him.
+[91]
+Thus, I believe that xxx xx xxxxxxxx xxxxxxxxx is not only relevant information but potentially extremely significant information to establish the legality of the decision challenged by Mr. Al Telbani. It is quite possible, as the Attorney General argued, that the information on the public record is enough to establish that Transport Canada's decision was reasonable. It is also possible that the information sought to be excluded may in the end be more damaging to the respondent than the applicant in the context of the judicial review. It is not for me to rule on these issues. For the purposes of the application in these proceedings, I merely have to find that non-disclosure xx xxxxxxxx xxxxx xxxx could materially affect the outcome of the judicial review and deprive Mr. Al Telbani of an important argument.
+[92]
+The
+brought to the Court's attention a decision by the European Court of Justice on the compatibility of a control order (similar to our security certificates) with the guarantee of procedural fairness set out in article 6 of the
+European Convention on Human Rights
+. In that case, the Court observed that the issue of whether the evidence provided to the individual was sufficiently detailed to permit the applicant effectively to challenge the order must be decided on a case-by-case basis. Nevertheless, the Court expressed the opinion that the requirements of procedural fairness would not be met where the open material consisted purely of general assertions and the decision to uphold the certification was based solely or to a decisive degree on closed material:
+A. and Others v the United Kingdom
+(application No 3455/05), February 19, 2009, at para 220.
+[93]
+Although this decision obviously does not bind our Court and it applies to a very different legal context, it still makes some interesting observations. As the Court pointed out, an individual does not need to know the detail or sources of the evidence which formed the basis of the decision. It is necessary, however, for the individual to have enough information about the allegations against him to be able to raise arguments that may refute the allegations. In this case, Mr. Al Telbani does not have any idea of the allegations against him involving aviation safety other than the very vague allegation in the above-mentioned letter from the Assistant Deputy Minister stating that he "created and managed an electronic journal ... specialized in sharing information on important topics for "mujahedeen" terrorists such as ... how to commit terrorist acts especially in relation to aviation safety". It is hard to see how, based on only this information, Mr. Al Telbani could challenge the decision to put him on the SPL by providing, for example, explanations about xx xxxxxxxx xxxxx xxxx.
+[94]
+Does this mean that this information has to be disclosed to him? Far from it. The courts have stated many times that procedural fairness does not always require complete disclosure of the evidence and the requirements of the principles of fundamental justice should be interpreted according to the context and do not require that the applicant have the most favourable proceedings: see
+<FRAGMENT_SUPPRESSED> , at paragraphs 39 et seq. In the instant case, the issue of the underlying proceeding is not of the same magnitude as the deprivation of liberty following a criminal conviction or the issuance of a security certificate. Although I am not playing down the impact of a ban on taking a commercial flight and I do not exclude the possibility that such a ban could engage section 7 of the Charter, nevertheless, it seems to me that the public interest in disclosure in that situation should be secondary to the public interest in not revealing information that could have devastating repercussions on national security. As Justice McKay stated in
+<FRAGMENT_SUPPRESSED>  (at paragraph 32), "The public interest served by maintaining secrecy in the national security context is weighty. In the balancing of public interest here at play, that interest would only be outweighed in a clear and compelling case for disclosure". It seems to me that this finding is even more applicable since the role of the judge ruling on an application for judicial review is quite different from the role of a judge hearing a criminal case or a claim for civil relief. I will return to this aspect of the issue later.
+[95]
+The
+The grounds raised for non-disclosure of that information is based on the same logic as that given for excluding document xx. In both cases disclosing the information would enable Mr. Al Telbani xx xxxx xxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xx xxxxxxxxx xxxxxxx xxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx x xxxxxxx xxxxxxx xxxxxxx xxxxxxxx xxxxxxx xxx xxxxxxxx x xxx xxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx Given the importance of protecting the Service's investigative techniques, and despite the relevance of this information in determining the legality or illegality of Transport Canada's decision to put his name on the SPL, I am of the opinion that this information should be protected and that no summary could minimize the injury to national security. Consequently, I find that the redaction of this information in documents 6, 8, 9, 14, 16, 18, 23, 27, 28, 29 and 30 should be maintained.
+[99]
+The witness for the Service conceded that the key points of this information appeared in various places in the public record, particularly in the letter signed by the Assistant Deputy Minister of Safety and Security of Transport the relevant excepts of which I reproduced above (paragraph 88). This information can also be found, although in a different form, in the summary of the Service's interview with Mr. Al Telbani, as well as in one of the on-line magazines that is part of the public record, The Technical Mujahid, published by the Al-Fajr Media Center, described as "Al-Qaida's official online logistical network". However, it was argued that the information for which non-disclosure is sought is xxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxx xxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+[101]
+It is true that the name of the third parties involved do not appear anywhere in the excerpts that are sought to be protected. Moreover, the witness for the admitted that they had not tried to ask the third parties to consent to the disclosure of this information. Last, Mr. Al Telbani is aware of the information and it is not different from information that is already in the public domain; indeed the letter from the Assistant Deputy Minister of Safety and Security of Transport Canada essentially repeats this information. Xxxxxxxxxx xxxxxxxx xxxx xxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xx xxxxxxxxx xxxxxxx xxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx x xxxxxxx xxxxxxx xxxxxxx xxxxxxxx xxxxxxx xxx xxxxxxxx x xxx xxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xxxxxx xxxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxx xxxxxx xxxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xxxxxxx xxxxxxx xxxxxx xxxxxxxx xxxxxxx xxxxxxx xxx xxxxxxxx xxxxxxx xxxxxxx xxxxxxx xx Moreover, the non-disclosure of this information would not be injurious to Mr. Al Telbani and would not prevent him from effectively challenging the decisions that are the object of the two applications for judicial review underlying this proceeding, since he is now aware of this through other sources (particularly following the letter from the Assistant Deputy Minister). Under these circumstances, and given the importance to Canada's national security of protecting the confidentiality of information provided to the Service by third parties, I believe that the application for non-disclosure of this information should be allowed.
+[102]
+Before concluding these reasons, we should discuss the option raised by the
+and the Attorney General to minimize the injury to Mr. Al Telbani caused by the non-disclosure of information under this application by authorizing its disclosure to the judge who will be hearing the two applications for judicial review. Although they recognize that such a process may have some support in the case law, the
+contended that the Court probably does not have the jurisdiction to order such a measure. The Attorney General, clearly stated that he preferred to obtain a solid non-disclosure order but that he was not opposed to allowing a designated judge who was hearing the applications for judicial review to consult the secret evidence and even having the support of an
+to help him or her in this task.
+[104]
+This is the first time that such an approach has been considered quite simply because it is the first time that an application for non-divulgation based on section 38 of the
+CEA
+is linked to a legal proceeding that will be heard on its merits by a judge of our Court. Unlike the situation of a criminal or civil proceeding heard by a provincial court (superior or inferior) whose judges are not allowed to access information that is potentially injurious to national security, there is nothing preventing a judge hearing an application for judicial review of a decision by a "federal board, commission or other tribunal" within the meaning of section 18.1 of the
+Courts Act
+from being a designated judge under section 38 of the
+CEA
+. Does this mean that this could be a measure to minimize injury that can be considered in the balancing exercise prescribed in <FRAGMENT_SUPPRESSED> ?
+[105]
+In criminal matters, section 38.14 of the
+CEA
+authorizes a court to make any order deemed appropriate in the circumstances to protect the right of the accused to a fair trial. This provision, which no doubt was necessary to maintain the constitutionality of the regime established under sections 38 et seq of the
+CEA
+, allows the trial judge to dismiss specified counts of the indictment or information or order a stay of the proceedings. However, to prevent such measures from being taken for no reason and prevent judges from wrongly ruling that the fairness of the trial would be compromised because he or she is dealing with an incomplete file, Parliament provided a mechanism allowing disclosure of information that could be useful to ensure a fair trial to the trial judge. As the Supreme Court stated in
+We must presume that Parliament was aware of the possibility that proceedings would be needlessly stayed if the trial judge was denied access to material that could not be disclosed for valid reasons of state secrecy. In light of the vast resources expended in investigating and prosecuting offences that implicate national security and the injustice to society that would result if such prosecutions were needlessly derailed, this cannot have been Parliament's intention.
+[106]
+The mechanism that provides some flexibility in the application of section 38 can be found at subsection 38.06(2) of the
+CEA
+, which reads as follows:
+If the judge concludes that the disclosure of the information or facts would be injurious to international relations or national defence or national security but that the public interest in disclosure outweighs in importance the public interest in non-disclosure, the judge may by order, after considering both the public interest in disclosure and the form of and conditions to disclosure that are most likely to limit any injury to international relations or national defence or national security resulting from disclosure, authorize the disclosure, subject to any conditions that the judge considers appropriate, of all or part of the information or facts, a summary of the information or a written admission of facts relating to the information.
+[107]
+Furthermore, this approach was borrowed in
+<FRAGMENT_SUPPRESSED> . In this case, my colleague Justice Mosley exceptionally provided counsel for the parties with a summary of the material being withheld pursuant to section 38 and ordered that its use be limited to the criminal proceedings as required and that it be made available to the prosecutor and to the trial judge if necessary for the trial court to rule on the fairness of the trial. This approach received implicit approval from the Supreme Court in
+The Supreme Court placed considerable emphasis on the flexibility of the section 38 scheme in
+and even raised the possibility of providing the trial judge with information subject to a non-disclosure order in the following passage:
+[45] The problems created by the division of judicial responsibilities may be addressed in different ways. For example, a Federal Court judge exercising the discretion conferred by s. 38.06(2) might find that the only condition required in order to authorize disclosure to the criminal court judge without risking injury to national security is that he or she not reveal the information to the accused, or a condition that the information be reviewed in a designated secure facility. Disclosure of the information to the trial judge alone, as is the norm in other jurisdictions, and for the sole purpose of determining the impact of non-disclosure on the fairness of the trial, will often be the most appropriate option. This is particularly true in light of the minimal risk of providing such access to a trial judge, who is entrusted with the powers and responsibilities of high public office.
+[109]
+I would further note that the Supreme Court also raised the possibility of having the trial judge appoint a special advocate opposed in interest to the prosecution who could be adequately informed of the matters in issue by authorization of the Attorney General under section 38.03. Thus, the Supreme Court's decision in
+indicates that the broad discretion conferred by section 38 should be interpreted to seek an appropriate balance between the public interest in secrecy and the public interest in the effective administration of a fair system of justice.
+[110]
+The
+maintained that the options provided to the trial judge to reduce the impact of the non-disclosure and order remedies are not available in non-criminal trials, since section 38.14 only applies to criminal trials. This restricted reading of section 38 does not seem justified to me. It is true that
+applied to a criminal context and determined whether it was constitutional for Parliament to remove from judges hearing criminal trials the power to determine whether information tied to national security concerns should be disclosed and confer this power on Federal Court judges. However, a careful reading of this decision reveals that the Court did not intend to restrict its statements on the flexibility of the scheme to just the criminal context as is evidenced by the excerpts cited above. It is quite true that section 38.14 only applies to criminal matters. However, the presence of this section can be explained by Parliament's need to explicitly provide that the established scheme would not in any way infringe on the right to a fair trial guaranteed under paragraph 11(
+) of the Charter.
+[111]
+As mentioned above, this Court is considering for the first time whether information subject to a non-disclosure order under section 38.06 may nevertheless be provided, in one form or another, to the judge hearing the application for judicial review underlying this proceeding. The only related precedent is
+<FRAGMENT_SUPPRESSED>  in which Justice Noël had to rule on an application for leave to intervene from the Security Intelligence Review Committee (SIRC) for the purpose of filing confidentially and under seal the materials received by SIRC
+the complainant with the judge hearing the judicial review. In this case, Justice Noël clearly envisaged the possibility that the judge hearing the judicial review could hold an
+and
+hearing to review documents subject to a non-disclosure order, without going into detail about the terms and conditions of such a hearing. The judge who then heard the application for judicial review did hold an
+and
+hearing but did not say much about the protected documents since they were not relevant for deciding the application for judicial review.
+[112]
+Moreover, I would note that Justice Mosley, in <FRAGMENT_SUPPRESSED> , gave explicit directions to the
+appointed in that case to identify the documents that could be included in an order authorizing the disclosure to the trial judge in one of the forms provided in subsection 38.06(2) of the
+CEA
+. The underlying proceedings in this case were civil actions brought by several plaintiffs in the Superior Court of Justice of Ontario seeking compensatory damages from the Government of Canada for, among other things, alleged complicity in their detention and torture in Syria and Egypt and breach of their constitutional rights: see DES-1-11, dated September 19, 2011. This order clearly gives the idea that in the view of Justice Mosley, subsection 38.06(2) gives the designated judge the authority to provide a judge hearing a civil case with the information for which he or she had ordered non-disclosure.
+[113]
+It seems to me that we can take the same approach in this case. Even though Mr. Al Telbani is not facing criminal charges, the repercussions of his name remaining on the SPL are not any less serious. It is even possible that the judge who will hear the application for judicial review may find that his constitutional rights have been infringed. In this context, it is essential that the application for judicial review be decided based on all the information that was before the original decision-maker. Administrative decisions cannot be sheltered from review by superior courts, and the legality and constitutionality of decisions that can have a considerable impact on individuals must be assessed in consideration of all the relevant information as is possible. This is not just in the interest of the person before the court but also in the public interest. In the same way that we cannot allow a person to be subject to an illegal administrative decision, or worse a decision that infringes fundamental rights and freedoms, it would be just as damaging for our institutions if the legitimate exercise of a delegated authority were overturned because the reviewing judge did not have all the information that the decision-maker had access to.
+[114]
+In short, I believe that the option of appointing a designated judge to hear an application for judicial review when that application involves a federal administrative decision increases the options under subsection 38.06(2) when the conditions for disclosure most likely to limit the injury to national security are being considered. If it is possible to consider disclosing sensitive information to a provincial court judge, it must
+a fortiori
+be desirable to provide such information to a designated judge under the appropriate context. In doing so, this ensures that the application for judicial review will be heard on its merits and will not be dismissed or allowed for lack of information. It would also be damaging for the administration of justice and the rule of law for a decision to be deemed reasonable or unreasonable solely on the fact that a judge did not have all the information that the decision-maker had.
+CONCLUSION
+[115]
+In the pages above, I reviewed the information that the Attorney General wishes to protect in light of the <FRAGMENT_SUPPRESSED> criteria. I found that, other than the information that could identify employees of the Service or that describes administrative details, the redacted information is relevant to the two underlying applications for judicial review. I also believe that the applicant met his burden of proving that disclosure of the redacted information would be injurious to national security. Last, I believe that the public interest in non-disclosure outweighs, to differing degrees, the public interest in disclosure.
+[116]
+That being said, it seems crucial to me in this case that the judge hearing the judicial review be able to see the redacted information in order to be able assess the legality of the impugned decisions, or at least determine whether it is possible to rule on this issue despite Mr. Al Telbani's ignorance of certain facts. The applications for judicial review should thus be heard by a designated judge. It will be up to that judge to decide whether
+and
+hearings should be held and whether an
+or a special advocate should be appointed to help him or her in this task.
+[117]
+Counsel for the Attorney General and the
+should file written submissions to the Court by October 3, 2014, if, in their opinion, these reasons and the confidential order attached (see appendix B) contain sensitive or potentially injurious information that should not be made public and, as necessary, they must indicate what parts should be redacted. These submissions should indicate the nature of the injury to international relations, defence or national security that public disclosure would likely cause.
+(1) Every participant who, in connection with a proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information shall, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+[...]
+(3) An official, other than a participant, who believes that sensitive information or potentially injurious information may be disclosed in connection with a proceeding may notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+38.02
+(1) Subject to subsection 38.01(6), no person shall disclose in connection with a proceeding
+(a) information about which notice is given under any of subsections 38.01(1) to (4);
+(
+) the fact that notice is given to the Attorney General of Canada under any of subsections 38.01(1) to (4), or to the Attorney General of Canada and the Minister of National Defence under subsection 38.01(5);
+(
+) the fact that an application is made to the Federal Court under section 38.04 or that an appeal or review of an order made under any of subsections 38.06(1) to (3) in connection with the application is instituted; or
+(
+) the fact that an agreement is entered into under section 38.031 or subsection 38.04(6).
+38.03 (1) The Attorney General of Canada may, at any time and subject to any conditions that he or she considers appropriate, authorize the disclosure of all or part of the information and facts the disclosure of which is prohibited under subsection 38.02(1).
+(2) In the case of a proceeding under Part III of the
+National Defence Act
+, the Attorney General of Canada may authorize disclosure only with the agreement of the Minister of National Defence.
+(3) The Attorney General of Canada shall, within 10 days after the day on which he or she first receives a notice about information under any of subsections 38.01(1) to (4), notify in writing every person who provided notice under section 38.01 about that information of his or her decision with respect to disclosure of the information.
+38.031
+(1) The Attorney General of Canada and a person who has given notice under subsection 38.01(1) or (2) and is not required to disclose information but wishes, in connection with a proceeding, to disclose any facts referred to in paragraphs 38.02(1)(
+) or information about which he or she gave the notice, or to cause that disclosure, may, before the person applies to the Federal Court under paragraph 38.04(2)(
+), enter into an agreement that permits the disclosure of part of the facts or information or disclosure of the facts or information subject to conditions.
+(2) If an agreement is entered into under subsection (1), the person may not apply to the Federal Court under paragraph 38.04(2)(
+) with respect to the information about which he or she gave notice to the Attorney General of Canada under subsection 38.01(1) or (2).
+38.04
+(1) The Attorney General of Canada may, at any time and in any circumstances, apply to the Federal Court for an order with respect to the disclosure of information about which notice was given under any of subsections 38.01(1) to (4).
+(2) If, with respect to information about which notice was given under any of subsections 38.01(1) to (4), the Attorney General of Canada does not provide notice of a decision in accordance with subsection 38.03(3) or, other than by an agreement under section 38.031, does not authorize the disclosure of the information or authorizes the disclosure of only part of the information or authorizes the disclosure subject to any conditions,
+(
+) the Attorney General of Canada shall apply to the Federal Court for an order with respect to disclosure of the information if a person who gave notice under subsection 38.01(1) or (2) is a witness;
+(
+) a person, other than a witness, who is required to disclose information in connection with a proceeding shall apply to the Federal Court for an order with respect to disclosure of the information; and
+(
+) a person who is not required to disclose information in connection with a proceeding but who wishes to disclose it or to cause its disclosure may apply to the Federal Court for an order with respect to disclosure of the information.
+(3) A person who applies to the Federal Court under paragraph (2)(
+) or (
+) shall provide notice of the application to the Attorney General of Canada.
+(4) Subject to paragraph (5)(
+), an application under this section is confidential. During the period when an application is confidential, the Chief Administrator of the Courts Administration Service may, subject to section 38.12, take any measure that he or she considers appropriate to protect the confidentiality of the application and the information to which it relates.
+(5) As soon as the Federal Court is seized of an application under this section, the judge
+(
+) shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the
+National Defence Act
+, the Minister of National Defence, with respect to making the application public;
+(
+) shall, if he or she decides that the application should be made public, make an order to that effect;
+(
+) shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the
+National Defence Act
+, the Minister of National Defence, concerning the identity of all parties or witnesses whose interests may be affected by either the prohibition of disclosure or the conditions to which disclosure is subject, and concerning the persons who should be given notice of any hearing of the matter;
+(b) shall decide whether it is necessary to hold any hearing of the matter;
+(
+) if he or she decides that a hearing should be held, shall
+(i) determine who should be given notice of the hearing,
+(ii) order the Attorney General of Canada to notify those persons, and
+(iii) determine the content and form of the notice; and
+(
+) if he or she considers it appropriate in the circumstances, may give any person the opportunity to make representations.
+(6) After the Federal Court is seized of an application made under paragraph (2)(
+) or, in the case of an appeal from, or a review of, an order of the judge made under any of subsections 38.06(1) to (3) in connection with that application, before the appeal or review is disposed of,
+(
+) the Attorney General of Canada and the person who made the application may enter into an agreement that permits the disclosure of part of the facts referred to in paragraphs 38.02(1)(
+) or part of the information or disclosure of the facts or information subject to conditions; and
+(
+) if an agreement is entered into, the Court's consideration of the application or any hearing, review or appeal shall be terminated.
+(7) Subject to subsection (6), after the Federal Court is seized of an application made under this section or, in the case of an appeal from, or a review of, an order of the judge made under any of subsections 38.06(1) to (3), before the appeal or review is disposed of, if the Attorney General of Canada authorizes the disclosure of all or part of the information or withdraws conditions to which the disclosure is subject, the Court's consideration of the application or any hearing, appeal or review shall be terminated in relation to that information, to the extent of the authorization or the withdrawal.
+38.06
+(1) Unless the judge concludes that the disclosure of the information or facts referred to in subsection 38.02(1) would be injurious to international relations or national defence or national security, the judge may, by order, authorize the disclosure of the information or facts.
+(2) If the judge concludes that the disclosure of the information or facts would be injurious to international relations or national defence or national security but that the public interest in disclosure outweighs in importance the public interest in non-disclosure, the judge may by order, after considering both the public interest in disclosure and the form of and conditions to disclosure that are most likely to limit any injury to international relations or national defence or national security resulting from disclosure, authorize the disclosure, subject to any conditions that the judge considers appropriate, of all or part of the information or facts, a summary of the information or a written admission of facts relating to the information.
+(3) If the judge does not authorize disclosure under subsection (1) or (2), the judge shall, by order, confirm the prohibition of disclosure.
+(3.01) An order of the judge that authorizes disclosure does not take effect until the time provided or granted to appeal the order has expired or, if the order is appealed, the time provided or granted to appeal a judgment of an appeal court that confirms the order has expired and no further appeal from a judgment that confirms the order is available.
+(3.1) The judge may receive into evidence anything that, in the opinion of the judge, is reliable and appropriate, even if it would not otherwise be admissible under Canadian law, and may base his or her decision on that evidence.
+(4) A person who wishes to introduce into evidence material the disclosure of which is authorized under subsection (2) but who may not be able to do so in a proceeding by reason of the rules of admissibility that apply in the proceeding may request from a judge an order permitting the introduction into evidence of the material in a form or subject to any conditions fixed by that judge, as long as that form and those conditions comply with the order made under subsection (2).
+(5) For the purpose of subsection (4), the judge shall consider all the factors that would be relevant for a determination of admissibility in the proceeding.
+, 2007 CST 43, [2007] 3 R.C.S. 253;
+Criminal Lawyers' Association
+R c Stinchcombe
+Singh (J.B.) C Canada (Procureur general)
+Charte
+.
+[111]
+a fortiori
+CONCLUSION
+[115]
+(1) Every participant who, in connection with a proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information shall, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+[...]
+(3) An official, other than a participant, who believes that sensitive information or potentially injurious information may be disclosed in connection with a proceeding may notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+38.02
+(1) Subject to subsection 38.01(6), no person shall disclose in connection with a proceeding
+(a) information about which notice is given under any of subsections 38.01(1) to (4);
+(
+) the fact that notice is given to the Attorney General of Canada under any of subsections 38.01(1) to (4), or to the Attorney General of Canada and the Minister of National Defence under subsection 38.01(5);
+(
+) the fact that an application is made to the Federal Court under section 38.04 or that an appeal or review of an order made under any of subsections 38.06(1) to (3) in connection with the application is instituted; or
+(
+) the fact that an agreement is entered into under section 38.031 or subsection 38.04(6).
+38.03 (1) The Attorney General of Canada may, at any time and subject to any conditions that he or she considers appropriate, authorize the disclosure of all or part of the information and facts the disclosure of which is prohibited under subsection 38.02(1).
+(2) In the case of a proceeding under Part III of the
+National Defence Act
+, the Attorney General of Canada may authorize disclosure only with the agreement of the Minister of National Defence.
+(3) The Attorney General of Canada shall, within 10 days after the day on which he or she first receives a notice about information under any of subsections 38.01(1) to (4), notify in writing every person who provided notice under section 38.01 about that information of his or her decision with respect to disclosure of the information.
+38.031
+(1) The Attorney General of Canada and a person who has given notice under subsection 38.01(1) or (2) and is not required to disclose information but wishes, in connection with a proceeding, to disclose any facts referred to in paragraphs 38.02(1)(
+) or information about which he or she gave the notice, or to cause that disclosure, may, before the person applies to the Federal Court under paragraph 38.04(2)(
+), enter into an agreement that permits the disclosure of part of the facts or information or disclosure of the facts or information subject to conditions.
+(2) If an agreement is entered into under subsection (1), the person may not apply to the Federal Court under paragraph 38.04(2)(
+) with respect to the information about which he or she gave notice to the Attorney General of Canada under subsection 38.01(1) or (2).
+38.04
+(1) The Attorney General of Canada may, at any time and in any circumstances, apply to the Federal Court for an order with respect to the disclosure of information about which notice was given under any of subsections 38.01(1) to (4).
+(2) If, with respect to information about which notice was given under any of subsections 38.01(1) to (4), the Attorney General of Canada does not provide notice of a decision in accordance with subsection 38.03(3) or, other than by an agreement under section 38.031, does not authorize the disclosure of the information or authorizes the disclosure of only part of the information or authorizes the disclosure subject to any conditions,
+(
+) the Attorney General of Canada shall apply to the Federal Court for an order with respect to disclosure of the information if a person who gave notice under subsection 38.01(1) or (2) is a witness;
+(
+) a person, other than a witness, who is required to disclose information in connection with a proceeding shall apply to the Federal Court for an order with respect to disclosure of the information; and
+(
+) a person who is not required to disclose information in connection with a proceeding but who wishes to disclose it or to cause its disclosure may apply to the Federal Court for an order with respect to disclosure of the information.
+(3) A person who applies to the Federal Court under paragraph (2)(
+) or (
+) shall provide notice of the application to the Attorney General of Canada.
+(4) Subject to paragraph (5)(
+), an application under this section is confidential. During the period when an application is confidential, the Chief Administrator of the Courts Administration Service may, subject to section 38.12, take any measure that he or she considers appropriate to protect the confidentiality of the application and the information to which it relates.
+(5) As soon as the Federal Court is seized of an application under this section, the judge
+(
+) shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the
+National Defence Act
+, the Minister of National Defence, with respect to making the application public;
+(
+) shall, if he or she decides that the application should be made public, make an order to that effect;
+(
+) shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the
+National Defence Act
+, the Minister of National Defence, concerning the identity of all parties or witnesses whose interests may be affected by either the prohibition of disclosure or the conditions to which disclosure is subject, and concerning the persons who should be given notice of any hearing of the matter;
+(b) shall decide whether it is necessary to hold any hearing of the matter;
+(
+) if he or she decides that a hearing should be held, shall
+(i) determine who should be given notice of the hearing,
+(ii) order the Attorney General of Canada to notify those persons, and
+(iii) determine the content and form of the notice; and
+(
+) if he or she considers it appropriate in the circumstances, may give any person the opportunity to make representations.
+(6) After the Federal Court is seized of an application made under paragraph (2)(
+) or, in the case of an appeal from, or a review of, an order of the judge made under any of subsections 38.06(1) to (3) in connection with that application, before the appeal or review is disposed of,
+(
+) the Attorney General of Canada and the person who made the application may enter into an agreement that permits the disclosure of part of the facts referred to in paragraphs 38.02(1)(
+) or part of the information or disclosure of the facts or information subject to conditions; and
+(
+) if an agreement is entered into, the Court's consideration of the application or any hearing, review or appeal shall be terminated.
+(7) Subject to subsection (6), after the Federal Court is seized of an application made under this section or, in the case of an appeal from, or a review of, an order of the judge made under any of subsections 38.06(1) to (3), before the appeal or review is disposed of, if the Attorney General of Canada authorizes the disclosure of all or part of the information or withdraws conditions to which the disclosure is subject, the Court's consideration of the application or any hearing, appeal or review shall be terminated in relation to that information, to the extent of the authorization or the withdrawal.
+38.06
+(1) Unless the judge concludes that the disclosure of the information or facts referred to in subsection 38.02(1) would be injurious to international relations or national defence or national security, the judge may, by order, authorize the disclosure of the information or facts.
+(2) If the judge concludes that the disclosure of the information or facts would be injurious to international relations or national defence or national security but that the public interest in disclosure outweighs in importance the public interest in non-disclosure, the judge may by order, after considering both the public interest in disclosure and the form of and conditions to disclosure that are most likely to limit any injury to international relations or national defence or national security resulting from disclosure, authorize the disclosure, subject to any conditions that the judge considers appropriate, of all or part of the information or facts, a summary of the information or a written admission of facts relating to the information.
+(3) If the judge does not authorize disclosure under subsection (1) or (2), the judge shall, by order, confirm the prohibition of disclosure.
+(3.01) An order of the judge that authorizes disclosure does not take effect until the time provided or granted to appeal the order has expired or, if the order is appealed, the time provided or granted to appeal a judgment of an appeal court that confirms the order has expired and no further appeal from a judgment that confirms the order is available.
+(3.1) The judge may receive into evidence anything that, in the opinion of the judge, is reliable and appropriate, even if it would not otherwise be admissible under Canadian law, and may base his or her decision on that evidence.
+(4) A person who wishes to introduce into evidence material the disclosure of which is authorized under subsection (2) but who may not be able to do so in a proceeding by reason of the rules of admissibility that apply in the proceeding may request from a judge an order permitting the introduction into evidence of the material in a form or subject to any conditions fixed by that judge, as long as that form and those conditions comply with the order made under subsection (2).
+(5) For the purpose of subsection (4), the judge shall consider all the factors that would be relevant for a determination of admissibility in the proceeding.
+ANNEXE B
+[End of document]

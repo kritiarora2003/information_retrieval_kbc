@@ -1,0 +1,196 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 472)
+Federal Court
+John Rokakis, for the applicant;
+Rafeena Rashid, for the respondent.
+Solicitors of Record:
+John Rokakis, Windsor, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is an application for judicial review, made pursuant to section 72 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (IRPA), of the May 23, 2012 decision of the Refugee Protection Division (RPD) of the Immigration and Refugee Board denying the Applicant's claim for Refugee Status as a Convention refugee or a person in need of protection pursuant to sections 96 and 97 of the IRPA, respectively.
+Background
+[2]
+The Applicant is a 39-year old citizen of Lebanon. He claims that in February 1997, agents of the South Lebanese Army (SLA) approached him in the shoe factory where he worked and told him that he had to join the SLA. He reported to the SLA, received military training for a period of three months and then served in the SLA from June 1997 to September 1999 as a corporal. Later in 1999, he left the security zone through Tel Aviv and went to the United States, where he sought refugee protection.
+[3]
+The Applicant claims that in the aftermath of the Israeli withdrawal from the security zone in May 2000, his immediate relatives were detained and questioned by Hezbollah about his and his brother's whereabouts. Further, that he fears persecution by the Lebanese Hezbollah because he served in the SLA during the South Lebanon conflicts with Hezbollah, because he travelled to Israel, and because of his brother's involvement with the Israeli Institute for Intelligence and Special Operations (Mossad). He also claims that he faces a risk to his life or a risk of cruel and unusual treatment or punishment, including torture, by the Lebanese Hezbollah, its allies and the Lebanese authorities. His brother, Ramzi, obtained refugee status in Germany. He has a sister who continues to reside in South Lebanon.
+[4]
+The Applicant was denied refugee status in the United States and came to Canada on August 11, 2010. On September 24, 2010, he claimed protection in Canada as a Convention refugee pursuant to section 96 of the IRPA and as a person in need of protection pursuant to section 97 of the IRPA. By way of Reasons and Decision dated May 17, 2012, the RPD rejected his claim (Decision). This is the judicial review of that Decision.
+Decision Under Review
+[5]
+The Decision states, for the reasons that follow, that the RPD rejects the Applicant's claim to be a Convention refugee.
+[6]
+The Respondent had submitted that the Applicant should be excluded from Canada's protection in accordance with Article 1F (A) of the
+United Nations
+Convention relating to the Status of Refugees
+, July 28, 1951, [1969] Can TS No 6 (Refugee Convention), as a result of his past association with the SLA. The RPD identified discrepancies between the Applicant's Personal Information Form (PIF) and his oral evidence as well as a lack of documentary evidence as to his SLA service. It found that the Applicant was not credible and, on the balance of probabilities, that he had fabricated his involvement with the SLA to support his refugee claim. For that reason, the RPD found that the Respondent's application for exclusion must fail.
+[7]
+The RPD then dealt with the post-hearing submissions made by Applicant's counsel asserting that because the Applicant's brother served with the Israeli Mossad, the Applicant would face a risk of torture or a risk to his life and was therefore in need of protection pursuant to section 97 of the IRPA. In that regard, the RPD noted that the Applicant's sister has continuously lived in South Lebanon and that there was no evidence that she has ever had problems with Hezbollah. Therefore, it was not probable that the Applicant would suffer serious harm as a result of his brother's involvement with Mossad, should he return to Lebanon.
+[8]
+The RPD concluded "[f]or all of the above, the Refugee Protection Division rejects the claim pursuant to both sections 96 and 97 of the
+Immigration and Refugee Protection Act
+."
+In the hearing before me, counsel for the Applicant advised that, of the issues identified in the application for judicial review and in its written submissions, only one issue was being pursued. This is, in essence, whether the RPD erred by failing to conduct a separate section 96 IRPA analysis. It should be noted that the Applicant made no challenge to the RPD's findings as to credibility nor to its rejection of his section 97 claim.
+[10]
+The Respondent states that the sole issue is whether the Applicant has demonstrated that the decision of the RPD was unreasonable in that it fell outside the range of possible, acceptable outcomes given the evidence and the law.
+[11]
+I would phrase the issues as follows:
+i) What is the standard of review?
+ii) Was the RPD required to conduct a separate section 96 analysis in the circumstances of this matter?
+iii) Was its Decision reasonable?
+The Positions of the Parties
+[12]
+The Applicant submits that the RPD's finding that he is not a credible witness is not determinative of the question of whether the Applicant is a Convention refugee. Credible or not, he is still a refugee if he satisfies the subjective and objective components of the test for refugee status.  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] and
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the Court of Appeal held that the RPD must rule not only on credibility issues but also on the well-foundedness of the fear alleged by the refugee claimant in order to determine whether the evidence satisfies both the objective and the subjective branches of the test.
+[13]
+The Applicant submits that although the RPD rejected his evidence respecting his involvement in the SLA, it did accept that his brother had been involved with Mossad. However, the RPD only considered this in the context of section 97 of the IRPA, his claim as a person in need of protection, and failed to consider it in the context of section 96 of the IRPA, his claim for protection as a Convention refugee. The RPD therefore erred in failing to make a determination as to whether, based on the evidence accepted as credible, the Applicant qualified as a Convention refugee (
+Further, the Applicant argues that had the RPD conducted a section 96 analysis based on the evidence that it accepted as credible, then it would have had to apply the objective basis for a well-founded fear of persecution test under section 96 of the IRPA, the "reasonable chance" test. This is less stringent than the balance of probabilities test applicable to claims for protection made pursuant to subsection 97(1) of the IRPA (
+<FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ] and
+<FRAGMENT_SUPPRESSED> ). The Applicant submits that failure to conduct a section 96 analysis is an error in law.
+[15]
+The Respondent submits that the RPD did conduct a section 96 analysis but rejected that basis of the Applicant's claim because he lacked credibility. The Respondent also submits that the Applicant presented no evidence to establish that he held a well-founded and subjective fear of persecution based on a perceived political opinion or his brother's association with Mossad. The mere fact that his brother worked for Mossad was not evidence of the Applicant's well-founded fear of persecution. Being a family member of someone who might be targeted is insufficient to establish membership in a particular social group as a Convention ground. In absence of a demonstrated subjective fear, such as one based upon persecutory acts committed against the Applicant's family in the past or other compelling evidence, the Applicant's claim could not succeed under section 96 of the  <FRAGMENT_SUPPRESSED>  at para 47 [ <FRAGMENT_SUPPRESSED> ]).
+[16]
+The Respondent submits that, in any event, granting the Applicant's judicial review would serve no purpose because "the demerits of the claim are such that it would in any case be hopeless" and "the claim could only be rejected" (
+<FRAGMENT_SUPPRESSED> ). This is because the Applicant failed to point to any evidence to support his allegation of perceived political opinion or membership in a particular social group that would change the outcome of his refugee claim hearing, accordingly, his claim could only be rejected.
+Standard of Review
+[17]
+The Supreme Court in <FRAGMENT_SUPPRESSED> , above, at paras 34 and 45, held that there are two standards of review, reasonableness for questions of mixed fact and law and correctness for questions of law. Reasonableness is a deferential standard concerned mostly with the existence of justification, transparency and intelligibility within the decision making process but also with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law ( <FRAGMENT_SUPPRESSED> , above, at para 47). Where previous jurisprudence has satisfactorily determined the appropriate standard of review applicable to a particular issue, that standard may be adopted by a subsequent reviewing court ( <FRAGMENT_SUPPRESSED> , above, at paras 57 and 62).
+[18]
+<FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], Justice Kelen held that:
+[25] The Board's interpretation of the requirements of sections 96 and 97 of the Act is a question of law to be reviewed on a standard of correctness:  <FRAGMENT_SUPPRESSED> .
+[26] The Board's assessment of whether the applicants are persons in need of protection and whether they face a particularized risk, however, is a question of mixed fact and law and subject to review on a reasonableness standard: see, for example, my decision in  <FRAGMENT_SUPPRESSED> .
+[19]
+The issue in this matter does not concern the legal interpretation of the requirements of section 96. Rather, it is concerned with whether, in the circumstances of this matter, the RPD was required to conduct a separate section 96 analyses in order to determine if the Applicant had established that he held a well-founded fear of persecution by reason of his membership in a particular social group, his family, or a perceived political belief, that he is a supporter of Israel.
+[20]
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the Court was called upon to determine whether the RPD erred by rejecting the applicants' claims under sections 96 and 97 solely on the basis of their lack of subjective fear and without conducting a separate section 97 analysis. Justice Crampton (as he then was) stated that the standard of review that has been applied by this Court in similar cases generally depends upon how the Court characterized the nature of the question. Where the question has been characterized as being a question of law or of adequacy of reasons, the Court has stated that a standard of correctness applies. By contrast, where the question has been characterized as one of mixed fact and law, the Court has stated that a standard of reasonableness applies. At paragraph 22 of <FRAGMENT_SUPPRESSED> , above, the Court held that:
+[22] In my view, the RPD ought to be accorded deference with respect to whether it deals with claims made under both sections 96 and 97 of the IRPA separately or in a single integrated analysis, particularly given (i) the RPD's substantial expertise with respect to the issues that are raised in claims made under sections 96 and 97 of the IRPA, and (ii) the nature of the issues raised when claims are made under both of those sections is such that it is often not necessary to conduct a separate analysis under each of these sections, especially where credibility or the adequacy of state protection is a determinative issue ( <FRAGMENT_SUPPRESSED> , above, at paras. 55, 56, 64 and 66;
+, above, at para. 44). In this context, a failure to accord some deference to the RPD in this regard would not be consistent with the view that the concept of deference is "central to judicial review in administrative law" ( <FRAGMENT_SUPPRESSED> , above, at para. 48).
+[21]
+In <FRAGMENT_SUPPRESSED> , above, on the issue of whether the RPD erred by failing to conduct a separate analysis under section 97, the standard of reasonableness was applied.
+[22]
+Here the evidence before the RPD was common to both the claim for protection as a Convention refugee under section 96 and as a person in need of protection under section 97. The primary issue in either analysis is the sufficiency of the factual evidence to establish the existence of a well-founded fear of persecution with a nexus to a Convention ground, or, a risk of torture or to life. Accordingly, and based on the jurisprudence, in my view this issue is properly characterized as being a question of mixed law and fact. Therefore, the issues are to be reviewed on a standard of reasonableness (also see
+<FRAGMENT_SUPPRESSED>  where the reasonableness standard was applied to the question whether the RPD erred by not conducting an analysis under section 96).
+Separate Section 96 Analysis
+[23]
+A Convention refugee is defined in section 96 of the IRPA as:
+96.
+Convention refugee - A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(
+) is outside each of their countries of nationality and is unable, or by reason of that fear, unwilling to avail themselves of the protection of each of those countries; or
+[...]
+96.
+Section 97 of the IRPA defines a person in need of protection as:
+97.
+(1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(
+) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(
+) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+[...]
+97.
+To make a successful section 96 claim, an applicant must demonstrate a well-founded fear of persecution. This has both a subjective and an objective element. "The subjective component relates to the existence of the fear of persecution in the mind of the refugee. The objective component requires that the refugee's fear be evaluated objectively to determine if there is a valid basis for that fear" (
+<FRAGMENT_SUPPRESSED> ). An applicant must establish its case on the balance of probabilities and meet the legal test of "reasonable chance" or "more than a mere possibility". That is, is there a reasonable chance that persecution would take place if the applicant were returned to his or her country of origin. This "need not be more than a 50% chance but is more than a minimal possibility" ( <FRAGMENT_SUPPRESSED> , above, at paras 4-5 and 8-9; followed and explained in
+]). The test for the degree of danger of torture in subsection 97(1)(a) is a balance of probabilities or more likely than not (
+, above, at para 28). The standard of proof and the test under subsection 97(1)(a) are distinct (
+, above, at paras 29 and 33).
+[29] It is immediately apparent that the words used to describe the standard of proof - balance of probabilities - are equivalent to the words used to describe the legal test to be met in order to be entitled to protection under paragraph 97(1)(
+) - more likely than not. Although the words are equivalent, there are two distinct steps involved. Proof on a balance of probabilities is the standard of proof the panel will apply in assessing the evidence adduced before it for purposes of making its factual findings. The test for determining the danger of torture is whether, on the facts found by the panel, the panel is satisfied that it is more likely than not that the individual would personally be subjected to a danger of torture.
+[...]
+[33] It is true that at a refugee hearing a panel may be asked to consider both whether an individual is a Convention refugee and whether that individual is in need of protection. Some of the evidence may apply to both determinations. However, there are differences between section 96 and paragraph 97(1)(
+). For example, a claim for protection under paragraph 97(1)(
+) is not predicated on the individual demonstrating that he or she is in danger of torture for any of the enumerated grounds of section 96. Further, there are both subjective and objective components necessary to satisfy the requirements of section 96: see
+Major J., while a claim under paragraph 97(1)(
+) has no subjective component. Because of such differences, it cannot be said that the provisions are so closely related that it would be irrational if the test under paragraph 97(1)(
+) was not identical to the test under section 96.
+[27]
+The test under subsection 97(1)(b) is also that the risk is more likely than not (
+, above, at para 29).
+[28]
+While the tests for section 96 and section 97 differ, what is common to these two sections is the standard of proof. In each case the applicant must provide evidence that establishes, on the balance of probabilities, the factual basis for the claim (see
+As stated in <FRAGMENT_SUPPRESSED> , above, the RPD is to be accorded deference with respect to whether it deals with claims made under both sections 96 and 97 of the IRPA separately or in a single integrated analysis. In the context of determining whether the failure to conduct a separate section 97 analysis constitutes a reviewable error, it has been held that it is permissible to analyze the claims together (
+<FRAGMENT_SUPPRESSED> ). Whether an omission amounts to a reviewable error depends on the particular circumstances of each case (
+<FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]). Where no claims have been made or evidence adduced that would warrant such a separate analysis, it will not be required ( <FRAGMENT_SUPPRESSED>  <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> , above, at para 49).
+[30]
+The jurisprudence is summarized in <FRAGMENT_SUPPRESSED> , above:
+[13]  <FRAGMENT_SUPPRESSED>  Mr. Justice Blanchard discussed this issue in the context of a situation where identity was not disputed, but the country conditions might lead to an objective fear (though still based on personal circumstances) of section 97 risk, even if the subjective fear was found to be not credible. Justice Blanchard noted the distinction between section 96 and section 97 claims and stated that although the evidentiary basis may be the same, the claims should be considered as separate. Most importantly, for present purposes, he stated, "Whether a Board properly considered both claims is a matter to be determined in the circumstances of each individual case bearing in mind the different elements required to establish each claim". Although the board had erred in failing to specifically analyze the section 97 claim, its error was not material to the result in that case.
+[14]  <FRAGMENT_SUPPRESSED>  Mr. Justice Mosley, at paragraph 27 stated:
+In my opinion, the Board in this case did not address the country documentation and other evidence related to prison conditions in Turkey and failed to consider whether the applicant could be a "person in need of protection" if returned to that country, in light of the possibility that he may face a "serious prison sentence" for evading Turkish military service. Despite the Board's negative credibility findings, a separate analysis, along the lines described in  <FRAGMENT_SUPPRESSED>
+, and having regard to the legislative wording of section 97, may have produced a finding that Mr. Kilic was a person in need of protection. Therefore, the result of the Board's error is unknown, and accordingly, this application should be sent back for redetermination on this ground.
+It is evident that in <FRAGMENT_SUPPRESSED> ,
+, there was evidence that was not addressed under the section 96 analysis that should have received section 97 consideration.
+[15]  <FRAGMENT_SUPPRESSED>  Mr. Justice von Finckenstein found that the board's negative credibility finding was substantiated by the facts and that the failure to perform a section 97 analysis was not relevant to the result because of a lack of evidence.
+[16] Mr. Justice Gibson, in
+<FRAGMENT_SUPPRESSED>  determined that the board did not err in arriving at its negative credibility finding. Since the sole bases for the claim were Convention grounds (ethnicity and membership in a particular social group), the board's credibility and risk analyses were sufficient to support a denial of refugee status. Justice Gibson further determined that the claimant was not a person in need of protection because no ground to support a need of protection other than a Convention ground had been advanced. While a more extensive explanation for the board's determination regarding section 97 might have been desirable, its absence did not constitute reviewable error.
+[17] These authorities, in my view, do not demand that a section 97 analysis be performed in every case. Rather, it will be required in some cases. It is a question that must be reviewed on a case by case basis. If there is evidence before the board to support a section 97 analysis, the analysis must be conducted.
+[18] Thus, while a separate section 97 analysis is desirable, the failure to conduct such an analysis will not be fatal in circumstances where there is no evidence that would require it. Here, there were no other grounds to support a finding of person in need of protection and the risk analysis was performed for Mrs. Brovina in the context of refugee protection. Moreover, the board did conduct a brief analysis related to a section 97 risk when it found that there was "no reason to believe" that Mrs. Brovina would face any risk in returning to Albania. There was no objective evidence before the board that might have led to any other conclusion.
+[31] <FRAGMENT_SUPPRESSED> , above, was also considered in <FRAGMENT_SUPPRESSED> , above, where Justice Martineau stated:
+[14] The applicants cite
+, for the proposition that section 97 must be separately considered in every case. The finding in
+, was actually that the failure to separately consider objective risk under section 97 can be either a reviewable error or an irrelevant error depending on the evidence entered, and this determination must be made on a case-by-case basis.
+[15] Blanchard J. further found that in the specific circumstances of
+, the failure to separately analyse section 97 did not rise to the level of a reviewable error:
+Apart from the evidence that the Board found to be not credible, there was no other evidence before the board in the country documentation, or elsewhere, that could have led the Board to conclude that the applicant was a person in need of protection. I find that the Board did err in failing to specifically analyse the s. 97 claim. However, in the circumstances of this case and in the exercise of my discretion, I also find that the error is not material to the result.
+[32]
+The Court went on to say that subsequent jurisprudence has found that the lack of a separate section 97 analysis to be both reviewable and non-reviewable, depending on the circumstances and that "[t]he distinction explicitly depends on the nature of the evidence presented in the case" ( <FRAGMENT_SUPPRESSED> , above, at para 16).
+[33]
+In the matter before me, the question is whether the RPD committed a reviewable error if it did not conduct a separate section 96 analysis. The RPD states in the Decision that it is not probable that the Applicant will suffer serious harm as a result of his brother's involvement with Mossad, should he return to Lebanon, and rejects the Applicant's claim pursuant to both sections 96 and 97.
+[34]
+In my view, although the Decision does not specify that a single integrated section 96 and section 97 analysis was being undertaken, in the circumstances of this matter that was a permissible approach. However, even if the RPD should have and failed to conduct a separate section 96 analysis, this was not relevant to the result and does not constitute a reviewable error.
+[35]
+I reach this conclusion primarily based on the evidence that was before the RPD. With respect to the Applicant's brother's association with Mossad, his PIF does not identify what the social group the Applicant claims to be a member of that would give rise to a well-founded fear of persecution. This is touched on in his attached Statement of Fact where he states:
+In Lebanon, Hezbollah and it allies and the Lebanese authorities will punish me for being a corporal in the SLA, for having traveled to Israel, and having a brother Ramzi who worked for the Mosad. I will be tortured to determine the extent of my involvement in the SLA and Israeli military and Ramzi's involvement with the Mosad. In May 2000 in the aftermath of the Israeli withdrawal my immediate relatives were detained and questioned by Hezbollah about my whereabouts and Ramzi's because we were wanted by Hezbollah. [...] I will not be safe in Lebanon because of my past association with the SLA. Also given the fact that my brother Ramzi worked for the Israeli Mosad puts my life at in danger in Lebanon. My brother fled to Germany where he was accepted and is now a German citizen.
+[36]
+This issue was not addressed at the hearing before the RPD other than by a comment of the Applicant's counsel at the conclusion of the hearing. He submitted that even if the RPD did not accept the evidence as to the Applicant's membership in the SLA "the fact that the Applicant's brother, Ramsi, was with the MOSSAD puts him in a dangerous position regardless of whether he was in the South Lebanon Army or not." Counsel went on to say that Hezbollah creates:
+[...] a dangerous situation for him, and there is a reasonable chance he would even be kidnapped, tortured, for his brother to surrender himself, because he, he was with the Israeli MOSSAD and he would have information that he doesn't have, because he was just a regular soldier. But somebody in the MOSSAD would have a lot more use for Hezbollah. So this is a danger for him. [...]
+[37]
+Given this oral submission by counsel at the hearing, the RPD asked the Applicant to make written submissions on section 97. These are addressed in the Decision:
+[13] Counsel for the claimant, post hearing, made written submissions for acceptance pursuant to section 97 of the
+Immigration and Refugee Protection Act
+(IRPA). Since the claimant's brother served Mossad and was accepted as a refugee in Germany, it is Counsel's position that, on a balance of probabilities, the claimant would be tortured or in other ways his life would be at risk since he would be of interest to Hezbollah as a means of gathering information concerning his brother Ramzi.
+[14] The claimant's sister is also a sister to Ramzi and she has lived in South Lebanon continuously. There is no evidence she has ever had problems with Hezbollah. This being the case, I am satisfied, it is not probable that the claimant will suffer serious harm as a result of his brother's involvement with Mossad, should he return to Lebanon today.
+[38]
+The RPD found the Applicant not to be credible and rejected his evidence respecting his military service in the SLA. It accepted the Applicant's claim that his brother had been involved with the Mossad and conducted an additional analysis of this issue under section 97. However, in doing so, the RPD found that there was no basis for the Applicant's alleged risk because there was no evidence that other members of the Applicant's family, and in particular his sister who lived in South Lebanon, suffered persecution by Hezbollah as a result of his brother's activities in the Mossad.
+[39]
+The RPD found that it was not probable that the Applicant would suffer harm as a result of his brother's activities. While this finding was made in the context of the section 97 analysis, it also means that the Applicant could not, on the same and common evidence, meet the standard of proof required in a section 96 analysis. Put otherwise, in the absence of any evidence on the record before it that could establish that the Applicant had a well-founded fear of persecution, the RPD did not have to engage in a further or separate section 96 analysis. Secondly, even if it had, this same lack of evidence would have precluded the Applicant from establishing both that he had a well-founded fear of persecution and the necessary nexus to a particular social group, his family, as addressed below.
+[40]
+The jurisprudence of this Court and that of the Federal Court of Appeal establishes that membership in a family can constitute membership in a social group for the purposes of refugee protection, but persecution against one family member does not automatically entitle all other family members to be considered refugees (
+<FRAGMENT_SUPPRESSED> ). As Justice Mosley stated in  <FRAGMENT_SUPPRESSED> :
+[8] The law requires that a refugee claimant show that there is a personal nexus between him and the alleged persecution based on one of the Convention refugee grounds. Thus, indirect persecution is not a solid foundation for a Convention refugee claim:  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 2164 (QL).
+[9] That the family is a valid social group for the purposes of seeking refugee protection is well established. Where membership in a family group is the basis for the claim, a personal nexus must be established between the claimant and the alleged persecution on Convention grounds: Pour-Shariati. It is not enough to point to the persecution suffered by family members if it is unlikely to affect the claimant directly. In this case, there was a sufficient nexus between the applicant's claim and his wife and daughter's persecution. The applicant is the husband and father of the women and therefore he would directly be at risk resulting from the decision not to allow his daughter's circumcision.
+[41]
+, above, at para 16, Justice Martineau specified the evidence required for such claims to be made under section 96 of the IRPA:
+[16] The family can only be considered to be a social group in cases where there is evidence that the persecution is taking place against the family members as a social group:
+<FRAGMENT_SUPPRESSED>  [2001] F.C.J. No. 657 (F.C.T.D.) (QL). However, membership in the social group formed by the family is not without limits, it requires some proof that the family in question is itself, as a group, the subject of reprisals and vengeance or, in other words, that the applicants are targeted and marked simply because they are members of the family even though they themselves have never been involved in politics and never will be so involved. (
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  (FCA) (QL)). [...]
+[42]
+In light of this jurisprudence, it is clear that the Applicant did not satisfactorily discharge his burden of establishing that he had a well-founded fear of persecution that qualified him as a Convention refugee as a result of his membership in his brother's family. There was no evidence that other family members were subject to persecution or that the Applicant would as a result of his brother's association with Mossad. Rather, and as noted in the Decision, the evidence was that the Applicant's sister has lived in South Lebanon continuously and there is no evidence that she has ever had problems with Hezbollah. As such, no separate review of the evidence under section 96 was required.
+[43]
+In conclusion, the RPD is to be accorded deference in its decisions as to whether it deals with claims made under both section 96 and section 97 separately or in a single integrated analysis. In this case the RPD's intent is not explicit. However, while an explanation of the RPD's disposition of the section 96 claim would have been desirable, in the circumstances of this case its absence is not fatal.
+[44]
+Here the evidence was common to both claims and there was no evidence adduced that required a separate analysis. More specifically, in the absence of any evidence to support the Applicant's claim that he was at risk because of his brother's involvement in Mossad or because of his perceive political opinion, the Applicant could not meet the burden of proof required in either his section 96 or section 97 claim. Thus, even if the RPD erred in failing to conduct a separate section 96 analysis, and I do not find that it did in this case, this was not a reviewable error as it was not material to the result.
+Reasonableness
+[45]
+As stated in <FRAGMENT_SUPPRESSED> , above, at para 47, reasonableness is a deferential standard concerned mostly with the existence of justification, transparency and intelligibility within the decision making process but also with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law. For the reasons set out above, I am of the view that the Decision was reasonable and falls within the range of possible acceptable outcomes in this case.
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed. No question of general importance for certification has been proposed and none arises.
+.........................
+Convention refugee - A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(
+) is outside each of their countries of nationality and is unable, or by reason of that fear, unwilling to avail themselves of the protection of each of those countries; or
+[...]
+[24]
+(1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(
+) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(
+) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+[...]
+[25]
+[traduction]
+[traduction]
+Pour-Shariati
+LA COUR ORDONNE
+[End of document]

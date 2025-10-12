@@ -1,0 +1,280 @@
+<FRAGMENT_SUPPRESSED>  CF 346)
+Federal Court
+Max Berger, for the applicant;
+Christopher Parke, for the respondent.
+Solicitors of Record:
+Max Berger Professional Law Corporation, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is the judicial review of a decision of the Appeals Division, Recourse Directorate, Canada Border Services Agency, as delegate of the Minister of Public Safety and Emergency Preparedness (the Minister), determining that currency seized under the
+Proceeds of Crime (Money Laundering) and Terrorist Financing Act
+, SC 2000, c 17 (the Act) shall be held as forfeit. This judicial review is brought pursuant to section 18.1 of the
+Federal Courts Act
+Background
+[2]
+Kangaratnam Satheesan (the Applicant) was born in Sri Lanka and is a citizen of Germany. On August 12, 2010 he arrived in Canada on a flight from Germany and failed to report that he was in possession of currency having a value exceeding CAN$10,000, the declaration of which is required by subsection 12(1) of the Act and subsection 2(1) of the
+Cross-border Currency and Monetary Instruments Reporting Regulations
+SOR/2002-412. When examined by a Canada Border Services Agency officer (CBSA officer) it was determined that he was importing EUR15,530 and USD$24 (valued at CAN$21,754.53).
+[3]
+The undeclared currency was seized by the CBSA officer in accordance with subsection 18(1) of the Act. It was held with no terms of release, pursuant to subsection 18(2) of the Act, as the CBSA officer had formed the opinion that there were reasonable grounds to suspect that the undeclared currency was or may be the proceeds of crime.
+[4]
+On August 18, 2010 the Applicant, in accordance with section 25 of the Act, requested a decision of the Minister as to whether subsection 12(1) of the Act had been contravened. This was done by way of a Notice of Objection which attached, but did not make reference to, what appeared to be a February 1, 2010 contract of sale of a business by the Applicant to a named buyer for a purchase price of EUR10,000, and a bank withdrawal slip dated August 11, 2010 in the amount of EUR2000, both written in German. In that correspondence the Applicant stated, amongst other things, that his limited knowledge of English had prevented him from understanding the declaration form and understanding what amount of money he could import without declaring it.
+[5]
+On October 29, 2010 an adjudicator of the Appeals Division, Recourse Directorate, CBSA, wrote to the Applicant acknowledging his request for a decision of the Minister as to whether subsection 12(1) of the Act had been contravened, setting out in detail the grounds for the seizure of the undeclared currency and attaching a copy of the Narrative Report prepared by the CBSA officer who had examined the Applicant at his port of entry into Canada. The Applicant was advised to provide further documentary evidence to link all of the seized funds to the earnings from the pizza shop and that, in the absence of such sufficient evidence, the reasons to suspect the currency is the proceeds of crime would remain.
+[6]
+The Applicant provided a lengthy response which was received by CBSA on November 22, 2010. This stated that the purchaser of the Applicant's pizza shop had paid the EUR10,000 purchase price in EUR500 bills which the Applicant kept in his apartment. It also enclosed translated English excerpts of the purchase agreement as well as the Applicant's turnover tax calculation for 2008 and addressed the other matters raised in the prior CBSA correspondence. The letter also stated that the Applicant had requested an interpreter when being examined by the CBSA officer at the port of entry but that his request had been denied. The result of this denial being that his understanding of the questions put to him by the officer was unclear, his explanations accordingly confused and that the CBSA officer had interpreted them incorrectly as contradictory. The Applicant sent a follow up letter on January 17, 2011.
+[7]
+By letter of March 30, 2011 the adjudicator requested a copy of the entire untranslated purchase agreement for the pizza shop and went on to state that upon initial review of the documentation that had then been submitted by the Applicant that it did not appear to provide a complete paper trail linking the seized funds to the proceeds of the sale of the pizza shop and that no documentation had been provided to show the source of the seized funds which exceeded the EUR10,000 purchase price. The adjudicator advised that to dispel the reasons to suspect that the seized currency is the proceeds of crime that "sufficient documentary evidence must be provided to link the entire amount of the seized funds to a legitimate source". The letter also stated that language did not appear to be a contributing factor in the Applicant's failure to declare the seized currency or to answer the CBSA officer's questions concerning the currency. The Applicant was asked to provide further documentary evidence to link the EUR10,000 of the seized funds to the sale of the pizza shop, to show that the remaining seized funds were withdrawn from the claimant's savings account and the source of the funds in that account.
+[8]
+On May 4, 2011 the Applicant provided the pizza shop purchase agreement and the withdrawal receipt noting that both had previously been submitted. He stated that the information he had previously provided should serve to establish that he had worked hard and saved his money. As to the portion of the seized funds not addressed by the withdrawal receipt and the sale of the pizza shop, he stated that this came from smaller previous withdrawals from the bank and money kept on site at the pizza shop.
+[9]
+By letter of June 10, 2011 the adjudicator accepted that the Applicant appeared to have sold his pizza shop for EUR10,000 on February 1, 2010, the bank withdrawal for EUR2000 on August 11, 2010, and, that his tax documents showed his income in 2008 but stated that there was "still insufficient documentary evidence to link the seized funds to the sale of the business and the claimant's earnings". Further, as no records of his living expenses had been provided it could not be determined how much of the business sale proceeds and his other earnings remained once those living expense were taken into account. The Applicant was again asked to provide a complete paper trail to link the seized funds to the sale of the pizza shop and his earnings.
+[10]
+The Applicant responded by letter of July 12, 2011 providing a letter from the purchaser of the pizza shop confirming that he had paid the purchase price of EUR10,000 by way of twenty bills of EUR500 each.
+[11]
+By letter of July 26, 2011 the adjudicator acknowledged the Applicant's letter of July 12, 2011 but stated that it appeared that there was still insufficient evidence to link the seized funds to the sale of the pizza shop and the Applicant's earnings.
+[12]
+More specifically, the funds received from the sale of the shop were less than the amount seized and there was no documentation linking the seized funds to that source. Further, based on the other documents submitted, the amount claimed as earned in 2008 would have been received two years before the seizure and it could not be confirmed that any of the seized funds came from those earnings. The documents pertaining to the business assessment for 2008 and 2009 did not appear to provide evidence relating to the origin of the seized funds and the bank withdrawal slip showed an amount that was less than the amount seized and did not provide any information as to the original source of those funds. In addition, the Applicant's living expenses were not accounted for in connection with the proceeds realized from the sale of the pizza shop and his earnings.
+[13]
+On October 21, 2011 the adjudicator prepared a Case Synopsis and Reasons for Decision. This set out the evidence and submissions and recommended that the Minister find, pursuant to subsection 27(1) of the Act, that the Applicant had contravened subsection 12(1) of the Act by failing to report the imported currency and that the seized funds be held a forfeit pursuant to subsection 29(1)(c).
+[14]
+The Manager, Appeals Directorate, Recourse Director, CBSA, as the Minister's delegate (Manager), accepted the recommendations. By letter of December 7, 2011 she informed the Applicant of the Minister's decision (the Decision). By way of this judicial review the Applicant seeks an order setting aside the Decision and returning the matter for redetermination.
+The Decision under Review
+[15]
+The Decision states that pursuant to subsection 27 of the Act, the Manager, as delegate for the Minister, has decided that there has been a contravention of the Act with respect to the currency seized (subsection 12(1)) and that under the provisions of section 29 of the Act, the seized currency shall be held as forfeit.
+[16]
+The reasons stated in the Decision recite the CBSA officer's initial grounds for seizing the currency and suspecting that it was the proceeds of crime as originally recorded the Narrative Report. These included that:
+• The Applicant and his sister both left Sri Lanka as refugees at a time when Tamil Tigers were also fleeing Sri Lanka;
+• The Applicant had travelled from Germany to Canada after travelling to Sri Lanka a month earlier;
+• He could not explain how he could afford tickets to visit both Sri Lanka and Canada;
+• He gave conflicting stories regarding the purpose of his trip and provided limited details about his visit;
+• He gave conflicting stories regarding the person meeting him at the airport;
+• He was evasive and nervous when asked about the Tamil Tigers;
+• The seized currency was not wrapped and the notes were not all facing the same way, indicating it was not obtained from a bank;
+• The currency had not been reported to German customs;
+• There were discrepancies in his story regarding travel, employment and the source of the funds;
+• He had difficulty explaining how the currency came into his possession and had no documents proving its origin;
+• His business practice of dealing in cash and using multiple banks suggests an attempt to avoid the banks' reporting requirements;
+• He gave contradictory statements concerning the reason he was going to give his sister the money;
+• He could not provide information about his personal finances; and
+• He was not aware of the amount of currency in his possession and did not express concern about its seizure.
+[17]
+The reasons then describe the Applicant's submissions in requesting the appeal and responds to each in turn. With respect to his assertion that he did not understand English well enough to understand the declaration form requirements, the Manager states that the CBSA officer had specifically stated in her report that there was no language problem. The CBSA officer had asked if the Applicant fully understood everything on the declaration card and that the Applicant stated that he did and that he knew how to properly declare. Further, the Manager indicated that if the Applicant did not understand the questions on the declaration card or the questions being asked by the CBSA officer, then it was incumbent upon him to bring that to the CBSA officer's attention, at the time, so that any necessary assistance could have been provided. The Manager concluded that language was not a contributing factor in the Applicant's failure to report the currency in his possession.
+[18]
+As to the seized funds, while the Applicant submitted that the seized funds came from the sale of his pizza shop and other business earnings, the Manager was not satisfied that the evidence the Applicant had submitted established the legitimate origins of the currency. The sales agreement indicated the pizza shop sold for EUR10,000 on February 1, 2010. However, those funds were less than the amount seized even when combined with the EUR2,000 personal withdrawal confirmed by receipt. There was no documentary evidence linking the proceeds from the sale to the seized funds.
+[19]
+The Applicant's business tax return for 2008 showed that his business generated EUR200,171 in revenue. The Manager pointed out that these earnings were received two years prior to the date of seizure and there was no documentary evidence linking the proceeds of the business to the seized funds. The withdrawal receipt for EUR2000 similarly did not provide any information regarding the original source of those withdrawn funds. Further, no documentation had been provided to demonstrate the Applicant's current living expenses. As a result, the Manager was unable to determine how much of the seized funds came from the suggested legitimate origin after the Applicant's living expenses had been taken into consideration. Given this, the Minister declined to exercise his discretion to release the funds from forfeiture.
+The Applicant submits that there was a failure of natural justice as an interpreter was not provided to the Applicant when one was requested at the port of entry, and, that the Minister failed to reasonably exercise his section 29 discretion with respect to forfeiture.
+[21]
+I would rephrase the issues as follows:
+a. What is the appropriate standard of review?
+b. Was there a breach of procedural fairness?
+c. Did the Minister's delegate err in determining the funds as forfeit?
+Positions of the Parties
+The Applicant
+[22]
+The Applicant submits that he speaks English with difficulty and that he requested a German interpreter several times when he was being interviewed by the CBSA officer at the port of entry. Because he was not provided with an interpreter when he requested one and because his command of English was insufficient to effectively communicate answers to questions put to him by the CBSA officer and because negative inferences were drawn from the alleged inconsistencies in the Applicant's answers, there was a breach of procedural fairness amounting to a reviewable error.
+[23]
+The Applicant further argues the Minster's discretion pursuant to section 29 of the Act was not exercised reasonably.  <FRAGMENT_SUPPRESSED>  [2008] FCJ No 1267, the only evidence before the Minister was unverifiable affidavits. In contrast, in this case the Applicant provided verifiable documents including the sale agreement for the pizza shop for EUR10,000; a bank receipt showing a withdrawal of EUR2,000; and, a business tax return showing business revenue of EUR200,171.
+[24]
+To the Applicant, the Minister was asking for the impossible by insisting on documentary evidence linking the proceeds from the sale of the pizza shop to the seized funds and was therefore unreasonable. It was a cash sale, there is no direct documentary evidence and the Applicant provided reasonably sufficient corroborating documents.
+[25]
+The Applicant points out that only EUR3,530 is not accounted for after the pizza shop sale agreement and bank withdrawal are considered, a mere 2.5% of the Applicant's 2008 business revenues. Further, it is reasonable to assume the EUR2,000 personal withdrawal and the undocumented EUR3,530 came from his business proceeds. Given the submitted documentation, the Applicant submits that it was not reasonable for the Minister to conclude that he has not been satisfied that the seized funds are not proceeds of crime.
+[26]
+The Applicant also argues that the Decision is undermined by innuendo linking the Applicant to the Tamil Tigers with no evidence to substantiate the allegation. The Minister's observations and conclusions linking the Applicant to the Tamil Tigers are unreasonable.
+The Respondent
+[27]
+The Respondent emphasizes there is no issue here of whether there was a failure to declare the currency and resultant breach of section 12 of the Act. Any contestation of that finding must be by way of an appeal under section 27 of the Act. This judicial review is only concerned with the Minister's decision under section 29 to keep the currency as forfeit.
+[28]
+The Respondent submits there was no request for or need of an interpreter by the Applicant when he was being interviewed by the CBSA officer at the port of entry. The record establishes that the Applicant told the CBSA officer that he understood the declaration and that he had signed the card himself, and, in his subsequent submissions he did not deny making those statements. The officer's notes state that the Applicant "had good command of the English language and had no difficulty understanding the questions". This is confirmed by the Narrative Report which is indicative of a lengthy conversation with the Applicant who was able to express himself clearly and in detail in response to the questions asked of him.
+[29]
+The Respondent points out that in his initial communication to the CBSA, dated August 18, 2010, the Applicant states that he had a limited understanding of English but makes no mention of a refusal to provide translation. This allegation arose only after the Respondent indicated in correspondence of October 29, 2010 that the Applicant understood the questions put to him and should have requested assistance if it was needed. Even if an interpreter had been provided, it would not have changed the outcome of the examination given the Applicant's itinerary, social background, false declaration and behaviour.
+[30]
+The Respondent denies that there was an association inferred between the Applicant and the Tamil Tigers. The Respondent submits that the record shows that the Applicant denied an association personally with the Tamil Tigers and was questioned as to whether his family sympathised with them even if he did not. His reaction to this topic would have been the same with a translator.
+[31]
+The Respondent submits that the Decision was reasonable because the three submitted documents did not establish a legitimate source of the seized funds. Funds from the sale of the business a year earlier are not linked by virtue of the sale contract alone to the seized currency. No document linked any income earned in 2008 to the seized currency. The withdrawal receipt was for an amount that was less than the difference between the amount seized and the pizza shop sale proceeds and there was no document to confirm the legitimate origin of the withdrawn funds. The onus is on the Applicant to persuade the Minister that the funds are not the proceeds of crime ( <FRAGMENT_SUPPRESSED> , above;
+<FRAGMENT_SUPPRESSED>  [2012] FCJ No 813) which the Applicant could have done by providing documents normally credible or authoritative enough to connect currency to a legitimate source, such as bank account balances, export declarations from German customs, or wrappers from the bank but declined to do. Therefore, the Minister's Decision was reasonable.
+Standard of Review
+[32]
+Where previous jurisprudence has determined the standard of review applicable to a particular issue before the court, the reviewing court may adopt that standard (see
+In <FRAGMENT_SUPPRESSED> , above, the Court of Appeal indicated the standard of review of the Minister's decisions is reasonableness (at paragraph 25). This approach was followed by this Court in <FRAGMENT_SUPPRESSED> , above at paragraph 29.
+[34]
+In reviewing a Minister's decision on the standard of reasonableness, the Court should not intervene unless the decision is not transparent, justifiable, and intelligible and within the range of acceptable outcomes based on the evidence before it (see <FRAGMENT_SUPPRESSED> , above, at paragraph 4). It is not up to a reviewing court to substitute its own view of a preferable outcome, nor is it the function of the reviewing court to reweigh the evidence (
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> , at paragraph 59).
+[35]
+It is well-established that on the content of procedural fairness, no deference is owed to a tribunal ( <FRAGMENT_SUPPRESSED> , above, at paragraph 43).
+Was there a breach of procedural fairness?
+[36]
+While no deference is owed to tribunals on the content of the duty of fairness, the procedural fairness claim in this case turns on a factual dispute: whether or not the Applicant requested an interpreter. The Respondent denies that a request for an interpreter was made. It does not appear to dispute that if the Applicant did in fact request an interpreter and was denied one, then the duty of fairness would have been violated. This Court is therefore not called upon to determine the content of the duty of fairness.
+[37]
+Since the dispute is a purely a factual matter, this Court owes deference to the decision-maker entrusted by Parliament to that task, in this case the CBSA Manager as the Minister's delegate ( <FRAGMENT_SUPPRESSED> , above, at paragraph 46). Simply because the factual finding is relevant to a procedural fairness dispute does not mean that the Court becomes a finder of fact where a reviewing a tribunal that has already considered the issue.
+[38]
+Here the Manager concluded that language was not a contributing factor in the failure to report the currency i.e. the contravention of subsection 12(1), which contravention she then determines, pursuant to section 27, has occurred. The Manager stated in her reasons that if the Applicant did not understand the questions asked on the declaration card or by the CBSA officer at the port of entry then it was incumbent upon him to have brought this to the CBSA officer's attention, at that time, so that any necessary assistance could be provided. The Manager's implicit finding of fact is, therefore, that the Applicant did not request an interpreter.
+[39]
+In reaching these conclusions the Manager relied on the Narrative Report of the CBSA officer. This is a detailed seven page report made on the day that the Applicant entered Canada. This states, in part:
+Upon his arrival at my counter, SATHEESAN was asked if the bag and belongings he was travelling with were his, if he packed them himself, and if he knew the contents of the bags. SATHEESAN answered yes to all three individual questions. SATHEESAN was asked if there was anything sharp or dangerous in the bag, to which he replied that there was not. SATHEESAN was asked if his bag left Germany with him, SATHEESAN replied yes, SATHEESAN was asked if the E311 card in my hand was his declaration card, he replied yes. He was asked if he fully understood everything on that card. SATHEESAN replied that he had, and knew how to declare properly. An explanation of the examination process was given to SATHEESAN. SATHEESAN did not have any questions.
+SATHEESAN had good command of the English language, and had no difficulty listening, understanding and answering questions in English.
+[40]
+The Narrative Report then proceeds, for the next six pages, to describe the verbal examination of the Applicant that followed and the Applicant's responses to the many questions put to him.
+[41]
+The Applicant submits that he requested both water and an interpreter. The Narrative Report confirms that the Applicant did ask for a glass of water. The CBSA Officer recorded that she told him that she would get it for him but that it was important that he answer her questions. She then asked her question again. There is no indication as to whether or not she provided the requested water. The Narrative Report makes no reference to a request for an interpreter.
+[42]
+In his August 18, 2010 Notice of Objection the Applicant stated that he did not know English well enough to allow him to understand the declaration form clearly and that he was unsure of the amount of money he was permitted to import without declaring it. In his letter of November 22, 2010 the Applicant, for the first time, asserted that he had asked for an interpreter but that this had been denied by the CBSA officer on the basis that the Applicant's English was sufficient.
+[43]
+The Manager did not accept the Applicant's submission that he had asked for and been denied an interpreter. She preferred and accepted the evidence of the CBSA officer and, based on that evidence, concluded that language was not a contributing factor in the Applicant's failure to report the importation of the seized currency. She also accepted as fact that the Applicant had a good command of the English language and had no difficulty listening to, understanding and answering questions in English as stated in the Narrative Report.
+[44]
+As discussed above, the Manager is entitled to considerable deference from a reviewing court on factual findings ( <FRAGMENT_SUPPRESSED> , above at paragraph 46). I see no reason to disturb her implicit finding that there was no request for an interpreter as it is transparent, justifiable and intelligible and is not outside the range of reasonable outcomes based on the evidence on the record before her.
+[45]
+Since he has not successfully impugned that factual finding, the Applicant has no basis to argue that there was a breach of procedural fairness amounting to a reviewable error.
+Did the Minister's delegate err in keeping the funds as forfeit?
+[46]
+In <FRAGMENT_SUPPRESSED> , above, funds were seized and forfeited because Mr. Sellathurai failed to declare them to a customs officer as he was required to do by section 12 of the Act. It was conceded that, at the time of the seizure, there were reasonable grounds to suspect that the funds were proceeds of crime or were to be used in the funding of terrorism. The issue before the Federal Court of Appeal was whether the Minister properly exercised his discretion in refusing to return the funds to Mr. Sellathurai.
+[47]
+There the Court of Appeal described what is at issue in a judicial review of a section 29 decision of the Minister:
+[49] Where the Minister repeatedly asks for proof that the seized currency has a legitimate source, as he did in this case, it is a fair conclusion that he made his decision on the basis of the applicant's evidence on that issue. The underlying logic is unassailable. If the currency can be shown to have a legitimate source, then it cannot be proceeds of crime.
+[50] If, on the other hand, the Minister is not satisfied that the seized currency comes from a legitimate source, it does not mean that the funds are proceeds of crime. It simply means that the Minister has not been satisfied that they are not proceeds of crime. The distinction is important because it goes directly to the nature of the decision which the Minister is asked to make under section 29 which, as noted earlier in these reasons, is an application for relief from forfeiture. The issue is not whether the Minister can show reasonable grounds to suspect that the seized funds are proceeds of crime. The only issue is whether the applicant can persuade the Minister to exercise his discretion to grant relief from forfeiture by satisfying him that the seized funds are not proceeds of crime. Without precluding the possibility that the Minister can be satisfied on this issue in other ways, the obvious approach is to show that the funds come from a legitimate source. That is what the Minister requested in this case, and when Mr. Sellathurai was unable to satisfy him on the issue, the Minister was entitled to decline to exercise his discretion to grant relief from forfeiture.
+[48]
+The Court of Appeal also held that there is no standard of proof in section 29 decisions separate from the standard of review of reasonableness:
+[51] This leads to the question which was argued at length before us. What standard of proof must the applicant meet in order to satisfy the Minister that the seized funds are not proceeds of crime? In my view, this question is resolved by the issue of standard of review. The Minister's decision under section 29 is reviewable on a standard of reasonableness. It follows that if the Minister's conclusion as to the legitimacy of the source of the funds is reasonable, having regard to the evidence in the record before him, then his decision is not reviewable. Similarly, if the Minister's conclusion is unreasonable, then the decision is reviewable and the Court should intervene. It is neither necessary nor useful to attempt to define in advance the nature and kind of proof which the applicant must put before the Minister.
+[49]
+In this case, the Minister followed the approach described in <FRAGMENT_SUPPRESSED> , above, by repeatedly asking for documentary proof of a legitimate source of the seized funds. Therefore, here the question is whether it was reasonable for the Minister to conclude, based on the evidence before him, that he was not satisfied as to the legitimate source of the funds.
+[50]
+While in <FRAGMENT_SUPPRESSED> , above, the only evidence tendered was unverifiable affidavits, in my view in this case it was also reasonable for the Minister to conclude that the documents submitted by the Applicant were insufficient to establish the legitimacy of the funds. The only funds for which a direct and potentially legitimate source was identified were those realized from the sale of the pizza shop. However, there is no certainty that the twenty EUR500 bills seized were, in fact, the proceeds of the sale of that enterprise. That is, there is no linkage of that cash to that transaction. Further, in the absence of other financial documents showing the Applicant's spending in the intervening two years, it was reasonable for the Minister to decline to assume the entire EUR10,000 was preserved intact as urged by the Applicant.
+[51]
+The Minister also asked repeatedly for documentation linking the EUR2000 that the Applicant withdrew from his bank account to a legitimate source. The bank withdrawal does not indicate the initial source of the EUR2000, that is, whether it was from the 2008 revenue from the pizza shop or otherwise. This is something that records from the same bank would presumably have disclosed and which could have been provided by the Applicant. The Applicant also declined to produce any records that might have shown that the earnings from his business have sustained him since 2008 and were the legitimate source of the EUR2000 that he withdrew from his personal account.
+[52]
+As to the income tax records, these show that the business earned money, but do not show how the seized money is connected to those earnings. In short, the Applicant failed to establish a link between the seized funds and a legitimate source of same.
+[53]
+I am also unable to accept the Applicant's argument that the Minister asked for the impossible and, therefore, that the Decision is unreasonable. The onus is on the Applicant to persuade the Minister to exercise his discretion to grant relief from forfeiture by satisfying him that the seized funds are not the proceeds of crime. The Respondent argued that the Minister sought the impossible as, in the case of the cash sale, little short of an uninterrupted, documented serial number trail of the EUR500 bills from the time they were received as payment for the pizza shop to the time of the seizure would suffice to link the cash to a legitimate source. At first glance, this argument appears to have some merit. However, when viewed in the context of the very nominal documentation that the Applicant was prepared to provide in response to the Minister's repeated requests, as compared to the records that would normally and therefore reasonably be assumed to exist with respect to business and personal financial transactions, and considering the objects of the Act as described in section 3 (see also <FRAGMENT_SUPPRESSED> , above at paragraph 35), I do not think the Minister's request was unreasonable.
+[54]
+Because the Applicant did not provide sufficient evidence to satisfy the Minister that the seized funds are not the proceeds of crime, the Minister reasonably declined to exercise his discretion to grant relief from forfeiture under section 29. The Decision is not reviewable.
+[55]
+The Applicant also argues that the Decision is undermined by "innuendo" linking the Applicant to the Tamil Tigers and that the Minister's observations and conclusions in that regard are unreasonable. Some of the comments in the record relating the applicant's Tamil ethnicity, viewed in isolation, do give me pause. For example, to find it suspicious that the Applicant fled Sri Lanka at the same time as members of the Tamil Tigers is questionable given that the Applicant was a child at the time and there was a civil war in that country that caused many to flee. Similarly, to suspect the Applicant of illegal activity on the basis that he was visiting a Scarborough neighbourhood "known to be sympathetic to the Tamil Tigers" could be viewed as stereotyping. It also seems reasonable to expect any person being questioned in an airport in relation to terrorism to react in a nervous fashion.
+[56]
+Here, however, these matters are not relevant because only the Minister's decision made pursuant to section 29 is at issue. There is no really question that the Applicant failed to declare the importation of funds exceeding CAN$10,000. But, because the funds were then seized as forfeit pursuant to subsection 18(1) and were not returned because the CBSA officer had reasonable grounds to suspect that the currency was the proceeds of crime pursuant to subsection 18(2), the only way for the Applicant to challenge the section 18 seizure was to make a section 25 request for a decision of the Minister as to whether subsection 12(1) was contravened. If the Minister decided that it was, which he did, then pursuant to subsection 29(1) he may exercise his discretion to provide relief from forfeiture (see
+As stated in <FRAGMENT_SUPPRESSED> , above:
+[34] The Minister is only called upon to exercise his discretion under section 29 where he concludes, pursuant to a request made under section 25, that there has in fact been a breach of section 12. Consequently, the starting point for the exercise of the Minister's discretion is that the forfeited currency, which is now in the hands of the Minister of Public Works pursuant to section 22, is, for all legal purposes, property of the Crown: see
+<FRAGMENT_SUPPRESSED>  at p. 557-558, where the following appears:
+[...]
+[...]
+[36] It seems to me to follow from this that the effect of the customs officer's conclusion that he or she had reasonable grounds to suspect that the seized currency was proceeds of crime
+once the breach of section 12 is confirmed by the Minister. The forfeiture is complete and the currency is property of the Crown. The only question remaining for determination under section 29 is whether the Minister will exercise his discretion to grant relief from forfeiture, either by returning the funds themselves or by returning the statutory penalty paid to secure the release of the funds. (Emphasis added)
+[58]
+Thus, those factors are not relevant. They did not play a role in the determination of the legitimacy of the funds under section 29. In the Decision, the reference to the Tamil Tigers is made only as a part of the rationale for the initial seizure. The portion of the Decision dealing with section 29 is concerned with the documentary evidence provided by the Applicant in an effort to establish the legitimate origins of the seized currency, as described above. In any event, in its submissions the Respondent stated that there was no association inferred between the Applicant himself and the Tamil Tigers.
+[59]
+As the question of the partial return of the funds was not before the Minister it cannot be considered for the first time on judicial review.
+[60]
+The Minister's Decision was transparent, justifiable, intelligible and within the range of acceptable outcomes. The application should therefore be dismissed.
+THIS COURT'S JUDGMENT is that
+this application for judicial review is dismissed. No question of general importance for certification has been proposed and none arises.
+Relevant Statutory Provisions
+Proceeds of Crime (Money Laundering) and Terrorist Financing Act
+3. The object of this Act is
+(
+) to implement specific measures to detect and deter money laundering and the financing of terrorist activities and to facilitate the investigation and prosecution of money laundering offences and terrorist activity financing offences, including
+(i) establishing record keeping and client identification requirements for financial services providers and other persons or entities that engage in businesses, professions or activities that are susceptible to being used for money laundering or the financing of terrorist activities,
+(ii) requiring the reporting of suspicious financial transactions and of cross-border movements of currency and monetary instruments, and
+(iii) establishing an agency that is responsible for dealing with reported and other information;
+(
+) to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves; and
+(
+) to assist in fulfilling Canada's international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity.
+[...]
+Currency and monetary instruments
+12. (1) Every person or entity referred to in subsection (3) shall report to an officer, in accordance with the regulations, the importation or exportation of currency or monetary instruments of a value equal to or greater than the prescribed amount.
+[...]
+Who must report
+(3) Currency or monetary instruments shall be reported under subsection (1)
+(
+) in the case of currency or monetary instruments in the actual possession of a person arriving in or departing from Canada, or that form part of their baggage if they and their baggage are being carried on board the same conveyance, by that person or, in prescribed circumstances, by the person in charge of the conveyance;
+(
+) in the case of currency or monetary instruments imported into Canada by courier or as mail, by the exporter of the currency or monetary instruments or, on receiving notice under subsection 14(2), by the importer;
+(
+) in the case of currency or monetary instruments exported from Canada by courier or as mail, by the exporter of the currency or monetary instruments;
+(
+) in the case of currency or monetary instruments, other than those referred to in paragraph (a) or imported or exported as mail, that are on board a conveyance arriving in or departing from Canada, by the person in charge of the conveyance; and
+(
+) in any other case, by the person on whose behalf the currency or monetary instruments are imported or exported.
+[...]
+18. (1) If an officer believes on reasonable grounds that subsection 12(1) has been contravened, the officer may seize as forfeit the currency or monetary instruments.
+Return of seized currency or monetary instruments
+(2) The officer shall, on payment of a penalty in the prescribed amount, return the seized currency or monetary instruments to the individual from whom they were seized or to the lawful owner unless the officer has reasonable grounds to suspect that the currency or monetary instruments are proceeds of crime within the meaning of subsection 462.3(1) of the
+or funds for use in the financing of terrorist activities.
+[...]
+25. A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may within 90 days after the date of the seizure request a decision of the Minister as to whether subsection 12(1) was contravened, by giving notice in writing to the officer who seized the currency or monetary instruments or to an officer at the customs office closest to the place where the seizure took place.
+Notice of President
+26. (1) If a decision of the Minister is requested under section 25, the President shall without delay serve on the person who requested it written notice of the circumstances of the seizure in respect of which the decision is requested.
+(2) The person on whom a notice is served under subsection (1) may, within 30 days after the notice is served, furnish any evidence in the matter that they desire to furnish.
+Decision of the Minister
+27. (1) Within 90 days after the expiry of the period referred to in subsection 26(2), the Minister shall decide whether subsection 12(1) was contravened.
+[...]
+If there is a contravention
+29. (1) If the Minister decides that subsection 12(1) was contravened, the Minister may, subject to the terms and conditions that the Minister may determine,
+(
+) decide that the currency or monetary instruments or, subject to subsection (2), an amount of money equal to their value on the day the Minister of Public Works and Government Services is informed of the decision, be returned, on payment of a penalty in the prescribed amount or without penalty;
+(
+) decide that any penalty or portion of any penalty that was paid under subsection 18(2) be remitted; or
+(
+) subject to any order made under section 33 or 34, confirm that the currency or monetary instruments are forfeited to Her Majesty in right of Canada.
+The Minister of Public Works and Government Services shall give effect to a decision of the Minister under paragraph (a) or (b) on being informed of it.
+Cross-border Currency and Monetary Instruments Reporting Regulations
+2. (1) For the purposes of reporting the importation or exportation of currency or monetary instruments of a certain value under subsection 12(1) of the Act, the prescribed amount is $10,000
+[...]
+[traduction]
+LA COUR STATUE
+3. The object of this Act is
+(
+) to implement specific measures to detect and deter money laundering and the financing of terrorist activities and to facilitate the investigation and prosecution of money laundering offences and terrorist activity financing offences, including
+(i) establishing record keeping and client identification requirements for financial services providers and other persons or entities that engage in businesses, professions or activities that are susceptible to being used for money laundering or the financing of terrorist activities,
+(ii) requiring the reporting of suspicious financial transactions and of cross-border movements of currency and monetary instruments, and
+(iii) establishing an agency that is responsible for dealing with reported and other information;
+(
+) to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves; and
+(
+) to assist in fulfilling Canada's international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity.
+[...]
+Currency and monetary instruments
+12. (1) Every person or entity referred to in subsection (3) shall report to an officer, in accordance with the regulations, the importation or exportation of currency or monetary instruments of a value equal to or greater than the prescribed amount.
+[...]
+Who must report
+(3) Currency or monetary instruments shall be reported under subsection (1)
+(
+) in the case of currency or monetary instruments in the actual possession of a person arriving in or departing from Canada, or that form part of their baggage if they and their baggage are being carried on board the same conveyance, by that person or, in prescribed circumstances, by the person in charge of the conveyance;
+(
+) in the case of currency or monetary instruments imported into Canada by courier or as mail, by the exporter of the currency or monetary instruments or, on receiving notice under subsection 14(2), by the importer;
+(
+) in the case of currency or monetary instruments exported from Canada by courier or as mail, by the exporter of the currency or monetary instruments;
+(
+) in the case of currency or monetary instruments, other than those referred to in paragraph (
+) or imported or exported as mail, that are on board a conveyance arriving in or departing from Canada, by the person in charge of the conveyance; and
+(
+) in any other case, by the person on whose behalf the currency or monetary instruments are imported or exported.
+[...]
+18. (1) If an officer believes on reasonable grounds that subsection 12(1) has been contravened, the officer may seize as forfeit the currency or monetary instruments.
+Return of seized currency or monetary instruments
+(2) The officer shall, on payment of a penalty in the prescribed amount, return the seized currency or monetary instruments to the individual from whom they were seized or to the lawful owner unless the officer has reasonable grounds to suspect that the currency or monetary instruments are proceeds of crime within the meaning of subsection 462.3(1) of the
+or funds for use in the financing of terrorist activities.
+[...]
+25. A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may within 90 days after the date of the seizure request a decision of the ministre as to whether subsection 12(1) was contravened, by giving notice in writing to the officer who seized the currency or monetary instruments or to an officer at the customs office closest to the place where the seizure took place.
+Notice of President
+26. (1) If a decision of the ministre is requested under section 25, the President shall without delay serve on the person who requested it written notice of the circumstances of the seizure in respect of which the decision is requested.
+(2) The person on whom a notice is served under subsection (1) may, within 30 days after the notice is served, furnish any evidence in the matter that they desire to furnish.
+Decision of the ministre
+27. (1) Within 90 days after the expiry of the period referred to in subsection 26(2), the ministre shall decide whether subsection 12(1) was contravened.
+[...]
+If there is a contravention
+29. (1) If the ministre decides that subsection 12(1) was contravened, the ministre may, subject to the terms and conditions that the ministre may determine,
+(
+) decide that the currency or monetary instruments or, subject to subsection (2), an amount of money equal to their value on the day the ministre of Public Works and Government Services is informed of the decision, be returned, on payment of a penalty in the prescribed amount or without penalty;
+(
+) decide that any penalty or portion of any penalty that was paid under subsection 18(2) be remitted; or
+(
+) subject to any order made under section 33 or 34, confirm that the currency or monetary instruments are forfeited to Her Majesty in right of Canada.
+The ministre of Public Works and Government Services shall give effect to a decision of the ministre under paragraph (
+) or (
+) on being informed of it.
+2. (1) For the purposes of reporting the importation or exportation of currency or monetary instruments of a certain value under subsection 12(1) of the Act, the prescribed amount is $10,000
+[...]
+[End of document]

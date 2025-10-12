@@ -1,0 +1,115 @@
+<FRAGMENT_SUPPRESSED>  CF 348)
+Federal Court
+Gleason, J.
+Steven Welchner, for the applicant;
+Orlagh O'Kelly, for the respondent.
+Solicitors of Record:
+Welchner Law Office, Ottawa, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Gleason, J.
+: The applicant, Mr. Plato, is one of the unsuccessful candidates in a job competition run by the respondent, the Canada Revenue Agency [CRA or the Agency]. In accordance with CRA's policies governing such job competitions, Mr. Plato filed a request for Independent Third Party Review [ITPR]. He made several claims to the reviewer, who upheld three of them. Subsequent to the issuance of the reviewer's decision, CRA, through its Assistant Director Audit Division, Southern Interior Tax Services Office, issued corrective measures in an attempt to address the breaches found by the reviewer. In the present application for judicial review, Mr. Plato seeks to have CRA's corrective measures decision set aside, arguing that it is unreasonable because it fails to address one of the errors in the selection process identified by the reviewer.
+[2]
+For the reasons set out below, I have determined that CRA's corrective measures decision is unreasonable and, accordingly, must be set aside. To understand why this is so, it is necessary to review the policies under which the decision was made as well as the background to the decision.
+Section 54 of the
+, SC 1999, c 17 [the
+] requires CRA to "develop a program governing staffing, including the appointment of, and recourse for, employees." In furtherance of this requirement, CRA developed the CRA Staffing Program, which includes a Directive on Recourse for Assessment and Staffing and the ITPR Processing Directive. Under these directives, employees who are dissatisfied with a staffing decision may request ITPR. The third party reviewer is charged with determining whether errors that requestors allege to have been made in the staffing process were in fact made by the Agency. Under section 7.4 of the Directive on Recourse for Assessment and Staffing, the reviewer is limited to issuing one of the following remedies:
+1. ordering that an error in the internal selection process be corrected (but the reviewer has no authority to order how the error should be corrected);
+2. recommending the revocation of a successful incumbent's employment; and
+3. recommending that a different CRA representative be involved in issuing corrective measures.
+[4]
+The staffing policies leave the selection of the appropriate corrective measure to an authorized representative of CRA.
+[5]
+In this case, CRA advertised a notice of job opportunity for the positions of tax auditor, excise tax auditor and interior tax services officer within the Southern Interior Tax Services office. CRA has developed a job profile for these positions that outlines several technical competencies. Among them is the competency of Legislation, Polices and Procedures. At the time of the job competition, the Agency had adopted and was applying a standardized assessment tool for the assessment of this technical competency. It subsequently ceased using this standardized tool, and it was not in use when the corrective measures were issued in this file.
+[6]
+The notice advising of the opportunity in this case provided general information regarding how candidates would be assessed, including the technical competencies that would be assessed. These comprised Writing Skills and Planning, Organizing and/or Monitoring Results. No mention was made in the job poster of there being an assessment of the technical competency of Legislation, Policies and Procedures. The job poster indicated that candidates' current job-related performance would be considered at both the assessment and placement phases, via reference checks, interviews and/or review of samples of candidates' work.
+[7]
+After the initial screening phase, a hiring manager indicated that he wished the selection board to assess candidates' abilities with respect to interpreting and applying relevant legislation. The selection committee developed a local selection tool to evaluate these competencies, and assessed them by rating candidates' work done in connection with a selection of files that each candidate had worked on. The selection committee reviewed the files in question and assigned candidates scores based on evaluation of abilities with respect to understanding and applying the relevant legislation.
+[8]
+In assessing these abilities, the hiring manager did not wish to evaluate the skills and knowledge that were tested as part of CRA's formal technical competency through the standardized assessment tool. Rather, the hiring manager wanted a more specific and pointed assessment of the candidates' knowledge of and ability to apply the legislation in question. The evidence before the reviewer was to the effect that the standardized selection tool, used to evaluate the technical competency of Legislation, Policies and Procedures, was incapable of providing the assessment required by the hiring manager. CRA's Directive on the Assessment and Selection Process, however, provides that where a standardized assessment tool had been adopted by CRA for the assessment of a technical competency, it must be used, unless the applicable authority in the human resources department provides an exemption.
+[9]
+In accordance with its policies governing the selection process, CRA provided a debrief to candidates regarding the assessment of the candidates in a June 10, 2008 memo, addressed to each candidate. (The memo is termed a "Qualified Notice"  <FRAGMENT_SUPPRESSED> 's staffing policies.) In the Notice, CRA advised the recipients that it had used file reviews "for another technical competency that may be used at the placement stage of the selection process. This technical competency is Legislation, Policies and Procedures." The memo went on to note that "If a hiring manager chooses to use the scores [from the local assessment of Legislation, Policies and Procedure] at the placement stage, he/she will determine what levels of proficiency will be acceptable."
+[10]
+In his complaint to the reviewer, Mr. Plato argued that CRA had acted arbitrarily in assessing the Legislation, Policies and Procedures competency at the placement stage by using a locally developed tool rather than the standardized assessment process. The reviewer accepted Mr. Plato's argument and concluded that CRA "did not act in accordance with established policy. The communication by the Agency was not transparent in contravention of the staffing principle; the assessment of Legislation Policies and Procedures using a locally developed tool (without the approval of an exception), where a standardized assessment tool was available, was arbitrary" (at page 13 of the reviewer's decision). The reviewer also found that CRA's communication about the Legislation, Policies and Procedures criterion lacked transparency and that CRA had been unclear in the job poster when it noted that the Planning, Organizing and/or Monitoring Results competency would be assessed twice. The reviewer's overall conclusions and remedial order are set out at the end of her decision and provide as follows (at pp 39-40 of the decision):
+Conclusions
+In summary, I have determined that the conduct of the selection process was arbitrary, as defined in section 4.2 of
+of the Staffing Program,
+Directive on Recourse for Assessment and Staffing
+for the following reasons:
+a. There was a standardized assessment tool for Legislation, Policies and Procedures, but it was not used (as required in both
+and
+), and the scores for Legislation were used at placement. It is my conclusion that the Agency did not act in accordance with established policy. The assessment of Legislation, Policies and Procedures using a locally developed tool, when a standardized tool was available, was arbitrary.
+b. The communication by the Agency regarding the assessment of Legislation, Policies and Procedures was also not open and clearly understood in contravention of the staffing principle
+c. Indicating on the SOSR [i.e. the Statement of Staffing Requirements] that POMR [i.e. Planning, Organizing and/or Monitoring Results] would be assessed twice (and on the Qualified Notice that POMR was assessed twice) was confusing and misleading for candidates and therefore contrary to the staffing principle
+Pursuant to section 7.4 of
+I order these errors in the process be corrected by the Agency.
+[11]
+CRA's corrective measures decision commences by noting that the reviewer had determined there were three errors in the staffing process, and then quotes from the decision, listing those errors. The decision continues by stating that, in order to correct the errors outlined by the reviewer, the Agency's representative was providing:
+[...] a clear, detailed, and transparent explanation of how the assessment of the following criteria was conducted during the assessment stage and how these criteria were used at the placement stage:
+• Legislation
+• Policies and Procedures
+The letter then goes on to explain in detail how the staffing process was conducted and to clarify that the file review was used to assess abilities with respect to application and understanding of relevant legislation as opposed to being an actual evaluation of the Legislation, Policies and Procedures technical competency. As the applicant rightly notes, this explanation was provided to the independent third-party reviewer, and she rejected it as unconvincing in light of the contents of the job posting and the Qualified Notice. She wrote in this regard (at p 13 of her decision):
+Although it was the Agency's position at the hearing that two separate "qualifications" "(1) Legislation and (2) Policies and Procedures" had been assessed, this is not consistent with what candidates were told at the conclusion of the selection process. In the Qualified Notice, candidates were advised in writing that the "technical competency" "Legislation, Policies and Procedures" had been assessed using file reviews, and the results might be used at the placement stage. In addition in the Qualified Notice, candidates were further advised that locally developed assessment tools had been used to assess "Legislation, Policies and Procedures".
+[12]
+The applicant argues that the corrective measures decision should be set aside because it is unreasonable in that it fails to address the first error identified by the reviewer. More specifically, he asserts that the reviewer made two findings that could not be adequately addressed through the issuance of a mere explanation, namely, that CRA was required to assess the Legislation, Policies and Procedures competency at the placement stage of the selection process and that CRA erred in assessing this competency via a locally developed assessment tool, which had not been appropriately approved under CRA's staffing policy.
+[13]
+The respondent, for its part, argues that the decision is reasonable, essentially, because all that occurred was that CRA used imprecise language in the Qualified Notice and failed to actually describe what had occurred - which was not an assessment of a technical competency but rather an assessment of only part of that competency (i.e. abilities in respect of legislation) - and that this use of imprecise language may be reasonably remedied through provision of a better and more accurate explanation. The respondent stresses that, in light of the broad authority afforded to management in matters of staffing under the
+and the deferential nature of reasonableness review, its corrective measures decision should be upheld.
+Standard of review
+[14]
+Both parties concur that the standard of review applicable to the assessment of the corrective measures decision is that of reasonableness as, indeed, was determined in
+<FRAGMENT_SUPPRESSED>  aff'd on other grounds 2011 FCA 49 [ <FRAGMENT_SUPPRESSED> ]. The applicant, however, asserts that to the extent the corrective measures decision is premised on an interpretation of the independent third party reviewer's decision, that interpretation must be correct, because to find otherwise would be unfair and would allow the employer to unilaterally usurp the entire review process by substituting its views for those of the reviewer. The applicant asserts that such would be the result if the employer is allowed to rely on a reasonable - as opposed to a correct - interpretation of the reviewer's decision. The applicant relies for this proposition on the decisions in
+Appelby-Ostroff
+];
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] and
+<FRAGMENT_SUPPRESSED>  arguing that the holdings in these cases (that the employer in a grievance process must correctly apply the law) apply by analogy to the interpretation of an independent third party reviewer's decision, which is asserted to be akin to a legal issue.
+[15]
+The respondent, on the other hand, argues that one cannot bifurcate the corrective measures decision in the manner proposed by the applicant because so doing imports a correctness standard into the review of the corrective measures decision. The respondent argues in this regard that a necessary inquiry in the judicial review process in this type of matter will always be determining what the independent third party reviewer determined, as the reasonableness of the remedy will depend on what breach occurred. If the ruling on breach is reviewed on a correctness standard, then, in effect, the selection of remedy will be afforded no deference as its underpinning will be a matter for the court - as opposed to CRA - to determine. The respondent notes that a somewhat similar argument was rejected by this Court in <FRAGMENT_SUPPRESSED> , where the
+Appelby-Ostroff
+and <FRAGMENT_SUPPRESSED> cases were found to be inapplicable to the situation of a CRA corrective measures decision.
+[16]
+I agree with the respondent on this point for several reasons. First, it is not logically possible to bifurcate the review of the reasonableness of the measures imposed in a CRA corrective measures decision from review of the findings made regarding the basis upon which the independent third party reviewer decided. The two are inextricably intertwined. Second, it would be anomalous to impose a correctness standard on this issue when it is clear that if the independent third party reviewer's decision were reviewed, a reasonableness standard would apply. It would seem illogical that in the review of a decision under which the employer possesses greater authority - as it reserved to itself the issue of remedy - the Court would be more interventionist. Finally, to a large extent, this issue has been settled in <FRAGMENT_SUPPRESSED> , where Justice O'Keefe noted (at para 21):
+I am satisfied that the question before the applicant's supervisor was one that involved the exercise of his discretion in his capacity as a manager and was dependent on the facts of the applicant's particular case. Despite the applicant's assertions, his supervisor was not dealing with a question of law or jurisdiction, nor was his decision precedent setting.
+[17]
+Thus, the reasonableness standard of review applies to the assessment of all aspects of the corrective measures decision, including the CRA manager's interpretation in that decision of what the independent third party reviewer had decided.
+[18]
+In terms of the content of that standard, as noted by the respondent, the reasonableness standard of review is a deferential one, and mandates that a court provide significant leeway to tribunals and not be hasty to substitute its views for those of the decision-maker. As the Supreme Court of Canada noted in
+<FRAGMENT_SUPPRESSED> ecision will be reasonable if it is transparent, intelligible and justified and if the result reached falls within the range of acceptable outcomes in light of the facts and applicable law. The scope of the required deference is all the greater in a situation like the present, where what is being reviewed is the employer's exercise of a discretionary power to determine the manner in which it will implement a decision related to staffing, a matter that in this case is excluded from the purview of collective bargaining and the grievance process under the collective agreement.
+[19]
+However, while the range of acceptable remedial decisions open to CRA in a case like the present is broad, it is not limitless. At the end of the day, there still must be some logical connection between the remedy selected and the breach it is designed to address. If there is no connection, the remedy will be outside the range of possible acceptable outcomes. As Justice Gagné recently noted in
+<FRAGMENT_SUPPRESSED>  in assessing the reasonableness of a remedial award in a staffing grievance, an award will be set aside if "it is not responsive to the applicant's claim and does not provide him any meaningful remedy" (at para 24). To somewhat similar effect, the courts have long held that there must be a rational connection between the breach found by other sorts of labour tribunals and their remedial orders (see e.g.
+<FRAGMENT_SUPPRESSED>  at p 409).
+Reasonableness of the decision
+[20]
+Turning, then, to the heart of the matter, the CRA manager in the corrective measures decision here noted that the third party reviewer had found three separate breaches in the staffing process: two related to the lack of transparency in the process and the other related to the failure to use the standardized selection tool to evaluate the Legislation, Polices and Procedures technical competence without authorisation from the appropriate CRA human resources authorities. This interpretation of the reviewer's award is reasonable and, indeed, correct.
+[21]
+However, while the provision of a better explanation is logically tied to the transparency failures identified by the reviewer, such an explanation is in no way connected to the first breach, i.e. the failure to use the proper selection tool for a competency. CRA's explanation that what was being evaluated was not the technical competency but rather just a part of it (and therefore that the standardized tool was not necessary) was foreclosed to the Agency as the reviewer heard and rejected this very explanation. In effect, by proceeding in the way it has done, CRA has completely ignored the finding that there was any breach at all in respect of the Legislation, Polices and Procedure. The corrective measures decision is therefore unreasonable as it fails to provide any remedy for the first breach found by the reviewer.
+[22]
+While certainly not determinative of this outcome in this case, a memo written by an HR manager to the CRA manger who made the corrective measure decision is telling and highlights that the HR manager was unsure about the appropriateness of the corrective measures decision that was eventually made. In the memo, the HR manager states that she understood that "the intended approach to corrective measures [was] to reissue the final assessment results." She went on to note that "[a]lthough [she] could see how this could address two of the three points raised in the decision, [she was] unsure that this overall approach to corrective measures will meet the expectations of the Requestor" (Exhibit "G" to the affidavit of Shelley Welchner).
+[23]
+Thus, the corrective measures decision will be set aside and the matter remitted to CRA for re-issuance of corrective measures by a different member of management than the one who issued the present decision. This ruling does not necessarily mean that CRA is required to rerun the competition or excise consideration of abilities in respect of legislation from the selection process. Indeed, as was conceded by counsel for the applicant during oral argument, it may well be open to CRA to retrospectively authorize the use of the local selection tool for evaluation of the legislation policies and procedures competency in this case. However, it is not for me to comment on what remedy must be selected, as this a matter of discretion for the manager making this decision, who is required only to ensure that his or her remedy is logically tied to the third party reviewer's decision and in some way addresses the breach that the third party reviewer found to have occurred.
+Costs
+[24]
+The parties concurred that costs should follow the event, but differ as to the appropriate quantum. The applicant suggested an all-inclusive lump sum amount of $3000.00 whereas the respondent filed a draft bill of costs totalling $2296.96.
+[25]
+Given the sums involved and the nature of this matter, and exercising my discretion under Rule 400 of the
+Federal Courts Rules
+, SOR/98-106, I have determined that a lump sum award is appropriate in the amount of $2500.00.
+THIS COURT'S JUDGMENT is that
+:
+1. This application for judicial review of the decision of the Assistant Director Audit Division, Southern Interior Tax Services Office, dated October 25, 2011 is granted and the decision is set aside;
+2. The determination of corrective measures flowing from the decision of the independent third party reviewer in the request filed by Mr. Plato is remitted to CRA for re-determination by a different manger; and
+3. Costs are fixed in the all-inclusive amount of $2500.00, which are to be paid by the respondent to the applicant.
+.........................
+[traduction]
+Conclusions
+[traduction]
+[traduction]
+Appelby-Ostroff
+];
+Appelby-Ostroff
+LA COUR STATUE
+:
+[End of document]

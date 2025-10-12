@@ -1,0 +1,163 @@
+Federal Court
+Jean-François Bertrand, for the applicant;
+Normand Lemyre, for the respondent.
+Solicitors of Record:
+Jean-François Bertrand, Montreal, Quebec, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+Introduction
+[1]
+[Translation]: The applicant is applying under subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (IRPA), for judicial review of the decision made on June 18, 2008 by the Refugee Protection Division of the Immigration and Refugee Board (the panel), in which the panel made a deportation order against the applicant after determining that he had violated human or international rights, which made him inadmissible under paragraph 35(1)(
+) of the IRPA.
+) of the IRPA reads as follows:
+Human or international rights violations
+35.
+(1) A permanent resident or a foreign national is inadmissible on grounds of violating human or international rights for
+(
+) committing an act outside Canada that constitutes an offence referred to in sections 4 to 7 of the
+Crimes Against Humanity and War Crimes Act
+;
+.........................
+The panel found that the applicant had committed crimes against humanity outside Canada. Such crimes are provided for in paragraph 6(1)(
+) of the
+Crimes Against Humanity and War Crimes Act
+, S.C. 2000, c. 24 (CAHWCA), and are defined in subsection 6(3) of that Act. Those provisions read as follows:
+(1) Every person who, either before or after the coming into force of this section, commits outside Canada
+...
+(
+) a crime against humanity, or
+...
+Definitions
+(3) The definitions in this subsection apply in this section.
+"crime against humanity"
+"crime against humanity" means murder, extermination, enslavement, deportation, imprisonment, torture, sexual violence, persecution or any other inhumane act or omission that is committed against any civilian population or any identifiable group and that, at the time and in the place of its commission, constitutes a crime against humanity according to customary international law or conventional international law or by virtue of its being criminal according to the general principles of law recognized by the community of nations, whether or not it constitutes a contravention of the law in force at the time and in the place of its commission.
+.........................
+crime against humanity
+"
+Summary of the facts
+[4]
+The applicant, a citizen of Lebanon, has no status in Canada other than the refugee status granted by the Refugee Protection Division of the Immigration and Refugee Board of Canada.
+[5]
+However, the applicant obtained refugee status before the Canada Border Services Agency (CBSA) prepared a report setting out the relevant facts and transmitted that report to the Minister under subsection 44(1) of the IRPA. In the report, the CBSA alleged that it had reasonable grounds to believe that the applicant remained a foreign national who was inadmissible under paragraph 35(1)(
+) of the IRPA on grounds of violating human or international rights because he had committed an act outside Canada that constituted an offence referred to in sections 4 to 7 of the CAHWCA.
+[6]
+It is clear from the documentary evidence in support of that report that the applicant was a member of the Christian Phalangist Party during the period when the Phalangist militia committed serious human rights violations in an area under the control of the Israeli forces. During that time, the applicant led a network of informers and obtained information that he sold to the top leadership of the Israeli secret service through Uric Lubrani, with whom the applicant had a highly privileged relationship. At the time, Lubrani was acting as a political advisor to Israel and was responsible for coordinating the Israeli forces' activities in Lebanon.
+[7]
+After analysing the CBSA's report and hearing the applicant's explanations concerning the report's allegations, the panel finally had to conclude that the report was well-founded and made the deportation order at issue in these proceedings.
+Despite its finding that the applicant's high rank in the South Lebanon Army (SLA) was in all likelihood only an honorary title and that he was not really part of that army or the army of the Israeli Defence Forces (IDF), the panel found that he had collaborated with senior Israeli military authorities for a long time by providing information to Uri Lubrani, who used it during operations led by the SLA in collaboration with the Israeli forces that controlled the Lebanese zone along the Israeli border.
+[9]
+After analysing the evidence, the panel was satisfied that the South Lebanon Army, then under the control of the Israeli forces, had committed serious crimes against the civilian population living on Lebanese territory bordering on Israel, including expulsion, rape and the imprisonment of persons not involved in the war, and had done so with the blessing of Uri Lubrani, who, during the lengthy conflict between Israel and the members of Hezbollah, had ultimate responsibility for using the information provided by the applicant against the civilian population of that area controlled by the Israeli forces.
+[10]
+Finally, the panel found that, while there was no doubt whatsoever that crimes against humanity had been committed by both the SLA and the Israeli forces during that lengthy conflict, the fact remained that, because of the applicant's position and privileged contact with Uri Lubrani, the senior Israeli official, it was reasonable to conclude that he could not be unaware of the crimes committed during the operations authorized by Lubrani on the strength of the information provided to him by the applicant. For this reason, the applicant was complicit in those crimes.
+These proceedings raise only two issues:
+a. In light of the evidence and the applicant's explanations, did the panel have sufficient reasonable grounds to form a rational belief that the applicant was a person referred to in paragraph 35(1)(
+) of the IRPA?
+b. Did the panel apply the wrong test in analysing the applicant's inadmissibility and, if so, would it be futile to order it to reconsider its decision?
+Applicable standards
+Standard of proof
+[12]
+The applicable standard of proof is set out in section 33 of the IRPA:
+Rules of interpretation
+33.
+The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred, are occurring or may occur.
+.........................
+This standard requires something more than mere suspicion, but less than the standard applicable in civil matters of proof on the balance of probabilities. In essence, reasonable grounds will exist where there is an objective basis for the belief which is based on compelling and credible information ( <FRAGMENT_SUPPRESSED> , at paragraph 114;
+<FRAGMENT_SUPPRESSED> , at paragraph 39). This standard applies only to questions of fact ( <FRAGMENT_SUPPRESSED> , above, at paragraph 116).
+Standard of review
+[14]
+Purely factual findings that underlie the reasoning used by the panel in reaching its decision are subject to the standard of reasonableness. The question of whether the evidence establishes reasonable grounds to believe that the applicant was complicit in the crimes alleged against him is subject to the same standard.
+[15]
+The Court must therefore inquire into the qualities that make the decision reasonable. Reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process but also with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (
+Offence committed
+[16]
+In making a deportation order against the applicant, the panel found that he had committed the offence of complicity in crimes against humanity committed outside Canada, which are provided for in paragraph 6(1)(
+) of the CAHWCA and defined in subsection 6(3) of that Act.
+[17]
+The word "commits" in relation to a crime, as used in paragraph 6(1)(
+) of the CAHWCA, refers to and includes the various means of committing that crime. The person who "commits" the crime may be the actual perpetrator of the act personally or through an innocent agent, an aider, an abettor, an instigator or a counsellor of the criminal act committed. To put it differently, subsection 6(1) of the CAHWCA, which uses the word "commits" in relation to a crime against humanity, is no exception to the principle, generally accepted under domestic and customary international law, that complicity refers to methods or means of committing a crime and criminally engages those who are found to be accomplices (
+3. Crimes against humanity
+[18]
+This Court has recognized that the crimes committed by the SLA and the IDF during the lengthy conflict with Hezbollah meet all the conditions for being properly characterized as crimes against humanity (
+<FRAGMENT_SUPPRESSED>  affirmed at 2003 FCA 39;
+The issue that arises is therefore whether it was reasonable for the panel to conclude that the applicant knew or ought to have known that, by providing information to the Israeli secret service concerning members of Hezbollah or other members of the resistance fighting against the Israeli occupation of Lebanon, he was assisting as an accomplice in the commission of crimes against humanity by the SLA and the IDF in southern Lebanon.
+4.
+Analysis of the facts
+[20]
+The applicant emphasizes the failure to analyse the widespread or systematic nature of the attacks. He argues that, while there are credible allegations about acts corresponding to the definition of crimes against humanity for which Israel or its representatives may be responsible, those acts were excesses committed by certain members of its forces or its allies and not acts committed by the country as part of a "widespread or systematic attack directed against any civilian population".
+[21]
+He further argues that he was given his honorary rank in the South Lebanon Army solely to facilitate his entry into Israel and that it cannot be inferred from his special collaboration with Lubrani that his knowledge of the crimes committed was sufficient for a finding of complicity.
+[22]
+Finally, the applicant submits that the panel applied the wrong test in its analysis of the facts, which led it to find him inadmissible.
+[23]
+The applicant admitted that many crimes against humanity were committed by the SLA, the IDF and Hezbollah during the conflict, as recognized by the international community. However, he argued that, at the time he was working with the top leadership of the IDF, he was not aware that the SLA and the IDF were involved in those crimes. Unfortunately for the applicant, the panel found this part of his testimony "neither credible nor trustworthy".
+[24]
+The Court sees nothing unreasonable about such a finding by the panel, which, in addition to hearing the applicant and being able to assess whether his explanations were credible, could not help but note that some very notorious crimes, the crimes at the Khiam prison being but one example, had been committed during the long period when the applicant had a privileged relationship with Lubrani and Lubrani had a say in the events occurring in the Lebanese zone occupied by the IDF.
+[25]
+The panel could therefore reasonably conclude that the applicant knew or ought to have known that, by providing information to a high-level collaborator of the Israeli secret service and the IDF, which used that information during operations in southern Lebanon, he was assisting in the crimes against humanity committed by the SLA and the IDF during those operations. There is no doubt that, in doing so and cooperating closely with the person coordinating the IDF's activities in southern Lebanon, the applicant could not have been unaware of the important role played by his information, nor could he turn a blind eye to the many crimes against humanity committed in Lebanon during the long period when he had a privileged business relationship with Uri Lubrani (1984-1985 to 1999).
+[26]
+According to the case law, where an individual is or should be aware that information the individual provides to a group responsible for committing crimes against humanity, or information that may have harmful consequences for the persons it concerns (such as torture, rape, imprisonment without being charged or tried, mass expulsion of civilians from their territory), a panel may reasonably conclude that the individual was complicit, as that term is understood in international criminal law, in the crimes against humanity so committed (
+<FRAGMENT_SUPPRESSED>  (1996), 122 F.T.R. 263, at paragraphs 9, 11;
+<FRAGMENT_SUPPRESSED>  (1998), 145 F.T.R. 297, at paragraphs 5-6, 24-25;
+<FRAGMENT_SUPPRESSED>  (1999), 180 F.T.R. 45, at paragraphs 5-8, 17, 40).
+[27]
+The fact that the applicant was determined to be a
+Convention refugee
+before the decision under review here was made is not a valid reason for invalidating the decision, since, when the applicant obtained
+, his inadmissibility was not in issue, which means that the subject matter of the claim was completely different; the Minister, acting in reliance on the CBSA's report, was therefore not deprived of his right to raise the issue later (
+Accordingly, the Court concludes that it was entirely reasonable in the circumstances for the panel to find the applicant inadmissible under paragraph 35(1)(
+) of the IRPA. The Court cannot reasonably believe that, having worked with Lubrani for more than 15 years, the applicant can now say that he was absolutely unaware of the major human rights violations that were common in his country during that time, particularly the serious and notorious crimes committed at the Khiam prison.
+5.
+Standard of inadmissibility
+[29]
+In the alternative, the applicant stresses that the panel applied the wrong test in analysing his inadmissibility. He therefore submits that this in itself justifies allowing his application for judicial review.
+[30]
+According to <FRAGMENT_SUPPRESSED> , above, at paragraph 114, there must be "reasonable grounds to believe" that a person has committed a crime against humanity, but, "[i] n essence, reasonable grounds will exist where there is an objective basis for the belief which is based on compelling and credible information".
+[31]
+In its decision, the panel explained the standard to be applied as follows:
+[11] The panel therefore had to determine whether there were reasonable grounds to believe that this allegation was justified. According to case law, the test of reasonable grounds to believe is less than a balance of probabilities, but more than mere suspicion.
+[32]
+Although the panel's definition does not correspond word for word to the one in <FRAGMENT_SUPPRESSED> , above, the Court is of the view that the futility of reconsidering the decision justifies denying the remedy sought (
+In light of the applicant's admissions, the role he played and the panel's refusal to give credence to his statement that he did not know about the crimes in question, the Court believes that it would be futile to set aside the decision and refer the matter to a differently constituted panel for reconsideration. The applicant has not satisfied the Court that a differently constituted panel would reach a different conclusion even if it followed the teachings of the Supreme Court to the letter.
+Conclusion
+[34]
+For these reasons, the Court finds that the decision is not unreasonable, which means that the application for judicial review must be dismissed. Since no serious question of general importance has been proposed and the Court sees no such question here to be certified, no question will be certified.
+FOR THESE REASONS, THE COURT
+:
+DISMISSES the application for judicial review.
+.........................
+Human or international rights violations
+35.
+(1) A permanent resident or a foreign national is inadmissible on grounds of violating human or international rights for
+(
+) committing an act outside Canada that constitutes an offence referred to in sections 4 to 7 of the
+Crimes Against Humanity and War Crimes Act
+;
+[3]
+"crime against humanity
+"
+(1) Every person who, either before or after the coming into force of this section, commits outside Canada
+[...]
+(
+) a crime against humanity, or
+[...]
+Definitions
+(3) The definitions in this subsection apply in this section.
+"crime against humanity"
+«
+"crime against humanity" means murder, extermination, enslavement, deportation, imprisonment, torture, sexual violence, persecution or any other inhumane act or omission that is committed against any civilian population or any identifiable group and that, at the time and in the place of its commission, constitutes a crime against humanity according to customary international law or conventional international law or by virtue of its being criminal according to the general principles of law recognized by the community of nations, whether or not it constitutes a contravention of the law in force at the time and in the place of its commission.
+Rules of interpretation
+33.
+The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred are occurring or may occur.
+[13]
+<FRAGMENT_SUPPRESSED> ; (1996) 122 F.T.R. 263, par. 9, 11;
+<FRAGMENT_SUPPRESSED> ; (1998) 145 F.T.R. 297, par. 5-6, 24-25;
+<FRAGMENT_SUPPRESSED> ; (1999) 180 F.T.R. 45, par. 5-8, 17, 40).
+[27]
+Conclusion
+[34]
+POUR CES MOTIFS, LA COUR
+:
+[End of document]

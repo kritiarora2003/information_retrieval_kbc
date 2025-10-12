@@ -1,0 +1,203 @@
+<FRAGMENT_SUPPRESSED>  CF 332)
+Federal Court
+Mosley, J.
+Allen Tehrankari, for the applicant, On His Own Behalf;
+Korinda McLaine, for the respondent.
+Solicitors of Record:
+Myles J. Kirvan, Deputy Attorney General of Canada, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. AP.050.
+[1]
+Mosley, J.
+: The applicant, Allen Tehrankari, is serving a sentence for a first degree murder conviction in February of 2009 at Ottawa, Ontario. He has brought this application for judicial review under s.18.1 of the
+Federal Courts Act
+, RSC, 1985, c F-7 to, among other matters, challenge the decision of the Correctional Service of Canada to place him in a maximum security institution.
+[2]
+Mr. Tehrankari represented himself on this application.
+[3]
+For the reasons that follow, the application is dismissed.
+The applicant has a prior serious criminal history and associated institutional record. He was sentenced on September 21, 1992 to serve 12 years in a federal penitentiary. During that term of imprisonment he brought two applications for judicial review with regard to decisions respecting his security classification, among other proceedings in this court.
+[5]
+<FRAGMENT_SUPPRESSED>  the issues raised were found to be moot as the applicant had by then been released. However, the Court considered the merits and dismissed the application.
+[6]
+Following the applicant's 2009 murder conviction, officials of the Correctional Service of Canada ( <FRAGMENT_SUPPRESSED> ) conducted an assessment of the security required for his detention. Maximum security was determined to be the appropriate level. Several factors were considered in arriving at this classification including institutional adjustment, escape risk and public safety.
+[7]
+The applicant grieved the decision regarding his security classification and penitentiary placement. The applicant raised other concerns about his overall treatment by the CSC, the use of certain evidence by the CSC in its designation decision, the fairness of the grievance process and unrelated complaints concerning other incidents. The grievance reached the third level where it was denied by Senior Deputy Commissioner Marc-Arthur Hyppolite. The applicant is seeking judicial review of that decision.
+[8]
+The applicant brought several motions in the current application. A motion for the production of records pertaining to 76 incidents of institutional misconduct during his pre-conviction detention was dismissed by Prothonotary Tabib. That decision was upheld on appeal:
+On April 21, 2011 the Court ordered the disclosure of other documents requested by the applicant and ordered CSC to ensure that the applicant received sufficient material, space and time to adequately prepare for the hearing. Steps were then taken with the assistance of counsel for the respondent to ensure that the applicant had access to a complete record. This was acknowledged by Mr. Tehrankari at the hearing. In the result, he filed approximately 700 pages of documents.
+[10]
+The hearing of this matter began by video-conference on November 7, 2011. On that date, the Court was advised that Mr. Tehrankari's copies of the respondent's application record and authorities, among other documents, had been misplaced during moves between cells. In response to calls from Mr. Tehrankari, counsel for the respondent provided additional copies of documents he was missing. He did not advise her that this included the respondent's application record and authorities.
+[11]
+At the outset of the hearing on November 7, 2011 Mr. Tehrankari asked me to consider adjourning the matter until a date after the disposition of his appeal against conviction which was then pending before the Ontario Court of Appeal.
+[12]
+I advised Mr. Tehrankari that rather than adjourn the proceedings to a later date, I preferred to use the scheduled time to hear his oral submissions based and those of counsel for the respondent and to then adjourn to allow him to make reply submissions later when he had all of the respondent's material. We proceeded on that basis and completed the hearing by video-conference on February 1, 2012. In the interim, counsel for the respondent provided fresh copies of her record and authorities to Mr. Tehrankari. No objection was made by either party to proceeding in this manner. Mr. Tehrankari was given considerable latitude during the hearing on February 1, 2012 to revisit matters he had previously raised during his argument in chief.
+The decision of the Senior Deputy Commissioner concerns three points raised by the applicant in his grievances: 1) the designation of the applicant as requiring placement in a maximum security institution; 2) allegedly incorrect information in the applicant's file; and, 3) his assignment to a cell range which housed others with whom he had been previously found to be incompatible. The Senior Deputy Commissioner denied the grievance on each of the three points.
+[14]
+On the first point, the Senior Deputy Commissioner indicated that a review of the documents concerning the applicant's "Offender Security Level" (hereafter OSL) confirmed that the placement process was conducted in accordance with the relevant policies.
+[15]
+The factors considered in the placement determination were institutional adjustment, escape risk and public safety. The Senior Deputy Commissioner found that the CSC decision to designate the applicant for placement in a maximum security facility was based on his previous institutional record, his sentence, his behaviour, his parole officer's assessment, a custody rating scale, clinical judgement of experienced and specialized staff, his OSL and reported incidents at the Ottawa-Carleton Detention Centre. All of that information was considered to be relevant for the designation according to the Commissioner's Directives on Security Classification and Penitentiary Placement (hereafter CD 705-7).
+[16]
+On the second point, the Senior Deputy Commissioner considered that the grievance regarding placement was not the proper way to correct possibly false information in an inmate's file. In his view, that should have been addressed in a separate grievance. The Senior Deputy Commissioner noted that the information relating to the 76 incidents at the Ottawa-Carleton Detention Center was outside of his jurisdiction and could not be reviewed by him. He also noted that the information came from reliable sources. However, the Senior Deputy Commissioner indicated that this did not mean that a future grievance regarding inaccurate information would be denied.
+[17]
+On the last point, the Senior Deputy Commissioner determined that the matter of incompatibles had already been resolved by separating the applicant from those inmates.
+The Court had some difficulty in narrowing Mr. Tehrankari's concerns to matters which are amenable to judicial review by this Court. He raised a number of matters which are not within the scope of this application such as his views about CSC. The issue before the Court may be described in general terms as follows:
+Was the decision of the Senior Deputy Commissioner reasonable?
+RELEVANT LEGISLATION
+:
+[19]
+Sections 23, 24 & 30
+Corrections and Conditional Release Act 1992
+, SC 1992, c 20 ("CCRA") are applicable to these proceedings:
+23. (1) When a person is sentenced, committed or transferred to penitentiary, the Service shall take all reasonable steps to obtain, as soon as is practicable,
+(
+) relevant information about the offence;
+(
+) relevant information about the person's personal history, including the person's social, economic, criminal and young-offender history;
+(
+) any reasons and recommendations relating to the sentencing or committal that are given or made by
+(i) the court that convicts, sentences or commits the person, and
+(ii) any court that hears an appeal from the conviction, sentence or committal;
+(
+) any reports relevant to the conviction, sentence or committal that are submitted to a court mentioned in subparagraph (
+) any other information relevant to administering the sentence or committal, including existing information from the victim, the victim impact statement and the transcript of any comments made by the sentencing judge regarding parole eligibility.
+(2) Where access to the information obtained by the Service pursuant to subsection (1) is requested by the offender in writing, the offender shall be provided with access in the prescribed manner to such information as would be disclosed under the
+Privacy Act
+and the
+Access to Information Act
+.
+(3) No provision in the Privacy Act or the Access to Information Act shall operate so as to limit or prevent the Service from obtaining any information referred to in paragraphs (1)(a) to (e).
+24. (1) The Service shall take all reasonable steps to ensure that any information about an offender that it uses is as accurate, up to date and complete as possible.
+(2) Where an offender who has been given access to information by the Service pursuant to subsection 23(2) believes that there is an error or omission therein,
+(
+) the offender may request the Service to correct that information; and
+(
+) where the request is refused, the Service shall attach to the information a notation indicating that the offender has requested a correction and setting out the correction requested.
+[...]
+30. (1) The Service shall assign a security classification of maximum, medium or minimum to each inmate in accordance with the regulations made under paragraph 96(
+(2) The Service shall give each inmate reasons, in writing, for assigning a particular security classification or for changing that classification.
+Section 18 of the
+Corrections and Conditional Release Regulations
+, SOR/92-620 is also relevant:
+18. For the purposes of section 30 of the Act, an inmate shall be classified as
+(
+) maximum security where the inmate is assessed by the Service as
+(i) presenting a high probability of escape and a high risk to the safety of the public in the event of escape, or
+(ii) requiring a high degree of supervision and control within the penitentiary;
+(
+) medium security where the inmate is assessed by the Service as
+(i) presenting a low to moderate probability of escape and a moderate risk to the safety of the public in the event of escape, or
+(ii) requiring a moderate degree of supervision and control within the penitentiary; and
+(
+) minimum security where the inmate is assessed by the Service as
+(i) presenting a low probability of escape and a low risk to the safety of the public in the event of escape, and
+(ii) requiring a low degree of supervision and control within the penitentiary.
+Standard of review;
+[21]
+As instructed by the Supreme Court of Canada in
+<FRAGMENT_SUPPRESSED> the first step to finding the appropriate standard of review is to look at the existing jurisprudence. If the standard has been satisfactorily determined in the jurisprudence it is not necessary to engage in a standard of review analysis.
+[22]
+In this context, Justice François Lemieux held in a pre- <FRAGMENT_SUPPRESSED> decision relating to the same applicant cited above,
+<FRAGMENT_SUPPRESSED>  Conditional Release Act 1992
+, SC 1992, c 20 ("CCRA") was correctness, and that the standard would be reasonableness for the application of the law to the facts and for the decision as a whole (see also
+<FRAGMENT_SUPPRESSED> ; and
+<FRAGMENT_SUPPRESSED> ). I see no reason to depart from Justice Lemieux's analysis of the standard in this matter.
+[23]
+The standard of reasonableness has been described as being: "...concerned mostly with the existence of justification, transparency and intelligibility within the decision making process. But it is also concerned with whether the decision falls within a range of possible acceptable outcomes which are defensible in respect of the facts and law": <FRAGMENT_SUPPRESSED> , above, at para 47.
+Was the decision of the Senior Deputy Commissioner unreasonable?
+[24]
+Mr. Tehrankari submits that the CSC classification is based on false information and that the CSC did not respect its duty pursuant to s.24(1) of the CCRA to take all reasonable steps to ensure that any information about an offender that it uses is as accurate, up to date and complete as possible. He submits that because the Senior Deputy Commissioner's decision relies on the allegedly false information, it is thus unreasonable. Mr. Tehrankari wishes to be reclassified as a medium security inmate and wants the allegedly false information purged from his file.
+[25]
+The information which the applicant contends is false includes:
+a. information received by CSC from the Ontario Ministry of Corrections relating to 76 incidents of institutional misconduct while Mr. Tehrankari was detained at the Ottawa-Carleton Detention Centre awaiting trial on the first degree murder charge;
+b. information compiled by CSC indicating that Mr. Tehrankari refused to participate in a sexual offender assessment and was involved in conflicts within the penitentiary system; and
+Mr. Tehrankari argues that under s. 23 of the CCRA, CSC had an obligation to take all reasonable steps to obtain evidence regarding the 76 incidents of institutional misconduct of which he was charged while detained at the Ottawa-Carleton Detention Centre so that he might contest the validity of those charges. He says that those charges were false and maliciously brought against him to cover up his mistreatment at the Centre. He wants to obtain copies of photographs, videos and other evidence to prove that he did nothing and was severely beaten while in detention.
+[27]
+The applicant asserts that the fact that he did not want to participate in a CSC sexual offender assessment is false. He initially refused but states that he reconsidered and said he would do the assessment. He claims that he was not guilty of sexual assault and that this information, based on a misinterpretation of the trial evidence, should be removed from his file.
+[28]
+The applicant submits that the information concerning the risk he presents to escape is based on information that was found to be incorrect and ordered removed from his file by Justice Lemieux in
+<FRAGMENT_SUPPRESSED>  not his fault as he was attacked by other inmates without reason. The applicant also asserts that CSC is not complying with an order from the Ontario Court of Appeal regarding his preparation for his conviction appeal. He also claims that CSC obstructed his preparation for the hearing of this application.
+[30]
+The applicant submits it is unreasonable and unfair for the Senior Deputy Commissioner to require that he submit another grievance to correct possible errors in his file. He also contends that the CSC is generally biased against him.
+[31]
+Section 30 of the CCRA requires CSC to assign a security classification to inmates according to the Regulations. Subparagraphs 18(a)(i) & (ii) of the
+Corrections and Conditional Release Regulations
+, SOR/92-620 (hereafter the Regulations) state that an inmate is to be classified at the maximum security level if he presents "a high probability of escape and a high risk to the safety of the public in the event of escape" or requires "a high degree of supervision and control within the penitentiary." Assessment of an inmate is carried out pursuant to Commissioner's Directives regarding the Intake Assessment Process and Security Classification (hereafter CD-705) and CD-705-7.
+[32]
+The Senior Deputy Commissioner cited the relevant policy and explained the assessment in detail in his decision. The decision indicates that the applicant was found to have an Institutional Adjustment rating of high, an Escape Risk rating of moderate and a Public Safety rating of high. One of the assessments done under CD-705-7 is a Custody Rating Scale. The applicant scored 145 on the security risk rating and 64 on the institutional adjustment rating (Applicant's Custody Rating Scale, pp.207-208 of the certified tribunal record). Scores of 134 on the security risk dimension or greater mandate a maximum security classification: CD-705-7 at para 51 c).
+[33]
+Included in the factors which are taken into account in determining the score on the Custody Rating Scale is the nature of the offence of which the inmate has been convicted and the length of sentence: CD-705-7 at para 52; and s.18 of the Regulations. The applicant received 69 points for the severity of the offence and 65 for sentence length for a total of 134: Applicant's Custody Rating Scale, p.208 of the certified tribunal record.
+[34]
+Mr. Tehrankari acknowledges that on the point scale, his conviction for first degree murder and the statutory penalty for that offence put him at the threshold for a maximum security classification. He says that CSC can and does override the point scale and classifies "lifers" in medium and minimum security. He contends that CSC is treating him unfairly by relying on erroneous information about his institutional and pre-conviction history.
+[35]
+Mr. Tehrankari is correct that s.24(1) of the CCRA does oblige CSC to "take all reasonable steps to ensure that any information about an offender that it uses is as accurate, up to date and complete as possible." However, that does not mean that CSC must reinvestigate information obtained from reliable sources such as provincial ministries, police forces and the courts. The Offender Complaint and Grievance Procedures Manual indicates that matters under provincial jurisdiction, matters relating to convictions and sentencing by courts, matters relating to the administration of justice including courts and police forces, and matters relating to treatment by non CSC agencies are non-grievable within the institutional grievance process.
+[36]
+In this instance, in conformity with the standard of "all reasonable steps" in s. 24 (1) CSC was entitled to rely on the information it received from the Ontario correctional authorities regarding Mr. Tehrankari's pre-conviction detention. CSC was not obliged to obtain the evidence relied upon by the staff of the Ottawa-Carleton Detention Centre in the 76 institutional misconduct proceedings in order to assist Mr. Tehrankari to challenge the accuracy of the information.
+[37]
+The applicant submits that the facts upon which the assessment of his escape risk was based were determined to be unfounded in
+<FRAGMENT_SUPPRESSED>  that the CSC had erred in referring to the applicant's escape from Iran, without including the context, and in asserting as a fact that he had attempted an escape. The fact that hacksaw blades were found in his cell does not appear to have been in error, rather the inference CSC had drawn from that fact. The known facts now appear in the record without the inference.
+[38]
+In any event, the escape risk assessment did not have a significant bearing on his security level classification. The assessment was that his escape risk was "moderate" based on a number of factors such as his prior institutional record. As noted above, the most significant factor was the nature of the offence of which he was convicted in 2009 and the sentence imposed for that offence.
+[39]
+The applicant's complaint about mistreatment by other inmates has been rectified and the "incompatibles" have been moved to a different range to protect the applicant, as the Senior Deputy Commissioner mentions in his decision.
+[40]
+The applicant's evidence is that he agreed to a sexual offender assessment after originally refusing to participate. His institutional file bears the information that he initially refused, which is accurate so far as it goes. Based on documents to which the applicant drew my attention, the file also indicates that he changed his mind. It is not clear from the record whether this change of heart was taken into consideration by the decision-makers while his grievance was making its way up the institutional ladder. From my reading of the record, it would not have made any material difference in the outcome.
+[41]
+The Senior Assistant Deputy Commissioner's decision states that he considered the applicant's past and present convictions, the severity of the crimes and the applicant's refusal to accept the sexual nature of his offence. With regard to the last factor, the applicant contends that the autopsy report entered into evidence at his trial did not support a finding that the murder involved a sexual assault. That is why, he says, he refused to participate in a sexual offender assessment.
+[42]
+While the applicant's view of the trial evidence which he is contesting on appeal may explain his motivation for refusing the sex offender assessment, it doesn't alter the character of the offence described in the information provided to CSC by the police and trial court following the applicant's conviction. Given that information, it was reasonable for the Senior Deputy Commissioner to consider the murder to have a sexual aspect and to take the applicant's refusal to accept that fact into consideration on his review of the grievance.
+[43]
+The applicant raises other complaints about past and unrelated decisions by CSC and other events that were not the subject of the third level grievance and are outside of the jurisdiction of the CSC. As Justice Lemieux stated in
+<FRAGMENT_SUPPRESSED>  Commissioner's decision in this matter, make a collateral attack on past decisions which he had an opportunity to challenge directly at the appropriate time subject to the time limits prescribed under section 18 of the
+Federal Court Act
+.
+[44]
+The Senior Deputy Commissioner's decision on the third level grievance review is clear, transparent, intelligible and justifiable in respect of the facts and the law. It is within the range of possible acceptable outcomes required to establish reasonableness under the standard of review set out in <FRAGMENT_SUPPRESSED> , above. Accordingly, this application is dismissed.
+[45]
+While costs would normally follow the result, I see no point in awarding them in this instance.
+THIS COURT'S JUDGMENT is that
+the application is dismissed. The parties shall bear their own costs.
+.........................
+23. (1) When a person is sentenced, committed or transferred to penitentiary, the Service shall take all reasonable steps to obtain, as soon as is practicable,
+(
+) relevant information about the offence;
+(
+) relevant information about the person's personal history, including the person's social, economic, criminal and young-offender history;
+(
+) any reasons and recommendations relating to the sentencing or committal that are given or made by
+(i) the court that convicts, sentences or commits the person, and
+(ii) any court that hears an appeal from the conviction, sentence or committal;
+(
+) any reports relevant to the conviction, sentence or committal that are submitted to a court mentioned in subparagraph (
+) any other information relevant to administering the sentence or committal, including existing information from the victim, the victim impact statement and the transcript of any comments made by the sentencing judge regarding parole eligibility.
+(2) Where access to the information obtained by the Service pursuant to subsection (1) is requested by the offender in writing, the offender shall be provided with access in the prescribed manner to such information as would be disclosed under the
+Privacy Act
+and the
+Access to Information Act
+.
+(3) No provision in the Privacy Act or the Access to Information Act shall operate so as to limit or prevent the Service from obtaining any information referred to in paragraphs (1)(a) to (e).
+24. (1) The Service shall take all reasonable steps to ensure that any information about an offender that it uses is as accurate, up to date and complete as possible.
+(2) Where an offender who has been given access to information by the Service pursuant to subsection 23(2) believes that there is an error or omission therein,
+(
+) the offender may request the Service to correct that information; and
+(
+) where the request is refused, the Service shall attach to the information a notation indicating that the offender has requested a correction and setting out the correction requested.
+[...]
+30.
+(1) The Service shall assign a security classification of maximum, medium or minimum to each inmate in accordance with the regulations made under paragraph 96(
+(2) The Service shall give each inmate reasons, in writing, for assigning a particular security classification or for changing that classification.
+[20]
+18. For the purposes of section 30 of the Act, an inmate shall be classified as
+(
+) maximum security where the inmate is assessed by the Service as
+(i) presenting a high probability of escape and a high risk to the safety of the public in the event of escape, or
+(ii) requiring a high degree of supervision and control within the penitentiary;
+(
+) medium security where the inmate is assessed by the Service as
+(i) presenting a low to moderate probability of escape and a moderate risk to the safety of the public in the event of escape, or
+(ii) requiring a moderate degree of supervision and control within the penitentiary; and
+(
+) minimum security where the inmate is assessed by the Service as
+(i) presenting a low probability of escape and a low risk to the safety of the public in the event of escape, and
+(ii) requiring a low degree of supervision and control within the penitentiary.
+[End of document]

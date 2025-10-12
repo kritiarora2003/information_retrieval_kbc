@@ -1,0 +1,51 @@
+<FRAGMENT_SUPPRESSED>  CF 282)
+Federal Court
+Mosley, J.
+Arthur I. Yallen, for the applicant;
+Nicole Paduraru, for the respondent.
+Solicitors of Record:
+Yallen & Associates, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mosley, J.
+: The applicant, Mr. Oleksandr Cherednyk, is a Ukrainian citizen. The Refugee Protection Division of the Immigration and Refugee Board found that he was neither a Convention refugee within the meaning of section 96 of the
+Immigration and Refugee Protection Act
+], nor a "person in need of protection" within the meaning of section 97 of the
+. He seeks judicial review of that decision.
+[2]
+Mr. Cheredynk came to Canada in 2007 claiming protection from a group of criminals who were demanding payment of a debt in connection with a protection racket that targeted taxi drivers and owners. Over the course of several years he was victimized by extortion demands, violence and threats of harm to his wife and children
+[3]
+The applicant was found to be credible. The determinative issue for the Board was its finding that the risk faced by the applicant was a generalized one faced by all taxi drivers and small business owners in Ukraine. The Board accepted that corruption and extortion are widespread in Ukraine. Taxi drivers in Ukraine are subject to extortion by mob figures or criminal organizations, and the police are either involved or do nothing about it. However, since the risk was not personalized and was shared by a subgroup of the population that is sufficiently large that it can reasonably be characterized as widespread or prevalent in the country, the Board held that the applicant was not entitled to Canada's protection, citing
+The sole issue on this application is whether the Board's finding that the applicant faces a generalized risk was reasonable?
+[5]
+There is no dispute between the parties and I agree that the standard of review applicable to the determination of whether refugee claimants face a generalized risk is reasonableness:
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], Justice Gleason reviewed this Court's jurisprudence reviewing decisions interpreting the notion of generalized risk enshrined in s 97(1)(b) of the
+. In doing so, Justice Gleason set out the test for determining the nature of the risk faced by an applicant at paras 40-41:
+[40] In my view, the essential starting point for the required analysis under section 97 of IRPA is to first appropriately determine the nature of the risk faced by the claimant. This requires an assessment of whether the claimant faces an ongoing or future risk (i.e. whether he or she continues to face a "personalized risk"), what the risk is, whether such risk is one of cruel and unusual treatment or punishment and the basis for the risk. Frequently, in many of the recent decisions interpreting section 97 of IRPA, as noted by Justice Zinn in
+at paras 27-28, the "... decision-makers fail to actually state the risk altogether" or "use imprecise language" to describe the risk. Many of the cases where the Board's decisions have been overturned involve determinations by this Court that the Board's characterization of the nature of the risk faced by the claimant was unreasonable and that the Board erred in conflating a highly individual reason for heightened risk faced by a claimant with a general risk of criminality faced by all or many others in the country.
+[41] The next required step in the analysis under section 97 of IRPA, after the risk has been appropriately characterized, is the comparison of the correctly-described risk faced by the claimant to that faced by a significant group in the country to determine whether the risks are of the same nature and degree. If the risk is not the same, then the claimant will be entitled to protection under section 97 of IRPA. Several of the recent decisions of this Court (in the first of the above-described line of cases) adopt this approach.
+[7]
+In the present matter, the applicant submits that the Board made no determination as to the express risk he faced, or whether the risk constituted a risk to life or a risk of cruel and unusual treatment or punishment. Rather, relying on the applicant's occupation and financial situation and the fact that Ukraine has a high crime rate, the Board found that the applicant was a member of a sub-group in Ukraine, which faces a generalized risk of persecution.
+[8]
+Rather than classifying his situation by reason of his occupation, the applicant submits, the Board should have distinguished the violent physical persecution he had suffered from the generalized fear of criminality and extortion faced by small business owners in Ukraine. There was no evidence before the Board that all taxi drivers and/or small business owners suffered from repeated, violent, and physical attacks at the hands of criminals. Rather, the evidence indicated that the criminal organizations were extorting money from one other taxi driver and other small business owners. Thus the persecution he faced was beyond that generally faced by taxi drivers and/or small business owners.
+[9]
+The respondent submits that the Board reasonably considered the applicant's evidence and the country documentary evidence. The Board noted that the applicant stated that he thought other taxi drivers faced the same problem because when he had asked if they knew of anyone who was not paying the extortion demanded, some said it had never happened before. The Board had evidence before it that taxi drivers and owners of small businesses represent a significant subgroup in Ukraine and that the problem was widespread and prevalent. The fact that one member of that subgroup is personally targeted does not mean that the risk itself is not general in nature.
+[10]
+The meaning of generalized risk has been the subject of much consideration in this Court in recent years. In addition to <FRAGMENT_SUPPRESSED> , above, see for example
+<FRAGMENT_SUPPRESSED> ; and
+<FRAGMENT_SUPPRESSED> . It is clear from the jurisprudence that the Board must assess and make a determination as to the express risk faced by the applicant and whether that risk constituted a risk to life or a risk of cruel and unusual treatment or punishment. As stated in
+[43] The jurisprudence has also recognized that a generalized risk can become personalized. In that regard, the RPD has a duty to conduct an individual and thorough analysis of the facts presented, examining all aspects of the risk stemming from those facts and determining whether the risk has become personalized even if the claimant was initially a random target. [...]
+[11]
+As the Supreme Court has instructed in
+Newfoundland and  <FRAGMENT_SUPPRESSED> tribunal's reasons must be read together with the outcome and serve the purpose of showing whether the result falls within a range of possible outcomes. If the reasons allow the court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the criteria of reasonableness are met.
+[12]
+Here the Board identified and applied the correct test. However it is not clear from the reasons whether the Board actually undertook the "individual and thorough" analysis required. Rather, the Board made a finding that the applicant is a member of a victimized sub-group in Ukraine, and concluded on that basis alone that the risk he faced was a generalized one. The Board focused on the general problem of extortion, to the exclusion of the violence experienced by the applicant and threatened against him in the future. While the risk he faced was indeed generalized at the outset, by April 2006 when he was beaten unconscious, the weight of the evidence was that it had become personalized. The Board failed to adequately assess that evidence and address it in the decision.
+[13]
+In the result, I find that the Board's conclusions in respect of s 97 of
+were unreasonable and that the application must be granted. No questions of general importance were proposed for certification.
+THIS COURT'S JUDGMENT is that
+the application is granted and the matter is remitted for reconsideration by a differently constituted Board. No question is certified.
+.........................
+[End of document]

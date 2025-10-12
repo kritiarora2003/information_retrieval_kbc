@@ -1,0 +1,135 @@
+<FRAGMENT_SUPPRESSED>  CF 428)
+Federal Court
+Gleason, J.
+Andres Pelenur, for the applicant;
+Ian Hicks, for the respondent.
+Solicitors of Record:
+Borders Law Firm, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Gleason, J.
+: The applicant is a 68-year old citizen of the United States, who was employed for a number of years as a software engineer in Canada. He lost his job in 2010 due to corporate restructuring and thereafter engaged in a lengthy job search. He applied for a permanent resident visa under the Federal Skilled Worker program, which was rejected by an immigration officer of the Consulate General of Canada, Immigration Section, in New York City on June 20, 2012. The officer (with the requisite concurrence of another officer) determined that despite the applicant's exceeding the minimum number of points (being awarded 74 out of 100 when only 67 are required), a substituted evaluation would be issued under subsection 76(3) of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [the Regulations]. The officer noted in this regard that the applicant had been unsuccessful in his 22-month job search and concluded that in light of this fact and the applicant's profile, the applicant was not likely to be successful in becoming economically established in Canada. The applicant's permanent residence application was therefore rejected.
+[2]
+In this application for judicial review, the applicant seeks to set aside the rejection decision, arguing that his procedural fairness rights were violated and that the decision is unreasonable.
+[3]
+In terms of procedural fairness, the applicant asserts that the officer who interviewed him was under a duty to warn him of the concerns in advance of the interview so as to afford the applicant time to prepare his response and that the failure to warn him amounts to a denial of procedural fairness. The applicant also argues that he implicitly requested the opportunity to provide additional information during the interview but was denied the opportunity to do so, which he likewise claims violated his rights to procedural fairness. In terms of the reasonableness of the decision reached, the applicant argues that the officers erred in their substituted evaluation by ignoring relevant evidence and by failing to conduct the assessment in accordance with the requirements of the Regulations.
+[4]
+For the reasons set out below, I have determined that none of these arguments has merit and, accordingly, that this application for judicial review will be dismissed.
+Relevant Statutory Provisions
+[5]
+Prior to addressing the applicant's arguments, it is useful to reproduce the provisions under which this decision was made to provide context to the applicant's arguments. The relevant provisions are contained in subsection 12(2) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [the IRPA] and section 76 of the Regulations.
+[6]
+Subsection 12(2) of the IRPA provides:
+A foreign national may be selected as a member of the economic class on the basis of their ability to become economically established in Canada.
+The relevant portions of section 76 of the Regulations state:
+Selection criteria
+76. (1) For the purpose of determining whether a skilled worker, as a member of the federal skilled worker class, will be able to become economically established in Canada, they must be assessed on the basis of the following criteria:
+(a) the skilled worker must be awarded not less than the minimum number of required points referred to in subsection (2) on the basis of the following factors, namely,
+(i) education, in accordance with section 78,
+(ii) proficiency in the official languages of Canada, in accordance with section 79,
+(iii) experience, in accordance with section 80,
+(iv) age, in accordance with section 81,
+(v) arranged employment, in accordance with section 82, and
+(vi) adaptability, in accordance with section 83; and
+(b) the skilled worker must
+(i) have in the form of transferable and available funds, unencumbered by debts or other obligations, an amount equal to half the minimum necessary income applicable in respect of the group of persons consisting of the skilled worker and their family members, or
+(ii) be awarded the number of points referred to in subsection 82(2) for arranged employment in Canada within the meaning of subsection 82(1).
+[...]
+Circumstances for officer's substituted evaluation
+(3) Whether or not the skilled worker has been awarded the minimum number of required points referred to in subsection (2), an officer may substitute for the criteria set out in paragraph (1)(a) their evaluation of the likelihood of the ability of the skilled worker to become economically established in Canada if the number of points awarded is not a sufficient indicator of whether the skilled worker may become economically established in Canada.
+(4) An evaluation made under subsection (3) requires the concurrence of a second officer.
+Confirmation
+Standard of review
+[8]
+The first issue which must be determined is the standard of review applicable to the assessment of the errors alleged by the applicant. In terms of the first, no deference is owed to the officer on the question of whether the officer violated the applicant's rights to procedural fairness as the matter is one for determination by the reviewing court (
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> ). On the other hand, the reasonableness standard of review applies to the assessment of whether the officers erred in their assessment under section 76 of the Regulations (
+<FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ] and
+<FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]). The reasonableness standard is a deferential one and requires that the reviewing court not substitute its views for those of the administrative decision-maker if the reasons offered are transparent, intelligible and justified and the result reached falls within the range of possible, acceptable outcomes in light of the facts and applicable law (
+<FRAGMENT_SUPPRESSED> Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+Was there a denial of procedural fairness?
+[9]
+Turning, then, to consideration of the claimed procedural fairness violation, procedural fairness is premised on the principle that those involved in an adjudicative process should be provided with an opportunity to fairly present their claims. This generally requires that parties be afforded an opportunity to respond to issues they could not reasonably have expected to arise that will impact upon decisions affecting their interests. The determination of how this opportunity must be afforded is context-dependent and will vary from one tribunal to another and from case to case (
+In the context of decisions like the present one, the case law establishes that a visa officer need not give notice of unanticipated concerns (i.e. those that do not directly arise from the application of the Regulations) prior to an interview so long as the concerns are raised during the interview and the applicant is given an opportunity to address them. Where the applicant reasonably requests time to provide additional evidence or submissions after the interview, the applicant must be afforded this opportunity (
+It follows, therefore, that the first alleged violation of procedural fairness, involving the claim that the interviewing officer erred in not providing advance notice of the concerns to the applicant, is without merit. The case law recognizes that such concerns may indeed be raised for the first time during the interview, itself. Accordingly, there was nothing improper in the officer raising his concerns - and the possibility of a substituted evaluation - for the first time during the interview of the applicant.
+[12]
+The second claimed violation of procedural fairness involves the assertion that the applicant requested but was not afforded the opportunity to present additional evidence after the interview. Assessment of this claim requires examination of the evidence regarding what transpired during and subsequent to the interview.
+[13]
+Both the applicant and the officer who interviewed him have filed affidavits, which provide differing evidence as to what transpired during the interview. Neither was cross-examined.
+[14]
+The officer deposes that, upon being advised of the concerns regarding the difficulty the officer feared the applicant would likely face in achieving economic self-sufficiency, the applicant provided evidence of a job interview he had recently scheduled, discussed his job search and the fact that many companies preferred hiring permanent residents and indicated that he could file evidence of other similar advertisements, where other employers required job applicants to be Canadian citizens or permanent residents. The officer, notably, does not indicate in his affidavit that the applicant stated that he wished to file additional evidence on any other matter or that had he known of the officer's concerns would have filed additional evidence regarding additional job interviews and contacts with recruiters.
+[15]
+The applicant, on the other hand, does so depose in his affidavit. He states as follows at paragraph 15 of his affidavit: "I told the officer during the interview that if I had known that my efforts to find employment were going to be an issue with him, and used as a basis to deny my application, that I would have brought evidence of the numerous jobs I had applied for since being laid off, including evidence of interviews I attended and contacts with recruiters".
+[16]
+It is unnecessary for me to determine which of these two versions of the events I prefer, because even if the applicant's version is accepted, I do not find there to have been a violation of procedural fairness in the circumstances of this case. In this regard, the applicant did file additional evidence with the interviewing officer, subsequent to the interview, that the officer and his superior both considered prior to finalizing the decision that a substituted evaluation would be made under subsection 76(3) of the Regulations.
+[17]
+This additional evidence consisted of a letter dated May 31, 2012, in which the applicant set forth arguments as to why a substituted evaluation should not be made. However, the applicant did not provide any additional evidence of his job search, interviews or contacts with recruiters in his letter. While these matters might well be relevant to the substituted evaluation as the applicant argues, the fact is that the applicant was provided with an opportunity to put this evidence before the officers and failed to do so. He therefore cannot claim that his rights to procedural fairness were denied. He was afforded an opportunity to address the concerns surrounding the likelihood of his becoming economically self-sufficient if granted permanent resident status in Canada.
+[18]
+Thus, the first ground of review advanced by the applicant is without merit.
+Did the officers ignore relevant evidence?
+[19]
+The applicant argues in the second place that the officers ignored relevant evidence, namely, evidence of the job interview he was scheduled to undergo with Abbot, the Honeywell job advertisement he filed and his LinkedIn profile. He asserts that these pieces of evidence were ignored by the officers as they were not specifically mentioned in the letter advising of the rejection of his application and are all relevant to the decision.
+[20]
+This argument is without merit for two reasons. First, the interviewing officer did mention these pieces of evidence in the Computer Assisted Immigration Processing System [CAIPS] notes (which form part of the reasons for decision). Thus, on the facts, the evidence was not ignored. Second, and perhaps more importantly, there is simply no need for a tribunal to specifically discuss every piece of evidence in its reasons. As stated by Justice Abella for the Supreme Court of Canada in
+Newfoundland Nurses
+Reasons may not include all the arguments, statutory provisions, jurisprudence or other details the reviewing judge would have preferred, but that does not impugn the validity of either the reasons or the result under a reasonableness analysis. A decision-maker is not required to make an explicit finding on each constituent element, however subordinate, leading to its final conclusion [...] In other words, if the reasons allow the reviewing court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the <FRAGMENT_SUPPRESSED> criteria are met.
+[21]
+Similarly, and more recently, in
+<FRAGMENT_SUPPRESSED> the Supreme Court held:
+The Board did not have to explicitly address all possible shades of meaning of these provisions. This Court has strongly emphasized that administrative tribunals do not have to consider and comment upon every issue raised by the parties in their reasons. For reviewing courts, the issue remains whether the decision, viewed as a whole in the context of the record, is reasonable. [Citations omitted.]
+(See also
+<FRAGMENT_SUPPRESSED> .) Thus, contrary to what the applicant asserts, the decision is not rendered unreasonable through a failure to adequately address portions of the evidence.
+Did the officer incorrectly exercise his discretion under subsection 76(3) of the Regulations?
+[22]
+The applicant finally argues that the officers premised the exercise of their discretion under subsection 76(3) of the Regulations on an incorrect interpretation of the section 76, which requires that the discretion to issue a substituted evaluation be premised on the factors listed in paragraph 76(1)(a) of the Regulations. The applicant asserts that instead of focussing on the required factors, the officers incorrectly focused exclusively on the fact that the applicant had not obtained employment, which is not required under section 76 of the Regulations. The applicant notes in this regard that there is an entirely separate class is available for those with pre-arranged employment in Canada to obtain permanent resident status (under section 82 of the Regulations).
+[23]
+The decision of Justice Mandamin in
+<FRAGMENT_SUPPRESSED>  does provide that in the exercise of their statutory discretion under subsection 76(3) of the Regulations, visa officers should have regard to the factors listed in paragraph 76(1)(a) of the Regulations in determining whether an applicant is likely to become economically self-sufficient. A somewhat broader test is posited in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , where Justices Tremblay-Lamer and Justice O'Keefe noted that in the exercise of their discretion visa officers are considering whether, despite the points awarded under paragraph 76(1)(a) of the Regulations, an applicant is likely to become economically established in Canada.
+[24]
+Regardless of how the test is formulated, I believe that the officers in this case did not err by considering irrelevant factors. Contrary to what the applicant asserts, it was not the fact that the applicant had no job that concerned the officers. Rather, they were concerned that the lengthy job search had yielded no result. As the respondent rightly notes, the length of the search logically leads to the conclusion that the applicant would be unlikely to ever find work or was unlikely to become economically self-sufficient.
+[25]
+A similar finding was upheld in <FRAGMENT_SUPPRESSED> , where a substituted decision based on an applicant's having failed to engage in a job search was found to be reasonable. There, Justice Tremblay-Lamer wrote at paragraphs 19 and 20:
+[19] The officer was concerned not only about the applicant's ability to find employment in Canada, but also her willingness in that regard. These concerns were not based solely on the applicant's age. Instead, the officer considered the applicant's age in combination with a number of other circumstances, including: that the applicant had already effectively retired in the UK, that despite having lived in Canada for two years she had not taken concrete steps towards certification or towards securing future employment in Canada, and that the applicant's husband had been offered work in Canada but that an "LMO for his line of unskilled work [had] not been issued for a second stay".
+[20] Ultimately, the role of this Court is not to substitute its own view for that of the immigration officer. I cannot find that the officer's decision to substitute a negative determination under subsection 76(3) of the Regulations lacked justification, transparency or intelligibility or fell outside the range of possible, acceptable outcomes defensible in respect of the facts and law. As such, this application for judicial review is dismissed.
+[26]
+In my view, identical reasoning applies here and, accordingly, the final argument advanced by the applicant is without merit.
+[27]
+This application for judicial review will accordingly be dismissed.
+[28]
+No question for certification under section 74 of the IRPA was presented and none arises as this decision is tied to the facts of this case.
+THIS COURT'S JUDGMENT is that
+:
+1. This application for judicial review is dismissed;
+2. No question of general importance is certified; and
+3. There is no order as to costs.
+.........................
+A foreign national may be selected as a member of the economic class on the basis of their ability to become economically established in Canada.
+[7]
+Confirmation
+Selection criteria
+76. (1) For the purpose of determining whether a skilled worker, as a member of the federal skilled worker class, will be able to become economically established in Canada, they must be assessed on the basis of the following criteria:
+(a) the skilled worker must be awarded not less than the minimum number of required points referred to in subsection (2) on the basis of the following factors, namely,
+(i) education, in accordance with section 78,
+(ii) proficiency in the official languages of Canada, in accordance with section 79,
+(iii) experience, in accordance with section 80,
+(iv) age, in accordance with section 81,
+(v) arranged employment, in accordance with section 82, and
+(vi) adaptability, in accordance with section 83; and
+(b) the skilled worker must
+(i) have in the form of transferable and available funds, unencumbered by debts or other obligations, an amount equal to half the minimum necessary income applicable in respect of the group of persons consisting of the skilled worker and their family members, or
+(ii) be awarded the number of points referred to in subsection 82(2) for arranged employment in Canada within the meaning of subsection 82(1).
+[...]
+Circumstances for officer's substituted evaluation
+(3) Whether or not the skilled worker has been awarded the minimum number of required points referred to in subsection (2), an officer may substitute for the criteria set out in paragraph (1)(a) their evaluation of the likelihood of the ability of the skilled worker to become economically established in Canada if the number of points awarded is not a sufficient indicator of whether the skilled worker may become economically established in Canada.
+(4) An evaluation made under subsection (3) requires the concurrence of a second officer.
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+Newfoundland Nurses
+:
+[End of document]

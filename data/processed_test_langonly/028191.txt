@@ -1,0 +1,410 @@
+<FRAGMENT_SUPPRESSED>  CF 433)
+Federal Court
+Yehuda Levinson, for the applicant;
+Stewart Phillips, for the respondent.
+Solicitors of Record:
+Levinson & Associates, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is an application for judicial review pursuant to section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7 of a decision made by the Chief of the Defence Staff on November 23, 2010, wherein he denied former Second Lieutenant Anthony Moodie's grievance regarding his failure of a Common Army Phase course.
+1. Factual background
+[2]
+The factual basis of this case dates back to over ten (10) years ago, and it is accordingly important to set out a chronology of the main facts.
+[3]
+Anthony Moodie (the applicant) was a member of the Canadian Forces (CF) from October 1995 to October 2005. At the time of the impugned decision, the applicant was a Second Lieutenant posted at 32 Canadian Brigade Group, an Army Reserve Formation headquartered in Toronto, Ontario.
+[4]
+On September 22, 2003, the applicant started the Common Army Phase (CAP) course 0309 at the Infantry School, Combat Training Centre at the Canadian Forces Base Gagetown, New Brunswick. While he successfully completed most of the required Performance Objectives (PO) of the CAP course, the applicant was unable to complete POs 102, 103, 109 and 118.
+[5]
+The applicant especially struggled with PO 103 (Conduct a Reconnaissance Patrol). The applicant first failed the PO 103 on November 15, 2003. He was given an opportunity to repeat it on November 20, 2003, but failed again. After the second failed attempt, a Progress Review Board (PRB) was convened to assess whether to grant the applicant further attempts. The applicant was granted a third attempt on November 24, 2003. During the third attempt, a lack of coordination and technical difficulties outside of the applicant's control contributed to a new failure. Given those exceptional circumstances, the applicant was awarded a fourth attempt, which he failed. Following the fourth attempt, the PRB convened again and decided, on November 25, 2003, to return the applicant to his unit as a "training failure".
+[6]
+On November 28, 2003, following several allegations made by CF members enrolled in the CAP course 0309 regarding discrepancies in the evaluation process, the Infantry School Commandant, Lieutenant Colonel Pearson (the Commandant), issued terms of reference for an investigation into the course. On December 2, 2003, the CAP Standards Officer issued a report concluding that there was no evidence of any discrepancies in the application of course standards (Applicant's Record at 394-396).
+[7]
+On December 3, 2003, the applicant filed a complaint to the Commandant relative to the CAP course. In his complaint, the applicant alleged that he was assessed differently than the other students, that the staff actively sought to have him fail, and that he actually met the course requirements on his third attempt and should have passed. The Commandant considered the complaint as a formal redress of grievance and asked the School Chief Standards Officer to conduct an investigation.
+[8]
+On December 4, 2003, the applicant added another complaint, in which he claimed that the members of the Directing Staff (DS) harassed him. After he was informed that his complaint did not meet the criterion for a harassment complaint, the applicant withdrew it.
+[9]
+On December 10, 2003, the Commandant issued a decision in which he found that the applicant had been treated fairly, that the CAP 0309 instructors acted in a professional way and that he was not treated differently than the other students (Applicant's Record at 172-173).
+[10]
+Two (2) days later, on December 12, 2003, the School's Chief Standards Officer issued a report in which he recommended that the applicant's redress of grievance be denied.
+[11]
+The applicant disagreed with the report's conclusion and the handling of his complaint. He forwarded an official application for redress of grievance to the Chief of the Defence Staff (CDS) in March 2004. There was some delay in the processing of the applicant's grievance because the first Initial Authority (IA) that was appointed to determine the issue was perceived as having a conflict of interest. On September 25, 2004, it was finally decided that the Commander Combat Training Centre (CCTC) was the appropriate IA (Applicant's Record at 397; Applicant's Record at 203-204).
+[12]
+The redress of grievance was filed in March 2004 and was received on October 5, 2004. On October 12, 2004, a disclosure package was sent to the applicant containing all the documents that the IA would consider. On November 15, 2004, the applicant submitted his written representations and documentation (Applicant's Record at 397; Applicant's Record at 205-214; Applicant's Record at 500).
+[13]
+On December 1, 2004, the applicant resubmitted a harassment complaint. In his complaint, he alleged that he was told he failed PO 118 because of his "thick heavy accent" by one of the DS and that the same DS allegedly assessed him in a manner inconsistent with the course standards and that the discrepancies in the assessment were deliberately engineered to ensure his failure of PO 103 (Applicant's Record at 215-217).
+[14]
+On December 3, 2004, the IA denied the applicant's redress of grievance application. The IA focused on the applicant's main argument, namely his repeated failures of PO 103. He concluded that the applicant failed on all his attempts and that he did not meet the PO 103 requirements on his third attempt (Applicant's Record at 219-222).
+[15]
+On December 14, 2004, the Responsible Officer (RO), the acting Commandant of the Infantry School, rejected the harassment complaint filed by the applicant on December 1, 2004.
+[16]
+Unsatisfied by the decisions of the IA and the RO, the applicant submitted a redress of grievance to the CDS for a final adjudication of his complaints on March 31, 2005. In this grievance, the applicant added new allegations, including that he was denied due process, that the RO neglected to follow the relevant guidelines in assessing his claim, that the IA and the RO collaborated in their decisions and that they refused to address certain key issues of his complaints (Applicant's Record at 233-245).
+[17]
+On August 5, 2005, the Canadian Forces Grievance Board (CFGB) sent the complete grievance file to the applicant for review and informed him that his grievance was being processed (Applicant's Record at 330-337).
+[18]
+On June 20, 2007, the CFGB provided the applicant with a disclosure of all the information that it would consider in drafting its report. On July 20, 2007, the applicant sent his response to the CFGB (Applicant's Record at 379-386).
+[19]
+On July 6, 2007, the applicant initiated an action for damages before the Federal Court based on the same events and allegations as those considered in the grievance process, which was still underway (Court file number T-1248-07).
+[20]
+On September 27, 2007, the CFGB issued its findings and recommended that the CDS deny the applicant's grievance. The CFGB found, amongst other things, that the applicant failed PO 103 on his first, second and fourth attempts. The third attempt was discarded for logistical shortcomings. It also found that the applicant provided no evidence that he passed PO 118, that any irregularity occurred during his CAP 0309 training or that he was subjected to different standards than other students. It determined that the RO, who decided to consider the applicant's harassment complaint even if it was submitted after the mandatory one-year delay, had the discretion to conduct a less formal investigation after he found that the complaint had no merit. It concluded that nothing on the record suggested that the applicant did not fail PO 103 or that there was any bad faith in the evaluation process (Applicant's Record at 393-416).
+[21]
+On May 27, 2008, Prothonotary Milczynski issued an order in which she struck the applicant's Amended Statement of Claim and dismissed with costs his action for damages on the grounds that the
+National Defence Act
+] and the
+Queen's Regulations and Orders for the Canadian Forces
+(the
+) establish an exclusive statutory scheme for the resolution of service-related disputes between members of the CF and the Federal Crown. The applicant appealed the prothonotary's order to this Court.
+[22]
+On August 12, 2008, the applicant sent written submissions regarding the CFGB findings and recommendations to the Director General Canadian Forces Grievance Authority for consideration by the CDS (Applicant's Record at 423-427). Because of the applicant's various appeals of proceedings before the Federal Court, processing of the applicant's grievance was suspended several times.
+[23]
+On September 18, 2008, the applicant was told that the processing of his grievance file was suspended until the conclusion of his action before this Court, pursuant to
+7.16 (Applicant's Record at 551).
+[24]
+On November 6, 2008, Justice Mosley of this Court dismissed the applicant's appeal of the prothonotary's decision (
+<FRAGMENT_SUPPRESSED>  [2008] FCJ No 1601 (QL)). The applicant appealed this decision to the Federal Court of Appeal.
+[25]
+On January 11, 2010, the Federal Court of Appeal dismissed the applicant's appeal of Justice Mosley's decision (
+<FRAGMENT_SUPPRESSED>  [2010] FCJ No 35 (QL)).
+[26]
+On November 23, 2010, the CDS issued his decision and denied the applicant's redress of grievance (Applicant's Record at 539-554).
+[27]
+On December 31, 2010, the applicant filed a notice of application for the judicial review of the CDS's decision.
+[28]
+After the filing of the notice of application, the applicant brought a motion to this Court in order to submit an access to information request for further disclosure of documents from the respondent. The motion was allowed and a lengthy correspondence and exchange of documents ensued between the applicant and various entities of the respondent.
+[29]
+The Court now turns to the CDS decision.
+In his decision to deny the grievance, the CDS found that the applicant did not meet the minimum requirements to pass CAP 0309. The applicant does not argue that he failed on his first and second attempts, but contends that he should have passed on his third and fourth attempts.
+[31]
+Concerning the failed third attempt, the CDS noted that the evidence suggests that the way the exercise was set up did not enable the applicant to complete PO 103. PO 103 required students to conduct a reconnaissance patrol against an occupied objective over an eight hour period. During the applicant's third attempt, there was no enemy due to the school's logistical failure. The applicant technically failed the exercise, but was given a new attempt the next day because of these unusual circumstances. The CDS believes that, even if there had been no problem with the set-up of the exercise, the applicant would not have passed PO 103 because he failed to meet 5 of the 10 "leadership" requirements, which are linked to the way a trainee conducts himself during the exercise (Applicant's Record at 543-545).
+[32]
+With respect to the fourth attempt, the CDS found that the notes of the assessors clearly show that the applicant failed the exercise as he was "discovered" by the enemy troops and made poor strategic and navigational choices (Applicant's Record at 545-546).
+[33]
+As for the applicant's contention that his mark was tempered with since his assessment form initially mentioned that he passed PO 103, but was later modified to indicate a failure, the CDS noted that there was no evidence to corroborate the allegation and concluded that such a fraud is unlikely (Applicant's Record at 547-548).
+[34]
+Second, the CDS refused the applicant's contention that he met the other POs of the CAP 0309 course. The CDS noted that the applicant was returned to his unit solely because he failed PO 103. The fact that he initially failed PO 102, 109 and 118 but may indeed have passed them is irrelevant, since the CDS is satisfied that he did fail PO 103 and that this was a sufficient basis to return the applicant to his unit (Applicant's Record at 548).
+[35]
+Third, the CDS agrees with the CFGB report when it concludes that the applicant's three (3) harassment allegations do not meet the definition of harassment. According to the
+Defence Administrative Orders and Directives
+(
+Harassment is any improper conduct by an individual that is directed at and offensive to another person or persons in the workplace, and that the individual knew or ought reasonably to have known would cause offence or harm.
+...
+Conduct involving the proper exercise of responsibilities or authority related to the provision of advice, the assignment of work, counseling, performance evaluation, discipline, and other supervisory/leadership functions
+[Italics in the original.]
+[36]
+The first allegation is that the assessor for PO 118 indicated verbally to the applicant that he had a "thick heavy accent and as such the candidates could not understand [him] ". The CDS determined that noting communication deficiencies is part of a proper evaluation. The second allegation is that the applicant was treated differently than other student by two (2) DS who held him to higher standards, fabricated and exaggerated his deficiencies, and gave him unfavourable "leadership chits" without justification. The CDS found that the evidence does not show that the chits were given "without justification" or that the applicant was treated any differently than other students. The third allegation is that, during his third attempt, the assessor deliberately attempted to fail the applicant and that his platoon commander subjected him to a different standard. The CDS concluded that, since the applicant was afforded a fourth attempt due to the technical problems encountered in the third attempt, any problem arising from this attempt has been resolved. The CDS added that the applicant adduced insufficient information on which the RO could have investigated and that he therefore did not establish that his case met the requirements for harassment (Applicant's Record at 548-549)
+[37]
+Fourth, the CDS dismissed the applicant's contention that procedural fairness was breached by undue delays and insufficient disclosure of information.
+[38]
+The CDS acknowledged that the seven-year delay between the events leading to the grievance and the date when the applicant's grievance finally reached the CDS's office was unusually long. The CDS observed that the Commanding Officer took two (2) months to forward the applicant's complaint to an IA, while
+7.05 provides that he had a duty to do so within ten (10) days. However, the CDS believes that this unfortunate delay was explained in his grievance - the need to find an appropriate IA who was not in a conflict of interest - and found that the applicant failed to demonstrate that he suffered any prejudice as a result of this delay. The CDS also observed that, outside of this initial delay, all subsequent decisions were rendered within the relevant time limits, when such limits existed. The CDS further notes that the delays between 2008 and 2010 had been caused by the applicant's own procedures before this Court (Applicant's Record at 550-551).
+[39]
+The CDS then considered the applicant's allegation that he did not receive full disclosure of the documents to be considered in the processing of his grievance. The CDS found no evidence that the IA used any document that was not provided by the applicant himself or disclosed to him beforehand. The CDS acknowledged that the CFGB and the Director of Grievances collected additional information at the FA level, but most of this information was repetitive and there is no evidence that any of this information was used by the IA or even available to him when he made his determination. Furthermore, the CDS noted that the applicant was provided with additional disclosure of documents to be used at the FA level. After having thoroughly reviewed his entire grievance file, the CDS was satisfied that the applicant obtained full disclosure of all documents used to adjudicate his grievance and obtained sufficient opportunity to make representations based on the full amount of information gathered during the review of his grievance (Applicant's Record at 551-552).
+[40]
+Fifth, the CDS concluded that the IA and the CFGB did not unduly focus the review of the applicant's grievance by emphasizing the "crux" of his allegations, namely his repeated failure of PO 103. While conceding that the IA and CFGB focused on the failure of PO 103 and did not conduct a detailed analysis of every allegation, the CDS noted that the applicant failed to specify any major issue that would have been neglected. He also observed that it was sometimes relevant to narrow the scope of a grievance to ensure that the most relevant issues are examined thoroughly. The CDS concluded that further examination of the issues that were not dealt with in great detail, such as the clerical errors on the applicant's evaluation forms, was not warranted as the conclusion that the applicant did not pass the CAP 0309 course is enough to deny his grievance (Applicant's Record at 552-553).
+The case at bar raises two (2) issues:
+A. Was the applicant denied procedural fairness throughout the processing of his grievance?
+B. Was the CDS's decision to dismiss the applicant's grievance reasonable?
+The relevant provisions, in the case at bar, are referred to in the annex.
+5. Standard of review
+[43]
+Both parties submit, and the Court agrees, that the correctness standard applies to issues of procedural fairness (
+<FRAGMENT_SUPPRESSED> [2011] FCJ No 463 (QL) [ <FRAGMENT_SUPPRESSED> ];
+<FRAGMENT_SUPPRESSED> [2010] FCJ No 371 ( <FRAGMENT_SUPPRESSED> [2005] FCJ No 2056 (QL)).
+[44]
+The Court is also of the view that the reasonableness standard applies to a final decision by the CDS on a grievance. Since the CDS's decisions are final and that, in deciding a grievance, he applies policies or rules that he promulgated or for which he is responsible, significant deference should be owed to his findings of fact and of mixed fact and law (
+<FRAGMENT_SUPPRESSED> [2009] FCJ No 84 ( <FRAGMENT_SUPPRESSED> [2009] FCJ No 1663 (QL) reversed on other grounds in
+<FRAGMENT_SUPPRESSED>  [2011] FCJ No 163 (QL)).
+[45]
+Both parties submitted a fair number of detailed arguments to the Court.
+A. Applicant's arguments
+(a) Procedural fairness
+[46]
+The applicant makes five (5) main submissions concerning procedural fairness.
+[47]
+First, the applicant submits that the first and second IAs failed to articulate terms of reference for a summary investigation, contrary to
+7002-2. This failure permeated the entire grievance process, including the CDS's decision, and denied the applicant the opportunity to ascertain that his claims were addressed in a fair and proper manner (Applicant's Memorandum of Fact and Law at paras 23-24).
+[48]
+Second, the applicant contends that the fact that the Commandant, acting as IA, denied his grievance two (2) days before the School's Chief Standards Officer issued his investigative report on the applicant's complaints suggests that the Commandant was biased and deprived the applicant an opportunity to respond to the report's findings (Applicant's Memorandum of Fact and Law at paras 25-30).
+[49]
+Third, the applicant claims that the respondent did not provide him with a full disclosure of the documents necessary to determine his case nor did it assist him in his grievance, contrary to the duties set out in the legislative and regulatory scheme (
+Canadian Forces Administrative Orders
+, 19.32, para 13; the
+, s 29.20-29.23;
+7.03, 7.04). The applicant submits that the respondent, by separating him from the other students, prevented him from collecting witnesses' statements. The applicant gave a list of potential witnesses to the respondent, but he never received a disclosure confirming that his witnesses had been contacted. The applicant also observed that he made several requests to obtain disclosure of documents to be considered by the CFGB but that, if he obtained some documents, he never received the full list of documents that were presumably considered. The cumulative effect of these failures was to deny the applicant's right to know the case to be met (Applicant's Memorandum of Fact and Law at paras 31-41;
+Ruby
+]).
+[50]
+Fourth, the applicant submits that, because he was separated from the other students, he was unable to collect witnesses' statements to support his grievance and his harassment complaints. The applicant submitted a list of thirteen (13) potential witnesses, but only three (3) were interviewed while the respondent had full access to every student (Applicant's Memorandum of Fact and Law at para 42; Applicant's Record at 195).
+[51]
+Fifth, the applicant submits that the delay in assessing his grievance breached the principles of natural justice and the duty of fairness. The processing delays and duties of the IA, the Final Authority (FA), are set out in the
+7.02, 7.05, 7.07, 7.10, 7.16, 7.16(1). The applicant suggests that the starting date of the delay should not be March 2004, as implied by the CDS in his decision, but the date when the grievance was first filed, namely on December 3, 2003. The applicant points out that the decision of the IA was rendered on December 3, 2004, twelve (12) months after the filing of the first grievance, and was not transmitted to the applicant before January 4, 2005 (Applicant's Record at 219, 228). In addition, the CFGB waited more than two (2) years before assigning the file for review (Applicant's Record at 374, 442). The applicant insists that he respected the statutory delays when filing his claims and appeals throughout the grievance process. The applicant submits that the seven-year delay between his first grievance and the final decision by the CDS caused the applicant great prejudice, stagnated his career and deprived him of the relief sought since the CDS's decision was issued years after his release from the CF (Applicant's Memorandum of Fact and Law at paras 43-57;
+(b) Consideration of the evidence
+[52]
+The applicant argues that the CDS's decision is unreasonable on two (2) basis.
+[53]
+First, the applicant contends that the issues revolving around the alteration of his evaluation form and the fact that his Military Personal Record Resume still mentions that he passed the CAP course have not been resolved by the CDS. Based on the record, his decision on this point is unreasonable (Applicant's Memorandum of Fact and Law at para 58; Applicant's Record at 241, 342-344).
+[54]
+Second, the applicant believes, contrary to the CDS's conclusion, that there was enough evidence on the record to substantiate his harassment claim. Any deficiency in the evidence is due to the limited capacity of the applicant to collect evidence and to the failure of the RO to obtain all relevant information (Applicant's Memorandum of Fact and Law at para 59).
+(a) Procedural fairness
+[55]
+The respondent submits that the applicant was afforded procedural fairness and that the whole redress of the grievance process was "exceedingly fair" (Respondent's Memorandum of Fact and Law at para 47).
+[56]
+First, the respondent argues that the redress of the grievance process provided for independent review. The respondent recalls that the focus of this judicial review is the decision of the CDS, and not the CFGB's Grievance Analysis Report (Applicant's Record at 348-376) or the CFGB's Findings and Recommendations (Applicant's Record at 393-416) (
+<FRAGMENT_SUPPRESSED>  at para 35). Furthermore, nothing in the record suggests that the investigative reports were problematic or that they heavily influenced the decisions of the IA or of the CDS, as they mostly provided background context and the main evidentiary basis at the FA level was the CAP course file itself. Finally, the respondent submits that if the Court finds that there was any defect in the conduct of the CFGB's investigation, they would have been cured by the robust
+assessment that was provided to the applicant by the CDS (Respondent's Memorandum of Fact and Law at paras 49-56; <FRAGMENT_SUPPRESSED> , above at paras 16-17).
+[57]
+The respondent also submits that the applicant failed to establish that the Commandant who initially responded to his complaint was biased. A finding of bias requires to demonstrate that an informed person, viewing the matter realistically and practically, would think that it is more likely than not that the decision-maker either consciously or unconsciously would not decide fairly (
+<FRAGMENT_SUPPRESSED> [2010] FCJ No 306 (QL)). The applicant only made unsubstantiated allegations concerning the Commandant and such speculation, absent credible evidence, is not sufficient.
+[58]
+The respondent objects to the applicant's allegation that the CFGB's two (2) reports were subjected to
+7002-2 and that the respondent failed by not articulating the terms of reference. Because his complaints have been treated as grievances since the beginning, the reports were subjected to section 29 of the
+(the Act) and chapter 7 of the
+, and neither of them mentions the
+7002-2. Furthermore, the CFGB and the CDS correctly concluded that the RO was under no duty to conduct a formal investigation since the applicant's harassment complaint did not meet the requirements of the definition of harassment (Respondent's Memorandum of Fact and Law at paras 60-62).
+[59]
+Second, the respondent contends that the applicant was provided with full disclosure throughout the grievance process. Procedural fairness requires the disclosure to the applicant of enough evidence upon which to determine the merits of a complaint (
+<FRAGMENT_SUPPRESSED> [2007] FCJ No 1453 (QL)). The requirement is usually met when the applicant has an opportunity to be heard and to make a full presentation of his case before the final decision-maker makes his decision. In the present case, the applicant was aware at all times of the case to be met and of the facts that were considered in his grievance. He was also provided with documentary disclosure on five (5) separate occasions. The respondent points out that, contrary to the applicant's contentions, there is no evidence that there are student statements missing from the record or that any other documents were considered by the IA or the CDS without having been first disclosed to the applicant. Finally, the respondent mentions that the applicant was able to make oral and written submissions on five (5) separate occasions during his grievance process (Respondent's Memorandum of Fact and Law at paras 63-67).
+[60]
+Third, the respondent submits that there was no unreasonable delay in the processing of the applicant's file. The respondent recalls that to constitute an inordinate delay, a delay must be such that the applicant's right to a fair hearing on the merits is jeopardized ( <FRAGMENT_SUPPRESSED> , above at paras 101, 104, 121, 122, 133). This Court has previously found that a four-year delay in a military grievance, while unfortunate, did not cause the applicant a prejudice and did not compromise the fairness of his hearing (
+<FRAGMENT_SUPPRESSED> [2008] FCJ No 1102 (QL) [ <FRAGMENT_SUPPRESSED> ]). The respondent argues that the applicant did not establish that the processing delays adversely affected his right to a fair hearing since the delay provided more time for the authorities to gather information and the applicant to make submissions. The initial six-month delay in forwarding the applicant's grievance to the IA may have been long, but was due to the complexity of the file and the difficulty to find an appropriate IA. Once the IA was appointed, there was no undue delay and all statutory timelines, when they applied, were respected. The respondent adds that the final two (2) years of the delay, between 2008 and 2010, were the direct result of the applicant's actions before this Court. The respondent finally argues that the applicant failed to prove that the delay caused the applicant any prejudice. The main prejudice alleged is the adverse effect on his military career and his marketability. The respondent recalls that CF members serve at pleasure and have no contractual rights enforceable against the Crown and that the applicant was not released from the CF as a result of his failure of CAP 0309, but due to a different set of circumstances (Respondent's Memorandum of Fact and Law at paras 68-75; Applicant's Record at 550).
+(b) Reasonableness of the CDS's decision
+[61]
+The respondent submits that the CDS's decision was reasonable. The CDS determined that the applicant was accurately and fairly assessed and that he did not meet the CAP course standards. This determination was based on the evidence before the CDS, which showed that the applicant would have failed on his third attempt even if the enemy had been at the target since he failed five (5) of the ten (10) leadership objectives, while he needed to pass eight (8) (Applicant's Memorandum of Fact and Law at paras 76-79). The respondent also submits that the CDS reasonably concluded that the applicant had failed on his fourth attempt based on the notes of his assessor which contained the same criticisms addressed to the applicant by the assessors of his first three (3) attempts (Respondent's Memorandum of Fact and Law at paras 80-82). Finally, the respondent argues that the CDS reasonably concluded that the applicant's allegations did not meet the definition of harassment set at
+5012-0. Furthermore, the alleged statement made by his assessor regarding his "thick heavy accent" was corroborated by the statements of other students in the course and would thus constitute an objective assessment and a proper performance evaluation and fall under the exception of
+5012-0 (Respondent's Memorandum of Fact and Law at paras 83-89).
+A. Procedural fairness
+[62]
+The Court will address each of the four (4) main claims of the applicant.
+[63]
+First, the applicant failed to convince the Court that
+7002-2 applied to his complaints, which were treated as grievances from the beginning and fell under the scheme of section 29 of the
+and chapter 7 of the
+Even if it did, the applicant did not explain how the fact that the IA did not issue terms of reference hampered his knowledge of the case to be met or the fairness of the grievance process.
+[64]
+Second, the applicant has not established that, by rendering his decision two (2) days before the School's Chief Standards Officer issued his report, the Commandant was biased. The Court notes that the report was issued on December 12, 2003, while the decision of the Commandant was delivered on December 10, 2003. Nothing on the record explains this surprising sequence. However, the Commandant's decision, in which he found that the applicant had been treated fairly and that he was not treated differently than the other students, seems to be fully supported by the evidence and concurs with the conclusions of the report issued two (2) days after (Applicant's Record at 172-173). As the applicant does not make any submissions as to how this decision suggests a reasonable apprehension of bias, this contention is without merit.
+[65]
+More importantly, the aforementioned decision and report are related to the 2003 complaint and predate the grievance process before the CDS, which started in March 2004, by more than a year. As such, they fall outside the scope of the present judicial review.
+[66]
+Third, the applicant did not demonstrate that there was inadequate disclosure in the grievance process. The issue to determine is not whether the respondent disclosed every document requested by the applicant or every document remotely relevant to his grievance, but whether the disclosure that was provided afforded the applicant an opportunity to know the CDS's position and address the evidence that could undermine his arguments. In order to know the case against him and bring evidence to prove his position, the respondent had the duty to disclose all the information on which he relied (
+The applicant contends that he did not have the ability to collect witnesses' evidence and suggests the CDS might have retained some statements from students enrolled in the CAP 0309 course. He also alleges that he never received the full list of documents that were considered by the CDS but not expressly mentioned in his decision. No evidence establishing the existence of such documents or otherwise supporting these contentions was adduced. Based on the record and the speculative nature of the applicant's allegations, the Court is satisfied that the disclosure provided by the respondent throughout the grievance process enabled the applicant to fully understand the case he had to meet and to respond to the evidence that was collected by the CDS.
+[68]
+Concerning the delays, the applicant alleges that approximately seven (7) years elapsed between the applicant's initial written complaint, filed on December 3, 2003, and the final decision of the CDS, rendered on November 23, 2010. The applicant submitted before this Court that a delay of two (2) years and a half would have amounted to a reasonable delay. It is however worthy of note that the grievance process was suspended for approximately two (2) years between 2008 and 2010, due to the applicant's action before the Federal Court. The grievance procedure before the CDS did not start before March 2004, when the applicant forwarded his grievance to him for consideration. Even when the relevant period is narrowed to take into account these considerations, the delay is approximately between four (4) to five (5) years.
+[69]
+The Supreme Court of Canada, in <FRAGMENT_SUPPRESSED> , above at paras 121-122, teaches that the principles applicable to delays in the administrative law context are the following:
+121 To constitute a breach of the duty of fairness, the delay must have been unreasonable or inordinate (Brown and Evans,
+, at p. 9-68). There is no abuse of process by delay
+. The respondent must demonstrate that the delay was unacceptable to the point of being so oppressive as to taint the proceedings. While I am prepared to accept that the stress and stigma resulting from an inordinate delay may contribute to an abuse of process, I am not convinced that the delay in this case was "inordinate".
+122 The determination of whether a delay has become inordinate depends on the nature of the case and its complexity, the facts and issues, the purpose and nature of the proceedings, whether the respondent contributed to the delay or waived the delay, and other circumstances of the case. As previously mentioned, the determination of whether a delay is inordinate is not based on the length of the delay alone, but on contextual factors, including the nature of the various rights at stake in the proceedings, in the attempt to determine whether the community's sense of fairness would be offended by the delay.
+[70]
+In the case at bar, the delay is not, given the facts of this case, "so oppressive as to taint the proceedings". The Court notes that the applicant contributed to the delays by initiating an action before this Court prior to the final decision of the CDS. In addition, the applicant broadened his complaint at the CDS level and made several new allegations, which required more extensive verifications. Finally, even if such a processing delay was undoubtedly inconvenient for the applicant, there is no evidence that he suffered a prejudice likely to compromise the fairness of the hearing. The record demonstrates that the applicant was ultimately honourably discharged from the CF because of his refusal to enrol in subsequent CAP courses, and the impossibility to transfer him to an occupation of his choice that ensued, not because of his failure of CAP 0309 (Applicant's Record at 550).
+[71]
+For all of these reasons, the Court is of the view that there is no breach of procedural fairness in the applicant's grievance process.
+B. Reasonableness
+[72]
+The applicant contends that the CDS's findings that the modifications to his assessment forms were clerical errors and that his allegations did not meet the requirements of harassment were unreasonable.
+[73]
+However, the applicant does not point to any specific omission or misconstruction of the evidence by the CDS. He is essentially requesting the Court to reweigh the evidence that was before the CDS and was the subject of a detailed report of the CFGB. The role of the Court is not to reweigh the evidence, but to determine if the CDS's findings fall within the range of reasonable outcomes defensible with regard to the evidence and the law (
+In the present case, the CDS undeniably "grapple[d] with the substance of [the applicant's] complaints, questions and concerns" ( <FRAGMENT_SUPPRESSED> , above at para 23), his decision was thorough and well reasoned, and he discussed all the relevant evidence. His reasons should therefore not be disturbed.
+[75]
+For the reasons above, the intervention of the Court is not warranted.
+THIS COURT'S JUDGMENT is that
+the application be dismissed. With costs.
+National Defence Act
+Right to grieve
+29.
+(1) An officer or non-commissioned member who has been aggrieved by any decision, act or omission in the administration of the affairs of the Canadian Forces for which no other process for redress is provided under this Act is entitled to submit a grievance.
+...
+Authorities for determination of grievances
+29.1
+(1) The initial authority and subsequent authorities who may consider and determine grievances are the authorities designated in regulations made by the Governor in Council.
+...
+Final authority
+29.11
+The Chief of the Defence Staff is the final authority in the grievance process.
+Referral to Grievances Committee
+29.12
+(1) The Chief of the Defence Staff shall refer every grievance that is of a type prescribed in regulations made by the Governor in Council to the Grievances Committee for its findings and recommendations before the Chief of the Defence Staff considers and determines the grievance. The Chief of the Defence Staff may refer any other grievance to the Grievances Committee.
+Material to be provided to Board
+(2) When referring a grievance to the Grievances Committee, the Chief of the Defence Staff shall provide the Grievances Committee with a copy of
+(
+) the written submissions made to each authority in the grievance process by the officer or non-commissioned member presenting the grievance;
+(
+) the decision made by each authority in respect of the grievance; and
+(
+) any other information under the control of the Canadian Forces that is relevant to the grievance.
+...
+Duties and functions
+29.2
+(1) The Grievances Committee shall review every grievance referred to it by the Chief of the Defence Staff and provide its findings and recommendations in writing to the Chief of the Defence Staff and the officer or non-commissioned member who submitted the grievance.
+Duty to act expeditiously
+(2) The Grievances Committee shall deal with all matters before it as informally and expeditiously as the circumstances and the considerations of fairness permit.
+The Grievances Committee has, in relation to the review of a grievance referred to it, the power
+(
+) to summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath and to produce any documents and things under their control that it considers necessary to the full investigation and consideration of matters before it;
+(
+) to administer oaths; and
+(
+) to receive and accept any evidence and information that it sees fit, whether admissible in a court of law or not.
+Restriction
+29.22
+The Grievances Committee may not receive or accept any evidence or other information that would be inadmissible in a court of law by reason of any privilege under the law of evidence.
+Witness not excused from testifying
+29.23
+(1) No witness shall be excused from answering any question relating to a grievance before the Grievances Committee when required to do so by the Grievances Committee on the ground that the answer to the question may tend to criminate the witness or subject the witness to any proceeding or penalty.
+Answer not receivable
+(2) No answer given or statement made by a witness in response to a question described in subsection (1) may be used or receivable against the witness in any disciplinary, criminal, administrative or civil proceeding, other than a hearing or proceeding in respect of an allegation that the witness gave the answer or made the statement knowing it to be false.
+...
+Fonctions
+29.2
+Restriction
+29.22
+Queen's Regulations and Orders for the Canadian Forces
+Chapter 7
+(1) Where a member requests assistance in the preparation of a grievance, the commanding officer shall detail an officer or non-commissioned member to assist in its preparation.
+(2) Where practical, the officer or non-commissioned member detailed shall be the officer or non-commissioned member requested by the grievor.
+7.04 - SUBMISSION TO COMMANDING OFFICER
+(1) A grievance must be in writing, signed by the grievor and submitted to the grievor's commanding officer.
+a. a brief description of the decision, act or omission that is the subject of the grievance, including any facts known to the grievor;
+b. a request for determination and the redress sought;
+c. if a person can substantiate the grievance, a statement in writing from that person; and
+d. a copy of any relevant document in the possession of the grievor.
+(3) A grievance may not be submitted jointly with any other member.
+(4) A grievance must not contain language or comments that are insubordinate or otherwise constitute a breach of discipline, unless the language or comments are necessary to state the grievance.
+(1) A commanding officer to whom a grievance is submitted shall examine the grievance and determine whether the commanding officer is able to act as the initial authority in respect of the grievance.
+(2) If the commanding officer is not able to act as the initial authority, the commanding officer shall:
+a. forward the grievance within 10 days of receipt to the initial authority;
+b. forward any additional information to the initial authority that the commanding officer considers relevant to the grievance; and
+c. inform the grievor of the action taken and, where applicable, provide the grievor with a copy of any additional information forwarded to the initial authority.
+(1) An initial or final authority in receipt of a grievance submitted by a member shall suspend any action in respect of the grievance if the grievor initiates an action, claim or complaint under an Act of Parliament, other than the
+National Defence Act
+, in respect of the matter giving rise to the grievance.
+(2) The initial or final authority shall resume consideration of the grievance if the other action, claim or complaint has been discontinued or abandoned prior to a decision on the merits and the authority has received notice to this effect.
+Defence Administrative Orders and Directives
+DAOD 5012-0, Harassment Prevention and Resolution
+Definitions
+Harassment is any improper conduct by an individual that is directed at and offensive to another person or persons in the workplace, and that the individual knew or ought reasonably to have known would cause offence or harm. It comprises any objectionable act, comment or display that demeans, belittles or causes personal humiliation or embarrassment, and any act of intimidation or threat. It includes harassment within the meaning of the
+Canadian Human Rights Act
+Where harassment involves misuse of the power or authority inherent in an individual's position, it constitutes an abuse of authority. Conduct involving the proper exercise of responsibilities or authority related to the provision of advice, the assignment of work, counseling, performance evaluation, discipline, and other supervisory/leadership functions
+. Similarly, the proper exercise of responsibilities or authority related to situations where, by virtue of law, military rank, civilian classification, or appointment, an individual has authority or power over another individual does not constitute harassment.
+Where harassment involves the coerced participation, expressed or implied, in improper initiation rites, ceremonies or other events, it constitutes hazing.
+...
+DAOD 7002-2, Summary Investigations
+In this DAOD, unless the context provides otherwise, "investigator" includes two investigators if so appointed to conduct a summary investigation (SI).
+An SI is normally ordered if:
+• the matter to be investigated is minor and uncomplicated;
+• specifically required by QR&O, a directive or an order; or
+• directed by higher authority.
+Actions Prior to Ordering an SI
+Prior to ordering an SI, an officer shall:
+• given the relationship of the officer to the matter to be investigated, consider the existence of a real, potential or perceived conflict of interest, or one that might arise, if the officer orders the SI;
+• obtain legal advice from the nearest representative of the Judge Advocate General (JAG) regarding matters such as the appropriate type of investigation to be conducted; and
+• contact the AISC to:
+• obtain advice on selection of the appropriate administrative investigation (board of inquiry (BOI), SI or informal investigation); and
+• receive sample terms of reference (TORs), lessons learned and best practices to apply for the ordering and conduct of an SI requiring Chief of the Defence Staff (CDS) approval (see the
+The officer shall refer the matter to higher authority and not order an SI if:
+• it appears likely that the officer or any superior of the officer may be adversely affected by the findings or recommendations of the SI;
+• the officer or any superior of the officer may be questioned as a witness; or
+• a suitable investigator is not available under the command of the officer ordering the SI.
+Ruby
+] ).
+[50]
+Fonctions
+29.2
+Restriction
+29.22
+National Defence Act
+Right to grieve
+29.
+(1) An officer or non-commissioned member who has been aggrieved by any decision, act or omission in the administration of the affairs of the Canadian Forces for which no other process for redress is provided under this Act is entitled to submit a grievance.
+...
+Authorities for determination of grievances
+29.1
+(1) The initial authority and subsequent authorities who may consider and determine grievances are the authorities designated in regulations made by the Governor in Council.
+...
+Final authority
+29.11
+The Chief of the Defence Staff is the final authority in the grievance process.
+Referral to Grievances Committee
+29.12
+(1) The Chief of the Defence Staff shall refer every grievance that is of a type prescribed in regulations made by the Governor in Council to the Grievances Committee for its findings and recommendations before the Chief of the Defence Staff considers and determines the grievance. The Chief of the Defence Staff may refer any other grievance to the Grievances Committee.
+Material to be provided to Board
+(2) When referring a grievance to the Grievances Committee, the Chief of the Defence Staff shall provide the Grievances Committee with a copy of
+(
+) the written submissions made to each authority in the grievance process by the officer or non-commissioned member presenting the grievance;
+(
+) the decision made by each authority in respect of the grievance; and
+(
+) any other information under the control of the Canadian Forces that is relevant to the grievance.
+...
+Duties and functions
+29.2
+(1) The Grievances Committee shall review every grievance referred to it by the Chief of the Defence Staff and provide its findings and recommendations in writing to the Chief of the Defence Staff and the officer or non-commissioned member who submitted the grievance.
+Duty to act expeditiously
+(2) The Grievances Committee shall deal with all matters before it as informally and expeditiously as the circumstances and the considerations of fairness permit.
+The Grievances Committee has, in relation to the review of a grievance referred to it, the power
+(
+) to summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath and to produce any documents and things under their control that it considers necessary to the full investigation and consideration of matters before it;
+(
+) to administer oaths; and
+(
+) to receive and accept any evidence and information that it sees fit, whether admissible in a court of law or not.
+Restriction
+29.22
+The Grievances Committee may not receive or accept any evidence or other information that would be inadmissible in a court of law by reason of any privilege under the law of evidence.
+Witness not excused from testifying
+29.23
+(1) No witness shall be excused from answering any question relating to a grievance before the Grievances Committee when required to do so by the Grievances Committee on the ground that the answer to the question may tend to criminate the witness or subject the witness to any proceeding or penalty.
+Answer not receivable
+(2) No answer given or statement made by a witness in response to a question described in subsection (1) may be used or receivable against the witness in any disciplinary, criminal, administrative or civil proceeding, other than a hearing or proceeding in respect of an allegation that the witness gave the answer or made the statement knowing it to be false.
+...
+Queen's Regulations and Orders for the Canadian Forces
+Chapter 7
+(1) Where a member requests assistance in the preparation of a grievance, the commanding officer shall detail an officer or non-commissioned member to assist in its preparation.
+(2) Where practical, the officer or non-commissioned member detailed shall be the officer or non-commissioned member requested by the grievor.
+7.04 - SUBMISSION TO COMMANDING OFFICER
+(1) A grievance must be in writing, signed by the grievor and submitted to the grievor's commanding officer.
+a. a brief description of the decision, act or omission that is the subject of the grievance, including any facts known to the grievor;
+b. a request for determination and the redress sought;
+c. if a person can substantiate the grievance, a statement in writing from that person; and
+d. a copy of any relevant document in the possession of the grievor.
+(3) A grievance may not be submitted jointly with any other member.
+(4) A grievance must not contain language or comments that are insubordinate or otherwise constitute a breach of discipline, unless the language or comments are necessary to state the grievance.
+(1) A commanding officer to whom a grievance is submitted shall examine the grievance and determine whether the commanding officer is able to act as the initial authority in respect of the grievance.
+(2) If the commanding officer is not able to act as the initial authority, the commanding officer shall:
+a. forward the grievance within 10 days of receipt to the initial authority;
+b. forward any additional information to the initial authority that the commanding officer considers relevant to the grievance; and
+c. inform the grievor of the action taken and, where applicable, provide the grievor with a copy of any additional information forwarded to the initial authority.
+(1) An initial or final authority in receipt of a grievance submitted by a member shall suspend any action in respect of the grievance if the grievor initiates an action, claim or complaint under an Act of Parliament, other than the
+National Defence Act
+, in respect of the matter giving rise to the grievance.
+(2) The initial or final authority shall resume consideration of the grievance if the other action, claim or complaint has been discontinued or abandoned prior to a decision on the merits and the authority has received notice to this effect.
+Defence Administrative Orders and Directives
+DAOD 5012-0, Harassment Prevention and Resolution
+Definitions
+Harassment is any improper conduct by an individual that is directed at and offensive to another person or persons in the workplace, and that the individual knew or ought reasonably to have known would cause offence or harm. It comprises any objectionable act, comment or display that demeans, belittles or causes personal humiliation or embarrassment, and any act of intimidation or threat. It includes harassment within the meaning of the
+Canadian Human Rights Act
+Where harassment involves misuse of the power or authority inherent in an individual's position, it constitutes an abuse of authority. Conduct involving the proper exercise of responsibilities or authority related to the provision of advice, the assignment of work, counseling, performance evaluation, discipline, and other supervisory/leadership functions
+. Similarly, the proper exercise of responsibilities or authority related to situations where, by virtue of law, military rank, civilian classification, or appointment, an individual has authority or power over another individual does not constitute harassment.
+Where harassment involves the coerced participation, expressed or implied, in improper initiation rites, ceremonies or other events, it constitutes hazing.
+...
+DAOD 7002-2, Summary Investigations
+In this DAOD, unless the context provides otherwise, "investigator" includes two investigators if so appointed to conduct a summary investigation (SI).
+An SI is normally ordered if:
+the matter to be investigated is minor and uncomplicated;
+specifically required by QR&O, a directive or an order; or
+directed by higher authority.
+Actions Prior to Ordering an SI
+Prior to ordering an SI, an officer shall:
+• given the relationship of the officer to the matter to be investigated, consider the existence of a real, potential or perceived conflict of interest, or one that might arise, if the officer orders the SI;
+• obtain legal advice from the nearest representative of the Judge Advocate General (JAG) regarding matters such as the appropriate type of investigation to be conducted; and
+• contact the AISC to:
+• obtain advice on selection of the appropriate administrative investigation (board of inquiry (BOI), SI or informal investigation); and
+• receive sample terms of reference (TORs), lessons learned and best practices to apply for the ordering and conduct of an SI requiring Chief of the Defence Staff (CDS) approval (see the
+The officer shall refer the matter to higher authority and not order an SI if:
+• it appears likely that the officer or any superior of the officer may be adversely affected by the findings or recommendations of the SI;
+• the officer or any superior of the officer may be questioned as a witness; or
+• a suitable investigator is not available under the command of the officer ordering the SI.
+[End of document]

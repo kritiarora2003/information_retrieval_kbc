@@ -1,0 +1,100 @@
+<FRAGMENT_SUPPRESSED>  CF 656)
+Federal Court
+Elyse Korman, for the applicant;
+Laoura Christodoulides, for the respondent.
+Solicitors of Record:
+Otis & Korman, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I. Introduction
+[1]
+: The Applicant, Mr. Aibek Ongeldinov, a citizen of Kazakhstan, arrived in Canada in February 2010. Based on his ethnicity as a Kazak Muslim Turk and his alleged association with the opposition Nagiz Akjol Party and the Eastern Turkestan Liberation Organization, he seeks refugee protection in Canada. The Applicant's sister, along with her husband, child, and in-laws (collectively, the Applicant's relatives), all travelled to Canada beginning in 2008. Even though the Applicant's claims were separate from those of the Applicant's relatives, there was evidently enough similarity that the claims were joined and heard together at the same hearing before a panel of the Immigration and Refugee Board, Refugee Protection Division (the Board). In a decision dated October 19, 2011 (the Decision), the Board, in a single set of reasons, allowed the claims of the Applicant's relatives but dismissed the claim of the Applicant, concluding that he was neither a Convention refugee nor a person in need of protection under either s. 96 or 97 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA].
+The Applicant seeks to overturn this Decision, raising the following alleged errors:
+1. the Board's findings with respect to the Applicant were arbitrary, given the testimony of and decision for the Applicant's relatives;
+2. the Board's finding that the Applicant was "vague" on the number of times he was detained is without evidentiary foundation;
+3. the Board's finding that it was implausible that the Applicant could have left Kazakhstan if he had been wanted by the authorities is without evidentiary support; and
+4. the Board failed to provide the Applicant with an opportunity to address an inconsistency between a letter from his father and his testimony.
+As the issues in this application raise questions of fact regarding credibility and the weighing of evidence, the applicable standard of review is reasonableness. As taught by the Supreme Court of Canada, on a standard of reasonableness, the Court should not intervene where the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (
+<FRAGMENT_SUPPRESSED> ). It is trite law that the Court must consider the decision as a whole. While individual findings, when read in isolation, may not be sufficient to warrant the rejection of a refugee claim, the Board may still reach a reasonable overall conclusion, based on a series of problems with the testimony and evidence. That is what happened in this case.
+[4]
+In its decision, the Board includes reference to all of the evidence put to it by the Applicant; nothing was ignored. The core of the Board's reasons for rejecting the Applicant's refugee claim is relatively brief. At paragraph 60 of its decision, the Board wrote that,
+I find that the [Applicant] has not provided sufficiently credible and trustworthy evidence to indicate that he has a political profile that would draw attention to him in Kazakhstan. He said he did not speak out and merely attended some demonstrations. There are inconsistencies as to when he was detained by authorities and how many times he was detained. I find that the detentions were added to his story to bolster it. He said he fears arrest if he returns because he is wanted by the authorities and, yet, he was permitted to leave the country. It is not plausible that he would be permitted to leave if he were on the wanted list.
+[5]
+I will turn to a consideration of each of the alleged errors.
+Arbitrary Decision
+[6]
+In his arguments, the Applicant relies extensively on perceived similarities between the testimony and evidence of the Applicant and that of his relatives and submits that the Board's findings with respect to the Applicant are different in the face of the same evidence. This, in the Applicant's view, demonstrates that the Board's rejection of the Applicant's claim was arbitrary. The overall problem with this approach is that the Applicant's "story" must stand on its own. The fact is that the Applicant does not base his claim on the claims of his relatives or his relationship with them. In his Personal Information Form, the Applicant described his own experiences with only minor reference to his relatives. There was no evidence before the Board that the Applicant had experienced problems due to his relationship with his relatives. Thus, even though the claims were joined for the hearing, the Board made it very clear that it was dealing with three different sets of allegations and that it was considering each set of allegations separately.
+[7]
+Another problem with the Applicant's reliance on the results of the relatives' testimony and the Board's decisions with respect to the relatives is that those findings are not under review. The mere fact that the Board's decision for the Applicant was different from that of his relatives does not make the decision arbitrary, particularly when one examines the evidence produced by the Applicant.
+[8]
+The foundation of the Applicant's claim was his political profile that resulted in detentions and other mistreatment by the authorities. However, when questioned at the hearing, the Applicant admitted that he had: (a) no membership documents showing that he was a member of any organization or political party; (b) no medical certificates to support alleged injuries at the hands of authorities; (c) no letters indicating that he had been associated with a political party or had suffered any injury; (d) no documents, beyond a student card, to show attendance at university. This evidence supports the Board's conclusion that he did not have a political profile that would attract the attention of the authorities. I acknowledge that the Board could have made more detailed reference to the lack of documentation. However, the conclusion of lack of political profile was certainly open to the Board based on the fact that documentation that one would reasonably expect was absent.
+In its reasons, the Board states that the Applicant was"vague as to the number of times he had been detained. He finally said that it was
+four
+times" (emphasis added). The Applicant submits that this finding of vagueness is not supported by the transcript. I do not agree.
+[10]
+The Applicant points to the following testimony:
+TRIBUNAL OFFICER
+: Now sir, I am confused. Exactly how many times have you been detained by the Turkish police and how many times have you been detained by the Kazak police?
+CLAIMANT
+: From the Turkish side, twice. And in Kazakhstan, three, four times I was detained.
+TRIBUNAL OFFICER
+: Well do you remember, is it three or four times sir?
+CLAIMANT
+: Four times I was taken.
+[11]
+Although the final answer appears to have been provided quickly, there is no question that the Applicant initially provided an answer that was different and that could be characterized as "vague". While a minor point, this vague initial response is supportive of the Board's overall finding. Moreover, the transcript cannot replace the real-time hearing of this testimony. The term "vague" could, in part, have referred to his delivery of the answers. This type of assessment can only be made by the Board who hears the testimony. There is no reviewable error.
+The Applicant is critical of the Board's finding that it was implausible that the authorities would have permitted the Applicant to leave the country if he had been on the "wanted list". The Applicant submits firstly that the Board did not make similar implausibility findings with respect to the Applicant's relatives, even thought they too were alleging that they were arrested and yet were permitted to leave the country. For the reasons expressed above, the situation for the Applicant's relatives is simply irrelevant.
+[13]
+The Applicant also argues that this finding is"unreasonable on its own".
+[14]
+In its decision, the Board referred to the April 8, 2011 United States Department of State document on Kazakhstan from the
+Country Reports on Human Rights Practices for 2010
+, contained in the National Documentation Package on Kazakhstan. That report advises at page 292 of the Certified Tribunal Record that,
+Although the government did not require exit visas for the temporary travel of citizens, there were
+certain instances
+in which the government could deny exit from the country, including for travelers subject to pending criminal or civil legal proceedings, unfulfilled prison sentences, or compulsory military duty. [Emphasis added]
+[15]
+The Applicant submits that the implausibility finding is not supported by this passage, given that the Applicant was not, at the time of his departure, the subject of "legal proceedings".
+[16]
+Common sense and rationality tell me that someone who has had serious interactions with the authorities would have some difficulty leaving the country under his own identity. Yet, in this case, the Applicant denied that he had any problems leaving Kazakhstan. This application of common sense is supported by the Report, which was put to the Applicant.
+[17]
+Moreover, this was simply one more problem with the Applicant's testimony that led the Board to its overall conclusion.
+[18]
+Father's Letter
+[19]
+Some time after the hearing, the Applicant provided written submissions and a letter, purportedly from the Applicant's father, stating that the Applicant had been arrested and detained in July 2009. The Board considered this letter as follows:
+A letter was provided from his father that stated he was arrested and detained for two weeks on returning from Turkey in July 2009. This letter also stated he was arrested again in December 2009 but does not refer to the length of the detention at that time. I find this letter is self-serving and is not consistent with the PIF narrative and, therefore, I give it no weight. [Footnotes omitted]
+[20]
+In his evidence, the Applicant stated that he had been arrested in June 2009 - rather than July 2009 as stated by his father. The Applicant submits that the inconsistencies in the letter should have been put to the Applicant.
+[21]
+As a general proposition, inconsistencies should be put to claimants before the Board relies on them to impugn a claimant's credibility (
+<FRAGMENT_SUPPRESSED>  (CanLII), 2002 FCT 212, [2002] FCJ No 277). However, the failure of the Board to direct a claimant to an inconsistency is not always a reviewable error (
+<FRAGMENT_SUPPRESSED>  (QL) (TD)). Whether the inconsistency must explicitly be put to a claimant will depend on the facts of each case.
+[22]
+On the facts of this case, the first thing to note is that the Board did not rely on the inconsistency to impugn the credibility of the Applicant. Rather, the inconsistencies between the father's letter and the Applicant's PIF led the Board to conclude that the letter itself was not a reliable or persuasive piece of evidence. This was a finding reasonably open to the Board.
+[23]
+Secondly, this letter was provided by Applicant's counsel after the hearing. The inconsistency in the dates of arrest is glaringly obvious and could have been addressed by counsel in final submissions.
+[24]
+In the circumstances, there was no duty on the Board to re-open the hearing to allow the Applicant to respond to the obvious inconsistency. There is no reviewable error.
+IV. Conclusion
+[25]
+In sum, the Board concluded that the Applicant's story simply did not establish the elements of persecution, under s. 96 or 97 of IRPA. The fact that the Applicant's relatives were able to muster different evidence and have their claims accepted does not change the weaknesses in the Applicant's evidence. I am satisfied that the Board's decision with respect to the Applicant, is reasonable; it falls within the range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[26]
+Neither party proposes a question for certification.
+THIS COURT ORDERS AND ADJUDGES that:
+1. the application for judicial review is dismissed; and
+2. no question of general importance is certified.
+.........................
+[traduction]
+AGENT DU TRIBUNAL
+AGENT DU TRIBUNAL
+Country Reports on Human Rights Practices for 2010
+[traduction]
+<FRAGMENT_SUPPRESSED>  (QL) (1re inst.);
+IV. Conclusion
+[25]
+LA COUR STATUE:
+[End of document]

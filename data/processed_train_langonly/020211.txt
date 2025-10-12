@@ -1,0 +1,105 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 351)
+Federal Court
+Jean-François Bertrand, for the applicant;
+Yael Levy, for the respondent.
+Solicitors of Record:
+Bertrand, Deslauriers, Montreal, Quebec, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. AP.019.
+[1]
+: The applicant is a citizen of Oman. He filed an application for a permanent resident visa to Canada as a member of the Federal Skilled Worker class. His application was refused on April 4, 2011, because the adjudicating immigration officer found that he provided insufficient details about his employment.
+[2]
+This is an application for judicial review of that decision pursuant to section 72 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27. For the following reasons the application is dismissed.
+Background
+[3]
+The applicant submitted an application for permanent residence in Canada as a member of the Federal Skilled Worker class on September 17, 2007. He included his wife and child in his application.
+[4]
+He stated in his application that he was employed as a pilot for Gulf Air. According to the National Occupation Classification (NOC), the occupation of pilot is classified under NOC 2271 and categorized under Skill Level B.
+[5]
+On March 11, 2010, the High Commission of Canada in London sent a letter to the applicant informing him that his application was being transferred to the Case Processing Pilot in Ottawa, as part of the Government of Canada's Action Plan for Faster Immigration, implemented to expedite processing times for certain types of applications. This letter also requested several documents from the applicant, including an updated visa application form and documents substantiating his work experience. With respect to the latter, the letter specified the following:
+covering the period from 10 years prior to your application date until today.
+Please make sure that the employment letters have details of your duties
+and clearly show the start and end dates (if relevant) of your employment. CPP-O is under no obligation to further request detailed employment letters, and your work experience review will be based solely on the documents initially provided.
+[Emphasis added]
+[6]
+In July 2010, the applicant submitted several documents, including a letter from his employer, Gulf Air, dated June 21, 2010, attesting that he had been employed by Gulf Air since April 19, 1992. The letter stated that the applicant works as a captain in the Airbus Fleet Management.
+[7]
+In Schedule 3 of his updated application, the applicant indicated, in the section dealing with work experience, that he had been employed as a pilot since April 1992, and he described his main duties as follows:
+a. Fly aircrafts fro [
+] Gulf airlines to transport passengers and freight;
+b. Direct activities of aircraft crew during flight, as captain of aircraft
+c. Co-pilot aircraft and perform captain's duties of required, as first officer
+d. Train pilots to use new equipment
+The decision under review
+[8]
+The immigration officer decided that the applicant did not meet the definition of a Federal Skilled Worker pursuant to paragraphs 75(2)(
+) and (
+) of the
+Immigration and Refugee Protection Regulations
+, SORS/2002-227 [the Regulations]. The immigration officer indicated that she was not satisfied that the applicant met the requirements of the Regulations because he failed to provide sufficient details about his employment, as requested. The immigration officer explained her reasoning as follows:
+. . . The employment confirmation from Gulf Air did not give any job description or a description of the duties performed for the position. There is insufficient information on the document provided by your employer to satisfy me that you have performed the main duties of the position described. You were asked, by letter from our London office dated March 11, 2010, to provide your work experience documents, including details of your duties. That same email informed you that failure to provide these documents would result in an assessment of your application based on the documents initially on file. After reviewing all documents provided, I am not satisfied you have performed the actions as set out in the lead statements of the NOC stated, and that you have performed a substantial number of the main duties of the position as described in the NOC. As a result, I am not satisfied that you meet the minimum requirements to apply as a skilled worker as stated in R75.
+This case raises the issue of the reasonableness of the immigration officer's decision.
+Standard of review
+[10]
+It is well established that decisions made by immigration officers regarding applicants' eligibility for permanent residence in Canada as members of the Federal Skilled Worker class involve an exercise of discretion and attract the reasonableness standard of review (
+[47] . . . A court conducting a review for reasonableness inquires into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+The applicant argues that the immigration officer fettered her discretion by relying on departmental guidelines, as they are outlined in the March 11, 2010 letter. The applicant further alleges that the immigration officer refused his application solely on the basis that he did not provide an employer's letter that described the main duties of his job as a pilot. However, the legislation and the Regulations do not specify the means by which one must establish that an applicant exercises the main duties of an occupation and do not specifically require employers' letters that include job descriptions. Accordingly, the applicant submits that the immigration officer's decision is unreasonable.
+[13]
+The applicant also argues that it was unreasonable for the immigration officer to conclude that he had not satisfactorily established his main duties as a pilot for Gulf Air. The applicant insists that there was no issue of credibility in his case and that the evidence he submitted clearly established his main duties as a pilot. First, he argues that the specific job duties of a pilot, and more particularly of a captain, are obvious and an immigration officer is expected to know what they are. Second, he alleges that the description of his main duties in Schedule 3, combined with the confirmation letter provided by his employer, was sufficient to establish that he genuinely works as a pilot for Gulf Air and was also sufficient to establish his job duties.
+[14]
+The respondent argues, for his part, that the onus was on the applicant to establish that he met the requirements to be admitted to Canada as a Federal Skilled Worker and that the request to submit detailed employers' letters for the past 10 years, was explicitly outlined in the letter sent to him on March 11, 2010. The respondent argues that considering that the applicant did not submit the documentation that was required of him, it was reasonable for the immigration officer to conclude as she did.
+[15]
+The respondent further argues that none of the documents provided by the applicant list the main duties of his work as a pilot, nor do they provide a job description. The respondent contends that the applicant simply copied and pasted the job duties from NOC 2271 to his Schedule 3 form and that this was not enough to satisfy his burden of proof. Rather, it was reasonable for the immigration officer to expect objective evidence from the applicant's employer. Without this evidence, the immigration officer was unable to assess whether the applicant had experience relevant to the duties outlined in NOC 2271 and this was sufficient to justify the finding that the applicant was ineligible for immigration to Canada pursuant to subsection 75(2) of the Regulations.
+A Federal Skilled Worker is defined at subsection 75(2) of the Regulations:
+(2) A foreign national is a skilled worker if
+(
+) within the 10 years preceding the date of their application for a permanent resident visa, they have at least one year of continuous full-time employment experience, as described in subsection 80(7), or the equivalent in continuous part-time employment in one or more occupations, other than a restricted occupation, that are listed in Skill Type 0 Management Occupations or Skill Level A or B of the
+National Occupational Classification
+) during that period of employment they performed the actions described in the lead statement for the occupation as set out in the occupational descriptions of the
+National Occupational Classification
+; and
+(
+) during that period of employment they performed a substantial number of the main duties of the occupation as set out in the occupational descriptions of the
+National Occupational Classification
+, including all of the essential duties..
+Pursuant to this provision, a foreign national must have at least one year of full time employment, or the equivalent within the past ten years, in one or more of certain types of occupations. In addition, he or she must have performed the actions described in the lead statement set out in the NOC for the occupation in question, as well as a substantial number of the main duties set out in the NOC. This requirement is coherent with the need to ensure that the duties that an applicant performed for a position held in their country of origin, correspond to the Canadian duties of the same occupation.
+[18]
+The onus was on the applicant to establish that, within the past ten years, he performed the actions described in the lead statement for the occupation of a pilot as set out in NOC 2271 and that he performed a substantial number of the main duties of this occupation for at least one year. (
+<FRAGMENT_SUPPRESSED> (available on  <FRAGMENT_SUPPRESSED> ACWS (3d) 858). The applicant is responsible for supplying enough supporting documents and evidence and he must put his best case forward (
+Mihura  <FRAGMENT_SUPPRESSED> , at para 40). The immigration officer is under no obligation to request further clarification from the applicant if he or she finds there is not enough evidence initially submitted (
+In order to evaluate admissibility, immigration officers need sufficient information to assess an applicant's job experience. They also need to verify the completeness and accuracy of the information that applicants submit with their application. In that sense, it is reasonable to require, as a general rule, that applicants provide corroborative third party information such as employers' letters that include details about the applicants' duties and /or job descriptions (
+, above, at para 33). These types of documents provide immigration officers with a complete picture of an applicant's duties and responsibilities and allow them to determine whether the duties performed by an applicant in his or her country of origin are similar to the Canadian description of the given occupation. In some cases, the information provided by employers also serves to confirm that an applicant actually performed the actions and duties that he or she claims to have performed.
+[20]
+In this case, the applicant did not meet his evidentiary burden.
+[21]
+First, in his description of his duties, the applicant limited himself to re-stating the main duties of a pilot as described in the NOC, without providing any further details about these duties. The applicant is asking the Court to infer, from this very generic information provided by the applicant, that a person employed as a captain for Gulf Air performs the same duties as those described in NOC 2271. In my view, it is neither for the immigration officer nor for the Court to make this inference. As mentioned above, the onus is on the applicant to establish that he meets the criteria as a Federal Skilled Worker and he failed to do so despite specific instructions on what types of documents are required. In my view, the applicant failed to meet the evidentiary burden required by subsection 75(2) of the Regulations because he did not provide sufficient information about his job duties and responsibilities.
+[22]
+Second, there is no doubt that the letter from the applicant's employer did not contain all the information that was plainly required by the immigration officer in the letter dated March 11, 2010. The employer's letter states only that the applicant is employed as a captain in the Airbus Fleet Management. The letter is silent as to the duties and responsibilities carried out by a captain in Gulf Air's Airbus Fleet Management. In fact, the employer's letter does not even include information about the activities of Air Gulf or its fleet.
+[23]
+The applicant argues that the duties of a pilot are obvious and that the immigration officer is expected to know what they are. This argument requires that the immigration officer assume that a pilot for Gulf Air performs the duties as described in NOC 2271. With respect, an immigration officer should not determine whether an applicant's work experience corresponds to the lead statement and main duties set out in the NOC for an occupation based on his personal knowledge of an occupation or on the personal knowledge that an applicant imputes to the immigration officer. Immigration officers must assess applications based on the evidence that applicants put forward and not on their own personal knowledge or assumptions. In my view, this is the only rigorous, fair, cohesive and coherent approach to assessing whether an applicant has performed the main duties of any position described in the NOC.
+[24]
+Finally, the applicant faults the immigration officer for having relied on a general guideline and argues that, in doing so, she fettered her discretion. I disagree. I have already stated that it is reasonable to require information from applicants' employers about the specific duties of an occupation. While I acknowledge that immigration officers cannot treat administrative guidelines as immutable law and that, sometimes, they need to apply them with nuances, I do not consider that, in this case, the immigration officer fettered her discretion. Considering the generic nature of the information provided by the applicant, it was reasonable for her to require details from the applicant's employer about his specific duties as a pilot. Furthermore, the applicant offered no excuse for failing to provide the information and documents requested of him; he did not allege that it was impossible for him to obtain the requested information from his employer, nor did he provide any other explanation.
+[25]
+In conclusion, considering the generic nature of the evidence on file and the applicant's failure to provide the documentation and information requested, I find that it was reasonable for the immigration officer to conclude that she was not satisfied that the applicant had established that he had performed the main duties of a pilot. The immigration officer's reasons are clear and reasonable and the outcome falls within the range of possible, acceptable outcomes which are defensible in respect of the facts and law ( <FRAGMENT_SUPPRESSED> , above, at para 47). The parties did not propose any question for certification and none arise in this case.
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed. There is no question for certification.
+.........................
+[traduction]
+[traduction]
+(2) A foreign national is a skilled worker if
+(
+) within the 10 years preceding the date of their application for a permanent resident visa, they have at least one year of continuous full-time employment experience, as described in subsection 80(7), or the equivalent in continuous part-time employment in one or more occupations, other than a restricted occupation, that are listed in Skill Type 0 Management Occupations or Skill Level A or B of the
+National Occupational Classification
+) during that period of employment they performed the actions described in the lead statement for the occupation as set out in the occupational descriptions of the
+National Occupational Classification
+; and
+(
+) during that period of employment they performed a substantial number of the main duties of the occupation as set out in the occupational descriptions of the
+National Occupational Classification
+, including all of the essential duties..
+[17]
+[End of document]

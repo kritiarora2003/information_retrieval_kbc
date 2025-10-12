@@ -1,0 +1,230 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 1159)
+Federal Court
+October 2, 2012.
+Raoul Boulakia, for the applicant;
+Catherine Vasilaros, for the respondent.
+Solicitors of Record:
+Raoul Boulakia, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+Introduction
+[1]
+: The Applicant, Mr. Nagulathas Alagaratnam, is an ethnic Tamil citizen of Sri Lanka who has lived in India since 2000. He wishes to come to Canada as a permanent resident to join his spouse (Spouse) who is a Canadian citizen of Sri Lankan origin. They were married in 2000, in India, and have twin boys born in Canada in 2010. On October 10, 2001, a sponsorship application was initiated by the Spouse.
+[2]
+In a decision dated October 20, 2011, the First Secretary, Immigration at the High Commission of Canada in New Delhi (the Officer) concluded that there were reasonable grounds to believe that the Applicant was a member of an inadmissible class of persons described in s. 34(1)(f) of the
+Immigration and Refugee Protection Act,
+]. Specifically, the Officer was of the opinion that there were reasonable grounds to believe that the Applicant is or was a member of the Liberation Tigers of Tamil Eelam (LTTE). The Officer also concluded that the Applicant's humanitarian and compassionate (H&C) factors were insufficient to overcome the seriousness of his inadmissibility. The application for permanent residence was rejected.
+[3]
+The Applicant seeks to overturn this decision. The Applicant now acknowledges that he misrepresented information on his application. However, he asserts that the Officer erred in concluding that he was inadmissible pursuant to s. 34(1)(f) of
+. Further, he submits that, even if the inadmissibility decision is reasonable, the Officer erred in his analysis of the H&C factors.
+This application raises the following three issues:
+1. Did the Officer breach a principle of natural justice, by using undisclosed evidence to decide the question of inadmissibility?
+2. Was the finding that there were reasonable grounds to believe that the Applicant is or was a member of the LTTE unreasonable?
+3. Was the finding that the H&C factors did not outweigh the inadmissibility finding unreasonable, or did it breach natural justice because:
+a. the Officer gave excessive weight to the inadmissibility finding, thereby ignoring the other H&C factors;
+b. the Officer failed to have regard to the best interests of the Applicant's children; or,
+c. it was based on extrinsic evidence not disclosed to the Applicant?
+Standard of Review
+[5]
+The decision of the Officer on whether permanent residency should be granted to the Applicant is reviewable on a standard of reasonableness. On this standard, the court must determine "whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and the law" (
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] ). A court should also examine whether the decision displays "justification, transparency and intelligibility within the decision-making process" ( <FRAGMENT_SUPPRESSED> , above at para 47). It is important to remember that the Court must not substitute its own assessment of the evidence for that of the decision maker. The fact that another decision would be reasonable on the evidence in the record does not make the decision rendered unreasonable. As recognized by the Supreme Court, there may be a range of "possible, acceptable outcomes".
+[6]
+The appropriate standard of review for issues of procedural fairness is correctness (
+<FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] ). The question with respect to Issues #1 and 3c is whether the Officer did or did not breach the duty of fairness; no deference is owed to the Officer (
+In this case, the reasons for the decision include the notes of the Officer, as recorded in the Computer Assisted Immigration Processing System (CAIPS).
+Statutory Framework
+[8]
+The Applicant was found to be inadmissible under s. 34(1)(f) of
+, which provides that:
+34.
+(1) A permanent resident or a foreign national is inadmissible on security grounds for
+(
+) engaging in an act of espionage or an act of subversion against a democratic government, institution or process as they are understood in Canada;
+(
+) engaging in or instigating the subversion by force of any government;
+(
+) being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts referred to in paragraph (
+) or (
+Considerations relating to evidence that may support a finding under s. 34(1) are contained in s. 33:
+33. The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred, are occurring or may occur.
+The Officer also considered the H&C factors that the Applicant advanced under s. 25(1) of
+25. (1) Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible or does not meet the requirements of this Act, and may, on request of a foreign national outside Canada who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+Background
+[11]
+The application for permanent residence was submitted on October 15, 2001, using the generic form IMM 0008. Question 15G of the form asked the Applicant whether he had "been detained or incarcerated", to which question the Applicant responded "No". After a preliminary review, the Applicant was requested to provide a Police Security Certificate from Sri Lankan authorities. This Certificate, dated December 11, 2002, disclosed that the Applicant was arrested on March 4, 1995 "for being a trained cadre of the LTTE". The Certificate also disclosed that the Applicant was charged in Colombo High Court under the
+Prevention of Terrorism Act
+and was "discharged and acquitted" on August 21, 1998.
+[12]
+The Applicant's failure to refer to his arrest in 1995 and three-year detention under s. 5(b) of the
+Prevention of Terrorism
+is, without question, material. The charge laid against the Applicant on October 21, 1997 was, in part, as follows: "You did, during the period between 1st January, 1985 and 4th, March 1995, in Jaffna . . . fail to inform a police officer the information you knew about the transport and places of movements of any persons who commit a crime falling under the prevention of terrorism act number 48 . . . or trying to commit a crime or preparing to commit a crime . . ." .
+[13]
+During his detention, the Applicant made a "confession"that he had joined the LTTE and had received training. When the matter came to the High Court, the High Court Judge rejected the confession for the following reasons:
+Doubt exists if the accused had made this statement voluntarily. I give the benefit of the doubt to the accused. I reject this confession. Further, the state Counsel says that there is no other evidence to prove this charge free from reasonable doubt. Hence I acquit the accused. There are other reasons too for rejection of this confession.
+[14]
+The "other reasons" for rejecting the confession are not specified. The Applicant alleges that the confession was obtained through torture.
+[15]
+Preliminary reviews and background checks were carried out by employees of Citizenship and Immigration Canada (CIC) and Canada Border Services Agency. In September 2003, the matter was then referred to a "partner agency" to conduct a "Secondary (B) referral". As part of this referral, the Applicant was interviewed by an officer from the partner agency on February 25, 2005. On October 9, 2007, a "highly classified brief" (the Classified Brief) was forwarded from the partner agency to officers with CIC; the report contained the opinion that the Applicant was inadmissible for being a member of the LTTE. In January 2008, the Applicant was again interviewed: this time, by an immigration officer with CIC.
+[16]
+In a letter dated April 28, 2011 (Fairness Letter), the Officer advised the Applicant of his concerns that that there were reasonable grounds to believe that the Applicant was a member of the LTTE. In submissions dated August 20, 2011 (Response Letter), counsel for the Applicant responded to the Fairness Letter. With respect to the allegation of inadmissibility, the Response Letter contained a blunt denial of membership in the LTTE, reference to the dismissal of the charges against him and reference to the Applicant's otherwise unremarkable Police Clearance Certificate. Counsel also requested that, if the Applicant were to be found to be inadmissible, reunification of the Applicant with his Spouse and children in Canada should be facilitated on humanitarian grounds.
+[17]
+With this record before him, the Officer made his decision to reject the application.
+Non-disclosed Information
+[18]
+An important part of this application for judicial review relates to certain information contained in the Applicant's file that has not been disclosed to him.
+[19]
+By motion dated May 2, 2012, the Respondent sought a non-disclosure order pursuant to s.87 of the
+regarding information that was redacted from the Certified Tribunal Record (CTR), which forms part of the record in this Application for Judicial Review. As part of the Motion Record, the Respondent advised that he intended to rely on the confidential information for the purpose of responding to the Application for Judicial Review. The Motion Record contained an
+secret affidavit with attached exhibits containing the relevant documents in their entirety.
+[20]
+The Applicant was aware of the motion and aware of the intention of the Respondent to rely on the redacted information. In a letter to the Court dated May 3, 2012, counsel for the Applicant advised the Court that he "will be filing submissions in reply to the s. 87 motion . . .". The Applicant was also informed of the Direction of the Chief Justice, dated June 1, 2012, that an
+and
+hearing of the motion would take place on July 24, 2012. It is relevant to the Court's consideration of the Applicant's argument of breach of procedural fairness that the Applicant did not make submissions with respect to the motion. Nor did he apply to the Court for the appointment of a Special Advocate "to protect the interests of the . . . foreign national" (
+, s. 87.1).
+[21]
+After reviewing the Respondent's Motion Record and hearing the
+motion, I was satisfied that disclosure of the information which the Respondent seeks to protect "could be injurious to national security or endanger the safety of any person". By Order dated July 24, 2012, I granted the Respondent's motion and ordered that the information redacted from the CTR shall not be disclosed in the underlying Judicial Review Application.
+Breach of Natural Justice
+[22]
+The Applicant submits that the redacted information in the CTR is extrinsic evidence which, as a matter of procedural fairness, should have been disclosed to him. The Applicant assumes that the redactions disclose the reasons why the Applicant was thought to be a member of the LTTE and argues that the failure of the Respondent to disclose this information - either in whole or in summary form - prevents him from responding to the information and correcting inaccuracies.
+[23]
+I have difficulty concluding that this decision should be overturned due to an alleged breach of natural justice. The Applicant has been aware of the Classified Brief and the redacted CTR for some time. He was provided notice of the Respondent's intention to bring an application for non-disclosure of portions of the CTR. His counsel knew or ought to have known that the Applicant could have requested the appointment of a Special Advocate, pursuant to s. 87.1 of the
+. In brief, the Applicant failed to take reasonable steps to address the redacted information. In these circumstances, the argument that there has been a breach of the rules of procedural fairness is difficult to sustain.
+[24]
+Even if I accept that there has been a breach of procedural fairness, the remedy sought by the Applicant is not warranted on the facts of this case. Where there may be a breach of the rules of fairness, the court should assess whether the error "occasions no substantial wrong or miscarriage of justice" ( <FRAGMENT_SUPPRESSED> , above at para 43) and whether it would be "hopeless"to remit the case back for re-determination (
+In this case, I do not need to determine whether the failure to disclose the redacted information was a breach of natural justice. This is because, as discussed in the following section of these reasons, the Officer's decision is adequately supported by the evidence that is included in the open court record and is, thus, reasonable. In other words, the alleged breach of natural justice would not affect the outcome.
+Reasonableness of the Inadmissibility Decision
+[26]
+The Applicant also asserts that the evidence in the open record is insufficient to support the Officer's decision and that the reference to the redacted report, without more, did not meet the standard of justification, transparency and intelligibility. In light of
+Newfoundland and  <FRAGMENT_SUPPRESSED> , these arguments address the same point from slightly different perspectives - that the reasons, taken together with the outcome, are unreasonable in the context of the open record.
+[27]
+The question of whether the inadmissibility decision is reasonable must be considered in the context of the standard of proof. According to s. 33 of
+, determination of membership under s. 34(1)(f) of
+is assessed on a standard of "reasonable grounds to believe". This standard demands "more than mere suspicion, but less than the standard applicable in civil matters of proof on a balance of probabilities ...[i] n essence, reasonable grounds will exist where there is an objective basis for the belief which is based on compelling and credible information" (
+The open record discloses the following significant information:
+• In 1990, when the Applicant was working on the family farm, the Sri Lankan military attacked, although the Applicant could not say why. During his interviews, the Applicant was inconsistent about where he was living.
+• In 1995, the Applicant boarded a train for Colombo and was arrested along with several others for being a trained cadre of the LTTE. The Applicant states he was arrested because of his gender and ethnic background. However, once again, his answers given at the interviews revealed numerous inconsistencies with regard to whether he had the appropriate pass at the time, the length of his detention and whether or not he was forced to confess through torture.
+• The High Court records state that the Applicant was charged with failing to inform a police officer about the activities of the LTTE. The Applicant confessed to joining the LTTE and receiving training during his detainment but he was acquitted because his confession may not have been voluntary. His Police Clearance Certificate states that he did not come to police notice at any other time.
+• The Applicant misrepresented himself on his original application form about whether he had ever been detained or incarcerated and provided false locations for where he was living during the time he was detained. His explanation for this was that he misunderstood the interpreter and did not want to indicate that he had spent time in jail.
+• During the 2008 interview, Applicant appeared nervous, sometimes looking down and biting his nails when asked about the LTTE, whether he was travelling alone on the train, why he was travelling to Colombo and why he misrepresented himself on his application form. The Applicant also kept attempting to refer to his written documents to answer questions.
+• On his revised application, the Applicant did not complete the question that asked whether he or any of his family members ever was a"member of an organization that is or was engaged in an activity that is part of a pattern of criminal activity".
+[29]
+In reviewing an admissibility decision, the court must take account the "reasonable grounds to believe" standard imposed by the
+, the broad definition of membership clearly articulated in the jurisprudence and the court's subsequent review on a reasonableness standard (
+<FRAGMENT_SUPPRESSED> NR 233 [ <FRAGMENT_SUPPRESSED> ] ). Each of the events described above would not prompt more than suspicion taken alone. Nonetheless, assessing these events together as the Federal Court of Appeal did in <FRAGMENT_SUPPRESSED> , it was, in my view, open to the Officer to conclude that the evidence demonstrated more than mere suspicion or conjecture.
+[30]
+Of particular concern to the Applicant is the Officer's treatment of the High Court decision. The Applicant asserts that the Officer should have, in effect, treated the Applicant's acquittal in High Court as a complete rebuttal of the allegation of membership in the LTTE.
+[31]
+With respect to the acquittal, I observe that the Applicant was not acquitted of the charges against him on the basis that the allegations of membership in the LTTE were without merit. Rather, the conclusion of the High Court Judge was that, without the confession, the charges could not be proven
+beyond a reasonable doubt
+. This certainly leaves open the possibility that there are reasonable grounds to believe that the Applicant was a member of the LTTE. Such a conclusion would need to be made without regard to the confession, arguably made through the use of torture. However, the Officer could certainly rely on the evidence of the underlying circumstances, including the fact that he was arrested and held for three years on suspicion of being a member of the LTTE. In short, the acquittal, in this case, is relevant but not determinative. The Officer was, in my view, entitled to weigh the three-year detention, particularly in light of the Applicant's attempt to hide the detention, as grounds to support his finding.
+[32]
+One other concern was raised by the Applicant relates to one entry in the Officer's CAIPS notes. The Officer's CAIPS notes reflect that, on September 15, 2011, the Officer reviewed the Response Letter and submissions. The Officer accurately summarizes the submissions of the Applicant with respect to his inadmissibility. However, he then makes the following comment:
+Finally, Mr. Boulakia [counsel] seems to contradict his own argument by stating that should we find Mr. Nagulathas to be inadmissible under 34(1)(f) then humanitarian [discretion] should be exercised [because his] client was [a victim] of arbitrary detention and torture, he has been separated from his wife since 2000 and they [have] 2 sons who are both Canadian citizens.
+[33]
+The Applicant asserts that the Officer misunderstood his argument in the alternative with regard to H&C factors as an admission of guilt. Although the Officer's choice of words is not ideal, the context demonstrates that this is not material to the reasons or the outcome. Having reviewed the totality of the Officer's notes, I am satisfied that the Officer did not rely on the H&C submissions as an admission of guilt by the Applicant.
+[34]
+I conclude that there was sufficient information within the open court record that could lead the Officer to his finding. In other words, the Officer's decision falls within the range of acceptable outcomes. Given the context of the record, it could be reasonable for the Officer to attach significant weight to the Applicant's failure to declare his arrest and three-year detention for being a trained cadre of the LTTE without a credible excuse. Acknowledging the decision-maker's expertise in matters of national security (
+] ), the reasons and the outcome in the context of the open record are reasonable. Stated in the terms used by the Supreme Court in <FRAGMENT_SUPPRESSED> , above, there is an objective basis for the belief which is based on compelling and credible information. In this case, the compelling and credible information is contained on the open record and there is no need to resort to the undisclosed information.
+Reasonableness and Fairness of the H&C Decision
+[35]
+The Applicant submits that the Officer's H&C decision is flawed.
+[36]
+Section 25 of the
+allows for exceptional relief from the requirements of the
+based on individual H&C circumstances (
+<FRAGMENT_SUPPRESSED> Imm LR (3d) 173). There is a high threshold to obtain such relief when applying for permanent residence from outside Canada (
+<FRAGMENT_SUPPRESSED> Imm LR (3d) 66). The onus is on the applicant to provide evidence about his or her individual circumstances for the immigration officer to consider (
+There is no question that humanitarian factors can outweigh inadmissibility (
+<FRAGMENT_SUPPRESSED> NR 121). However, the
+balances a number of objectives and one of these is national security. The Applicant's potential danger to Canada was a relevant factor and it was open to the Officer to give this factor great weight.
+[38]
+The Applicant impugns a particular sentence in the CAIPS notes, which raises the question of whether the Officer assumed that no humanitarian factors could ever outweigh inadmissibility. This sentence is as follows: "I carefully reviewed Mr. Boulakia's submission and weighed the humanitarian factors but the seriousness of the applicant's inadmissibility outweighs any such consideration".
+[39]
+The problem with the Applicant's reliance on this one sentence is that it ignores the balance of the lengthy CAIPS notes. A court should not microscopically examine every word in a decision in isolation and should instead assess the reasons and outcome in context (
+Newfoundland  <FRAGMENT_SUPPRESSED>  at paras 14-16). In an entry from a few days earlier, also reviewing the Applicant's submissions, the Officer stated that, "[i]n this case
+the H & C factors while existing
+are insufficient to overcome the serious grounds of inadmissibility for membership in a terrorist organisation which is proscribed by the Canadian government" [Emphasis added]. This comment by the Officer demonstrates two things: (a) that the Officer considered the H&C submissions made by the Applicant; and, (b) that the Officer was aware that H&C factors may outweigh inadmissibility and careful consideration was necessary to determine the outcome. Further, given the very serious allegations against the Applicant and the high threshold for H&C exemptions for visa applicants abroad (
+<FRAGMENT_SUPPRESSED>  at paras 62, 64), it was reasonable for the Officer to believe that it would be difficult for H&C factors to outweigh inadmissibility in this situation.
+[40]
+The Applicant asserts that the Officer failed to have regard to the best interests of the children of the Applicant, twin boys born and living in Canada with the Spouse.
+[41]
+A decision-maker should be "alert, alive and sensitive" to the best interests of children (
+<FRAGMENT_SUPPRESSED> ). The onus is on an applicant to include pertinent information about children and the effect that particular circumstances will have on them to require the officer to consider them ( <FRAGMENT_SUPPRESSED> , above at para 8).
+[42]
+Although the Applicant cites case law for the proposition that the best interests of children should be accorded "significant weight",this does not accurately reflect the present jurisprudence. Two of the cases cited by the Applicant were decided before
+, above at para 37 in which the Supreme Court instructed that courts must not reweigh factors considered by decision-makers on judicial review.
+has been applied by the Federal Court in the context of best interests of children (
+Further, the Applicant cites three other cases, all of which are distinguishable.  <FRAGMENT_SUPPRESSED>  FTR 157, exceptional facts existed since the children witnessed a vicious attack on their mother, which prompted the family to flee from their home country. As well, in
+<FRAGMENT_SUPPRESSED>  Imm LR (3d) 312, the child was very young and seriously handicapped, suffering from both physiological and mental illnesses that required constant care.  <FRAGMENT_SUPPRESSED>  relates to a stay motion, not an H&C decision.
+[44]
+In the CAIPS notes, the Officer refers to the fact that"the family is separated with the [Applicant's] wife unable to settle permanently in India". He considered the possibility that the family might reunite in Sri Lanka. This demonstrates consideration of the children in the context of the separation of the family, although each child and any particular effects on that child are not assessed individually.
+[45]
+In my view, the Officer's assessment of the interests of the children adequately addresses the contents of the Applicant's submissions on this issue. As noted in <FRAGMENT_SUPPRESSED> , above at para 8, an applicant must raise the issue of children and any hardship they will face to require an immigration officer to consider their best interests. All that is said in the Applicant's submissions regarding the children is that bringing the family back together would be in the children's best interest. There are no submissions particular to either or both children aside from the hardship they would face growing up without their father.
+[46]
+Therefore, the Officer reasonably considered the family as a whole and the hardship of their present separation. There is no indication that he was not alert, alive and sensitive to the children's interest to be raised in a household with their father present. It is not the role of the court to reweigh the factors the Officer considered. Nor should the Court engage in an examination of evidence or hardships that were not raised in the Applicant's submissions.
+[47]
+The final submissions of the Applicant relate to the Officer's reference in his decision to the possibility of the family reuniting in Sri Lanka. In this regard, the CAIPS notes contain the following remark:
+I also note that the applicant and his family now have the possibility of returning to their home country Sri Lanka. The conflict is finished for 2 years and the UNHRC [sic] has deemed Sri Lanka safe for Sri Lankan Tamils to return without fear. Thus the applicant and his family have the possibility of ending the separation.
+[48]
+With respect to this aspect of the Officer's H&C analysis, the Applicant asserts that the Officer violated the rules of procedural fairness in two ways: (a) by relying on some unspecified "UNHRC"information without disclosing this extrinsic evidence to the Applicant; and (b) by not raising the possibility of return to Sri Lanka with the Applicant and giving him and his Spouse an opportunity to respond.
+[49]
+The term "UNHRC" used by the Officer is obviously a typographical error. The term should have been "UNHCR", which is the well-known acronym for United Nations High Commission for Refugees. Nothing turns on this immaterial error.
+[50]
+In oral submissions, counsel for the Applicant stated that,"No one could have anticipated that the Officer would have said 'Go back to Sri Lanka'". This is incorrect. The notion of a return to Sri Lanka was raised by the Applicant. In the Response Letter, where the only H&C submissions were made, counsel stated that the family:
+. . .cannot be expected to live together in Sri Lanka. She is a Convention refugee, and he suffered traumatisation due to detention and torture in Sri Lanka.
+[51]
+In an affidavit submitted with the Response Letter, the Spouse made a very brief reference to the possibility of returning to Sri Lanka:
+I am not willing to live in Sri Lanka, as I fled from there fearing persecution. My husband was detained and tortured in Sri Lanka and is not willing to return there.
+[52]
+Given that the Applicant and Spouse raised the issue of possible return to Sri Lanka in their submissions, it should come as no surprise that the Officer considered this option in his decision. The Officer did not err by addressing the possibility of reunification of the family in Sri Lanka.
+[53]
+On these facts, I do not believe that the Officer acted unfairly by referring to UNHCR information or by failing to give the Applicant a further opportunity to respond. Information about country conditions is frequently published by the UNHCR; the information is easily accessed on the internet and is considered to be reliable. Documents commonly relied on by immigration officers, which are available online, are not extrinsic evidence (
+<FRAGMENT_SUPPRESSED> [2008] FCJ No 272).
+[54]
+While the CAIPS notes do not refer to the exact report referenced by the Officer, the online report would have stated that the UNHCR is of the view that, in general, it is safe for Tamils to return to Sri Lanka. It would have been easy for the Applicant to obtain all relevant reports. It would also have been reasonable for the Officer to expect the Applicant to address the substance of the UNHCR information in the H&C submissions. If the Applicant or his spouse had issues beyond an unwillingness to live in Sri Lanka (such as, risk to a returning Tamil woman, fear of being a returning refugee, specific hardship for children, etc.) they could have, and should have, put that evidence before the Officer. The Applicant bears the burden of putting the best evidence forward; in this case, he failed to do so.
+[55]
+Overall, the H&C decision is reasonable and does not demonstrate any breach of procedural fairness.
+Conclusion
+[56]
+In sum, I am not persuaded that the Court should intervene in this decision. The Application for Judicial Review will be dismissed.
+[57]
+I appreciate that the finding of inadmissibility is a harsh one for the Applicant and his family. This may be a case which would warrant the exercise of the Minister's discretion under s. 34(2).
+[58]
+The Applicant suggested that I consider certifying a question such as the following:
+Can an immigration officer ever rely on a confession obtained through torture as evidence of inadmissibility?
+[59]
+In my view, this question does not arise on the facts of this case. As I indicated above, the Officer was entitled to consider the arrest and detention together with other facts arising in the case. That, in my view, is exactly what was done here. The Officer did not rely on the confession
+; rather, he examined the surrounding circumstances, as he is entitled to do. Accordingly, this is not a proper question for certification.
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. the application for judicial review is dismissed; and
+2. no question of general importance is certified.
+.........................
+(1) A permanent resident or a foreign national is inadmissible on security grounds for
+(
+) engaging in an act of espionage or an act of subversion against a democratic government, institution or process as they are understood in Canada;
+(
+) engaging in or instigating the subversion by force of any government;
+(
+) being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts referred to in paragraph (
+) or (
+33. The facts that constitute inadmissibility under sections 34 to 37 include facts arising from omissions and, unless otherwise provided, include facts for which there are reasonable grounds to believe that they have occurred, are occurring or may occur.
+[10]
+25. (1) Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible or does not meet the requirements of this Act, and may, on request of a foreign national outside Canada who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+Prevention of Terrorism Act
+Prevention of Terrorism
+[traduction]
+[traduction]
+Newfoundland Nurses
+[traduction]
+[traduction]
+[traduction]
+Conclusion
+[56]
+[traduction]
+LA COUR ORDONNE
+:
+[End of document]

@@ -1,0 +1,65 @@
+Federal Court
+Dany Fradette, on his own behalf;
+Michelle Kellam, for the respondent.
+Solicitors of Record:
+Myles J. Kirvan, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+<FRAGMENT_SUPPRESSED>  HMS Host International since 1998 and works out of Pierre Elliott Trudeau Airport in Montréal. In order to perform his duties, he needs access to restricted areas of the airport and in order to gain this access he needs security clearance to obtain a pass.
+[2]
+The applicant filed an application for judicial review of a decision of the Minister of Transport, Infrastructure and Communities (the Minister), dated June 4, 2009, in which the Minister cancelled the applicant's security clearance. The decision was based on the applicant's criminal record, which reveals that the applicant was convicted of fraud on two occasions.
+Background
+[3]
+In February 1992, the applicant was convicted of fraud under $1,000. In 2006, he was convicted of fraud over $5,000. It has been established that the applicant never tried to conceal his criminal record from the respondent.
+[4]
+When the applicant began his employment in 1998, the Minister issued him a security clearance in spite of the 1992 conviction. This security clearance was renewed in 2004. Security clearances must be renewed every five years and, in January 2009, the applicant once again applied for a renewal of his security clearance. A verification of the applicant's criminal record revealed a second conviction for fraud, this one for fraud over $5,000.
+[5]
+On March 3, 2009, Mary Ann Mattioli, Director of Security Screening Programs, advised the applicant that the security screening had revealed the existence of the above-mentioned offences and that this information had [translation] "raised doubts about his being able to obtain security clearance". Ms. Mattioli informed the applicant that his file would be referred to the Transportation Security Clearance Advisory Body (the Advisory Body), which would provide a recommendation to the Minister. The applicant was also invited to submit additional written information to the Advisory Body.
+[6]
+On March 4, 2009, the applicant wrote to Transport Canada. In his letter he explained the context of his second conviction and added that the did not pose a threat to security:
+[translation]
+I received a notice warning me that my security pass for P.E.T. Airport had been revoked due to my criminal record and I hope that with my explanations about this record, you will understand that I do not pose any threat to the airport or to my immediate employers, and I thank you for taking the time to look into my case.
+I will summarize and explain the situation. I have been accused of things for which I was not responsible and the position I held at the time made me a prime target for this accusation, and in order to prevent a lot of problems for other people, and above all on my lawyer's advice, I opted to plead guilty, and this was all to prevent problems this could have caused for other people, testifying, appearing in court etc ... But because of my lawyer's bad advice I was charged anyway and unfortunately after that I have had a criminal record.
+I was sentenced on Sept. 8, 2004, and the judgment was only handed down on February 9, 2006, which was a long time to wait but this seems normal in the justice system. I served my sentence in the community i.e. 9 months without disturbing the peace. I can provide documents attesting to this upon request. It has now been 3 years since that ended, and I have not been accused of anything since then. I made a mistake and learned a lot from that mistake. All this time I have continued to work at the airport without causing any problems, either for my employer or for the airport's security, by complying with airport security standards. I love my work and my work environment at the airport, and I have now been working for 10 years as a manager for HMS HOST.
+[7]
+On April 7, 2009, the Advisory Body recommended that the Minister cancel the applicant's security clearance on the basis of his two convictions for fraud. The recommendation indicates that the information provided by the applicant was not sufficient for the Advisory Body to recommend that security clearance be granted. This recommendation was accepted by the Minister's delegate on May 19, 2009, and the applicant was informed of the Minister's decision in a letter dated June 4, 2009, signed by the Director of Security Screening Programs. The letter states that the applicant's security clearance was cancelled on the basis of the Advisory Body's recommendation.
+Proceedings
+[8]
+On July 7, 2009, the applicant filed an application for judicial review of the Minister's decision to cancel his security clearance. However, this application was never followed by the filing of the applicant's record, as is required under Rule 309 of the
+Federal Courts Rules
+SOR/98-106. No affidavit was filed either, in spite of orders to this effect.
+[9]
+The respondent is asking the Court to dismiss the application for judicial review on the sole basis that the applicant's record is incomplete. Alternatively, the respondent is asking that the Court not allow the applicant to introduce any new evidence or arguments which do not appear in the application for judicial review proceeding. At the hearing, I took the respondent's objections under advisement and allowed the applicant, who was representing himself, to submit his arguments.
+[10]
+Having regard to the objection about the status of his record, the applicant stated that he did not fully understand the requirement to file a record with the Court and explained that he was under the impression that the filing of his application for judicial review was all that was required of him.
+[11]
+Regarding the merits of his application for judicial review, the applicant argued that he failed to understand why his security clearance had been cancelled given the fact that when he received his first security clearance in 1998 and when it was renewed in 2004, he had a previous conviction for fraud under $1,000, which did not prevent him from being granted clearance. The applicant added that the offences for which he had been convicted had nothing to do with aviation security or with his work and that he did not pose a threat to security. The applicant explained that he was asking the Court to set aside the Minister's decision and to grant him security clearance.
+[12]
+The respondent, for his part, argued that it was the 2009 decision which was at issue and that the circumstances in 2009 were different from those which existed in 1998 and 2004; the security screening in 2009 had, for the first time, revealed the applicant's second conviction for fraud in 2006. Thus, the applicant's situation in 2009 was different than it had been in 1998 and 2004: he had been convicted of a second fraud offence and this offence was more serious than the one he had been convicted of in 1992. The respondent argues that, in light of the applicant's criminal record, the Minister acted within the parameters of the discretionary power conferred upon him and that his decision was reasonable.
+In the circumstances of the present case, I do not find it necessary to make any determinations on the respondent's objections with regard to the applicant's failure to file either a record or an affidavit in the Court record since, on the merits, the applicant has not demonstrated that the Minister committed any error that would warrant the Court intervening and setting aside the decision to cancel the applicant's security clearance.
+The Statutory and Regulatory Framework
+[14]
+The Minister is responsible, under the provisions of the
+Aeronautics Act
+, R.S.C. 1985, c. A-2 (Act), for promoting safety in Canadian aerodromes, which includes controlling access to restricted areas of certain airports. Under the Act and the
+Canadian Aviation Security Regulations
+, SOR/2000-111 (Regulations), the Minister's role specifically includes the regulation and granting of security clearance for individuals seeking access to restricted areas in certain designated airports, of which Pierre Elliott Trudeau Airport is one. In this regard, section 4.8 of the Act invests the Minister with the power to "grant or refuse to grant a security clearance to any person or suspend or cancel a security clearance".
+[15]
+Under subsection 36(1) of the Regulations, the operator of a designated airport must establish, maintain and carry out the stated security measures, specifically those relating to the requirement of an identity card to access restricted areas. The Regulations also provide for the requirement of a security clearance for anyone to obtain a pass to gain access to restricted areas.
+[16]
+For the purposes of exercising his power with regard to security clearances, the Minister adopted the "Transportation Security Clearance Program" (Clearance Program), which sets out the procedures to be followed in the processing of security clearance applications. The Clearance Program is administered by the Director of Security Screening Programs for Transport Canada. This person reviews applications and does the appropriate background checks, including verifying whether the person applying for clearance has a criminal record. When the Director believes that there is sufficient information to recommend the refusal of the security clearance, he or she convenes the Advisory Body, which is composed of the Director and two other members and which is responsible for undertaking a complete review of the file and making a recommendation to the Minister. Subsection II.35 1 of the Clearance Program provides that "[t] he Advisory Body may recommend to the Minister the cancellation or refusal of a security clearance to any individual if the Advisory Body has determined that the individual's presence in the restricted area of a listed airport would be inconsistent with the aim and objective of this Program". Following the Advisory Body's recommendation, the Minister then exercises the discretionary power conferred upon him or her under section 4.8 of the Act.
+Standard of Review
+[17]
+The case law prior to
+<FRAGMENT_SUPPRESSED>  had established that the applicable standard of review for a decision of the Minister under section 4.8 of the Act was patent unreasonableness (
+<FRAGMENT_SUPPRESSED> ). In light of <FRAGMENT_SUPPRESSED> , the standard of review must now be reasonableness.
+[18]
+In the case at bar, I am of the view that the Minister's decision was within the parameters of his discretionary power and that, in light of the applicant's criminal record, it was entirely reasonable. The applicant finds himself in an unfortunate situation, given the consequences of the cancellation of his security clearance with regard to his employment, but the fact that he disagrees with the Minister's decision does not mean the decision is unreasonable.
+[19]
+The applicant stated that he did not understand why the Minister cancelled his security clearance when his situation in 2009 was similar to what it was when he was granted his first security clearance, since at that time he already had a fraud conviction on his criminal record. With respect, the applicant's record was not the same in 2009: a second conviction for a fraud-related offence, even more serious than the 1992 conviction, had been added to his record. The applicant claims that these offences are not related to his work and that he does not pose a security risk. This may be true; however, in the absence of any evidence that the process of verification breached the rules of natural justice or procedural fairness or that the decision was unreasonable, the Court shall not intervene. The Court cannot substitute itself for either the Minister or those who are delegated authority to assess clearance applications and conduct security checks. In this case, there is no evidence of unreasonableness or of a breach of procedural fairness and I find the Minister's decision to be entirely reasonable.
+[20]
+For these reasons, the application for judicial review is dismissed.
+THE COURT ORDERS AND ADJUDGES that
+the application for judicial review be dismissed.
+[End of document]

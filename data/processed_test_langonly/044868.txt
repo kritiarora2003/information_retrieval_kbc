@@ -1,0 +1,163 @@
+Federal Court
+Tremblay-Lamer, J.
+July 7, 2006.
+Dr. Samir Élomari, on his own behalf;
+Solicitors of Record:
+John H. Sims, Q.C., Deputy Attorney General of  Canada, Montreal, Quebec, for defendant.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2006] F.T.R. TBEd. JL.058.
+[1]
+Right of access
+12. (1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act has a right to and shall, on request, be given access to
+(a) any personal information about the individual contained in a personal information bank; and
+(b) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution.
+"personal information"
+"personal information" means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing,
+(a) information relating to the race, national or ethnic origin, colour, religion, age or marital status of the individual,
+(b) information relating to the education or the medical, criminal or employment history of the individual or information relating to financial transactions in which the individual has been involved,
+(c) any identifying number, symbol or other particular assigned to the individual,
+(d) the address, fingerprints or blood type of the individual,
+(e) the personal opinions or views of the individual except where they are about another individual or about a proposal for a grant, an award or a prize to be made to another individual by a government institution or a part of a government institution specified in the regulations,
+(f) correspondence sent to a government institution by the individual that is implicitly or explicitly of a private or confidential nature, and replies to such correspondence that would reveal the contents of the original correspondence,
+(g) the views or opinions of another individual about the individual,
+(h) the views or opinions of another individual about a proposal for a grant, an award or a prize to be made to the individual by an institution or a part of an institution referred to in paragraph (e), but excluding the name of the other individual where it appears with the views or opinions of the other individual, and
+(i) the name of the individual where it appears with other personal information relating to the individual or where the disclosure of the name itself would reveal information about the individual,
+but, for the purposes of sections 7, 8 and 26 and section 19 of the Access to Information Act, does not include
+(j) information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual including,
+(i) the fact that the individual is or was an officer or employee of the government institution,
+(ii) the title, business address and telephone number of the individual,
+(iii) the classification, salary range and responsibilities of the position held by the individual,
+(iv) the name of the individual on a document prepared by the individual in the course of employment, and
+(v) the personal opinions or views of the individual given in the course of employment,
+(k) information about an individual who is or was performing services under contract for a government institution that relates to the services performed, including the terms of the contract, the name of the individual and the opinions or views of the individual given in the course of the performance of those services,
+(l) information relating to any discretionary benefit of a financial nature, including the granting of a licence or permit, conferred on an individual, including the name of the individual and the exact nature of the benefit, and
+(m) information about an individual who has been dead for more than twenty years;
+Information about another individual
+26. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) about an individual other than the individual who made the request, and shall refuse to disclose such information where the disclosure is prohibited under section 8.
+27. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) that is subject to solicitor-client privilege.
+.........................
+<FRAGMENT_SUPPRESSED>  application under section 41 of the Privacy Act, R.S.C. 1985, c. P-21 (the Act) concerning the decision of the President of the Canadian Space Agency (CSA) to refuse to disclose certain personal information requested by the applicant under sections 3, 12, 21, 26 and 27 of the Act.
+On May 24, 2001, the applicant sent the CSA a request under the Act for access to some personal information.
+[3]
+On June 5, 2001, the respondent wrote to the applicant advising him that it would be necessary to extend the time limit for processing the request by 11 months because of the various persons concerned and the complexity of the request.
+[4]
+On July 30, 2001, the respondent was advised that the Office of the Privacy Commissioner (the Office) had received a complaint from the applicant (the first complaint), who was of the opinion that the extension of the time limit requested by the CSA was excessive and did not comply with the time limits specified under the Act.
+[5]
+Following the intervention of the Privacy Commissioner (the Commissioner), the respondent accelerated the processing of the application, which eventually lead to documents being sent on six different occasions.
+[6]
+On May 8, 2002, the Commissioner advised the respondent that the answers given up to that date only partially answered the request; for this reason, the Commissioner requested the personal intervention of the President of the CSA to ensure that the CSA would answer all the points mentioned in the request as soon as possible.
+[7]
+On June 20 and August 27, 2002, two other partial answers were sent to the applicant. The CSA refused to disclose some other information, invoking sections 12, 21, 26 and 27 of the Act.
+[8]
+On August 30, 2002, the applicant filed another complaint under the Act with the Commissioner (the second complaint), on the grounds that the respondent did not disclose all the information requested under the Act and to which he was entitled.
+[9]
+Following the Commissioner’s investigation and an exchange of letters and after several meetings between the respondent and the Office, the respondent decided to disclose some additional information, which was sent to the applicant on April 8, 2005. The respondent also advised the applicant that the rest of the information contained in the expurgated passages of the documents sent to him and/or in the other pages which had not been forwarded to him could not be disclosed, because of sections 12, 21, 26 and 27 of the Act.
+[10]
+In a letter dated July 5, 2005, the Office concluded that the denial of access to the documents under the Act was well founded.
+[11]
+On August 22, 2005, the applicant filed notice of an application for judicial review of the respondent’s decision to deny access to certain information.
+[12]
+Because the applicant is no longer contesting the section 21 exception, the only issue to be dealt with in this case is whether the respondent’s decision to refuse to disclose to the applicant the information in question under sections 12, 26 and 27 of the Act is well founded.
+On June 11, 1998, the applicant sued the CSA for damages before the Superior Court of Quebec, alleging inter alia illegal appropriation of his invention by the CSA.
+[14]
+On October 13, 2004, Justice Danielle Grenier allowed the applicant’s action against the CSA.
+[15]
+In connection with the request for access submitted to the CSA under the Act, Justice Grenier concluded the following at paragraph 122:
+[translation]
+... [T] he Agency hid or kept for itself information that was vital for Élomari, until he decided to appeal to the Commissioner in charge of applying the Privacy Act.
+[16]
+The applicant submitted it was obvious from the decision rendered by Grenier J. that certain documents which CSA refused to disclose were forged or revealed illicit acts committed by the CSA or any other person against the applicant. It would be contrary to public order if the CSA or any other person having acted illegally against the applicant were to be able to benefit from exemptions under the Act.
+[17]
+With regard to section 27, the applicant submitted that the respondent could not invoke solicitor-client privilege to justify the refusal to disclose documents to him, because the Supreme Court of Canada has clearly stated that any communications made for the purpose of facilitating the commission of a crime or a fraud are not protected by this privilege,  <FRAGMENT_SUPPRESSED>  at page 879.
+THE STANDARD OF REVIEW
+[18]
+In this case, the respondent decided that under section 12 some of the information requested was not personal information within the meaning of section 3 of the Act.
+[19]
+<FRAGMENT_SUPPRESSED> , the Supreme Court of Canada concluded that the standard of review applicable to the determination of personal information within the meaning of sections 3 and 12 of the Act is that of correctness.
+[20]
+As far as documents exempted under sections 26 and 27 of the Act are concerned, in  <FRAGMENT_SUPPRESSED>  (T.D.), aff’d (1993), 154 N.R. 319 (F.C.A.), this Court concluded that when a document is included in a statutory exemption under the Act, the head of an institution must make two decisions:
+It will be seen that these exemptions require two decisions by the head of an institution: first, a factual determination as to whether the material comes within the description of material potentially subject to being withheld from disclosure; and second, a discretionary decision as to whether that material should nevertheless be disclosed.
+6 The first type of factual decision is one which, I believe, the court can review and in respect of which it can substitute its own conclusion. This is subject to the need, I believe, for a measure of deference to the decisions of those whose institutional responsibilities put them in a better position to judge the matter. ...
+7 The second type of decision is purely discretionary. In my view in reviewing such a decision the court should not itself attempt to exercise the discretion de novo but should look at the document in question and the surrounding circumstances and simply consider whether the discretion appears to have been exercised in good faith and for some reason which is rationally connected to the purpose for which the discretion was granted. ...
+[21]
+<FRAGMENT_SUPPRESSED>  [2003] F.C.J. No. 1802 (QL), my colleague Justice John O’Keefe reaffirmed the decision in Kelly, above, and concluded following a detailed pragmatic and functional analysis that the decision of a federal institution to the effect that a given document is included in a statutory exception must be examined according to the standard of correctness. If this decision is determined to be valid, the respondent’s discretionary decision refusing the disclosure of a document must then be examined according to the standard of reasonableness simpliciter.
+1. Information exempted under section 12 of the Act
+[22]
+Under section 12 of the Act, every Canadian citizen has the right to receive, on request, personal information which concerns him or her. Section 3 of the Act defines what constitutes personal information within the meaning of the Act. The relevant excerpts of the legislation are reproduced in Annex A.
+[23]
+The respondent is claiming the section 12 exemption on the ground that the information in question is not personal information within the meaning of section 3 of the Act with respect to some of the documents in the annex to the confidential affidavit of Danielle Bourgie.
+[24]
+Having reviewed in minute detail the relevant excerpts of the expurgated documents, I am of the opinion there is no doubt that the respondent’s conclusion to the effect that this information is not personal information within the meaning of section 3 is well founded.
+Section 26
+2. Information exempted under section 26 of the Act
+[25]
+Some documents were not disclosed to the applicant because of the discretionary exemption under section 26 of the Act.
+[26]
+<FRAGMENT_SUPPRESSED>  (T.D.)(QL), Justice Marshall Rothstein specified that when information concerns at the same time the person applying for access and another person, the head of a federal institution may invoke his or her discretion under section 26 of the Act to refuse to disclose all or part of a document. He affirmed the following at paragraph 13:
+Under section 26 the right of the person making the request under subsection 12(1) to access his or her own personal information is subject to the requirement on, or the exercise of discretion by, the head of the government institution not to disclose information about another person. Specifically, when the information in question is about both the person making the request and another person the discretion to refuse disclosure by the head of the government institution is paramount to the right of the person making the request for his own personal information.
+[27]
+The decision in  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 782 (F.C.)(QL), is to the same effect.
+[28]
+Once again, after having checked each one of the documents in question, it appears that they contain information concerning both the applicant and another person. Having read the grounds stated in the confidential affidavit of Ms. Bourgie, I conclude that the respondent used its discretionary power under section 26 of the Act appropriately. There is nothing that would lead the Court to conclude that the respondent acted in bad faith. Accordingly, the Court’s intervention is not warranted.
+Section 27
+3. Information exempted under section 27 of the Act
+[29]
+<FRAGMENT_SUPPRESSED>  (C.A.), in applying section 23 of the Access to Information Act, R.S.C., 1985, c. A-1, the Federal Court of Appeal confirmed that the applicable principles for determining whether a document is covered by solicitor-client privilege are those developed by the common law. The same principles apply in the context of section 27 of the  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 794 (F.C.)(QL)).
+[30]
+Certain conditions are required to give rise to solicitor-client privilege: (i) it must involve a client seeking legal advice; (ii) this advice must be intended to be confidential; (iii) the advice must be sought from the lawyer in his or her capacity as such; (iv) this advice must not be for illegal purposes; and (v) this privilege must not be waived:  <FRAGMENT_SUPPRESSED>  at page 837;  <FRAGMENT_SUPPRESSED>  at paragraph 49.
+[31]
+Canadian courts have taken a wide and generous approach to solicitor-client privilege. When there is a continuum of communications and meetings between a lawyer and his or her client for the purpose of transmitting information to obtain legal advice, solicitor-client privilege may be invoked: Samson Indian Nation and  <FRAGMENT_SUPPRESSED>  (C.A.) at paragraph 8;  <FRAGMENT_SUPPRESSED>  (F.C.A.), the Federal Court of Appeal explained the two distinct branches of solicitor-client privilege as follows, at paragraph 17:
+The parties do not dispute that, at common law, the solicitor-client privilege covers confidential communications between solicitor and client which entails the seeking or giving of legal advice, whether contentious or not, as well as, pursuant to what the American courts call the “work product doctrine”, a “lawyer's work product”, i.e. the material assembled by a lawyer exercising legal knowledge, skill and industry for the purpose of advising on or conducting anticipated or pending litigation: see  <FRAGMENT_SUPPRESSED>  (C.A.), at page 142. Words to the same effect can be found in  <FRAGMENT_SUPPRESSED>  Court of Canada enunciated the following principles followed in numerous subsequent decisions:
+As it seems to me, there are really two quite different principles usually referred to as solicitor and client privilege, viz:
+(a) all communications, verbal or written, of a confidential character, between a client and a legal adviser directly related to the seeking, formulating or giving of legal advice or legal assistance (including the legal adviser’s working papers, directly related thereto) are privileged; and
+(b) all papers and materials created or obtained specially for the lawyer’s “brief” for litigation, whether existing or contemplated, are privileged. . . .
+[34]
+In this judgement, the Court acknowledged that the solicitor-client privilege specified in section 23 of the Access to Information Act includes privileged communications in connection with litigation (paragraph 31). Because section 27 of the Privacy Act is similar, the same principles apply.
+[35]
+With regard to documents containing communications that did not take place between solicitor and client, but rather between public servants of the client department, the Court specified that where communications contain a description or discussion of legal advice sought or to be sought or of legal advice obtained, such communications are also privileged:  <FRAGMENT_SUPPRESSED>  [2001] F.C.J. No. 1844 (C.A.)(QL).
+[36]
+In the case at bar, the respondent made the decision to exempt a certain number of documents because of the two branches of the solicitor-client privilege, that is, the legal advice privilege and the litigation privilege.
+[37]
+Having studied the documents in question in detail, I am satisfied that they are covered by the exemption specified in section 27, except for paragraph 44 of Exhibit A-4, which is not privileged and which, according to the admission of counsel for the respondent, had not been disclosed by mistake. Therefore, this information must be disclosed.
+[38]
+I am of the view that the explanations given by Ms. Bourgie in her confidential affidavit concerning her discretion not to disclose the documents are satisfactory. There is not one iota of evidence to the effect that she exercised her discretionary authority incorrectly. Therefore, I uphold the respondent’s decision to refuse to disclose these documents.
+[39]
+Finally, I would like to add this. The applicant is unfortunately convinced that there are forged documents with the confidential ones and that consequently they cannot be protected because they were fabricated for the purposes of committing a criminal offence.
+[40]
+Although I understand the applicant’s frustration in not having access to confidential documents, I repeat that after having read each one of the documents in detail, it is impossible for me to conclude that this is the case. The decision of the CSA not to disclose them is well founded, and I did not find any evidence to the effect that the respondent acted in bad faith in exempting these communications.
+[41]
+For these reasons, this application is dismissed, except with regard to paragraph 44 of Exhibit A-4, which must be disclosed to the applicant.
+The application for judicial review is dismissed, except with regard to paragraph 44 of Exhibit A-4, which must be disclosed to the applicant.
+Section 12 of the Act reads as follows:
+Right of access
+12. (1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act has a right to and shall, on request, be given access to
+(a) any personal information about the individual contained in a personal information bank; and
+(b) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution.
+Section 3 of the Act reads as follows:
+“personal information”
+“personal information” means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing,
+(a) information relating to the race, national or ethnic origin, colour, religion, age or marital status of the individual,
+(b) information relating to the education or the medical, criminal or employment history of the individual or information relating to financial transactions in which the individual has been involved,
+(c) any identifying number, symbol or other particular assigned to the individual,
+(d) the address, fingerprints or blood type of the individual,
+(e) the personal opinions or views of the individual except where they are about another individual or about a proposal for a grant, an award or a prize to be made to another individual by a government institution or a part of a government institution specified in the regulations,
+(f) correspondence sent to a government institution by the individual that is implicitly or explicitly of a private or confidential nature, and replies to such correspondence that would reveal the contents of the original correspondence,
+(g) the views or opinions of another individual about the individual,
+(h) the views or opinions of another individual about a proposal for a grant, an award or a prize to be made to the individual by an institution or a part of an institution referred to in paragraph (e), but excluding the name of the other individual where it appears with the views or opinions of the other individual, and
+(i) the name of the individual where it appears with other personal information relating to the individual or where the disclosure of the name itself would reveal information about the individual,
+but, for the purposes of sections 7, 8 and 26 and section 19 of the Access to Information Act, does not include
+(j) information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual including,
+(i) the fact that the individual is or was an officer or employee of the government institution,
+(ii) the title, business address and telephone number of the individual,
+(iii) the classification, salary range and responsibilities of the position held by the individual,
+(iv) the name of the individual on a document prepared by the individual in the course of employment, and
+(v) the personal opinions or views of the individual given in the course of employment,
+(k) information about an individual who is or was performing services under contract for a government institution that relates to the services performed, including the terms of the contract, the name of the individual and the opinions or views of the individual given in the course of the performance of those services,
+(l) information relating to any discretionary benefit of a financial nature, including the granting of a licence or permit, conferred on an individual, including the name of the individual and the exact nature of the benefit, and
+(m) information about an individual who has been dead for more than twenty years;
+Section 26 of the Act reads as follows:
+Information about another individual
+26. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) about an individual other than the individual who made the request, and shall refuse to disclose such information where the disclosure is prohibited under section 8.
+Section 27 of the Act reads as follows:
+27. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) that is subject to solicitor-client privilege.
+[End of document]

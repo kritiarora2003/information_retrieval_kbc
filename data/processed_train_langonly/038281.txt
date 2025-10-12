@@ -1,0 +1,92 @@
+<FRAGMENT_SUPPRESSED>  CF 549)
+Federal Court
+Mactavish, J.
+Anthony Navaneelan, J.D., for the applicant;
+Leila Jawando, for the respondent.
+Solicitors of Record:
+Mamann, Sandaluk & Kingwell, LLP, Migration Law Chambers, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mactavish, J.
+: Raoul Andre Burton seeks judicial review of the negative decision of a Senior Immigration Officer in relation to his application for a Pre-Removal Risk Assessment [PRRA]. Mr. Burton claimed to be at risk in Jamaica because of his former membership in the Malvern Crew gang in Toronto. He also asserted that he was at risk because he had cooperated with a police investigation involving a fellow gang member and had testified at that individual's trial.
+[2]
+For the reasons that follow, I have concluded that the PRRA decision was unreasonable as it did not properly assess the risks faced by Mr. Burton in Jamaica in light of his personal profile as a former gang member, police informant and Crown witness. I am further satisfied that material evidence was overlooked by the PRRA Officer. As a consequence, the application for judicial review will be granted.
+Background
+[3]
+Mr. Burton came to Canada as a permanent resident in 1993 when he was 10 years old. He eventually became involved with the Malvern Crew, a criminal gang operating in Toronto.
+[4]
+In 2004, a gang member named Warren Abbey shot and killed a member of a rival gang known as the Galloway Boys. Abbey subsequently confessed to the killing to Mr. Burton, warning him of the "unwritten code" against snitching or collaborating with the police.
+[5]
+After his arrest for his own gang-related offences in 2004, Mr. Burton agreed to cooperate with the police and prosecutors and to plead guilty to participation in a criminal organization. Mr. Burton states that in the period leading up to the trial in
+<FRAGMENT_SUPPRESSED>  against Mr. Abbey. As a result, Mr. Burton says that he began to receive death threats.
+[6]
+Mr. Burton testified at the Abbey trial in 2007. Mr. Abbey was acquitted at trial, but his acquittal was subsequently overturned on appeal. A new trial was scheduled for February of 2011. Mr. Burton states that he was reluctant to testify at the second trial, but that he was eventually compelled to do so under subpoena.
+[7]
+In the weeks before the 2011 trial, the Toronto Star published an article naming Mr. Burton as a witness for the prosecution. Mr. Burton states that he once again began receiving threats, in part because Mr. Abbey's acquittal had made him something of a "legend" in his community.
+[8]
+Mr. Burton testified at Mr. Abbey's second trial and Mr. Abbey was eventually convicted of murder. Mr. Burton states that he continued to receive threats after the conviction and that he was forced to leave his community in an effort to secure his safety.
+[9]
+In November of 2011, the Toronto Sun published an article about Mr. Burton, which discussed his precarious immigration status. Mr. Burton stresses that many Malvern Crew members who knew about his testimony at the Abbey trial have been deported back to Jamaica and would know that he could soon be there too, beyond the protection of Canadian law enforcement. Members of the rival Galloway Boys gang have also been returned to Jamaica, where they allegedly pose a threat to Mr. Burton as a former member of the Malvern Crew.
+The PRRA Officer's Decision
+[10]
+The Senior Immigration Officer rejected Mr. Burton's PRRA application on the basis of section 97 of the
+Immigration and Refugee Protection Act,
+S.C. 2001, c. 27, concluding that he would not be subject to a personal risk of persecution, danger of torture, risk to life or risk of cruel and unusual treatment or punishment if he were returned to Jamaica.
+[11]
+Because Mr. Burton was found to be inadmissible for organized crime and serious criminality, he was ineligible for refugee protection pursuant to paragraphs 112(3)(a) and (b) of the Act. Thus, no consideration was given to section 96 grounds.
+[12]
+Insofar as the risk to Mr. Burton arising from his participation in the Abbey trial were concerned, the Officer found that Mr. Burton had provided little evidence that he had recently been threatened by gang members, either in Canada or in Jamaica. The Officer further noted that Mr. Burton's affidavit did not indicate that the Jamaican police would be unable or unwilling to protect him "should he encounter difficulties" with gang members in Jamaica.
+[13]
+The Officer acknowledged that a Google search and newspaper articles publicly identified Mr. Burton as a former member of the Malvern Crew. These articles also noted that Mr. Burton had cooperated with the police, and that information had been included in the articles regarding his immigration status.
+[14]
+The Officer accepted that documentary evidence regarding country conditions in Jamaica produced by Mr. Burton indicated that "violent crime as well as corruption and impunity within the Jamaican security forces are serious ongoing issues". The Officer further accepted that "individuals who are known to be police informers in Jamaica are frequently the targets of violence from members of criminal organizations".
+[15]
+From this the Officer concluded that Mr. Burton "may face a risk of harm from gang members in Jamaica". The Officer nevertheless concluded, based upon the information provided by Mr. Burton, that while state protection in Jamaica may be "imperfect", he had not demonstrated that it would not be available to him.
+[16]
+The Officer then went on to review other country condition information identified in the course of the Officer's own research. The Officer observed that Jamaica is a constitutional parliamentary democracy with a "defined system of law and order". The existence of various security forces was noted and the Officer acknowledged that "corruption and impunity [...] are serious ongoing concerns".
+[17]
+Nevertheless, the Officer found that "serious efforts have been made to address this issue", including the creation of independent commissions, anti-corruption measures, oversight mechanisms, increased training for police officers and other reforms, and that major crime and murder rates have recently decreased in Jamaica.
+[18]
+The Officer concluded that Jamaica is not in a state of complete breakdown and that the availability of state protection is presumed. While reiterating that there are high rates of violent crime in Jamaica, and that protection is not perfect, the Officer nevertheless held that Mr. Burton had not rebutted the presumption of state protection with clear and convincing evidence.
+The Issue
+[19]
+The only issue for determination is whether the Officer's risk assessment was reasonable, in light of Mr. Burton's personal profile.
+The availability of state protection in a particular country cannot be assessed in a vacuum. Regard must be had to the individual's own personal situation or circumstances, and an analysis must then be carried out as to the willingness and ability of the state to respond to those specific circumstances:
+<FRAGMENT_SUPPRESSED>  [2005] F.C.J. No. 895;
+<FRAGMENT_SUPPRESSED>  [2011] F.C.J. No. 708.
+[21]
+In this case, the PRRA Officer accepted that Mr. Burton faced a risk of harm from gang members in Jamaica. However, the state protection analysis carried out by the Officer appears to be essentially a generic examination of the ability of Jamaican authorities to protect ordinary Jamaican citizens from gang violence and the efforts that are being made by the Jamaican authorities to combat gang violence. Nowhere in the analysis does the Officer engage in any meaningful way with the risks faced personally by Mr. Burton as someone who has been publicly identified as a convicted criminal and a member of the Malvern Crew gang. Nor does the PRRA officer ever consider the willingness of the Jamaican police to protect gang members from inter- or intra-gang violence.
+[22]
+Similarly, no consideration appears to have been given to the ability of the Jamaican police to protect those who have cooperated with the police in the prosecution of gang members. These omissions are of real concern in light of the country condition information that was before the Officer.
+[23]
+Insofar as the willingness of the Jamaican police to protect gang members from inter- or intra-gang violence was concerned, the record before the Officer contained statistical evidence showing that few gang-related murders were investigated or had a suspect identified and referred for prosecution.
+[24]
+More troubling is the Amnesty International report that was before the Officer entitled "
+Let Them Kill each Other
+", which quoted a Superintendent of the Jamaican police as saying that "[n]o police, no army, no government can solve murders like this one [referring to a gang killing] because it is cronies killing cronies and we know it is almost like dogs killing dogs". This report goes on to state that many social workers report being advised by Jamaican police and politicians that their work with gang members was useless, and that they should just "let them kill each other".
+[25]
+This was potentially highly probative evidence going directly to the willingness of the Jamaican authorities to protect individuals with gang ties such as Mr. Burton from inter- or intra-gang violence. Not only was this evidence never addressed by the Officer, no other evidence directly on point was cited to support the Officer's conclusion that adequate state protection would be available in Jamaica for a former gang member such as Mr. Burton. As such it is impossible to ascertain from the Officer's reasons how the Officer came to his or her conclusion on this issue, with the result that the reasons lack the transparency, intelligibility and justification required of a reasonable decision:
+Equally problematic is the Officer's failure to consider the evidence with respect to the ability of the Jamaican police to protect those who have cooperated with the police in the prosecution of gang members. The evidence before the Officer in this regard raises real concerns about the ability of the Jamaican police to protect individuals such as Mr. Burton, who have assisted the police.
+[27]
+For example, the
+United Kingdom Border Agency's Operational Guidance Note: Jamaica
+states that the Jamaican police are unable to assure the protection of witnesses, and that those who face a threat from a criminal gang because of their cooperation with the police will not normally be able to access state protection.
+[28]
+The Officer obviously considered this to be a reliable document, given that reference was made in the decision to a portion of the document which indicated that strides were being made in sensitizing the police and the public to issues relating to corruption and ethics - issues that were only marginally relevant to the situation confronting Mr. Burton. However, no reference was made to the portions of the report that were most germane to Mr. Burton's own situation, leading to the inescapable inference that this evidence was overlooked:
+Conclusion
+[29]
+To be reasonable, a PRRA Officer's analysis of risk must be informed by the applicant's own personal situation or circumstances: <FRAGMENT_SUPPRESSED> , above. An assessment that fails to engage with the specific risks faced by an applicant is not reasonable and must be set aside. This is just such a case.
+[30]
+For these reasons, the application for judicial review is allowed. I agree with the parties that the case does not raise a question for certification.
+THIS COURT ORDERS AND ADJUDGES
+that
+:
+1. This application for judicial review is allowed, and the matter is remitted to a different immigration officer for re-determination in accordance with these reasons.
+.........................
+Let Them Kill each Other
+United Kingdom Border Agency's Operational Guidance Note: Jamaica
+LA COUR STATUE
+:
+[End of document]

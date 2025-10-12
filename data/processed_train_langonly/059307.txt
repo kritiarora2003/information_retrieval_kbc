@@ -1,0 +1,103 @@
+Federal Court
+Clément Monterosso, for the applicant;
+Éric Lafrenière and Marc Ribeiro for the respondent.
+Solicitors of Record:
+Monterosso Giroux, s.e.n.c; Montreal, Quebec for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Charte
+Charte
+8(1) The consent of the three parties to a transfer - the offender, the foreign entity and Canada - is required.
+10(2) In determining whether to consent to the transfer of a Canadian or foreign offender, the Minister shall consider the following factors:
+(a) whether, in the Minister's opinion, the offender will, after the transfer, commit a terrorism offence or criminal organization offence within the meaning of section 2 of the Criminal Code; and
+[10]
+Charte
+6(1) Every citizen of Canada has a right to enter, remain in and leave Canada.
+[11]
+Charte
+).
+[14]
+[Translation]: After spending ten years in prison in Canada, Michael DiVito was extradited to the United States in June 2005, where a Florida court sentenced him to 90 months in prison. He is seeking a transfer to Canada under the
+International Transfer of Offenders Act
+, S.C. 2004, c. 21, but the Minister of Public Safety at the time, the Honourable Stockwell Day, denied his request for a transfer. The Minister based his decision on the alleged fact that:
+the offender has been identified as an organized crime member, convicted for an offence involving a significant quantity of drugs. The nature of his offence and his affiliations suggest that the offender's return to Canada would constitute a potential threat to the safety of Canadians and the security of Canada.
+This is the judicial review of that decision.
+In March 1995, Mr. DiVito was sentenced to 12 years in prison for conspiracy to traffic in cocaine and conspiracy to import narcotics, namely, the importation of 5,400 kilograms of cocaine by ship. Two years later, the U.S. authorities requested Mr. DiVito's extradition. They were accusing him of conspiracy to possess cocaine with intent to distribute in Florida. His go-between in Florida allegedly agreed to purchase 300 kilograms of cocaine.
+[3]
+He was "released" on parole on March 28, 2003, having served two-thirds of his Canadian sentence, but in fact remained in prison under an extradition order. He was extradited to the United States in June 2005. He subsequently pleaded guilty and was sentenced to 90 months' imprisonment.
+[4]
+The Act specifies the circumstances under which Canadians serving sentences outside Canada can be transferred to serve the remainder of their sentence in Canada. It also allows for foreign nationals incarcerated in Canada to be transferred. The Act gives effect to a treaty between the United States and Canada.
+[5]
+This process consists of three stages: the offender must request a transfer, the United States must agree to the request and Canada must give its consent. The decision-maker in Canada is the Minister of Public Safety and Emergency Preparedness, who may delegate this responsibility. In the case at bar, the Honourable Stockwell Day made the decision himself.
+[6]
+Mr. DiVito raises three issues. First, that the sections of the Act relied on by the Minister are unconstitutional because they violate his mobility rights guaranteed by section 6 of the Charter. Second, that the Minister misconstrued the Act. Once it was established that Mr. DiVito is a Canadian citizen, as is the case here, the Minister had no other choice but to consent to his return. Lastly, that the decision violates the principles of natural justice. On this last point, the applicant submits that the Minister's decision was unreasonable.
+Mr. DiVito indicated the following in his Notice:
+[translation]
+The applicant intends to challenge the constitutional validity, applicability or effect of subsection 8(1) and paragraphs10(1)(
+) and 10(2)(
+) of the
+International Transfer of Offenders Act.
+[8]
+The legal basis is as follows:
+[translation]
+As a Canadian citizen, the applicant has a constitutional right, under subsection 6(1) of the Charter, to enter Canada, and the Minister of Public Safety does not have the right to refuse his entry [...]
+[9]
+Paragraphs 8(1)(a) and 10(2)(a) of the Act provide as follows:
+8.
+(1) The consent of the three parties to a transfer - the offender, the foreign entity and Canada - is required.
+10.
+(2) In determining whether to consent to the transfer of a Canadian or foreign offender, the Minister shall consider the following factors:
+(
+) whether, in the Minister's opinion, the offender will, after the transfer, commit a terrorism offence or criminal organization offence within the meaning of section 2 of the
+; and
+8.
+Subsection 6(1) of the Charter reads as follows:
+6. (1) Every citizen of Canada has a right to enter, remain in and leave Canada.
+I would answer the constitutional question in the negative.
+[12]
+As I indicated in
+<FRAGMENT_SUPPRESSED>  [2008] 2 F.C.R. No. 377 at paragraphs 27 and 28, ''current restrictions on the mobility'' of Mr. DiVito, in this case, ''arise from his own actions, his own criminal activities. A natural and foreseeable consequence of a criminal conviction ...''.
+[28] However the American authorities have put a condition on his transfer. The condition is that he serve his sentence here. Upon his transfer he could not immediately invoke his constitutional right as a citizen to leave Canada. His freedom would properly be restricted in accordance with the Corrections and Conditional Release Act. I have come to the conclusion that neither section 8 of the International Transfer of Offenders Act which requires the consent of the offender, the foreign entity and Canada, nor subsections 10(1) (b) and (c) which call upon the Minister to consider whether Mr. Kozarov has social or family ties here or whether he left or remained outside Canada with the intention of abandoning Canada as his place of permanent residence offends his mobility rights under the Charter.
+[13]
+Consequently, I conclude that the Act does not violate Mr. DiVito's mobility rights. On the contrary, I find, as Justice Kelen did in
+<FRAGMENT_SUPPRESSED> . These decisions underscore the importance of citizenship and demonstrate that a citizen has a different status than a permanent resident or temporary resident. I fail to see the relevance of <FRAGMENT_SUPPRESSED> : the issue in that case involved the government's obligation to issue an Emergency Travel Document.
+[15] <FRAGMENT_SUPPRESSED> invalidated provisions of the
+preventing inmates serving a sentence of more than two years from voting in federal elections. One of the government's arguments was that disenfranchisement was a legitimate punishment (paragraph 45). This argument was dismissed.
+[16]
+At paragraph 47, however, Chief Justice McLachlin added: ''Certain rights are justifiably limited for penal reasons, including aspects of the rights to liberty, security of the person, mobility, and security against search and seizure.''
+[17]
+The case of Mr. Kozarov illustrates the limits on mobility rights. Mr. Kozarov appealed the decision, but was released by the U.S. authorities before the appeal could be heard. The Court of Appeal refused to hear the case because it was moot:
+<FRAGMENT_SUPPRESSED> . Similarly, if the U.S. authorities pardoned Mr. DiVito tomorrow, he would have an absolute right to return to Canada. He would even be deported to Canada.
+INTERPRETATION OF THE ACT
+[18]
+For the reasons given in <FRAGMENT_SUPPRESSED> , I cannot accept that the Minister's responsibility is limited, according to the Act, to confirming Mr. DiVito's citizenship. The Act gives the Minister discretionary powers and requires him to take various factors into consideration.
+[19] <FRAGMENT_SUPPRESSED> was decided when three standards of review existed: correctness, reasonableness, and patent unreasonableness. Relying on
+<FRAGMENT_SUPPRESSED> . In light of this, the applicable standard of review is now reasonableness ( <FRAGMENT_SUPPRESSED> , at paragraph 11).
+[20]
+Minister Day, who personally made the decision, had before him a summary examined and approved by the Director of the Institutional Reintegration Operations Division indicating that Mr. DiVito had not left Canada with the intent to abandon this country as his place of permanent residence, that he had social and family ties here and that he did not constitute a threat to Canada's security.
+[21]
+There was also information from the RCMP suggesting that Mr. DiVito was a member of traditional organized crime. It was noted that his father received a sentence of 18 years' imprisonment in Canada and was then extradited to the United States, where he remains incarcerated.
+[22]
+The report by the U.S. authorities contained no adverse information. In the community assessment report prepared by the Correctional Service of Canada, the criminologist who met with Mr. DiVito's sister concluded that [translation] "we therefore have no reason not to recommend Mr. DiVito's transfer from the United States to Canada; on the contrary, we believe that it would be extremely beneficial for both the subject and resource person." It would have been reasonable if the Minister had agreed to the transfer. The question, however, is whether it was unreasonable to refuse the transfer. In his affidavit Mr. DiVito stated:
+[translation]
+21. I am not, nor have I ever been, part of any criminal organization whatsoever.
+22. I have never had any links or contact with a criminal organization or network.
+[23]
+The Minister had evidence to the contrary. Some of this information is a matter of public record: see, for example,
+<FRAGMENT_SUPPRESSED> d) (Supp.) No. 61, 1998 CanLII 9816 (NB Q.B.), the trial of Mr. Carlos Rumbaut, who was accused of having conspired with Mr. DiVito, his father Pierino and others to import cocaine into Canada.
+[24]
+One might wonder whether Mr. DiVito, who has been incarcerated for fifteen years, including four outside of Canada, has severed his contacts with organized crime. Yet the Correctional Service of Canada's Commissioner's Directive 568-3 entitled ''Identification and Management of Criminal Organizations'' lists, among other objectives of the Service, "prevent[ing] members or associates of criminal organizations from exercising influence and power in institutions and in the community". It is not unreasonable for the Minister to fear that Mr. DiVito would renew these contacts once returned to a Canadian prison.
+[25]
+As stated in <FRAGMENT_SUPPRESSED> at paragraph 47:
+Reasonableness is a deferential standard animated by the principle that underlies the development of the two previous standards of reasonableness: certain questions that come before administrative tribunals do not lend themselves to one specific, particular result. Instead, they may give rise to a number of possible, reasonable conclusions. Tribunals have a margin of appreciation within the range of acceptable and rational solutions. A court conducting a review for reasonableness inquires into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[26]
+While it has been suggested that the decision was made in bad faith, I gave "a respectful attention to the reasons offered" ( <FRAGMENT_SUPPRESSED> , at paragraph 48) and reached the conclusion that the decision was reasonable and must not be set aside.
+THE COURT ORDERS that:
+1. The matter be dismissed with costs.
+2. Subsection 8(1) and paragraphs 10(1)(a) and 10(2)(a) of the
+International Transfer of Offenders Act
+are constitutionally valid and applicable.
+3. A copy of these reasons and order be placed in docket T-1093-08.
+[End of document]

@@ -1,0 +1,79 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 1122)
+Federal Court
+Near, J.
+John Rokakis, for the applicant;
+Stephen Jarvis, for the respondent.
+Solicitors of Record:
+John Rokakis, Windsor, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Near, J.
+: The Applicant seeks judicial review of the December 29, 2011 decision of the Immigration Division of the Immigration and Refugee Board ("the Board") by which the Board found the Applicant inadmissible on grounds of organized criminality under paragraph 37(1)(a) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (IRPA). A deportation order was issued as a result of this finding.
+[2]
+For the reasons that follow, the application for judicial review is dismissed.
+Facts
+[3]
+The Applicant is a permanent resident who came to Canada in 1966, at the age of 6. He is a citizen of the United Kingdom.
+[4]
+On November 17, 2009, the Applicant pled guilty to two criminal offences: possession of the proceeds of crime; and possession for the purpose of trafficking, namely oxycodone. The Applicant was a courier for what the Minister of Public Safety and Emergency Preparedness ("the Minister")identified as a six-person criminal organization, transporting drugs and currency between Ontario and British Columbia. The Applicant made between twelve and fourteen trips between the two provinces in 2007, some of which were for his own benefit.
+[5]
+The Applicant was sentenced to an 18-month conditional sentence for each offence, which he served concurrently. Five other individuals, including the Applicant's nephew, were charged with various offences relating to trafficking controlled substances and money laundering.
+[6]
+Following the Applicant's sentencing, the Canada Border Services Agency (CBSA) reported him as inadmissible under subsection 44(1) of IRPA. The CBSA report stated that the Applicant was part of a six-member drug ring based in Windsor, Ontario and cited paragraph 37(1)(a) of IRPA. The Applicant was referred for an Admissibility Hearing, which took place on October 4, 2011.
+The Board found that the Applicant was a permanent resident of Canada who is inadmissible for organized criminality. It determined on the basis of paragraph 37(1)(a) of IRPA that the evidentiary standard for its finding was "reasonable grounds to believe", which has been defined in the jurisprudence as "a serious possibility based on credible evidence".
+[8]
+The Board relied on the evidence submitted by the Minister, who bore the evidentiary burden in this case, the testimony of the Applicant, and the testimony of Corporal Greg Connelly, a Royal Canadian Mounted Police (RCMP) officer assigned to the Border Enforcement Team in Windsor. The Board found the Corporal's testimony to be credible and trustworthy in the circumstances of the case.
+[9]
+The Board concluded that the drug ring of which the Applicant formed a part constituted a criminal organization for the purposes of IRPA. Despite its lack of formal structure, the Board found that the ring "executed trafficking in a way that the activity is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment."
+[10]
+The Board pointed to the Federal Court of Appeal case,
+<FRAGMENT_SUPPRESSED>  [2006] FCJ No 1512 to highlight that the word "organization" is to be given a broad and unrestrictive interpretation. It also identified that Parliament's objective in IRPA was to prioritize security, "treat[ing] criminals and security threats less leniently than under the former Act."
+[11]
+It ultimately found the following:
+Although each member of this drug ring engaged in a variety of tasks within the group, they all played a significant role in achieving financial success for the organization. This group was not formed randomly for the immediate commission of a single offence, but to the contrary, the ring operated over a period of one year. The large amounts of money exchanged for drugs and distributed by the ring were carried out on a regular basis during their existence. The nature of the criminal convictions of those implicated in this drug ring and their activities while committing a variety of crimes are in my view indicative of the clandestine nature which many organized crime groups operate. Although the group was loosely organized I believe Corporal Connelly's testimony that [three of the other members] played major roles as co-coordinators which allowed the organization to operate. The documentary and oral evidence clearly establishes [the Applicant] was an intricate part of the organization and deeply entrenched in the group's criminal activity.
+The sole issue in this application is whether the Board erred in its interpretation and application of paragraph 37(1)(a) of IRPA.
+Standard of Review
+[13]
+It is well established that the Board's determination of inadmissibility on grounds of organized criminality is largely an assessment of facts, and is thus to be reviewed on the standard of reasonableness (see
+For the purposes of a paragraph 37(1)(a) of IRPA analysis, reasonableness is concerned with "the existence of justification, transparency and intelligibility in the decision-making process" and with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (see
+<FRAGMENT_SUPPRESSED>  [2008] SCR 190 at para 47; <FRAGMENT_SUPPRESSED> , above, at para 12).
+Paragraph 37(1)(a) of IRPA states as follows:
+Organized criminality
+37.
+(1) A permanent resident or a foreign national is inadmissible on grounds of organized criminality for
+(a) being a member of an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment, or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence, or engaging in activity that is part of such a pattern;
+The Applicant contests the Board's finding that he was a member of a criminal organization. He points to the fact that there were no criminal organization charges laid in any of the criminal proceedings and to the absence of various factors that this Court has purportedly identified as indicia of both the existence of a criminal organization and an individual's membership therein.
+[17]
+Specifically, the Applicant relies on <FRAGMENT_SUPPRESSED> , above,
+<FRAGMENT_SUPPRESSED>  [2004] FCJ No 395, and
+<FRAGMENT_SUPPRESSED>  [2007] FCJ No 743 to argue that there is no criminal organization in the present case because there is,
+, no name or identity tied to the drug ring, no structure or hierarchy comprising three or more individuals, no identifying markers on the members, or no group benefit.
+[18]
+The very cases the Applicant cites, however, emphasize that criminal organizations are "usually rather loosely and informally structured, which structures vary dramatically" ( <FRAGMENT_SUPPRESSED> , above, at para 39), and that "there are no minimum or mandatory attributes that the group must have" in order to be a criminal organization for the purposes of IRPA ( <FRAGMENT_SUPPRESSED> , above, at para 30). While some of the indicia mentioned by the Applicant can be helpful in assessing whether a criminal organization exists, no one element is essential.
+[19]
+This Court has further been clear that it was not Parliament's intent to adopt the definition of "criminal organization" from the criminal context. Rather, the objectives of IRPA indicate an intent to prioritize the security of Canadians and, as such, an "unrestricted and broad" interpretation of "organization" in paragraph 37(1)(a) is in order ( <FRAGMENT_SUPPRESSED> , above, at para 36). Indeed, a flexible approach has been championed by this Court, so that looseness and informality in the structure of a group do not "thwart the purpose of IRPA" ( <FRAGMENT_SUPPRESSED> , above, at para 39).
+[20]
+This was exactly the approach taken by the Board in the case at hand. It weighed the evidence before it and came to the conclusion that the drug ring, despite its loose organization, was led by three co-coordinators. The Board further found that the group was "not formed randomly for the immediate commission of a single offence" but rather continued in operation for a full year. The Board concluded that the evidence, including the Applicant's own admission to acting as a courier for the group, was sufficient to demonstrate that the Applicant was a member of the organization. As such, I find that the Board's decision falls within the range of possible, acceptable outcomes defensible in respect of the facts and the law and is thus reasonable.
+[21]
+I note additionally, as the Respondent points out, that the schemes under paragraph 37(1)(a) of IRPA and under the
+, RSC, 1985, c C-46 are distinct, involving, among other things, different burdens of proof. It would thus not necessarily be unreasonable for the Board to believe that an individual was a member of a criminal organization for the purposes of IRPA where no charges of criminal organization had been laid with a view to conviction in the criminal context. The Board nonetheless considered the lack of criminal organization charges laid by the police in this particular case, inquiring specifically into the matter at the hearing, and came to a reasonable conclusion on the basis of the evidence before it.
+Conclusion
+[22]
+The Board adopted the broad and unrestricted approach to assessing whether the Applicant was a member of a criminal organization under paragraph 37(1)(a) of IRPA called for on several occasions by this Court, and came to a reasonable conclusion based on its assessment of the evidence.
+THIS COURT'S JUDGMENT is that
+this application for judicial review is dismissed.
+.........................
+<FRAGMENT_SUPPRESSED>  Near
+Organized criminality
+37.
+(1) A permanent resident or a foreign national is inadmissible on grounds of organized criminality for
+(a) being a member of an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment, or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence, or engaging in activity that is part of such a pattern;
+[16]
+Conclusion
+[22]
+[End of document]

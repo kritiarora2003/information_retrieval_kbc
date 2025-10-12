@@ -1,0 +1,62 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 27)
+Federal Court
+Lafrenière, Prothonotary
+January 9, 2012.
+Carlton Jones, on his own behalf, for the plaintiff;
+Edward Burnet, for the defendant.
+Solicitors of Record:
+Myles J. Kirvan, Deputy Attorney General of Canada, Vancouver, British Columbia, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Lafrenière, Prothonotary
+: The Defendants seek an Order pursuant to Rule 221(1)(a) or Rule 221(1)(f) of the
+Federal Courts Rules
+[FCR] striking the Statement of Claim, without leave to amend, on the grounds that it discloses no reasonable cause of action, or is otherwise an abuse of process of the Court. The Plaintiff has not responded to the motion, although duly served with the Defendants' motion record on November 9, 2011.
+[2]
+The Plaintiff commenced this action on October 11, 2011 against Warden Mark Kemball, Corrections Service Canada and the Attorney General of Canada. He seeks ordinary damages, aggravated and exemplary damages, and an injunction against the Defendants based on a number of claims relating to his imprisonment at the Grande Cache and the Kent Institutions, including negligence, intentional and negligent infliction of mental suffering, misfeasance in public office, libel and slander, harassment, and breach of his
+Charter
+rights.
+[3]
+For the purposes of this motion, the allegations made in the Statement of Claim must be taken as proven. In short, the Plaintiff alleges that mental health services were withheld from him since 1999. On July 27, 2011, the Plaintiff sent a request to the Kent Institution Health Care Department. While the nature of the request is not disclosed, it appears that it was responded to by a social worker. According to the Plaintiff, he has been housed in solitary confinement since July 2011 and the Defendants are not making health services available to him.
+[4]
+On a motion to strike out a pleading under Rule 221(a) of the FCR, the applicable test is whether it is "plain and obvious"that the claim discloses no reasonable cause of action:
+<FRAGMENT_SUPPRESSED> . The burden on the defendant is very high and the Court should exercise its discretion to strike only in the clearest of cases. The pleading should be read generously with allowance for inadequacies due to drafting deficiencies.
+[5]
+It remains, however, that the Court cannot allow a pleading to stand when it does not set out the essential elements of a cause of action, or is impossible to understand or respond to in any meaningful way. The basic rules of pleading require that every pleading must contain a concise statement of the material facts on which the party relies. More specifically, Rules 174, 181 and 182 impose an obligation on a plaintiff to plead, in a concise manner, material facts that disclose a reasonable cause of action, as well as the nature of the damages. Bald assertions, vague statements, and bare conclusions are simply insufficient.
+[6]
+Being substantially in agreement with the written representations filed on behalf of the Defendants, I conclude that the Statement of Claim fails to disclose a reasonable cause of action. Some of the more egregious deficiencies are listed below.
+[7]
+First, the Plaintiff fails to name a Crown servant for each of the actions or omissions that are alleged to give rise to a cause of action.  <FRAGMENT_SUPPRESSED>  the Federal Court of Appeal held that a plaintiff must either name the individual who is alleged to have engaged in misfeasance or, at the every least, identify a particular group of individuals who were dealing with the matter, one or more of whom were allegedly responsible.
+[8]
+Second, at paragraph 20 of the Statement of Claim, the Plaintiff states that the prison administrators were negligent. He fails to specify how or whether the allegations contained in that paragraph constitute breaches of the standard of care owed to the Plaintiff, or what damages, if any, were caused by these alleged breaches.
+[9]
+Third, the Plaintiff claims damages for "negligent infliction of mental suffering". No such independent tort exists. In any event, in order to establish liability for psychiatric injury, the injury must satisfy the legal concept of nervous shock. This does not include emotional upset, mental distress, grief, sorrow, anxiety, worry or other transient and more minor psychiatric injury. The same can be said about the bald allegation of harassment.
+[10]
+Fourth, as for the allegations of intentional infliction of mental suffering, the Plaintiff has failed to plead any material facts that would establish a flagrant or outrageous act done by the Defendants without legal justification that would give rise to their liability for intentionally inflicting nervous shock: see
+Fifth, the Plaintiff's claim for damages for misfeasance in public office is also deficient in that the requisite elements of the tort, as set out in
+<FRAGMENT_SUPPRESSED>  have not been pleaded. The Plaintiff was required to plead that: (a) the public officer engaged in deliberate and unlawful conduct in his or her capacity as a public officer; (b) the public officer was aware that his conduct was unlawful; (c) the public officer was aware that his conduct was likely to cause harm to the Plaintiff; (d) the tortuous conduct was the cause of the Plaintiff's loss or injury; and (e) the Plaintiff suffered compensable loss as a result of the tortuous conduct.
+[12]
+Sixth, at paragraphs 8 and 13 of the Statement of Claim, the Plaintiff claims that he had been libelled and slandered. However, the two paragraphs are not only speculative and vague, they do not describe any defamatory statements.
+[13]
+Finally, to successfully plead a
+Charter
+rights infringement in a torts action, a plaintiff must first plead material facts to support a rights violation. While the Plaintiff states at paragraph 26 of the Statement of Claim that his section 7, 12, and 15
+Charter
+rights have been infringed, he does not make his allegations any more specific than this bald statement.
+[14]
+Taken as a whole, the allegations in the Statement of Claim are so vague and deficient that the Defendant cannot ascertain the exact nature of the question to be tried, rendering the proceeding impossible to regulate. The Plaintiff has not proposed any amendments that could cure the radical defect in the pleading. In the circumstances, I conclude that the Statement of Claim should be struck out, without leave to amend.
+[15]
+Since the Defendants have not requested their costs of the motion, none will be awarded.
+THIS COURT ORDERS that
+:
+1. The Statement of Claim is struck out, without leave to amend.
+2. There shall be no order as to costs of this motion.
+.........................
+Charte
+Charte
+Charte
+LA COUR ORDONNE
+:
+[End of document]

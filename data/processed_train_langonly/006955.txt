@@ -1,0 +1,128 @@
+<FRAGMENT_SUPPRESSED>  CF 619)
+Federal Court
+Daniel Simonian, for the applicant;
+Meva Motwani, for the respondent.
+Solicitors of Record:
+Blanshay & Lewis, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is an application pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (the Act) for judicial review of a decision of the Immigration and Refugee Board, Refugee Protection Division (the Board), dated July 23, 2012, wherein the applicant was determined to be neither a Convention refugee within the meaning of section 96 of the Act nor a person in need of protection as defined in subsection 97(1) of the Act.
+[2]
+The applicant requests that the Board's decision be set aside and the application be referred back to the Board for redetermination by a different panel.
+Background
+[3]
+The applicant is a citizen of China. He claims protection on the basis of persecution due to political opinion.
+[4]
+On August 13, 2010, the applicant attended a demonstration protesting the demolition of his house being ordered by the district government to make way for a commercial development. The police arrived and the applicant saw two police officers beat a female protester. He pushed the police officers away and ran away with the woman, going into hiding. The Public Security Bureau (PSB) came to his house, accusing him of illegal assembly and left a summons.
+[5]
+He fled China for Canada and arrived on September 26, 2010. He claimed protection three days later. The Board heard his claim on June 6, 2012.
+Board's Decision
+[6]
+The Board made its decision on July 23, 2012, concluding that the applicant was not a refugee or person in need of protection. The Board identified the determinative issues as credibility and risk of persecution.
+[7]
+On credibility, the Board drew a negative inference against the applicant due to inconsistencies between his oral and written evidence concerning whether the two police officers were holding the female protester as opposed to trying to arrest her or beat her. The Board described the applicant's testimony as vague and inconsistent. The Board noted that in his Personal Information Form (PIF) narrative, the applicant indicated he pushed two officers away, but in his oral testimony, he said he pushed one and separated the hand of the other.
+[8]
+The Board drew a further negative inference due to the applicant's inability to explain why the PSB who came to his home accused him of assembling people illegally when he was not one of the organizers of the protest. At the hearing, the applicant suggested he might have been caught by monitors pushing the police officer, but the Board noted there was no mention of this in the PIF. The Board concluded that had he been caught attacking a police officer, the PSB would have mentioned it when visiting his home. The Board concluded the applicant's testimony was not credible.
+[9]
+The Board rejected the alleged PSB summons produced by the applicant. It relied on country conditions evidence that indicated the original copy of a summons is retained at the police station and the suspect is given a duplicate, whereas the document produced by the applicant was an original. It did not contain the name of the issuer or server of the summons, something also mentioned in the country conditions evidence. The Board concluded that despite the potential for regional variation, it was reasonable to assume that authorities resident in the provincial capital would follow prescribed guidelines by issuing a signed receipt.
+[10]
+The Board went on to note that the summons cited section 196 of the
+Criminal Procedure Law of the People's Republic of China
+, which dealt with the timing of appeals by a people's court of second instance. This was contrary to the Board's experience with summons documents indicating different sections. The Board concluded the summons was fraudulent.
+[11]
+The Board discussed the dated nature of the Response to Information Request CHN42444.E (the RIR), which was issued in 2004. The Board indicated it had given serious consideration to this Court's decision in
+<FRAGMENT_SUPPRESSED>  [2012] FCJ No 312, that this document was no longer trustworthy, but noted other decisions had accepted its validity implicitly or explicitly.
+[12]
+The Board went on to conclude that even if the PSB were pursuing the applicant, he was not in jeopardy of persecution. It held that since his concern was concerning the level of compensation for his house, his claim has no political basis but was a disagreement with the authorities. The Board noted the maximum penalty for disturbing public order is a fine and that this was a law of general application that applies to the entire population of China. Even in non-democratic countries, such laws should be given a presumption of validity or neutrality. The law in question must be shown to be generally oppressive rather than the general nature of an oppressive regime.
+[13]
+The Board therefore rejected the applicant's claim.
+The applicant submits the following points at issue:
+1. Did the Board err in assessing the applicant's credibility?
+2. Did the Board err in finding that the applicant faces prosecution for breaking a law of general application and not persecution for protesting the government's decision to expropriate his land?
+[15]
+I would rephrase the issues as follows:
+1. What is the appropriate standard of review?
+2. Did the Board err in rejecting the applicant's claim?
+Applicant's Written Submissions
+[16]
+The applicant argues the Board erred by microscopically examining his testimony and drawing unreasonable conclusions. The discrepancy concerning the arrest was negligible and it is reasonable to infer that officers attempting to arrest a protester would at some point restrain her by holding her. The discrepancies concerning the applicant's use of force against the officers are similarly negligible. The applicant simply elaborated in his PIF in more detail, which should not result in a negative inference. The applicant argues his explanation of why the PSB was seeking him was credible, as it was possible monitors saw him protesting but did not see his action against the police officers.
+[17]
+Concerning the summons, the applicant argues the Board erred in relying on the dated RIR. It was not unreasonable for the applicant to argue the appearance of a summons had changed since 2004, as noted by this Court in
+above. The Board accepted the validity of the RIR in part due to the negative credibility inferences against the applicant, which were unreasonable; therefore, the Board erred in accepting the reliability of the RIR. The Board only cites this Court's decisions from 2011 that support the RIR, which predate
+above. The RIR also mentioned regional variances in summons forms.
+[18]
+The applicant argues his involvement in the protest would be perceived as a political act, as the protest criticized the government. An expression of political opinion opposed to the Chinese authorities established nexus to the Convention grounds. The summons indicated charges of assembling people illegally, disturbing the social order and contempt against the government.
+[19]
+The applicant disputes the Board's finding that he faced only prosecution, not persecution, as the Board did not consider the criteria identified in the
+: his political opinion, the nature of the act committed, the nature of the prosecution and its motives. The applicant also argues the Board erred in concluding he would only face a fine, as Item 9.4 of the Board's National Documentation Package (NDP) indicates Chinese citizens opposing land expropriation risk beatings and imprisonment. Therefore, there was a possibility of persecution.
+The respondent argues that the applicable standard of review is reasonableness and that the Board's decision was reasonable. It is reasonable for the Board to rely on inconsistencies and contradictions in the applicant's evidence to a draw a negative inference.
+[21]
+The respondent argues the applicant's oral testimony was not an elaboration of his PIF narrative, but simply inconsistent. There is a clear difference between the female protester being beaten and being held. There is also a clear difference between pushing two officers away and separating someone from an officer's hand. It was reasonable for the Board to conclude that if the PSB had evidence of the applicant pushing a police officer, it would have been noted in the summons.
+[22]
+The respondent argues it was reasonable for the Board to conclude the summons was fraudulent, as the RIR from 2004 is the most recent information available and the applicant did not demonstrate that the standards in Guangdon are different from those established in the RIR. The use of the RIR was upheld in
+<FRAGMENT_SUPPRESSED>  [2012] FCJ No 814, which followed
+above. The Board was entitled to rely on the evidence indicating the availability of forged documents in the region. The Board is entitled to prefer documentary evidence over oral testimony even if a claimant is credible.
+[23]
+The respondent argues the Board's credibility findings were determinative and are entitled to significant deference.
+[24]
+With respect to the finding on the law of general application, the respondent argues the applicant has not established that this law is disproportionately applied so as to constitute persecution. The onus was on the applicant. The documentary evidence indicated tensions between landowners and the government, but it concerned activists and leaders of demonstrations, which the applicant was not. The sanctions that may be imposed upon the applicant do not constitute persecution and the applicant has not expressed a political opinion in this incident.
+Analysis and Decision
+What is the appropriate standard of review?
+[25]
+Where previous jurisprudence has determined the standard of review applicable to a particular issue before the court, the reviewing court may adopt that standard (see
+It is established jurisprudence that credibility findings, described as the "heartland of the Board's jurisdiction", are essentially pure findings of fact that are reviewable on a reasonableness standard (see
+<FRAGMENT_SUPPRESSED> [2011] FCJ No 786). Similarly, the weighing of evidence and the interpretation and assessment of evidence are reviewable on a standard of reasonableness (see
+<FRAGMENT_SUPPRESSED> [2009] FCJ No 1286).
+[27]
+In reviewing the Board's decision on the standard of reasonableness, the Court should not intervene unless the Board came to a conclusion that is not transparent, justifiable and intelligible and within the range of acceptable outcomes based on the evidence before it (see <FRAGMENT_SUPPRESSED> above, at paragraph 47; <FRAGMENT_SUPPRESSED> above, at paragraph 59). As the Supreme Court held in <FRAGMENT_SUPPRESSED> above, it is not up to a reviewing court to substitute its own view of a preferable outcome, nor is it the function of the reviewing court to reweigh the evidence (at paragraph 59).
+Did the Board err in rejecting the applicant's claim?
+[28]
+As described in the cases cited above, this Court is loathe to interfere with credibility determinations given the Board's expertise and the importance of oral testimony. However, there are some findings where the inconsistencies relied on by the Board are sufficiently minor and peripheral to an applicant's case that they amount to microscopic scrutiny and warrant the Court's intervention (see
+<FRAGMENT_SUPPRESSED> [2006] FCJ No 689).
+[29]
+The Board's negative inferences, based on extremely minor differences in the choice of words used to describe the confrontation between the demonstrators and the police, constitute such an unreasonable microscopic examination. The Board presumed that the police holding a protester contradicts the police beating the same protester, when it is clearly possible that a physical confrontation could be described in either term, especially when the written and oral evidence was interpreted by different translators. A review of the transcript shows that the applicant gave a coherent description of a chaotic scene where the police tried to arrest the female protester, including beating and holding the protester. Similarly, the Board's finding that pushing the police officers away from the protester contradicts "separating" them, makes little sense given that the separation of two people from a third against their will could easily require pushing.
+[30]
+Given that the Board's credibility finding relied so heavily on these trivial inconsistencies, that finding is outside the range of acceptable outcomes.
+[31]
+The Board justified its finding that the summons was fraudulent with reference to the negative inferences drawn against the applicant's credibility. While the Board also considered country conditions evidence in making this determination, it is not clear how the Board would have considered this issue if the applicant's testimony were believed. Rooted as it is in the unreasonable finding against credibility, I therefore find the Board's decision on the summons unreasonable as well.
+[32]
+That leaves the Board's consideration of prosecution versus persecution, which, based on the Board's reasons, I understand to be an alternative finding separate from the credibility determination. However, the applicant gave oral testimony concerning the persecution he feared at the hands of the PSB: he noted that two of the representatives of the protesters were still in jail at the time of the hearing, which was nearly two years after the date of the protest. He testified that the PSB had told his wife that they would "seriously" punish the applicant, which suggests more than a fine.
+[33]
+The Board's analysis of persecution only considered the charges identified in the summons and made no mention of this testimony. Presumably, this was because the Board had already rejected his credibility. This means that the persecution finding is not in fact an alternative determination that can stand while the credibility decision falls. The fact that two people who had attended the protest had been detained for two years is relevant evidence to the level of persecution the applicant faced and could easily have affected the Board's analysis had his credibility not been unreasonably rejected.
+[34]
+Finally, I note the Board's finding that the applicant's opinion concerning the expropriation of his home was apolitical. I would note, however, that the protest was about more than the value of the applicant's home. If he is found to be credible, his PIF clearly states that a large crowd of people attended the protest and were shouting slogans such as "The government is unfair". Such conduct to me sounds to be an anti-government protest.
+[35]
+The application for judicial review is therefore granted and the matter is referred to a different panel of the Board for redetermination.
+[36]
+Neither party wished to submit a proposed serious question of general importance for my consideration for certification.
+THIS COURT'S JUDGMENT is that
+the application for judicial review is allowed and the matter is referred to a different panel of the Board for redetermination.
+Relevant Statutory Provisions
+Immigration and Refugee Protection Act
+72. (1) Judicial review by the Federal Court with respect to any matter - a decision, determination or order made, a measure taken or a question raised - under this Act is commenced by making an application for leave to the Court.
+96. A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
+(b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+97. (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+(i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+(ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+(iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+(iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+72. (1) Judicial review by the Federal Court with respect to any matter - a decision, determination or order made, a measure taken or a question raised - under this Act is commenced by making an application for leave to the Court.
+96. A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
+(b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+97. (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+(i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+(ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+(iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+(iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+[End of document]

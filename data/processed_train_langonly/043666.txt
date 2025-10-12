@@ -1,0 +1,122 @@
+Federal Court
+Denis Girard, for the plaintiff;
+Ian Demers, for the defendant.
+Solicitors of Record:
+Denis Girard, Montreal, Quebec, for the plaintiff;
+John H. Sims, Deputy Attorney General of Canada, Ottawa, Ontario, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+5. (1) The Minister shall grant citizenship to any person who
+(a) makes application for citizenship;
+(b) is eighteen years of age or over;
+(c) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, and has, within the four years immediately preceding the date of his or her application, accumulated at least three years of residence in Canada calculated in the following manner:
+(i) for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence, and
+(ii) for every day during which the person was resident in Canada after his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one day of residence;
+[2]
+¶ 15 Plus récemment, un consensus semble s'être forgé autour de la norme de la décision raisonnable simpliciter (voir notamment les arrêts suivants:  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 2069;  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 2051;  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 1913; Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 1040; Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 88; Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  [2003] F.C.J. No. 1871;  <FRAGMENT_SUPPRESSED>  2005 FC 227.
+In order to determine whether the Applicant "regularly, normally or customarily lives" in Canada, she turned her mind to the six questions suggested by Madam Justice Reed in Re Koo, [1993] 1 F.C. 286, which read as follows:
+a. was the individual physically present in Canada for a long period prior to recent absences which occurred immediately before the application for citizenship?
+b. where are the applicant's immediate family and dependents (and extended family) resident?
+c. does the pattern of physical presence in Canada indicate a returning home or merely visiting the country?
+d. what is the extent of the physical absences -- if an applicant is only a few days short of the 1,095-day total it is easier to find deemed residence than if those absences are extensive?
+e. is the physical absence caused by a clearly temporary situation such as employment as a missionary abroad, following a course of study abroad as a student, accepting temporary employment abroad, accompanying a spouse who has accepted employment abroad?
+f. what is the quality of the connection with Canada: is it more substantial than that which exists with any other country?
+[21]
+[...] It is not the role of this Court to reweigh the evidence presented to the Citizenship Judge to come to a different conclusion.
+[25]
+<FRAGMENT_SUPPRESSED>  appeal from the decision of the Citizenship Judge, dated March 10, 2005, denying citizenship to the applicant, Buana Tshimanga, because he did not fulfil the requirements of paragraph 5(1)(c) of the Citizenship Act.
+5. (1) The Minister shall grant citizenship to any person who
+(a) makes application for citizenship;
+(b) is eighteen years of age or over;
+(c) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, and has, within the four years immediately preceding the date of his or her application, accumulated at least three years of residence in Canada calculated in the following manner:
+(i) for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence, and
+(ii) for every day during which the person was resident in Canada after his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one day of residence;
+The applicant is a citizen of the People’s Republic of Congo and arrived in Canada on September 24, 1999. He obtained refugee status in Canada and became a permanent resident on August 15, 2000.
+[3]
+He submitted an application for citizenship on July 2, 2003, which means that the relevant residence period began on
+July 3, 1999
+.
+[4]
+After holding a hearing with the applicant, the Citizenship Judge found the evidence provided by the applicant to be unsatisfactory and accordingly rejected his citizenship application. That decision was appealed to this Court.
+[5]
+From the decision, the Court must resolve the following three issues: first, whether the new sworn evidence of June 11, 2005 is admissible in an appeal under subsection 14(5) of the Citizenship Act; second, whether the Citizenship Judge, in fact, assessed the evidence in a patently unreasonable manner; and, finally, whether there was a reasonable apprehension of bias on the part of the Citizenship Judge.
+[6]
+With respect to the new sworn evidence, the applicant alleges that, since the appearance was not recorded, the judge must rely on the applicant’s affidavit. He argues that the Citizenship Judge did not give proper consideration to the fact that his affidavit was not contested. More specifically, the applicant alleges that the facts set out in his affidavit were all supported by the evidence and that, since no passports were demanded, he did not believe that it was necessary to hide them. The applicant asserts that, since he was not asked to produce the passports, he cannot subsequently be penalized for not having produced them.
+[7]
+Second, the applicant alleges that the judge had a duty to inform him that the FOSS system contained information that, in the opinion of the person who entered the information, prevented him from being granted citizenship. The judge allegedly received this information between the appearance date, December 2, 2004, and the decision date, March 10, 2005. The applicant points out that the computer note dated December 3, 2004 demonstrates that the judge would have denied him citizenship even before he had a chance to hand in his questionnaire on December 6, 2004. According to the applicant, when the Citizenship Judge was informed of the note, he had a duty to inform the applicant of its contents. Therefore, the process of granting citizenship is invalidated by the note dated December 3, 2004.
+[8]
+A priori, the respondent asserts that the applicant cannot submit new evidence in support of his appeal. Accordingly, all the additional evidence submitted by the applicant must be rejected under section 317 of the Federal Courts Rules.
+[9]
+In response to the applicant’s allegation that the Citizenship Judge had not advised him of the need to submit his passports, the respondent asserts that, when the Citizenship Judge asked him to complete the form and to return it with any documents establishing that he lived in Canada, he informed the applicant of his doubts in a reasonable manner.
+[10]
+Finally, the respondent asserts that no principles of natural justice were breached by the fact that the applicant was not informed of the judge’s concerns or the FOSS notes. According to the respondent, the determination that the applicant had a diplomatic passport did not alter the fact that the applicant failed to provide significant evidence for the Citizenship Judge’s review. The respondent considers the allegations of reasonable apprehension of bias to be unfounded.
+[11]
+In order to answer the preceding questions, we must begin by determining the applicable standard of review. While the applicant does not raise the applicable standard of judicial review, the respondent claims that it should be that of patent unreasonableness.
+[12]
+In the past, the applicable standard of review for an appeal from the decision of a citizenship judge was that of correctness; see  <FRAGMENT_SUPPRESSED>  (QL), de Montigny J. describes the evolving case law concerning the standard of review for a citizenship judge’s decision:
+¶ 14 To answer that question, the applicable standard of review must first be determined. In the past, certain judges relied on the decision by Lutfy J. (as he then was) in  <FRAGMENT_SUPPRESSED> ) to determine that the appropriate standard of review for an appeal of a decision by a citizenship judge was that of correctness.
+¶ 15 More recently, there appears to have been a consensus on the standard of reasonableness simpliciter (see inter alia the following cases:
+, [2004] F.C.J. No. 2069;  <FRAGMENT_SUPPRESSED>
+, [2004] F.C.J. No. 2051;  <FRAGMENT_SUPPRESSED>
+, [2004] F.C.J. No. 1913;
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>
+, [2004] F.C.J. No. 1040;
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>
+, [2004] F.C.J. No. 88;
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>
+, [2003] F.C.J. No. 1871;  <FRAGMENT_SUPPRESSED> .
+¶ 16 My colleague Tremblay-Lamer J. justified this approach as follows:
+In the case at bar, where the court must verify that the Citizenship Judge has applied one of the accepted residency tests to the facts it raises, in my view, a question of mixed fact and law (
+Director of Investigation and  <FRAGMENT_SUPPRESSED>
+, it is my opinion that this standard of review is in fact the most appropriate in the circumstances. Accordingly, it would be appropriate to show deference to the extent that it is established that the judge understood the case law and that he weighed the facts and applied them to the test provided under the Act.
+¶ 18 A careful review of this Court's case law indicates that different interpretations have been accepted regarding the interpretation that must be given to the residency requirement found under paragraph 5(1)(c) of the Act. A Citizenship Judge can adopt any of these different interpretations to determine whether the applicant meets the requirements of the Act; insofar as the judge has not made any unreasonable error in applying this interpretation to the evidence that was submitted to him, this Court will not intervene.
+[13]
+Before analysing the specific allegations of each party in depth, it should be noted that, in a hearing before a citizenship judge, the applicant must discharge the burden of demonstrating that he has met all the conditions set out in subsection 5(1) of the Citizenship Act in order to be granted Canadian citizenship.
+[14]
+The applicant made the point that he had not had an opportunity to lead all his evidence because he was unaware of the Citizenship Judge’s concerns. This evidentiary issue must be assessed in a two-part process.
+[15]
+First, we must address the respondent’s argument concerning the admissibility of the new evidence. The respondent cites  <FRAGMENT_SUPPRESSED>  to support his claim that this Court should not entertain new evidence, referring specifically to the judge’s assertion at paragraph 15:
+In my respectful view, the same principle is applicable in this Court. The essential purpose of judicial review is the review of decisions, not the determination [page 145], by trial de novo, of questions that were not adequately canvassed in evidence at the tribunal or trial court. The latter is what the applicant is inappropriately proposing for this judicial review. This is not the necessity to which Lord Sumner was referring in Nat Bell Liquors, supra. The Court will not entertain new evidence in these circumstances.
+[16]
+I concur with the case law cited by the respondent. The role of this Court is not to assess new evidence. Moreover, this principle is fundamental to the judicial review process and was confirmed by Létourneau J. at paragraph 11 of  <FRAGMENT_SUPPRESSED> ; F.C.J. 819 (QL):
+¶ para. 11] Judicial review proceedings are limited in scope. They are not trial de novo proceedings whereby determination of new issues can be made on the basis of freshly adduced evidence. As Rothstein J.A. said in
+(F.C.A.). This is the reason why, barring exceptional circumstances such as bias or jurisdictional questions, which may not appear on the record, the reviewing Court is bound by and limited to the record that was before the judge or the Board. Fairness to the parties and the court or tribunal under review dictates such a limitation. Thus, the very nature of the judicial review proceeding, in itself, precludes a granting of the applicant's request. In addition, there are other reasons, just as compelling, to refuse the applicant's request.
+[17]
+Second, we must consider whether the Citizenship Judge did in fact have a duty to inform the applicant of his concerns and whether he actually communicated his concerns to the applicant. The applicant asserts that he was penalized by not having had an opportunity to file the documents that the Citizenship Judge wanted.
+[18]
+While the respondent relies on case law such as  <FRAGMENT_SUPPRESSED>  (QL) to support his assertion that the Citizenship Judge was under no duty to inform the applicant of his concerns, these cases relate to decisions by a visa officer, not a citizenship judge. Standing in opposition to this case law is  <FRAGMENT_SUPPRESSED> ; F.C.J. No. 1264 (QL), in which Pelletier J. confirms at paragraph 8 that a citizenship judge does, in fact, have a duty to disclose his or her concerns to the applicant:
+¶ 8 In this case, the legislation provides for an interview to be held when there is a question about the acceptability of the candidate’s application for citizenship. It is clearly intended to provide the candidate the opportunity to answer or, at the very least, address the concerns which gave rise to the request for an interview in the first place. When candidates are deprived of that opportunity, they are deprived of a right specifically provided for in the legislation. This is a contrary to law and would, in any event, be a denial of natural justice.
+[19]
+Not convinced of the applicant’s residence, the Citizenship Judge asked him for additional information. After assessing the documentation provided, the Citizenship Judge ruled that the applicant did not meet the requirements of the Citizenship Act. Moreover, the Citizenship Judge also considered whether a recommendation to exercise the discretion authorized under subsection 5(4) of the Citizenship Act should be made. While it may be said that the judge made the necessary efforts to provide the applicant with an opportunity to submit the documents needed to establish that his residence really was in Canada, this in no way alters the fact that the Citizenship Judge’s decision did not appear to be based on the fundamental criteria for determining Canadian residence.
+[20]
+In order to establish Canadian residence, the Citizenship Judge must assess the factors set out in Re Koo, [1993] 1 F.C. 286. As quoted by my colleague de Montigny J. in  <FRAGMENT_SUPPRESSED>  (QL) at paragraph 17, the following are the essential criteria from Re Koo, supra:
+In order to determine whether the Applicant "regularly, normally or customarily lives" in Canada, she turned her mind to the six questions suggested by Madam Justice Reed in Re Koo,
+, which read as follows:
+a. was the individual physically present in Canada for a long period prior to recent absences which occurred immediately before the application for citizenship?
+b. where are the applicant's immediate family and dependents (and extended family) resident?
+c. does the pattern of physical presence in Canada indicate a returning home or merely visiting the country?
+d. what is the extent of the physical absences -- if an applicant is only a few days short of the 1,095-day total it is easier to find deemed residence than if those absences are extensive?
+e. is the physical absence caused by a clearly temporary situation such as employment as a missionary abroad, following a course of study abroad as a student, accepting temporary employment abroad, accompanying a spouse who has accepted employment abroad?
+f. what is the quality of the connection with Canada: is it more substantial than that which exists with any other country?
+[21]
+The problem in the instant case is that the Citizenship Judge appears not to have considered any of the above factors. The Citizenship Judge refers in his decision to serious doubt concerning the absence dates provided by the applicant. In support of this doubt, the Citizenship Judge asserts that the applicant is still a vice-minister in the Democratic Republic of Congo, as confirmed by an official newspaper from that country dated February 1, 2004. The Citizenship Judge also alleges that he asked the applicant to provide photocopies of his passports, both regular and diplomatic, which the applicant failed to do. Finally, the Citizenship Judge based his decision on the fact that the applicant failed to provide such documents as tax forms, credit card receipts or a lease.  <FRAGMENT_SUPPRESSED>  (QL), Gauthier J. stated the following at paragraphs 19 to 21:
+¶ 19  <FRAGMENT_SUPPRESSED>  [2002] F.C.J. 1011 (QL), Pinard J. said that, when the physical presence test is applied, bank statements, rental payments or the presence of other family members in Canada are not evidence relevant to establishing residence.
+¶ 20 It is clear, from extracts from the reasons in the record, that Judge Springate not only took such evidence into account, but was influenced by the absence of some of these indications such as rental receipts, a bank account or credit card, or even by the absence of participation in Canadian community organizations or other groups, and finally by the intention of going to work outside Canada..
+¶ 21 In the circumstances, the Court must conclude as Heneghan J. did in  <FRAGMENT_SUPPRESSED>  [2001] F.C.J. 862 (QL), that Judge Springate confused or mixed up the various judicial trends in applying the residence test to the facts submitted by Ms. Alouache. This is a reviewable error.
+[22]
+As was noted in  <FRAGMENT_SUPPRESSED> ; F.C.J. No. 114 (QL), a citizenship judge who does not take into account all the relevant evidence concerning the existence of a pied-à-terre in Canada applies a very strict approach in his interpretation of the residence requirement. This determination by the Citizenship Judge is not, in my view, based on evidence or even on logic. As I indicated in paragraph 22 of Yang, supra:
+He placed greater emphasis on the requirement that an applicant must be physically present in Canada and erred in assessing that the fourth factor of the test in Re Koo (physical presence) can be considered the most important of the six.
+[23]
+Without conducting an appropriate analysis of the relevant factors in determining Canadian residence, it is not possible for a citizenship judge to establish on a balance of probabilities that the applicant has not resided in Canada for the required number of days. If a citizenship judge suspects that the applicant was physically present in Canada for too few days, he or she must then examine whether the applicant has a substantial connection with Canada. In the case at bar, however, the Citizenship Judge did not demonstrate in his decision that the applicant was not in Canada for 1095 days. He simply stated that, because of contradictions he noted in some of the documents, this meant that the applicant had been out of Canada and therefore did not satisfy the criterion of 1095 days. This is unreasonable, because he has not even assessed the applicant’s connection with Canada, as set out in Re Koo, supra.
+[24]
+It should be noted that it is not the role of this Court to analyse the factors from Re Koo, supra, concerning the evidence presented to the Citizenship Judge. In paragraph 19 of  <FRAGMENT_SUPPRESSED>  (QL), de Montigny J. properly summarized the role of this Court:
+It is not the role of this Court to reweigh the evidence presented to the Citizenship Judge to come to a different conclusion.
+[25]
+It is, however, essential that the Court determine whether the Citizenship Judge did, in fact, conduct an analysis in accordance with relevant case law. In this case, it appears to me that the citizenship court judge did indeed fail to consider the criteria from Re Koo, supra, and that his decision to reject the applicant’s citizenship application is not based on reasonable grounds.
+[26]
+The respondent relies on  <FRAGMENT_SUPPRESSED> , 215 (C.A.) to assert that, in fact, the Citizenship Judge only has a duty to disclose any extrinsic evidence received in the course of an application if it is relevant. Thus, it is possible for a citizenship judge not to have to disclose each and every bit of evidence, especially where an individual has an opportunity to be heard and to lead evidence. However, where such evidence may influence a citizenship judge’s decision, he must disclose it. In the case at bar, since the officer’s notation clearly influenced the judge’s decision, the judge should have informed the applicant of the notation.
+[27]
+The lesson to be drawn from this case is that a citizenship judge who rejects a citizenship application must base his or her decision on the relevant case law, that is, Re Koo, supra. In the present case, this was not done.
+The application for judicial review is allowed, and the matter is referred back to a different citizenship judge.
+[End of document]

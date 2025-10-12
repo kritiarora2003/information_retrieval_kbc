@@ -1,0 +1,61 @@
+<FRAGMENT_SUPPRESSED>  CF 157)
+Federal Court
+Roy, J.
+February 20, 2014.
+Hélène D'Iorio, for the plaintiff;
+Jeremy Cooperstock, in person, for the defendant.
+Solicitors of Record:
+Gowling Lafleur Henderson LLP, Montreal, Quebec, for the plaintiff.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Roy, J.
+: The Defendant seeks to appeal the ruling of Prothonotary Richard Morneau of January 3, 2014. The Prothonotary refused to order the amendment, or the removal, of paragraphs (h) and 31 of the Amended Statement of Claim which read:
+The Plaintiff, United Airlines, Inc., claims:
+(h) damages, profits and statutory damages, or whichever one or more of those that the Plaintiff may elect after due inquiry;
+31. By reason of the Defendant's aforesaid activities, the Plaintiff has suffered and continues to suffer considerable damages whereas the Defendant has made and continues to make illegal profits.
+[2]
+Following examination for discovery of the Defendant, he was advised on November 25, 2013, with respect to a refusal on the part of the Plaintiff to answer some questions about the alleged damages, that the Plaintiff "will not be claiming monetary compensation in the present proceeding for the infringement of its rights."
+[3]
+The Defendant wanted the Statement of Claim to be amended in order to reflect that the action for copyright infringement and for trade-mark infringement and passing off would not claim any more for damages. Evidently, the rest of the action continues on the same basis. Actually, the Plaintiff continues to claim that damages are incurred. It is rather that it will not be claiming monetary compensation for those alleged damages.
+[4]
+Prothonotary Morneau, who is the case management judge in this matter as per the Order of the Chief Justice of this Court of February 6, 2013, dismissed the Defendant's request of December 13, 2013, presented in the form of a request for directions and intervention, to amend the statement of claim to remove paragraphs (h) and 31 of the Amended Statement of Claim. He put it in terms of "... there is no need for an amendment to the plaintiff's statement of claim." This is because counsel for the Plaintiff confirmed by letter of December 17, 2013, to this Court that "... the Plaintiff made the decision not to seek monetary compensation at trial, thus narrowing the issues for trial ..."
+[5]
+Furthermore, Prothonotary Morneau rejected the request that the Defendant be reimbursed his "costs thrown away." As I understand it, these are the costs incurred by the Defendant for the portion of the examination for discovery dealing with the issue of damages that resulted in the statement of the Plaintiff that monetary compensation will not be pursued. The Defendant argues these costs were unnecessarily incurred.
+[6]
+It is from Prothonotary Morneau's Order of January 3, 2014, that appeal is launched pursuant to Rule 51. By Direction issued on February 6, 2014, Justice Catherine Kane concluded that an oral hearing, requested by the Plaintiff, was warranted. That hearing took place on February 18, 2014.
+[7]
+A Judge of this Court will review de novo an order of a prothonotary only if the question raised is vital or the order is clearly wrong. That second branch of the test requires that the exercise of discretion be shown to be based on a wrong principle or a misapprehension of the facts (
+Such demonstration by the Defendant has not been made. Even if I were to review de novo the matter, I would have reached the same conclusion as that of the Prothonotary and would have exercised the discretion as he did.
+[9]
+Contrary to the Defendant's assertion that he was merely seeking a direction from Prothonotary Morneau, he was actually seeking his intervention with respect to these issues - an amendment of the amended statement of claim, an award of costs (what he called "costs thrown away") and the use of a particular file format. The Defendant was successful on the third request. As for the first two, he presented his arguments. The Prothonotary responded to the request for intervention sought by the Defendant.
+[10]
+The Prothonotary's order accepts the Plaintiff's position that the matter will be addressed in the Plaintiff's pre-trial conference memorandum. Indeed, the Plaintiff has not reneged on its response to questions on discovery about more specificity about damages by confirming that it will not be claiming monetary compensation; it repeated that undertaking on numerous occasions at the hearing. The Prothonotary agreed that the Plaintiff would not be subjected to costs thrown away since "it is the conduct and the answers provided during the discovery of the Defendant that led the Plaintiff not to seek further damages under the claim." Put another way, there were no costs thrown away.
+[11]
+I cannot see how the issue raised can be considered to be vital to the final issue of the case. This issue is at best peripheral at this stage (
+. Indeed, the Defendant does not seem to rely on that branch of the test and rather focuses on the order being clearly wrong because based on a wrong principle or based on a misapprehension of the facts. But that is not a light burden, especially in view of the case law that confirms the reluctance to interfere with decisions on non-vital issues made by a prothonotary acting as the case management judge (
+I fail to see what principle has been infringed or how it can be said that the Prothonotary misapprehended the facts. Arguing that having paragraphs (h) and 31 creates confusion and leaves uncertain the case the Defendant must meet does not have an air of reality. If that is the "principle" that the Prothonotary got wrong, the Defendant misses the mark. As for the misapprehension of the facts, the Defendant argues that the Prothonotary did not have a transcript of the examination for discovery. The Defendant does not explain how that could constitute a misapprehension of the facts in view of the very simple issue the Prothonotary had to decide at this stage in the proceedings.
+[13]
+On the issue of the wrong principle, the Defendant has tried to read Rule 182 (claims to be specified) together with Rule 221 (motion to strike) to argue that emerges a principle that claims must be amended once an element of the claim will not be pursued. Not only did the Prothonotary's decision not consider a motion to strike, which was not made in the first place by the Defendant, but no authority was submitted that would suggest that such principle exists. The Prothonotary cannot have been operating on a wrong principle if that principle does not exist. The Defendant argues that the statement of claim ought to have been amended. That wish however does not create an obligation.
+[14]
+On the issue of costs incurred by the Defendant, he claims that Rule 402 of the
+Rules of the Federal Courts
+allows for costs to be awarded in his favour. In his written representations, the Defendant referred to the intent of the rule while he spoke of the use of the rule "by way of an analogy" in his reply of January 31, 2014. On its face, the Rule speaks of actions, applications, appeals and motions which have been discontinued or abandoned. Obviously, the action has not been discontinued (Rule 165). Rule 402 finds no application here, by analogy or otherwise. More importantly, discovery will serve the purpose of making the trial process more efficient by defining the issues and, hopefully, winnowing down to the issues that deserve to be tried (
+<FRAGMENT_SUPPRESSED> ). If Rule 402 were to be applied as proposed by the Defendant, this could only create a disincentive to use the examination for discovery to pare down issues.
+[15]
+Had I found that a review was warranted, I would still have concluded that the appeal must fail. I share the view of the Prothonotary that an amendment of the Plaintiff's statement of claim is not needed in view of the concession made by the Plaintiff on the record and on numerous occasions. There is no confusion and I see no prejudice suffered by the Defendant. He actually benefits from the conclusion made on the record that no monetary compensation will be sought in spite of the damages the Defendant claims it has suffered. It is worth noting that the only concession made by the Plaintiff is that it will not seek to quantify the damages suffered, and thus no monetary compensation will be sought, but will continue to argue that it incurred damages, as it states that it is an essential element of its passing off action. The concession, while important to the Defendant, does not detract from the view taken by the Plaintiff that it must still plead damages.
+[16]
+As for the costs incurred by the Defendant as a result of his examination for discovery, they have not been unnecessarily incurred because of an error, for instance. The action has not been discontinued. I take it that the Prothonotary's order is to refuse to subject the Plaintiff to "costs thrown away" at this stage. Were the Defendant to prevail in the end with costs, these costs, like any others, could be awarded at the discretion of the trial judge.
+[17]
+As a result, the appeal is dismissed.
+[18]
+The parties each seek their costs on this appeal, with the Defendant adding that in case he is not successful, costs should not be awarded against him because the Prothonotary, in his view, has not given sufficient reasons and he raised a novel point of law in arguing that a "withdrawn/abandoned claim" should not be allowed to stand.
+[19]
+In my view, costs could be awarded here in order to sanction a step in the proceedings that was unnecessary and improper. The justification offered by the Defendant does not satisfy the Court. The question is far from vital to the final issue of the case and it is quite obvious that the discretion of the case management judge, who has been involved in this case for one year, was not based on a wrong principle or a misapprehension of the facts which were, after all, remarkably simple. Had this litigation been permitted to follow its course, the issue of the damages would have been reached in due course with the Plaintiff committing on the record to declining to claim monetary compensation. The Plaintiff asserts that it would have been confirmed, once again, at the stage of the pre-trial conference and I have no reason to doubt that assertion.
+[20]
+The Plaintiff has suggested a lump sum of $2,000. In my view, that would be too punitive. After all, the only thing that is before this Court is the appeal of the Prothonotary's order, not more generally how this litigation is conducted. An amount that would signal that the court process should not be used lightly would have been more appropriate. On the other hand, a matter that could have been decided, as requested by the Defendant, on the basis of written representations necessitated an oral hearing, as demanded by the Plaintiff. In the circumstances, I conclude that no order for costs should be made.
+THIS COURT ORDERS that
+the appeal is dismissed.
+.........................
+; Apotex inc. c Lundbeck Canada Inc
+[End of document]

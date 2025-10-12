@@ -1,0 +1,1008 @@
+[French language version follows English language version]
+<FRAGMENT_SUPPRESSED>  CF 192)
+Federal Court
+Harry B. Radomski, Richard Naiberg, Sandon Shogilev and Jordan Scopa, for the plaintiff and for the defendants by counterclaim;
+Julie Desrosiers, Marie Lafleur, Christian Leblanc, Hilal El Ayoubi, Silviu Bursanescu and Alain Leclerc, for the defendant and for the plaintiff by counterclaim.
+Solicitors of Record:
+Goodmans LLP, Toronto, Ontario, for the plaintiff and for the defendants by counterclaim;
+Fasken Martineau Dumoulin LLP, Montreal, Quebec, for the defendant and for the plaintiff by counterclaim.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2013] F.T.R. TBEd. MR.031. Any footnotes found in this case will appear below end of document.
+[1]
+: This action for impeachment of a patent of invention and the counterclaim for its infringement deal with the compound known as Escitalopram or (+)-Citalopram. It belongs to a class of compounds known as SSRIs (Selective Serotonin Reuptake Inhibitors, or 5-HT reuptake inhibitors). It has proved useful in the treatment of clinical depression. It is branded in Canada as Cipralex, in the United States as Lexapro and in the United Kingdom as Cipramil. It was invented in Denmark in 1988, and has been patented in Canada, and in many other countries. The patent claims (+)-Citalopram itself, as well as methods to make it and non-toxic salts thereof.
+[2]
+Apotex Inc. has wanted to market its generic version of (+)-Citalopram for some time. It was first thwarted by Lundbeck who obtained a Court order pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+[PM (NOC) Regulations] the effect of which was to prohibit the Minister of Health from issuing a Notice of Compliance. That Notice would have permitted Apotex market entry. However, the order did not purport to determine whether or not the patent was valid.
+[3]
+In this action Apotex seeks a declaration that Canadian patent 1,339,452 ('452) is, and has always been, invalid. Lundbeck, for its part, has counterclaimed that Apotex and a related corporation, Apotex Pharmachem Inc., have infringed the patent. It seeks, among other things, an accounting of profits. Apotex admits that if the patent is valid, in whole or in part, it has infringed. Apotex Pharmachem Inc. produced (+)-Citalopram through a method not covered by the patent. Thus, it has infringed only if Lundbeck's claim for the compound (+)-Citalopram itself is valid.
+[4]
+An invention must be something new. Apotex alleges that (+)-Citalopram is not new so that Lundbeck invented nothing at all. It says (+)-Citalopram was anticipated in the prior literature and, as well, was obvious to those to whom the patent is addressed.
+[5]
+In order to be patentable, an invention must also be useful. In a later patent application, Lundbeck stated that the Pamoic Addition Salt of (+)-Citalopram was toxic. Since that salt figures in the claims for (+)-Citalopram itself the patent is alleged to be invalid for inutility.
+[6]
+The subject matter must also be patentable (
+<FRAGMENT_SUPPRESSED> , [2002] SCJ No 77 ( <FRAGMENT_SUPPRESSED> , [2004] SCJ No 29 (QL)). However, this is not in issue in the present case.
+[7]
+A patent represents a bargain between the inventor and the state. In consideration of the grant of a monopoly, the inventor must fully and properly disclose the invention so that when the monopoly expires, others may reproduce the product or process involved without undue difficulty. The
+requires the applicant to provide a specification which discloses what has been invented and how to replicate it. The specification ends with a claim or series of claims over which a monopoly is asserted. According to Apotex, the specification is fatally defective.
+[8]
+One of the claims of the patent, claim number 7, which on its face is a method or process for preparing (+)-Citalopram, is said to be insufficiently disclosed and is not based on routine techniques which would have been known to the skilled addressee in 1988. The other process claims are also invalid because they are dependent on claim number 7.
+[9]
+The patent is also allegedly insufficient because it states that "[r] esults upon administration to human beings have been very gratifying". There had actually been no tests on human beings at the time of the application. This constitutes a failure to fully disclose the invention.
+[10]
+There need not be proof positive to back up statements, or promises, in a specification. The statement may be premised on a prediction, as long as there is a sound basis therefor. As shall be seen, (+)-Citalopram is an enantiomer of the racemate Citalopram, which together with precursors thereof was covered by earlier patents. By 1988, Citalopram had proved useful in the treatment of depression. According to Apotex, the '452 patent promises that (+)-Citalopram is therapeutically more potent than Citalopram. There was no sound basis for making that prediction as (+)-Citalopram had not as then been tested in human beings. The fact that the prediction later turned out to be true is irrelevant.
+[11]
+I shall deal with both invalidity and infringement. As I stated at trial, no matter my holding on validity, I would deal with infringement. If I were to hold that the patent is invalid, and be reversed in appeal, the likelihood is that the matter would be referred back to me to deal with the counterclaim for infringement. Hence, it is better to cover all aspects of the litigation now.
+[12]
+These reasons are broken down as follows:
+-
+PATENT CONSTRUCTION
+13-19
+THE SKILLED ADDRESSEE
+20-23
+THE EXPERTS
+34-52
+--B. Obviousness
+79-218
+---iv. The Experiments
+196-202
+---vi. Mosaic of Prior Art
+208-218
+--D. Insufficient Disclosure
+225-240
+--E. Sound Prediction
+241-254
+--A. Punitive Damages
+257-266
+--B. Accounting of Profits
+267-272
+--C. The Profits
+273-304
+--D. Delivery-Up or Destruction
+305
+--E. Permanent Injunction
+306
+IX. COSTS
+312
+PATENT CONSTRUCTION
+[13]
+The starting point of any inquiry into either invalidity or infringement is the language and meaning of the patent within the context of the
+Free World Trust v Électro Santé Inc
+, 2000 SCC 66, [2000] 2 SCR 1024, 9 CPR (4th) 168, [2000] SCJ No 67 ( <FRAGMENT_SUPPRESSED> , 9 CPR (4th) 129, [2000] SCJ No 68 (QL)).
+[14]
+Patents are a creature of statute, in this case the
+, as it was immediately prior to 1 October 1989.
+[15]
+Section 34 thereof required that the patent application contain a specification cumulating with a claim or claims "defining distinctly and in explicit terms the subject-matter of the invention for which an exclusive privilege or property is claimed." It must be sufficiently full, clear, concise and exact "as to enable any person skilled in the art or science to which it pertains, or to which it is most closely connected, to make, construct, compound or use it."
+[16]
+The claims are to be read in an informed and purposive way so as to permit fairness and predictability and to define the limits of the monopoly. One way of doing this is to separate the essential from the non-essential. As Mr. Justice Binnie stated in
+Whirlpool
+The key to purposive construction is therefore the identification by the Court, with the assistance of the skilled reader, of the particular words or phrases in the claim that describe what the inventor considered to be the "essential" elements of his invention.
+[17]
+However, ultimately, it is not for the skilled reader to tell the Court what the patent means; it is for the Court to tell the parties what it means. A patent is not an ordinary document. It meets the definition of a "regulation" in the
+Interpretation Act
+, and must be read to assure the attainment of its objects. "[C]laims construction is a matter of law for the judge, and he was quite entitled to adopt a construction of the claims that differed from that put forward by the parties." (
+Whirlpool
+Pursuant to section 27 of the
+, as it was, an inventor or legal representative thereof was entitled to obtain a patent for:
+...an invention that was
+not known or used by any other person before he invented it,
+not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned, and
+not in public use or on sale in Canada for more than two years prior to his application in Canada
+An invention was defined at section 2 as meaning:
+[...] any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter
+THE SKILLED ADDRESSEE
+[20]
+According to the abstract in the patent specification, the invention relates to the two novel enantiomers of Citalopram and to their use as antidepressant compounds as well as to possible use as geriatrics or in the cure of obesity and alcoholism.
+[21]
+Citalopram is stated to be 1-(3-Dimethylaminopropyl)-1,-(4'-fluorophenyl)-1,3-dihydroisobenzofuran-5-carbonitrile, and is accompanied by a diagram of the chemical formula.
+[22]
+It goes without saying that the patent is not addressed to this Court as presently constituted. The Court needs the assistance of experts in order to understand its technical aspects. The patent is notionally addressed to a person skilled in the art or science to which the subject matter relates and is to be read as such a person would have read it when it first became public, which was in June 1988. The parties have called a great array of experts to assist the Court in this regard. There is no significant disagreement as to the identity of this hypothetical skilled addressee. He or she is a medicinal chemist, probably with a doctorate, and has spent at least a few years in a laboratory. The addressee is either part of or has access to a team, which includes analytical chemists, familiar with the principles of organic chemistry and techniques then available which could be used in an effort to separate racemic mixtures into their two enantiomers. Access would also be had to pharmacologists, psychiatrists and to drug formulators.
+[23]
+More shall be said about this skilled addressee under the topic of Obviousness.
+This case deals with the element "carbon", which is essential to human life. Indeed carbon is the very subject of organic chemistry. There is no disagreement among the experts as to the basic principles involved.
+[25]
+Drawing upon the opinion of Dr. Martin Semmelhack, a professor of chemistry at Princeton University, called by Apotex, organic chemistry concerns the study of molecules containing carbon atoms. Molecules are collections of atoms arranged in a particular order. Carbon atoms can form bonds both with other carbon atoms and with other atoms. These bonds may take the form of long chains or cyclic structures. They are three-dimensional.
+[26]
+Atoms bond to each other in various ways. Covalent bonds arise from atoms sharing electrons, while ionic bonds (common in salts) are bonds between charged atoms.
+[27]
+Turning now to stereochemistry, isomers are molecules which have the same molecular formula but either have different connectivities among the atoms (known as constitutional isomers), or have the same connectivity but different orientation in space (known as stereoisomers).
+[28]
+Stereoisomers are molecules with the same atoms and the same chemical bonds but different in how they are oriented in space. Two varieties are enantiomers and diastereomers. Enantiomers are non-superimposable mirror images of one another. The word chiral, Greek for handedness, is often used because the two human hands are non-superimposable mirror images of each other. Diastereomers are stereoisomers that are not enantiomers.
+[29]
+Enantiomers share all the same physical and chemical characteristic such as boiling point, melting point and solubility.
+[30]
+Because enzymes and protein receptors in the body are chiral, they may react differently with one or the other enantiomer of the same compound.
+[31]
+When natural substances are recreated in a laboratory, the result is often a 50/50 mixture of the two enantiomers. This mixture is known as a racemate. The two enantiomers within may be identified by whether they rotate a plane of polarized light to the right, identified as the (+) enantiomer, or to the left, identified as the (-) enantiomer. Another method of identifying them is based on the sizing of atoms attached to the carbon centre, in accordance with what are known as the Cahn-Ingold-Prelog rules. In a molecule with a single stereogenic centre, one will be known as the S-enantiomer and the other as the R-enantiomer. There is no direct correlation between the (+) and (-) and the R and the S nomenclatures. Citalopram is S- and (+).
+[32]
+Because enantiomers have the same physical and chemical characteristics, it may be difficult, if not impossible, to separate them. However, unlike enantiomers, diastereomers have different chemical and physical properties, such as different solubility and melting points. This difference plays an important role in techniques which can be used to resolve a racemate in order to isolate enantiomers. This is one of the fundamental challenges of this case.
+[33]
+All agree it was common general knowledge in 1988 that racemates could be easily identified by their chemical structure, and that there might well be differences between the two enantiomers, and between each of the enantiomers and the racemate. In terms of medicine, it was also common general knowledge that since one enantiomer might react better than the other with enzymes and protein receptors within the body, one might have more therapeutic effect than the other. The other might even have most unfortunate side effects. However, knowledge of the characteristics of the enantiomers could only be had by resolving the racemate in sufficient quantity to allow for testing.
+THE EXPERTS
+[34]
+As part of its impeachment case, Apotex called Dr. Martin F. Semmelhack, Dr. Rick Lane Dannheiser, Dr. Peter Jenner, Mr. Thomas Beesley, Dr. John Caldwell and Dr. René Levy. Apotex's factual witnesses were also experts in their own right. Unless ordered otherwise, a party is limited to five experts. However, on consent, I ordered that both parties could call more than five expert witnesses.
+[35]
+For its part, Lundbeck called Dr. Stephen Graham Davies, Dr. Daniel Wayne Armstrong, Dr. Peter Myers, Dr. Pierre Blier and Dr. Gerd Bode. Lundbeck's factual witnesses were also experts in their own right.
+[36]
+Then in reply to the evidence of Dr. Davies, Apotex called Sir Jack Baldwin and recalled Dr. Dannheiser.
+[37]
+Each side called one expert witness with respect to the calculation of profits in the event of infringement.
+Dr. Semmelhack is currently the Associate Chair of the Chemistry Department at Princeton University. The focus of his early independent research in the late 1960s at Cornell University was organic synthesis. He is an organic chemist well aware of stereochemistry, racemates and enantiomers. Since the 1970s, he has taught concepts, including the resolution of racemic mixtures and the impact of stereochemistry on biological systems. He is well respected in academia and is a noted author. His career has been spent in academia, except in 1988 and 1989 when he served as Department Head of Medical Chemistry and then as Consulting Director at the Medical Research Division of American Cyanamid. He was qualified as an expert in organic chemistry and organic synthesis. His evidence focused on ways and means Citalopram, or a precursor thereof, could be resolved into its two enantiomers, based on the common general knowledge, literature and techniques readily available to the addressee of the '452 patent in 1988.
+Dr. Dannheiser obtained his Ph.D in Organic Chemistry from Harvard University in 1978, the same year in which he joined the Massachusetts Institute of Technology. He is their Arthur C. Cope Professor of Chemistry. His laboratory currently deals with the development of new strategies for the synthesis of complex molecules. He too is well published, and was qualified as an expert in organic chemistry and synthetic organic chemistry. Like Dr. Semmelhack, his opinion related to ways and means to arrive at (+)-Citalopram, without recourse to the '452 patent.
+Mr. Thomas Beesley
+[40]
+Mr. Beesley has a master of science degree from St. John's University. His career has been in industry. He was at the forefront of the development of some of the analytical tools for separating racemates, including High Performance Liquid Chromatography (HPLC), which was cutting-edge technology in the 1980s. In 1983, he came across Dr. Armstrong, called by Lundbeck. Dr. Armstrong was on the lecture circuit promoting molecules known as Cyclodextrins which could facilitate the resolution of various isomers. To that end, he and Dr. Armstrong formed Advanced Separation Technologies Inc (Astec)
+.
+He was qualified as an expert in chromatography, one of the techniques available to resolve racemates, and, in particular, by the use of chiral HPLC.
+professor of pharmacology at King's College, London. He began his training as a pharmacist. His doctorate at the University of London was in the area of drug metabolism and pharmacokinetics. He has worked throughout his career with medical chemists, clinical neurologists and psychiatrists. He was qualified as an expert in pharmacology, drug metabolism and pharmacokinetics, particularly with respect to centrally active drugs used to treat psychiatric and neurological disorders. His testimony did not relate to ways and means to resolve racemates but rather as to reasons to resolve them. In other words, he dealt with what would have motivated the skilled addressee at the time to arrive at (+)-Citalopram.
+Dr. Caldwell served as Dean of the Faculty of Medicine of the University of Liverpool from 2002 to 2010 and Pro-Vice Chancellor of that University from 2007 until his retirement last year. He is currently professor
+. He has a Ph.D in Biochemistry from St Mary's Hospital Medical School and in 1987 received his doctorate of science in Pharmacology from the University of London for distinction in drug metabolism. The focus of his work has been upon, among other things, the importance of stereochemistry in drug development. He is an author and editor and serves or has served on the editorial boards of a number of scientific publications. In 1989, he co-founded the journal
+Chirality
+to address a diverse range of issues relating to stereochemistry, including drug development, pharmacology, synthesis and analysis. He has consulted both with government regulators and industry. Consequently, he qualified to give expert advice as a pharmacologist with expertise in drug metabolism and pharmacokinetics and as to the significance of stereochemistry in drug development, including regulatory policy and practice referable thereto. He testified as to the importance of stereochemistry to pharmaceutical companies and government regulators in the 1980s.
+Dr. Levy is professor
+at the Department of Pharmaceutics at the University of Washington, and advisor to the Metabolism and Transport Drug Interaction Database which he founded in 2002. He obtained his Ph.D in Pharmaceutical Chemistry from the University of California in 1970. In 1977, he became a full professor of pharmaceutical sciences and adjunct professor of neurological surgery at the University of Washington, and served as Chairman of the Department of Pharmaceutics in its School of Pharmacy from its inception in 1980 until 2006. He has specialized in drug metabolism and like the other experts, is a noted author. He was qualified as an expert in metabolism, pharmacokinetics and pharmacodynamics of drug products and their metabolites, including the consequences of stereoselectivity therein. He dealt with statements, or implications, in the patent about the use of (+)-Citalopram as an antidepressant in humans, whether it was predicted that it had more therapeutic benefits than Citalopram itself, and whether there was a sound basis for making such a prediction.
+For its part, Lundbeck called Dr. Davies. He has been teaching at the University of Oxford since 1980, where he is the Waynflete Professor of Chemistry. From 2006 to 2011, he was also chairman of its Department of Chemistry. He obtained his Ph.D in Chemistry from Oxford in 1975 and his doctorate of science degree in Chemistry from the University of Paris in 1980. In 1989, he founded and is still editor-in-chief of
+Tetrahedron Asymmetry
+, a journal which reports advances in knowledge of stereochemistry. In 1991, he founded and is the Director of Oxford Asymmetry International PLC. He has received various awards and has acted as a consultant to a number of pharmaceutical companies. He has given evidence in affidavit form or
+on behalf of Lundbeck in a number of jurisdictions in which the (+)-Citalopram invention has been challenged.
+[45]
+There was some debate as to whether he should have been qualified, as proposed by Lundbeck, in medicinal chemistry. In the end, I qualified him as an expert in medicinal chemistry and organic chemistry, including resolution techniques, and stereochemistry. His testimony covered a broad range of topics, including obviousness and insufficiency. He also commented on the expert reports of Drs. Semmelhack, Dannheiser, Caldwell and Jenner.
+Dr. Armstrong is the Robert A. Welch Professor of Chemistry at the University of Texas at Arlington. He teaches courses in separation science and directs research at the undergraduate and graduate levels in bio-analytical chemistry, separation science, colloid science and organic chemistry. He has expertise in separation of racemic mixtures by various methods, including fractional recrystallization, kinetic resolutions, direct crystallization of enantiomers and chiral HPLC. He is a named inventor on 14 United States patents, mainly related to the separation of racemic mixtures by HPLC and other separation techniques. As aforesaid, together with Mr. Beesley, he helped found Astec, a company specializing in enantiomeric separations, mainly using Cyclodextrin chiral HPLC columns. He was frequently retained by scientists and clients to attempt to separate enantiomers, and has regularly consulted with both brand name and generic pharmaceutical companies on issues related to the separation of enantiomers. Again, as with the other experts, his credentials, his expertise, his publications and his role on editorial boards are most impressive. He was qualified as an expert in resolution techniques, including chiral HPLC.
+Dr. Myers is a professor of separation science in the Department of Chemistry at the University of Liverpool. His career has been split between industry and academia. He has been very much involved in the study and synthesis of silica microparticles for HPLC. Beginning in 1979, he worked with Phase Separations, a United Kingdom company involved in the manufacture and distribution of chromatography products. After its purchase by Waters Corporation, an American company, in 1995, he continued as a consultant. He has been involved in the development of silica products, including products used by Astec, the company established by Dr. Amstrong and Mr. Beesley. He was qualified as an expert in separation science, including chromatography and the manufacture of chromatographic silica. He testified as to the feasibility of arriving at (+)-Citalopram in 1988 by means of chromatography.
+Dr. Blier is currently a full professor at the Department of Psychiatry in cellular and molecular medicine, Faculty of Medicine, University of Ottawa; adjunct professor, Department of Psychiatry, McGill University; adjunct professor, Department of Neuroscience, Carleton University; and Director of the Mood Disorders Research Program at the University of Ottawa's Institute of Mental Heath Research. He obtained his Ph.D in Neuroscience from the Université de Montréal in 1985. He has obtained many peer reviewed research grants and has written extensively. He was qualified as an expert in neuropsychology including pharmacokinetics and pharmacodynamics with respect to SSRIs. He is also a physician specializing in the treatment of mental health illnesses, more particularly depression. He testified with respect to the therapeutic benefits of (+)-Citalopram and the promises, if any, in the patent, with respect to its benefits in the treatment of depression in humans in comparison with Citalopram.
+Dr. Bode's expert report was taken as read. He was not cross-examined by Apotex. He has an M.D. and Ph.D and is an expert in pathology, neuropathology, pharmacology and toxicology. His evidence related to the alleged toxicity of (+)-Citalopram Pamoate.
+Apotex called Sir Jack Baldwin to reply to the opinion of Dr. Davies with respect to the "Baldwin Rules", so called, which he had developed in the 1970s. He was Dr. Davies' predecessor as the Waynflete Professor of Chemistry at Oxford, and has been the recipient of many awards. A knighthood was conferred upon him in 1997 for his contributions in organic chemistry. He was qualified as an expert in organic, synthetic and biological chemistry. Like Dr. Davies, he has given evidence in other jurisdictions with respect to (+)-Citalopram, however always on the side that submitted the patent should be held to be invalid.
+[51]
+Finally, Dr. Dannheiser was re-called to take issue with some of Professor Davies' opinions.
+[52]
+I say, without hesitation, that not only were all these witnesses superbly qualified to offer expert opinion to the Court, but they were, each and every one, over qualified. They are not ordinary medicinal chemists, ordinary analytical chemists, ordinary pharmacologists and what have you. Each and every one is a superstar. The challenge they faced, and the challenge facing the Court, is whether they were able, in a sense, to reduce their expertise to that of the skilled addressee in 1988.
+The application was filed 13 June 1989. The patent was issued 9 September 1997, good for 17 years. Its priority date is stated to be 14 June 1988, the date of the first patent application which was filed in the United Kingdom. Lundbeck has suggested an April priority date, on the grounds that that was when (+)-Citalopram was invented. However, it did not pursue that point with vigour and, in any event, the experts agree that the situation did not change between April and June 1988.
+[54]
+Its inventors were two Lundbeck employees: Dr. Klaus Peter Bøgesø and Jens Perregaard.
+[55]
+To expand upon the abstract, according to Dr. Jenner, the patent is addressed to chemists and pharmacologists with knowledge of antidepressant drugs. It relates to the enantiomers of Citalopram and their use in the treatment of depression in humans. It also relates to methods for obtaining those enantiomers.
+[56]
+Claims 1 through 5 relate to (+)-Citalopram itself, including in salt form and composition, while claims 6 through 11 relate to an intermediate compound and methods of using that compound to make (+)-Citalopram. These comments are not controversial. What is more controversial is the view of some that there is a prediction that (+)-Citalopram is more potent in humans than Citalopram.
+[57]
+Dr. Davies notes that the specification states that it had now (in 1988) proved possible to resolve the intermediate diol of Citalopram into its enantiomers and in a stereoselective way to convert those enantiomers to the corresponding Citalopram enantiomers. A "diol" is an alcohol containing two hydroxyl groups in its molecule.
+[58]
+The patent then sets out two methods of resolution, called "A" and "B"-"C", described in chemical reaction schemes. These reactions involve resolution of the intermediate diol or an ester thereof followed by conversion of the resultant precursor molecules into the enantiomers of Citalopram by the use of specific reagents and conditions. I shall expand upon this later on in these reasons.
+[59]
+The specification ends with 11 claims:
+i. Claim 1 is for Citalopram and non-toxic acid addition salts thereof.
+ii. Claim 2 covers the Pamoic Acid Salt of (+)-Citalopram.
+iii. Claim 3 covers an antidepressant pharmaceutical composition containing an effective amount of (+)-Citalopram, accompanied by a pharmaceutically acceptable diluent or adjuvant.
+iv. Claim 4 is identical to claim 3, except that the composition is of the Pamoic Acid Salt of (+)-Citalopram as the active ingredient.
+v. Claim 5 is dependent on claims 3 and 4, and is a pharmaceutical composition in unit dosage form.
+vi. Claim 6 is directed to the (-) enantiomer of the intermediate diol, and an ester thereof.
+vii. Claim 7 refers to a method of producing (+)-Citalopram.
+viii. Claims 8 through 11 are methods dependent on claim 7.
+It all began with the PM (NOC) Regulations. They have been the subject of numerous decisions, including those of the Supreme Court in
+<FRAGMENT_SUPPRESSED> , [2005] SCJ No 26 (QL), at paragraphs 5-24; and
+<FRAGMENT_SUPPRESSED> , [2008] SCJ No 63 (QL) ( <FRAGMENT_SUPPRESSED> ), at paragraphs 7 and 12-17.
+[61]
+In accordance with those Regulations, in April 2007 Apotex served a Notice of Allegation upon Lundbeck Canada Inc., the licensee of the patent. The notice asserted that patent '452 was invalid on various grounds. One of those grounds, an invalid selection patent, was not pursued in this trial. In turn, Lundbeck filed a Notice of Application in this Court, court docket number T-991-07 the following month, in which it sought an order in accordance with the Regulations that the Minister of Health be prohibited from issuing a Notice of Compliance until the expiration of the patent.
+[62]
+In February 2009, in
+<FRAGMENT_SUPPRESSED>  FTR 53, [2009] FCJ No 249 (QL), I upheld the application and so prohibited the Minister from issuing Apotex a Notice of Compliance. This decision was affirmed by the Federal Court of Appeal, 2010 FCA 320, 88 CPR (4th) 325, [2010] FCJ No 1504 (QL). Application for leave to appeal to the Supreme Court was dismissed, SCC Case Information 34066.
+[63]
+The PM (NOC) Regulations are, in theory, summary in nature. They were not thought binding upon the parties either as to validity or infringement. The issue was simply whether the Minister should have been prohibited from, in effect, licensing Apotex. The parties are entitled to litigate validity and infringement in an action, as opposed to an application. Lundbeck only had to meet the allegations set out in the Notice of Allegation, which did not even raise the issue of non-infringement.
+[64]
+As I mentioned in those proceedings, a trial is much more to be desired from the judge's point of view, and indeed from the parties' point of view. Unlike in an action, in an application there is no full discovery of documents and examination for discovery. There is no live testimony in court. The evidence is limited to affidavits and cross-examinations thereon. The Court is unable to ask clarifying questions of the expert witnesses. In this trial most of the experts are new and much of the evidence is different.
+[65]
+It is not all that uncommon that a patent be held invalid at trial, even though the Minister had earlier been prohibited from issuing a Notice of Compliance. In <FRAGMENT_SUPPRESSED> , above, the Supreme Court upheld this Court's issuance of a prohibition order. However, at the subsequent trial on the merits, the patent was held to be invalid (
+<FRAGMENT_SUPPRESSED>  CPR (4th) 1, [2011] FCJ No 1813 (QL), currently in appeal).
+[66]
+This Court has developed the practice, where possible and practicable, to assign the trial to the judge who heard the Notice of Compliance application. The theory is that these pharmaceutical patents have a long learning curve, and so it is better to assign the trial to a judge who has already looked at the patent. This, without more, does not give rise to a conflict of interest, or to an apprehension of bias (
+<FRAGMENT_SUPPRESSED>  [2008] FCJ No 1692 (QL)).
+[67]
+I raised this point fairly early on at a trial management conference. The parties were agreeable that I be the trial judge. Indeed, they, Apotex in particular, shaped their evidence to deal with a concern I had had, which was that the experts benefited from hindsight and were not looking at (+)-Citalopram with 1988 eyes.
+[68]
+I shall now deal with the allegations of invalidity.
+The leading Canadian case is the decision of the Supreme Court in <FRAGMENT_SUPPRESSED> , above. Section 27 of the
+as it was at the relevant time required, among other things, that the patent be "not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned ..."
+[70]
+According to Apotex, the claims for (+)-Citalopram itself as a compound, namely claims 1 through 5, are invalid as they were anticipated by the prior disclosure of (+)-Citalopram as a component of Citalopram.
+[71]
+There were previous patents, issued more than two years before the application, which disclosed Citalopram, for instance US Patent 4,136,193. It was common general knowledge that Citalopram was a racemate, containing equal amounts of (+)-Citalopram and (-)-Citalopram. It was also common general knowledge that the enantiomers might have different therapeutic effects one from the other, and from the racemate itself.
+[72]
+However, the working of patent '193 or of the intermediate diol disclosed in US Patent 4,650,884 would inevitably result in a racemic mixture, not in separate enantiomers. This is fatal to Apotex's submission.
+[73]
+The test for anticipation was set out by Mr. Justice Hugessen speaking for the Federal Court of Appeal in
+<FRAGMENT_SUPPRESSED>  (QL), as follows, at page 297:
+One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.
+[74]
+This test was approved by the Supreme Court in
+Free World Trust
+In <FRAGMENT_SUPPRESSED> , Mr. Justice Rothstein, after referring to recent English authority, held that there are two aspects to anticipation: prior disclosure and enablement. Prior disclosure means that working the prior patent would necessarily result in infringement thereof.
+[76]
+He held that the <FRAGMENT_SUPPRESSED> decision only dealt with prior disclosure. Mr. Justice Hugessen had no need to consider whether the working of the invention was also enabled by that disclosure.
+[77]
+In this case, there was no prior disclosure in that the prior patents did not teach how to resolve Citalopram and did not disclose the therapeutic effects of (+)-Citalopram.
+[78]
+Apart from the patents, D.F. Smith of the Psychopharmacology Research Unit, Psychiatric Hospital, Risskov, Denmark, had published two articles: "Stereochemical Considerations of the Actions of Some Psychotropic Drugs" in 1985 in
+Pharmacopsychiat
+and "The Stereoselectivity of Serotonin Uptake in Brain Tissue and Blood Platelets: the Topography of the Serotonin Uptake Area" in 1986 in
+Neuroscience & Biobehavorial Reviews
+. However, these papers do not explain in any way how to obtain the enantiomers of Citalopram. Furthermore, he predicted that the activity would be concentrated in the R enantiomer while it turns out most of the activity is in the S enantiomer.
+B. Obviousness
+[79]
+Unlike section 28.3 of the
+currently in force, the Act at the time did not specifically provide that the subject matter of a claim must not be obvious "to a person skilled in the art or science to which it pertains ..." However, it has always been accepted that section 28.3 is merely declaratory in that by its very definition, an invention must be new ( <FRAGMENT_SUPPRESSED> , above, at para 51).
+[80]
+Who then is this skilled addressee?  <FRAGMENT_SUPPRESSED> , 9 CPR (4th) 129, [2000] SCJ No 68 (QL), above, at paragraph 42, Mr. Justice Binnie quoted
+<FRAGMENT_SUPPRESSED> , at page 517, to say that the patent must describe the invention "with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired."
+[81]
+If the "invention" is obvious to such a person, it is not patentable.
+[82]
+The skilled addressee in patent law does not exist. He or she is a judicial creation. When applied to the concept of obviousness, Mr. Justice Hugessen stated in
+The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.
+[83]
+Another useful commentary is found in the decision of Mr. Justice Laddie in
+<FRAGMENT_SUPPRESSED>  the eyes of the skilled but non-inventive man in the art. This is not a real person. He is a legal creation. He is supposed to offer an objective test of whether a particular development can be protected by a patent. He is deemed to have looked at and read publicly available documents and to know of public uses in the prior art. He understands all languages and dialects. He never misses the obvious nor stumbles on the inventive. He has no private idiosyncratic preferences or dislikes. He never thinks laterally. He differs from all real people in one or more of these characteristics. A real worker in the field may never look at a piece of prior art - for example he may never look at the contents of a particular public library or he may be put off because it is in a language he does not know. But the notional addressee is taken to have done so. This is a reflection of part of the policy underlying the law of obviousness. Anything which is obvious over what is available to the public cannot subsequently be the subject of valid patent protection even if, in practice, few would have bothered looking through the prior art or would have found the particular items relied on. Patents are not granted for the discovery and wider dissemination of public material and what is obvious over it, but only for making new inventions. A worker who finds, is given or stumbles upon any piece of public prior art must realise that the art and anything obvious over it cannot be monopolised by him and he is reassured that it cannot be monopolised by anyone else.
+[84]
+Of course, it is important not to take these words "au pied de la lettre" (
+<FRAGMENT_SUPPRESSED>  example, in <FRAGMENT_SUPPRESSED> , above, Mr. Justice Rothstein limited Mr. Justice Hugessen's famous statement with respect to anticipation to prior disclosure and not to enablement.
+[85]
+There are a number of issues to consider, such as:
+i. Was (+)-Citalopram obvious to those to whom the patent is addressed?
+ii. Was it "obvious to try" the techniques successfully used by Lundbeck?
+iii. Was there a motivating factor, or reason to arrive at (+)-Citalopram?
+iv. Was it "obvious to try" other techniques?
+v. Was it plain and obvious that the techniques used or which could have been used would have been successful?
+vi. Would the results of experiments successfully carried out in 2012 have been the same if carried out in 1988? Were such experiments a matter of routine?
+vii. Did the inventors have an easy time of it?
+[86]
+In order to decide whether (+)-Citalpram was obvious, whether it was obvious to apply various techniques and whether it was likely that those techniques would work, it is necessary to understand what Lundbeck actually did. To summarize the evidence of Dr. Semmelhack, the patent described three synthesis processes.
+[87]
+The first process involves:
+i. the conversion of the Citalopram diol to a covalent diastereomeric ester through the addition of an optically pure acid chloride and hydride or labile ester in an inert organic solvent;
+ii. the purification of the diastereometers by either chromatography (in particular, HPLC) or crystallization; and
+iii. the addition of a strong base to effect a ring closure and yield a single enantiomer of Citalopram.
+There is a strong difference of expert opinion with respect this ring closure, which was necessary for chirality.
+[88]
+The second process resolves the Citalopram diol into its two enantiomers through the addition of an optically active acid, some examples of which were given.
+[89]
+The third process involves the conversion of the pure enantiomers prepared according to the second process. The synthesis consists of:
+i. the conversion of the primary alcohol to labile ester; and
+ii. the simultaneous addition of a base in an inert organic solvent at 0 degrees Celsius.
+[90]
+Apotex submits that what was done was well within the common general knowledge of the skilled addressee and the state of the art in 1988. Certainly, resolution was the most obvious technique. This involved resolution of diastereomers, both covalent and ionic.
+[91]
+The other technique would be based on chiral HPLC. Notwithstanding that Lundbeck had tried HPLC without success, success should have been expected no matter the method in no more than a week.
+[92]
+There is a difference of opinion whether one would start with Citalopram itself, or with a precursor. I find that if one did not work, the person skilled in the art would then try the other.
+[93]
+As I see it, the issue is not so much which techniques the skilled addressee might have used in an effort to arrive at (+)-Citalopram, but rather whether those techniques would have been successful, given the wide range of chemicals and other variables which might be used in the reactions. This boils down to whether or not it was "obvious to try" certain techniques and whether at one point one might give up in frustration. The burden of proof lies with Apotex. The <FRAGMENT_SUPPRESSED> decision, above, which also dealt with a racemate and enantiomers is most instructive. In speaking for the Court, Mr. Justice Rothstein said at paragraph 66:
+For a finding that an invention was "obvious to try", there must be evidence to convince a judge on a balance of probabilities that it was more or less self-evident to try to obtain the invention. Mere possibility that something might turn up is not enough.
+[94]
+He approved the four-step approach developed by Oliver L.J. in
+In the result I would
+the <FRAGMENT_SUPPRESSED> questions thus:
+(1) (a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention?
+[95]
+Mr. Justice Rothstein was of the view that it was in the fourth step of the
+approach that the "obvious to try" issue will arise.
+[96]
+If that approach is warranted, he went on to say at paragraph 69:
+If an "obvious to try" test is warranted, the following factors should be taken into consideration at the fourth step of the obviousness inquiry. As with anticipation, this list is not exhaustive. The factors will apply in accordance with the evidence in each case.
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the patent addresses?
+[97]
+At trial, a great deal of evidence was led as to ways and means available in 1988 to separate the enantiomers of Citalopram in sufficient quantity that their characteristics could be tested; whether these techniques would have come to the mind of the skilled addressee and whether he or she would have been bothered to try them. Experiments had been carried out in an effort to show that it either would have been easy to resolve Citalopram, or difficult, depending on who commissioned the experiment.
+[98]
+Dr. Timothy Ward, who successfully resolved Citalopram in the months before trial, using one of Dr. Armstrong's inventions, said that his experiment was much like following a recipe in a cookbook. If there were not so much case law on point, I would have tended to think that the person who could arrive at the desired result, without benefit of the patent in question,
+without the cookbook, had a higher skill set than the patent addressee. It is one thing to follow a recipe, quite another to make it.
+Motivation took on a life of its own. Apotex said there was great motivation at the time to resolve pharmaceutical racemates as regulatory authorities, particularly in the two largest markets, the United States and Japan, were interested. For its part, Lundbeck downplayed motivation. I am troubled by the concept of motivation. Wishing does not make something come true. Wishing does not make something easier. A motive is defined as that which moves or tends to move a person to a particular course of action (
+Oxford Dictionary
+). On the other hand, there may not have been reason to do something at a particular point in time. For instance, there may have been little interest in increasing automobile fuel efficiency in the 1950s. Lack of interest would not give rise to a patent if what was eventually done was obvious.
+[100]
+I find that Lundbeck was motivated to resolve Citalopram. It was common general knowledge that each of the three dimensional enantiomers might fit into their receptors in the human body in a different way so that one might be more beneficial than the other. The other, as mentioned above, might have undesirable, or even tragic, side effects.
+[101]
+Thalidomide was mentioned in that one enantiomer was very beneficial in treating morning sickness in pregnant women while the other caused terrible birth defects. However, the thinking now seems to be that the body converted the good enantiomer back into the racemic mixture,
+fifty percent of the "good" enantiomer was converted by the body into the "bad" enantiomer.
+[102]
+The United States Federal Drug Administration (FDA) was developing an interest and, indeed, asked Lundbeck's American licensee to provide information with respect to the enantiomers of Citalopram if, as and when they became available. However, it was not, and it is still not, a regulatory requirement that racemates be broken down before they receive FDA approval. That regulatory regime, which requires clinical testing on humans, is quite distinct from the patent regime, although it must be said a patent for a medicine is not particularly useful if the medicine cannot be marketed. It was not necessary to demonstrate the efficacy of (+)-Citalopram through clinical trials on humans if the patent disclosed a rational basis for making a sound prediction that it would prove useful (
+Apart from the professional pride of one of the inventors who testified, Dr. Bøgesø, academics were becoming interested in Citalopram. Lundbeck was concerned that someone else might resolve it first, which would have blocked it from patenting (+)-Citalopram and lead to a diminution of profits in that, at best, there would be cross-licensing agreements.
+[104]
+While motivation would make it obvious to try to resolve Citalopram, as Mr. Justice Rothstein said at paragraph 65 of <FRAGMENT_SUPPRESSED> , above, "I am of the opinion that the "obvious to try" test will work only where it is very plain or, to use the words of Jacob L.J., more or less self-evident that what is being tested ought to work." The reference to Lord Justice Jacob is to
+Mere possible inclusion of something within a research programme on the basis you will find out more and something might turn up is not enough. If it were otherwise there would be few inventions that were patentable. The only research which would be worthwhile (because of the prospect of protection) would be into areas totally devoid of prospect. The "obvious to try" test really only works where it is more-or-less self-evident that what is being tested ought to work.
+[105]
+In <FRAGMENT_SUPPRESSED> , Mr. Justice Rothstein also referred to the decision of Mr. Justice Kennedy, speaking for a unanimous United States Supreme Court in
+<FRAGMENT_SUPPRESSED>  (2007). He quoted Mr. Justice Kennedy at para 58, as follows:
+At p. 1742, he was clear that "obvious to try" could be a relevant test in an obviousness inquiry:
+The same constricted analysis led the Court of Appeals to conclude, in error, that a patent claim cannot be proved obvious merely by showing that the combination of elements was "obvious to try." . . . When there is a design need or market pressure to solve a problem and there are a finite number of identified, predictable solutions, a person of ordinary skill has good reason to pursue the known options within his or her technical grasp. If this leads to the anticipated success, it is likely the product not of innovation but of ordinary skill and common sense. In that instance the fact that a combination was obvious to try might show that it was obvious under §103.
+[106]
+The facts of <FRAGMENT_SUPPRESSED> were very different from those in <FRAGMENT_SUPPRESSED> and in the case at bar. It dealt with electronic sensors in automobile gas pedals. It was held that mounting a modular sensor on a fixed pivot point of the pedal was a design step well within the grasp of a person of ordinary skill in the relevant art. The patent in issue had been based on a combination of elements found in the prior art. As Mr. Justice Kennedy stated at page 1739:
+For over a half century, the Court has held that a patent for a combination which only unites old elements with no change in their respective functions . . . obviously withdraws what is already known into the field of its monopoly and diminishes the resources available to skillful men. [...] The combination of familiar elements according to known methods is likely to be obvious when it does no more than yield predictable results.
+[107]
+He continued at pages 1741 and 1742:
+In determining whether the subject matter of a patent claim is obvious, neither the particular motivation nor the avowed purpose of the patentee controls. What matters is the objective reach of the claim. If the claim extends to what is obvious, it is invalid [...] One of the ways in which a patent's subject matter can be proved obvious is by noting that there existed at the time of invention a known problem for which there was an obvious solution encompassed by the patent's claims.
+[108]
+On balance, I find that motivation was a neutral factor. As noted by Mr. Justice Kennedy, the patentee's motivation does not control. There is a balance to achieve. If motivation inspires one to try harder or to think of a wider range of approaches, at some point the experiments are no longer routine. Some inventiveness is involved.
+[109]
+This case turns on expert opinion. How can the Court decide which opinion is to be preferred? Certainly not on the experts' knowledge of chemistry; not even on their knowledge of chemistry as it was in 1988. Even then, these overqualified experts had far greater skill sets than the ordinary person skilled in the art.
+[110]
+One way, advanced by Apotex, was to seize upon the fourth question  <FRAGMENT_SUPPRESSED> /Pozzoli
+, as cited by Justice Rothstein in <FRAGMENT_SUPPRESSED> "viewed without any knowledge of the alleged invention as claimed." Drs. Semmelhack and Dannheiser were simply given the formula for Citalopram and asked how the hypothetical chemist of ordinary skill would obtain a single enantiomer thereof. On the other hand, Dr. Davies was well familiar with the '452 patent, and foreign variations thereof, as he had testified on behalf of Lundbeck in several previous cases. This factor can hardly be determinative, because, if so, one could only testify once as an expert. At some point, the expert must look at the patent.
+[111]
+If you do not like the message, shoot the messenger. While Apotex could not challenge Dr. Davies' knowledge of chemistry, it urged me to pay little heed to his opinion because he was part of Lundbeck's litigation team.
+[112]
+Lundbeck could hardly have been taken aback by this approach because it did the very same thing in the PM (NOC) proceedings. It urged then that the opinion of an expert witness, who was not called in this trial, should be discounted because he had been called upon by Apotex to testify more than 30 times. If he was a man for all patents, then Dr. Davies is said to be a man for one patent, over and over again and again. I refused to downplay an opinion on that basis then and I refuse now.
+[113]
+For example, it was pointed out that Dr. Davies attended the opening statements. Experts are entitled to be present throughout trial.
+[114]
+His written opinion in this case, and his testimony, were not on all fours with other cases. However, it should be kept in mind that at times Lundbeck has been the defendant or respondent, and at other times the plaintiff or the applicant. For instance, in the PM (NOC) proceedings, the issues were circumscribed by Apotex's Notice of Application. There was no need for Dr. Davies to deal with what had not been alleged.
+[115]
+He has always said that there were at least 13 ways in which to separate racemates. It was suggested that he was attempting to make the problem more difficult than it was. The issue, however, is whether or not there were 13 different ways. He was never contradicted. Furthermore, it is clear, at least to me, from reading his report, and from his testimony, that most of these techniques would be immediately discarded by him and by the skilled addressee who looked at the chemical formula of Citalopram or one of its precursors. The statement simply provided context.
+[116]
+As regards diastereomer separation, the technique successfully used by Lundbeck, he stated in his report "It should be noted that the differences between the two diastereomers produced may well be (and often are) so small that the diastereomers cannot be separated using this method, in particular by crystallization." He did not say that in other reports. However, the issue is not what he said or did not say elsewhere; the issue is whether or not in general that statement is true. He was never contradicted, and so I take it as true. Neither Dr. Semmelhack nor Dr. Dannheiser was particularly fond of crystallization.
+[117]
+He was a somewhat cautious, hesitant witness, which is not surprising considering the vigour of the cross-examination. While he was not as spontaneous as, say, Dr. Dannheiser, I am not going to pick and choose among the experts based on their personalities. The advice I received was what the experts thought was within the grasp of the skilled addressee at the time, the common general knowledge and the literature searches which could, and should, have been carried out.
+[118]
+For its part, Lundbeck's submission as to why I should prefer the opinion of Dr. Davies over that of Drs Semmelhack and Dannheiser is that even in 1988 they were pre-eminent experts in the field, and that their knowledge and insight were far and away superior to that of the skilled addressee. There is something to that.
+[119]
+I turn now to the different techniques which the experts thought the skilled addressee would have contemplated.
+Although the experts cited a number of methods by which (+)-Citalopram could be achieved, it all comes down to two methods: chemical resolution and chiral HPLC.
+[121]
+As to chemical resolution, the principal experts were Drs. Semmelhack, Dannheiser and Davies. Sir Jack Baldwin was brought in to deal with the Baldwin Rules and Dr. Armstrong, who dealt with chiral HPLC, was called upon to comment on resolution techniques in his cross-examination.
+[122]
+The issue is not so much how to go about it theoretically, but rather whether certain techniques would have been obvious to the "ordinary" medicinal chemist and his or her team in 1988, and whether they would have worked. Drs. Semmelhack and Dannheiser each came up with a resolution method without even having the patent at hand, a method very similar to the patent. Apotex says that since they could do it, having put themselves in the shoes of the "ordinary" medicinal chemist, it was therefore obvious to those to whom the patent was addressed. Lundbeck submits that this simply proves their point that the two doctors were so overskilled they could not put themselves in the shoes of the "ordinary" medicinal chemist in 1988. I agree with Lundbeck.
+[123]
+Dr. Semmelhack considered a skilled chemist would expect to obtain a single enantiomer in four ways:
+i. form diastereomeric salts of Citalopram which could then be separated by fractional crystallization;
+ii. form a covalent diastereomer of a diol precursor which could then be separated by fractional crystallization or chromatography;
+iii. form a diastereomeric salt of a diol precursor of Citalopram of the compound which could then be separated by fractional crystallization; and
+iv. chiral chromatography. However he was not an expert in that area and could not comment.
+[124]
+The skilled chemist would work from the diol described in US Patent 4650884, issued in 1987, but based on a UK priority date of 1984.
+[125]
+Citalopram itself is set out in US Patent 4136193, granted in 1979, based on a UK priority date of 1976.
+[126]
+He explained that the difference between the state of the art and the innovative concept was that the state of the art "contains no explicit recital of the preparation (+)-Citalopram by resolving the (-)-Citalopram-diol and performing a ring closure that avoids racemization at the key stereogenic center". However he thought the skilled chemist would not have needed to exercise any inventive ingenuity because the chemical methodologies set out in the '452 patent were based on fundamental principles of organic synthesis and were well-known.
+[127]
+He opined that Dr. Bøgesø, one of the inventors, unlike the theoretical addressee, had biases against the diol route. He overlooked the fact that ring closure could be effected in basic conditions. The diol route would be preferred because it would enable chromatographic resolution which would be virtually certain to work.
+[128]
+At the time, the skilled chemist would have used mainstream techniques to purify, or separate, a given substance. Both fractional crystallization and chromatography exploit differences in the physical and chemical properties of the different components of a given mixture.
+[129]
+The skilled chemist would use fractional crystallization to exploit the difference between solubilities of components of a mixture and how they crystallize. He or she would form a salt of the compound in question. If it is an acid, a base is added. If it is a base, an acid is added. The acid-base reaction is carried out in a solution which would then be cooled with the hope the substances would crystallize. The crystallized substance or precipitate generally contains more of the less soluble substance, as the more soluble would prefer to remain in the solution. This technique can be repeated time and time again, and has been used for a number of years. That being so, he warned, however, that crystals do not always readily form, and it is not certain that the components of the mixture will have sufficiently different solubilities to allow for purification. However, no such uncertainty is present in the case of chromatography.
+[130]
+Chromatography (not chiral HPLC) involves:
+i. the packing of a tube or column with an absorbent powder which is called the stationary phase;
+ii. applying the molecule to be purified to that phase;
+iii. pouring the mobile phase or solvent through the column; and
+iv. collecting the material that passes through. Different material will be eluted at different times because the different components of the mixture form attractions of different strengths with the stationary phase.
+[131]
+As to the literature search, he personally had no need but the skilled addressee could refer to some standard textbooks and some specific to stereochemistry, including Jacques, Collet and Wilen:
+Enantiomers, Racemates and Resolutions,
+Stereochemistry of Carbon Compounds
+, 1962. The skilled chemist would also review a number of well-known chemical journals including
+Journal of American Chemical Society
+,
+Journal of Organic Chemistry, Journal of Medicinal Chemistry, Tetrahedron
+,
+Tetrahedron Letters, Journal of the Royal Chemical Society (Chemical Communications, Perkin Series)
+and
+Synthesis
+.
+[132]
+One would use
+Chemical Abstracts
+to search for patents and journal articles. This was a non-computerized keyword system.
+[133]
+The skilled chemist would reject certain methods such as chiral pool or asymmetric synthesis. The best way to obtain gram quantities to allow for analysis would be by resolution of diastereomers. The skilled chemist would recognize that the diol possessed functional groups or "handles" which made resolution by formation of a covalent diastereomer obvious and easy to carry out. There would be almost no risk of ring closure failure.
+[134]
+In his opinion, a skilled chemist at the time would have been able to develop a scheme based solely on general knowledge without consulting any literature. However a search would turn up Baldwin's
+Rules for Ring Closure
+, 1976. These rules would show that when a nucleophile and a leaving group in the same compound are separated by four carbons, a ring closure is favoured under the appropriate conditions. The diol would be so favoured. Atoms can be linked by single, double or triple bonds. If all atoms in a compound are linked by single bonds, the compound is said to be fully saturated. If certain atoms are double or triple bonded, the compound is said to be unsaturated. Although the diagrams in the Baldwin paper do not show unsaturated systems, the skilled chemist - but as it turns out not Dr. Davies - would not conclude that the rules apply only to completely saturated systems.
+[135]
+There would be an SN2 reaction. He said at paragraph 172 of his report: "Selecting an appropriate leaving group and setting up basic conditions for deprotonation reactions are part of the routine work of the skilled chemist and are neither time consuming nor challenging." He had an opportunity to review Lundbeck's laboratory notes and noted Mosher's acid chloride being used to form a covalent diastereomeric ester of the Citalopram diol. He did not think this particularly unusual as there is a reference thereto in one of the leading specialist texts:
+Enantiomers, Racemates and Resolutions
+, 1981, by Jacques, Collet and Wilen.
+[136]
+Dr. Dannheiser was also of the view that chemical resolution would be the preferred method to use to arrive at the enantiomers of Citalopram. In so doing, he rejected other possibilities such as asymmetric synthesis, chiral pool and kinetic resolution.
+[137]
+In 1988, the skilled addressee would form covalent diastereomers of the diol precursor and then separate them from each other using chromatography. The separated diastereomers could then be readily converted into the enantiomers of Citalopram. In his view, this was straightforward chemistry. Although a separation process could be carried out by crystallization, chromatography would be more suitable at it would exploit differences between compounds to a greater extent.
+[138]
+Chemical resolution would be the preferred method because a look at Citalopram shows that the compound has one stereogenic centre. There is a six membered-aromatic ring with a fluorine and a three-carbon chain ending in a dimethylamino group. One would recognize that the compound contains the following functional groups:
+ii. a tertiary amine group;
+iii. two aromatic rings;
+iv. a five-membered cyclic ether.
+One would recognize that the compound contains a phthalan or dihydroisobenzofuran core.
+[139]
+The skilled addressee would have a strong expectation of success by forming covalent diastereomers of the 1,4-diol precursor using ordinary chromatography to separate those diastereomers and then to convert them into the enantiomers of Citalopram. The diol would be chosen because it features a primary hydroxyl group for preparing covalent diastereomers and in the main group for the formation of salts. The central challenge would be the construction of the five-membered cyclic ether with a quaternary (fully substituted) carbon attached to the oxygen atom.
+[140]
+The most common method for the synthesis of such ethers involved a reaction called a "nucleophilic substitution" with an alcohol functioning as the nucleophilic partner. This reaction is one in which the nucleophile replaces a leaving group. The leaving group is an atom or a group of atoms that is able to accept the electron density of the bond that breaks during a substitution or elimination reaction. Under basic conditions the skilled chemist would know it would be necessary to convert one hydroxyl group into a leaving group in order to achieve cyclization.
+[141]
+Once diastereomeric esters were separated, one would cleave the ester to provide the enantiomers of the diol. This would not compromise the stereogenic centre and, therefore, no racemisation would take place. There are various ways and means by which this could be done, including saponification with an aqueous base or reduction using a reducing agent.
+[142]
+The chemist could choose from a variety of chiral acids described in the literature and discussed in Jacques
+'s book. This would include tartaric acid. The chemist would choose solvents such as alcohols and focus on chiral acid and solvent combinations that resulted in crystalline salts with the amine and would vary concentrations, temperature and amounts.
+[143]
+Dr. Davies had a different point of view. He agreed that diastereomers have more or less pronounced differences in their physical properties and may possibly be separated by distillation, crystallization or chromatography.
+[144]
+He described Citalopram as follows: the core of the molecule is a dihydroisobenzofuran core (also called a phthalan structure). Attached to this core is the -C=N group which is referred to as a nitrile or cyano, depending on context. There is also an aromatic ring (benzene) with a fluorine atom, and finally a three-carbon chain which ends with a tertiary amine. This means that the nitrogen atom is linked to three carbon atoms with no hydrogen atom. He then discussed five-membered cyclic ethers and conformation. Electron pairs repel each other so the favourite shape of more complicated molecules is one which seeks to minimize the interaction of electron pairs on adjacent atoms as well as around all the individual atoms.
+[145]
+He then discussed nucleophiles and electrophiles. Nucleophiles are electron rich and characterized by a lone pair of electrons, for instance water (H2O) and ammonia (NH 3). Electrophiles are electron poor and are prepared to form a new covalent bond using a pair of electrons provided to them by another atom or molecule. They carry either a positive or a partial positive charge. A new bond can be formed when a nucleophilic reagent approaches an electrophilic reagent. As an example, when ammonia reacts with hydrogen chloride (HCL), both gases, ammonium chloride is produced, a solid salt.
+[146]
+He went on to discuss nucleophilic substitution reactions. When a nucleophile reacts with a carbon atom there is a partial positive charge due to being bonded to a more electronegative atom or group of atoms. The result is the electronegative atom is lost as a leaving group as it is substituted by the nucleophile. There are two main mechanisms known as SN1 and SN2, both of which can be used in ring closure reactions. SN1 is a two-step process. In the first step, a group, the leaving group, is lost to give a positively charged intermediate. In the second step, the nucleophile attacks the intermediate from either side to give the product. This reaction is not stereospecific, so that even if a single enantiomer of the starting material is used, substitution by this SN1 process will generally result in a racemate.
+[147]
+SN2 substitution is a single-step process. The nucleophile must attack the central carbon atom at a 180 degree angle from the leaving group at the same time as the leaving group departs. When a single enantiomer of the starting material is used, an SN2 process results in a single enantiomer of the product. If a single enantiomer of a chiral nucleophile is employed in the substitution reaction with a non-chiral starting material, the process will result in a single enantiomer of the product, regardless of whether the reaction occurs through a SN1 or SN2 pathway. When an SN2 reaction occurs, the molecular shape and orientation are important as the various reactive parts need to line up correctly.
+[148]
+In his view, the difference between saturated and non-saturated systems is most important. A saturated system is one that contains no carbon-carbon double bonds. An unsaturated system contains a carbon-carbon double bond; the two ends cannot approach so easily due to the rigid shape surrounding the double bond.
+[149]
+The Citalopram molecule is a base because it comprises an amino group. This free base can thus make a salt with an acid.
+[150]
+In his view, a literature search in 1988 would not have been as routine as suggested by Drs. Semmelhack and Dannheiser, neither of whom actually performed a search as if it were 1988. While today one might use an internet search engine such SciFinder, at the time one would be using hard copies of the
+Chemical Abstract
+. With respect to Citalopram, one would have looked for patents and used keywords such as "Citalopram", "Phthalan" and "Isobenzofuran". Broader terms would have turned up far too many documents, most of which would be irrelevant. The skilled person would also look for specific resolution methods, using keywords such as "enantiomers", "diastereomers", "resolving agents" and "chiral HPLC". These searches would have been time consuming and would have to be found within a library or ordered from other libraries. A thorough search would require several trips to a library and often would take a few weeks.
+[151]
+As to common general knowledge, he opined that one would resort to a leading textbook, the 5th Edition of Morrison and Boyd's
+Organic Chemistry
+. He also referred to three specialized books which he did not think the person skilled in the art would have had readily at hand. One was the book by Jacques, Collet and Wilen, which he considered very advanced. He was surprised that Dr. Bøgesø had recourse to it.
+[152]
+He was of the view that resolution was a black art and was a special kind of job that required a special kind of approach, as indeed noted by Morrison and Boyd.
+[153]
+The difference between the innovative concept and the state of the art is that the '452 patent is for a new substance useful as an anti-depressant. The prior art did not disclose or enable the manufacture of this enantiomer of Citalopram. It had never been made before. Its properties had never been established; they were unknown and unexpected. The process it disclosed is novel and inventive.
+[154]
+Unlike Drs. Semmelhack and Dannheiser, he was of the view that the skilled person would have first attempted to resolve Citalopram, rather than a precursor or derivative thereof, of which there were more than one. However, as above said, I think someone interested in obtaining the enantiomers of Citalopram would have used one compound and if that failed, would use another. However, it is quite true that using the diol involves an additional chemical step. Converting the diol to Citalopram required ring closure to form a five-membered oxygen containing a Phthlan ring which puts in issue the SN1 and SN2 mechanisms and the fixed 180 degrees chemistry. There are distinctions between saturated and non-saturated systems which led him to the Baldwin Rules.
+[155]
+In commenting on Dr. Dannheiser's report, he said that the Baldwin Rules analysis had been based on saturated systems and did not take into account disfavoured stereoelectronics of the transition state in unsaturated systems such as Citalopram. In his opinion, the Rules might form the basis of quibbling among academics but would not have provided any guidance to the person skilled in the art in 1988. In his opinion, the Baldwin Rules only related to saturated systems and a skilled reader would not consider them because the closure of the intermediate diol occurred in a non-saturated system, of which Citalopram is one. The Citalopram diol had an unsaturated double bond in the linking chain and so did not fall within the "favoured" molecules specified by Dr. Baldwin.
+[156]
+This led Apotex to call Sir Jack Baldwin in reply. Lundbeck first attempted to have his report struck on the grounds that Apotex was "sand-bagging" I do not think that was the case. In any event, a compromise was reached in that I gave Lundbeck leave to recall Dr. Davies in sur-reply, which it did not.
+[157]
+Dr. Baldwin testified that although the examples in his rules were of saturated systems, the skilled person would know they applied to unsaturated systems as well. In the 25 years they worked together, Dr. Davies never expressed the opinion he has in this case. More to the point, however, is that in those 25 years the two of them never once discussed the Baldwin Rules! I find that while Dons might, or might not, discuss the Rules over a cup of tea, they would not have come to the mind of the ordinary chemist and led him or her to conclude that something was obvious to try.
+[158]
+Indeed, to make his point that his rules would apply to both saturated and unsaturated systems, Dr. Baldwin referred to an article in 1989 about Japanese beer hops. I do not care how widely read the "ordinary" medicinal chemist working in a pharmaceutical lab post-1988 was. Although post-art may simply confirm the obvious, I simply cannot accept that he or she would have come across that article and be inspired, although unimaginatively, to carry out one chemical reaction rather than another.
+[159]
+Another example of the experts debating at a level far beyond the unimaginative skilled addressee of the patent who, of course, had not read it, is the "contretemps" between Dr. Dannheiser and Dr. Davies. Dr. Dannheiser, unlike Dr. Davies, was of the opinion that the ordinary chemist in 1988 would have regarded an SN2 type ring closure to be a reasonable step in the synthesis of an enantiomer of Citalopram.
+[160]
+On the other hand, Dr. Davies thought that such a chemist would have knowledge of stereochemical principles and would have performed a conformational analysis which would have led him or her away from SN2 ring closures. In his reply report, Dr. Dannheiser doubted that this skilled addressee had a sophisticated enough knowledge of stereochemical principles to perform the analysis presented by Dr. Davies. However, if that chemist had such knowledge, then he or she would also have considered what is known as the Curtain-Amath principle.
+[161]
+This led Lundbeck to move that Dr. Davies be called in sur-reply. I dismissed that motion as Lundbeck had full opportunity to impugn Dr. Dannheiser in cross-examination. What I said in my order of 7 December 2013 holds true for the case as a whole: "Thus, the prime issue, really, is what two over-qualified experts in 2012 would think an ordinary pharmaceutical chemist would have thought of doing in 1988."
+The three experts called on this point were Mr. Beesley, Dr. Armstrong and Dr. Myers.
+[163]
+Dr. Myers gave an excellent summary of high performance liquid chromatography, both basic (or achiral) and chiral. Liquid chromatography was developed a century ago by the Russian botanist Mikhail S. Tswett. He separated compounds of leaf pigments extracted from plants using a solvent in a column packed with particles. He used powered chalk and alumina. He poured the extract of homogenized plant leaves into the column followed by a pure solvent. As the sample passed through the column, bands of different colours, corresponding to the different compounds originally contained in the sample, could be seen separating. The reason was that some of the compounds that were more strongly attracted to the particles slowed down while others more strongly attracted to the solvent moved faster. The name chromatography derives from the Greek words
+, meaning colour, and
+HPLC, now defined as high performance liquid chromatography, was originally known as high pressure liquid chromatography because of the high pressure used to generate the flow of the solvent. In the early 1970s, pumps could generate pressures of about 35 bar (atmospheres) but later on new pumps developed up to 400 bar. The instruments continued to improve such as the injectors, detectors and columns.
+[165]
+HPLC is a technique designed to separate, quantify and analyze components of a chemical mixture. The sample is a liquid which is injected into a solvent (known as the mobile phase) that is pressured through a column packed with specialized particles (known as the stationary phase) to separate components of the mixture. Dimensions of the column can vary. The operating pressures are dependent on the particle size used in the column. Generally, the smaller the particle size the higher the pressure needed. Small particles are generally preferred as they produce better separation.
+[166]
+The main variables are the mechanical separation power, as described, and a chemical separation power created by the competition for compounds between the packing material and the mobile phase. There are four interactions that can be used to create HPLC separations:
+iv. chirality.
+[167]
+The mobile phase and the stationary phase will have different polarities. Given the example of oil and water, the stationary phase is oil, which is non-polar, and the mobile phase is water, which is polar. In that case, polar compounds will stay in the mobile phase while non-polar will be retained on the oil stationary phase.
+[168]
+With respect to HPLC columns, including chiral HPLC columns, in the 1980s they were most commonly packed with porous silica particles. There has been great improvement in the sizing of these particles, which increases the surface area of the stationary phase. The silica particles are naturally polar. However, the most common form of HPLC is reversed phase because polar sample mixtures are more common. The silica surface is modified to make it non-polar by adding long hydrocarbon chains. This modification is called bonding. Non-polar compounds in the sample will form an attraction with the hydrocarbon groups bonded, which slows them down going within the column. Polar molecules in the same sample will pass through more quickly.
+[169]
+Dr. Myers said that chiral separations occur through reversible diastereomeric association between an enantiomeric solute and chiral stationary phase that is absorbed or bonded onto a stationary phase.
+[170]
+Turning now to Mr. Beesley, who testified before Dr. Myers, I must say he is a great salesman.
+[171]
+He promoted Astec products, particularly the Cyclodextrin columns developed by Dr. Armstrong throughout the 1980s. He gave presentations in North America and Europe to various pharmaceutical companies and to the FDA. He focussed on the ability of these columns to separate beta blockers, vasodilators, steroids and barbiturates. He was also retained by various companies to assist in resolving racemic drugs. In his view, the skilled addressee would be familiar with and would have had experience using chromatography. He noted that apart from chiral HPLC, there were other methods to obtain enantiomers, including the resolution of Citalopram or an intermediate thereof by the formation of diastereomers. He limited himself to HPLC, his area of expertise, just as Drs. Semmelhack and Dannheiser had no particular expertise in HPLC.
+[172]
+Mr. Beesley thought that the ordinary pharmaceutical chemist would have chosen the â-Cyclodextrin and Acetylated â-Cyclodextrin chiral stationary phases sold commercially by Astec as part of the Cyclobond 1 series and the Chiralcel OD column sold commercially by Daicel and J.T. Baker. The chemist would have chosen these columns rather than others which were available because of the structural features of Citalopram.
+[173]
+Apotex caused experimental testing to be carried out in Jackson, Mississippi and in Toronto on an Acetylated â-Cyclodextrin and a Chiralcel OD column, which experiments were successful and with respect to which more shall be said. The experiment carried out in Mississippi by Dr. Timothy Ward who prepared a stationary phase by bonding Acetylated â-Cyclodextrin to five ìm silica. It should be noted that Dr. Ward is a chemistry professor who was a student of Dr. Armstrong in the 1980s, who co-published with him and who is an acknowledged expert when it comes to Cyclodextrins.
+[174]
+By 1988, a pharmaceutical company would have had at least one and more likely multiple chiral columns and could likely have consulted Astec, J.T. Baker or Daicel, or other column manufacturers to obtain assistance in the "unexpected event" that difficulties were encountered.
+[175]
+One point he makes, as does Dr. Armstrong, is that Astec had, from time to time, been requested to develop chiral methods for pharmaceutical companies, or to resolve their racemic drugs.
+[176]
+At the time, there were more than 30 commercially available chiral stationary phases. The ordinary pharmaceutical chemist would have been aware that most would not have been appropriate given the structure of the compound. In fact, 28 would have been rejected outright, including the first columns developed by a Dr. Pirkle. I pause to mention that Lundbeck had approached Dr. Pirkle, who said he doubted that his columns could be used to resolve Citalopram.
+[177]
+Reverting to Dr. Myers, although analytical columns were available in 1988, and even some semi-preparative and preparative columns, which would give a greater yield, high pressure and high flow rate pumps were not available so that preparative chromatography was limited to larger particles and indifferent in result because of the lower separating power of these particles.
+[178]
+As to silica bonding, there are many variables involved such as choice of solvent, temperature, catalyst, and the type and function of the silicon hydrocarbon linkage group. Manufacturers keep, and kept, their precise methods confidential.
+[179]
+He was of the view that the packing of the silica particles into a stainless steel column was a black art. There were differences in the hardware, the type of columns used, the slurry solvents, the pushing solvents, the pressure utilized, the flow rates and the flushing solvents. "Packing a column" was a difficult task and certainly not something an ordinary chemist would have done on a regular basis. There have been great developments in particle sizes. The smaller the better. In the 1970s and 1980s, that material was usually five or ten micron. However, by the end of the 1980s there was a move to three micron material, but those particles could not be used in HPLC columns because sufficiently high pressure pumps were not available.
+[180]
+It is his opinion that resolving Citalopram by chiral chromatography prior to June 1988 was not obvious, and may not have even been possible. Indeed, the technology was evolving so quickly it is difficult to pinpoint what could have been used. There were changes in the columns, the silica, the packing, the instruments, the fittings, the detectors, the pumping system, and the software. It is difficult to comment on what was known and what could have been done in June 1988. He questions Mr. Beesley's choice of the Acetylated â-Cyclodextrin and Chiralcel OD columns and assumes he was influenced by post-facto information or hindsight. Those two columns were not well known in June 1988 and he is at a loss to understand why the skilled addressee would have picked them instead of others. Of course, it may be that Mr. Beesley had specific knowledge about these columns, particularly the Cyclobond columns as he was involved in their commercialization. If the Chiralcel OD column was available in June 1988, it was not widely known within the scientific community.
+[181]
+Dr. Myers also commented on the experiments commissioned by Apotex which were carried out in 2012 in Mississippi and in Toronto. Those comments shall be grouped together with those of others.
+[182]
+Turning now to Dr. Armstrong, like Mr. Beesley, he had personally performed a great many experiments and used many techniques for separating racemic mixtures. He had been called upon independently and in association with Astec by clients to attempt to separate racemic mixtures by using chiral HPLC columns.
+[183]
+In his report he stated that chiral HPLC works as follows. A homogenous solution of a racemate is injected at the top end of the column. The components will travel down at different velocities depending on their interaction with the stationary phase. As material comes out of the columns it goes through a detector which produces a signal that is proportional to its concentration in the mobile phase. That signal is recorded to produce a graph known as a chromatogram.
+[184]
+He disagrees with Mr. Beesley that the ordinary skilled chemist would have been able to separate Citalopram in a matter of days. He had been retained by scientists at pharmaceutical companies to separate racemic mixtures after they had spent a year or more attempting to separate, unsuccessfully.
+[185]
+In his opinion, it was not obvious to successfully obtain Citalopram and non-toxic acid addition salts via chiral HPLC because Citalopram is a compound that contains chiral amines. One would first have attempted to react it with chiral acids to form diastereomeric salts. These salts were easier to separate by conventional means and in preparative quantities, which is what Lundbeck tried to do.
+[186]
+Although there was a possibility that chiral HPLC could work, the technique was not promising enough to say it was plain, routine or self-evident that it would. The fact that it had been used to separate other racemates does not mean it could be used to resolve Citalopram and especially to collect the necessary quantities. Semi-preparative or preparative scale chiral columns were rarely used at that time and were often not available.
+[187]
+The Acetylated â-Cyclodextrin was only available in analytical size and would not have been the choice of an ordinary chemist. He was also of the view that the Chiralcel OD column was not commercially available, or if it was it was so new that it would not have been an obvious choice.
+[188]
+Although the chemist of ordinary skill would have been aware that chiral HPLC columns existed and could be used to separate compounds on an analytical scale, he or she would have had little or no experience. Even he, as a true expert at the time, had not yet done any work with semi-preparative or preparative chiral columns.
+[189]
+Chiral HPLC would not have been his first choice to try to resolve Citalopram. He would have thought that fractional crystallization would work. However, in using chiral HPLC, one had to choose the chiral column and then select suitable conditions such as mobile phase, flow rate, pH, temperature, etc. There was little guidance at the time. In 1987, he authored a paper in which he said that the resolution of enantiomers was one of the more difficult problems in separation science, an area open for investigation. There were at least 35 columns available at the time. His short list would have included:
+b. Cyclodextrin-based columns;
+c. Pi-complex CSP columns, including those developed by Dr. Pirkle. He thought there was not a high likelihood of success but it was common to try them because they had the longest and largest publication history.
+d. Coated cellulosic CSPs.
+[190]
+In fact, Lundbeck had commissioned efforts on an AGB column, which was the most dominant one used for separating chiral amines. It did not work for Citalopram.
+[191]
+Notwithstanding that he had been involved in developing the Acetylated â-Cyclodextrin column favoured by Mr. Beesley, it was not well known at the time. Even he did not know what to expect. The only reported separation was for another compound which was not an amine and not similar to Citalopram in any way.
+[192]
+A very minor difference in one part of a molecule as compared to another can lead to different results. That was known in 1988. A reference is to be found in a report he had authored with Dr. Ward and others in
+Analytical Chemistry
+: "An Enantiomeric Resolution and Chiral Recognition of Racemic Nicotine and Nicotine Analogues by â-Cyclodextrin Complexation. Structure-Enantiomeric Resolution Relationships in Host-Guest Interactions".
+[193]
+The Cyclobond Handbook referred to by Mr. Beesley did not come out in 1987. Rather, it could not have come out before the end of 1988 as it cites articles published in the latter part of that very year.
+[194]
+Even if Chiralcel OD columns were available in June 1988, and he is not satisfied that they were prior to 1989, they would have been so new that they would not have formed part of the common general knowledge of the skilled analytical chemist. They had only been used in that general time frame to separate beta blockers. Other columns had been so used as well. It was only in the 1990s that Chiralcel OD became known as one of the most versatile columns, and it still is. Indeed, at the first international short course on chiral separation that took place in Bradford, England in March 1988, very little was said about the Chiralcel OD column.
+[195]
+To summarize his opinion, it was not at all obvious to use an HPLC column, and it was not at all obvious that it would work.
+iv. The experiments
+[196]
+Lundbeck was invited by Apotex to witness an experiment in June 2012 in Jackson, Mississippi. Apotex had retained Dr. Timothy Ward to attempt to resolve Citalopram by means of Chiral HPLC, more particularly with Acetylated â-Cyclodextrin material. Dr. Ward retained a Mr. Smuts to actually pack the columns. The columns used were not 1988 columns. There is considerable controversy as to whether Dr. Ward based himself on a 1984 patent of Dr. Armstrong or on a post-1988 protocol prepared by Astec. It is not necessary to resolve these credibility issues as I am not satisfied on the balance of probabilities that the experiment, which was successful, establishes that the same result would have occurred in 1988. One need go no further than to the fact that the silica gel used in the stationary phase was not the same silica gel which was available at that time. That had significant impact on the efficacy and selectivity of the column.
+[197]
+I accept the evidence of Dr. Myers who, despite valiant efforts, was not at all shaken on cross-examination. Dr. Armstrong's patent called for Spherisorb, which was sold by Dr. Myers' company. It was not available last year and so Nucleosil was used. In Mr. Beesley's view that was a suitable alternative. However, as Dr. Myers pointed out the two silicas have quite different characteristics as regards pore size, pore volume, surface and sodium level. Consequently, the bonding will be very different. Furthermore, a modern HPLC system had been used to run the Mississippi experiment. This would result in an increased efficiency of resolution.
+[198]
+Dr. Armstrong also testified that the silica was different from the silica which would have been used in 1988 and that Dr. Ward did not do the synthesis as described in his patent and as it would have been done in 1988. The Cyclodextrin prepared by Dr. Ward would have had a different stability and selectivity than the commercial version available in 1988.
+[199]
+Apotex commissioned a second experiment carried out in Toronto by Dr. Mark Taylor in July 2012. He used a Chiralcel OD column. The experiment was successful, but again I hold on the balance of probabilities that it does not accurately reflect the results of an experiment which would have been carried out on such a column, even if available, prior to June 1988.
+[200]
+The provenance of the column is most unsatisfactory. The column had been provided to Apotex's solicitors by Dr. William John Lough of the University of Sunderland. He testified as a factual witness. He worked at Beecham Pharmaceuticals from 1980 to 1988. He then joined academia and has been at the University ever since. However, he maintained contact with Beecham and had an industrial placement program for students, one of whom Amjad Khan joined what was then known as SmithKline Beecham. At some time, perhaps close to 2001, Mr. Khan gave him a Chiralcel OD column. The metal tag on it bares the mention "Summer 1992". Dr. Lough could not say what was within the column, and as it has never been dismantled, no one knows. It remained in a drawer for years.
+[201]
+Apart from the fact that Dr. Taylor obtained better results than those reported by Rochat in 1995, one of the leaders in the field, as noted by Dr. Myers HPLC columns do not age well. They have voids and although usually stored in a suitable solvent, over time the solvent evaporates and in so doing the silica bed dries and causes movement resulting in greater void formation and reduced column efficiency.
+[202]
+If we assume that 1992 reflects the year the Chiralcel OD column was manufactured, and we have no evidence as to when it was manufactured, Dr. Armstrong points out the columns went through considerable changes from 1988 to 1992. Silica, silica pre-treatments, chiral agents and additives were under constant refinement. Coated Chiralcel OD columns often change selectivity with time or use, perhaps because of the changing secondary structure of the chiral polymer and/or losses of the coated chiral selector over time. Furthermore, the conditions used by Dr. Taylor were found in a publication by Dr. Krstulovic dated October 1988,
+post the invention.
+Lundbeck had been extensively examined on discovery, and called a number of witnesses at trial. The ease by which, or difficulty by which, the inventors achieved the desired result is but a secondary factor in determining whether or not the invention, so called, was obvious.
+[204]
+One of the inventors, Dr. Bøgesø, explained in great detail Lundbeck's trials and tribulations over an eight-year period. This work was sporadic, however, as Lundbeck had other work at hand. Various methods and chemicals had been used on Citalopram and on its diol before separation was finally achieved. Chiral HPLC had also been used without success. Outside consultants had been called in.
+[205]
+Dr. Bøgesø is only one of the two named inventors on the patent. The other is Jens Perregaard. Although his lab notes were produced, he was not called as a witness. Apotex submits that an adverse inference should be drawn: that his evidence would not have helped Lundbeck's cause.
+[206]
+I am not prepared to so infer. The evidence is that Mr. Perregaard left Lundbeck some years ago, and is not under their control. Furthermore, even if it could be said that he resolved Citalopram without difficulty that would not prove that it would have been obvious to the skilled addressee. As Mr. Justice Hugessen pointed out in <FRAGMENT_SUPPRESSED> : inventors are, by their very nature, inventive.
+[207]
+The history within Lundbeck, as the courts have held, is merely a secondary factor, and one which plays a neutral role in this case. It is said that (+)-Citalopram would have been achieved earlier had it not been for a bias Dr. Bøgesø had against the precursor. Even if that be so, no matter when it was done, the invention was obvious then or it was not. If it could have been achieved earlier this would have been before the advances in Chiral HPLC relied upon by Apotex.
+vi. Mosaic of Prior Art
+[208]
+A great deal of time and effort has been focused on a literature search. No chemist in 1988 would have had the motivation to search that a dozen lawyers and paralegals armed with computers had throughout the trial; literally hundreds of articles were produced in an effort to establish that (+)-Citalopram was obvious, or that it was not.
+[209]
+Even taking the skilled addressee to have read everything, he or she must still connect the dots.
+[210]
+As stated by Madam Justice Snider in
+<FRAGMENT_SUPPRESSED>  CPR (4th) 241, [2008] FCJ No 1094 (QL), at para 254:
+As acknowledged by Servier, a mosaic of prior art may be assembled in order to render a claim obvious. Even uninventive skilled technicians would be presumed to read a number of professional journals, attend different conferences and apply the learnings from one source to another setting or even combine the sources. However, in doing so, the party claiming obviousness must be able to demonstrate not only that the prior art exists but how the person of ordinary skill in the art would have been led to combine the relevant components from the mosaic of prior art. This case is a good example. Apotex asks the Court to conclude that a person of ordinary skill in the art, without inventiveness or ingenuity, could collate a relatively large number of discrete pieces of knowledge from a lengthy list of prior art on ACE inhibitors (and even some sources outside the ACE inhibition field), make some fundamental assumptions and combine this knowledge to come up with a perindopril molecule.
+[211]
+As Mr. Justice Kelen later noted in
+<FRAGMENT_SUPPRESSED>  FTR 158, [2010] FCJ No 46 (QL), at paragraph 84, the party claiming obviousness must not only be able to demonstrate that the prior art exists, but to show how the person of ordinary skill in the art would have been led to combine the relevant components from the mosaic of prior art. See also the decision of Madam Justice Gauthier, as she then was, in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  CPR (4th) 1, [2009] FCJ No 1229 (QL), at paragraphs 416 and following.
+[212]
+I have come to the conclusion that the invention was not obvious. To utilize the approach used by the Supreme Court in <FRAGMENT_SUPPRESSED> , the notional "person skilled in the art" and that person's relevant common general knowledge have been set out throughout these reasons. The innovative concept of the claim was a substance, (+)-Citalopram, useful as an anti-depressant, a substance which had never been created before. The prior state of the art did not explain how to achieve (+)-Citalopram and did not disclose the qualities of the two enantiomers. These differences constituted steps which would not have been obvious to the person skilled in the art. They required a degree of invention. It was not more or less evident that what was done ought to have worked.
+[213]
+The chemical resolution route simply gave rise to too many permutations and combinations. The key problem was the maintenance of chirality. The ring had to be broken and then re-formed with different components. This led to the intense debate with respect to SN1 and SN2 ring closures. It is one thing to theorize as Drs. Semmelhack and Dannheiser did that the work could be done easily, and quite another to successfully carry out the experiments in the laboratory. For instance, in fractional crystallization, a process which gave rise to concern on the part of Drs. Semmelhack and Dannheiser but was the first which came to Dr. Armstrong's mind, Drs. Semmehack, Davies and Bøgesø all noted that the simple scratching of the flask in which the reaction was occurring might make a difference. Dr. Semmelhack pointed out that one might also reduce the temperature, evaporate the solvent, use a less powerful solvent to reduce solubility or change the pH.
+[214]
+In <FRAGMENT_SUPPRESSED> (
+<FRAGMENT_SUPPRESSED> , [2008] SCJ No 63 (QL)), at paragraph 65, Mr. Justice Rothstein said: "I am of the opinion that the "obvious to try" test will work only where it is very plain or, to use the words of Jacob L.J. more or less self-evident that what is being tested ought to work." I am of the opinion that it was not obvious that any particular chemical reaction ought to have worked.
+[215]
+As regards chiral HPLC, I am of the opinion that Mr. Beesley's selection of an Acetylated â-Cyclodextrin column or Chiralcel OD column was beyond the common general knowledge as it was. Furthermore, given the great many variables as set out in the evidence of Drs. Armstrong and Myers, it was not obvious that success would have been achieved by the use of an HPLC column.
+[216]
+The definitions of "obvious" in the Oxford English dictionary, coming from the Latin "
+", or "in the way", include: "lying or standing in the way, plain and open to the eye or mind, clearly perceptible, perfectly evident or manifest; palpable." "Obviousness" is "the state or condition of being exposed or open; the quality of being clearly perceptible."
+[217]
+In my opinion, an assembly of literature which might, and I emphasize the word "might", have led to (+)-Citalopram involved a considerable degree of inventiveness.
+[218]
+Upon reflection, the following passage from Dr. Davies' report accurately reflects my own opinion (para 364):
+Accordingly, I do not believe that the person skilled in the art would have been successful in producing the individual enantiomers of citalopram in 1988 had he or she decided to attempt it. Much work and experimentation, and perhaps a fair dose of luck, would have been required. Neither the various techniques that could have been used by the skilled person, nor those that actually led to (+)-citalopram were very plain or routine. It was certainly not self-evident that any of these techniques ought to have worked. I believe that the sheer number of possible directions available and the ultimate discovery of an unusual route are clearly indicative of non-obviousness. To reconstruct backwards, using bits and pieces of known concepts, is to fall into the familiar trap of hindsight. [...]
+Apotex alleges that the Pamoic Addition Salt of (+)-Citalopram is toxic. The
+claims 1 through 5 all encompass this salt. Therefore, it follows that the patent falls for inutility.
+[220]
+The basis of Apotex's allegation is an international application for a patent filed by Lundbeck in 2004, International Publication Number, WO 2004/05671 A One. This application, which was for (+)-Citalopram Hydrobromide and a method for its preparation, states:
+This application also describes the freebase of Escitalopram as an oil, the oxalic acid salt, the pamoic acid and the L-"+"-tartaric acid addition salt of Escitalopram. Due to the toxicity of pamoic acid addition salts they are not suitable in pharmaceuticals.
+[221]
+Apotex submits that this statement is a binding admission. In my opinion, the issue is not what Lundbeck said in 2004, but rather whether or not the Pamoic Salt of (+)-Citalopram is toxic.
+[222]
+Apotex led no evidence to speak of. Dr. Jenner referred to the 2004 application in his report but admitted he did not know whether or not the Pamoic Salt of (+)-Citalopram was toxic. Somewhat disturbingly, Dr. Hellen Northeved, a toxicologist  <FRAGMENT_SUPPRESSED> , testified that this salt was never tested by it until the present litigation.
+[223]
+Lundbeck filed the expert report of Dr. Gerd Bode. His report was taken as read without cross-examination. That report indicates that the salt is not toxic in rats. In addition, Dr. Davies' report indicates that several drugs approved by Health Canada and the FDA contain Pamoic Acid Salts.
+[224]
+Even if Lundbeck's evidence is not perfect, it is better than Apotex's, which is none at all. As the Supreme Court noted in
+Whirlpool
+(
+<FRAGMENT_SUPPRESSED> , 9 CPR (4th) 129, [2000] SCJ No 68 (QL)), it is not unreasonable for a court to accept scanty evidence from one side, against no evidence at all from the other. Just about everything is toxic if taken in excess. This allegation is dismissed.
+D. Insufficient Disclosure
+[225]
+The specification discloses that "results upon administration to human beings have been very gratifying". That statement is untrue as the enantiomers had not been tested on human beings until after the patent application was filed in June 1989. As a consequence, Apotex submits, the patent should be declared to be void. Subsection 27(3) of the Act, as it was, provided that "The specification of an invention must (a) correctly and fully describe the invention and its operation or use as contemplated by the inventor ..."
+[226]
+This is to be contrasted with subsection 53(1) which provided that a patent was void "if any material allegation in the petition of the applicant in respect of the patent is untrue [...] and the admission or addition was wilfully made for the purpose of misleading".
+[227]
+In the PM (NOC) proceedings, Apotex argued both subsections. On reflection, I must say that I conflated them as I said at paragraph 147 that "I do not consider that the one-liner misled anyone. Furthermore, there is no evidence of an effort to mislead."
+[228]
+In appeal, Mr. Justice Noël stated at paragraphs 117 and 118:
+[117] Apotex also argues that the disclosure in the '452 patent is insufficient because it lays a false trail by reason of the following statement (Reasons, para. 147): "[r] esults upon administration to human beings have been very gratifying". The Applications Judge agreed that this statement was false since escitalopram had yet to be administered to human beings at the relevant time. However, he held that (ibidem): "[g] iven that the patent has two full pages of evaluation of escitalopram upon rodents together with a table of pharmacological test results, I do not consider that the one-liner misled anyone. Furthermore, there is no evidence of an effort to mislead". I can see no basis for interfering with this conclusion.
+[118] Apotex nevertheless argues that this does not address its contention that the invention was not correctly described and therefore is in breach of section 34 of the Patent Act. In my respectful view, it was open to the Applications Judge to hold that as no one was misled, the invention was correctly described.
+[229]
+In this action, Apotex is not alleging section 53 but again alleges insufficient disclosure pursuant to section 27. The PM (NOC) proceedings have to be reconsidered in the light of the decision of the Supreme Court last November in
+<FRAGMENT_SUPPRESSED>  [2012] SCJ No 60 (QL). The Court held that sections 27 and 53 were separate and distinct. Pfizer's patent for Viagra was held void for insufficient disclosure, notwithstanding that in that case, as in this one, section 53 had not been alleged. Nevertheless, the disclosure was incorrect and the patent struck. Apotex asserts I should do the same in this case.
+[230]
+Certainly, the two experts called by Apotex who dealt with this point were not misled. Dr. Jenner was of the view that a pharmacologist would understand that all the experiments were set out in the '452 patent. Since none of those experiments were conducted on human beings, he took the statement to be one of prediction rather than of fact.
+[231]
+Dr. Levy was more specific. He was of the view that from the disclosure in the patent, the skilled person would understand the greater potency of the (+)-Citalopram had not been demonstrated but only predicted. He focused on whether the prediction extended to (+)-Citalopram being more potent than Citalopram, a prediction which he said was not sound. I shall deal with his opinion under the topic of Sound Prediction.
+[232]
+In my opinion, <FRAGMENT_SUPPRESSED> has no application to this case. Pfizer claimed 260 quintillion (1018) compounds for the treatment of erectile dysfunction in impotent males. The patent did not disclose that the compound which actually worked was sildenafil and that the remaining compounds had not been found to be effective. This was the needle in a haystack type of case.
+[233]
+After reviewing the
+aspect of the patent "bargain" and holding that adequate disclosure is a precondition to the granting of a patent, Mr. Justice Lebel held at paragraph 72 that "...the invention was the use of sildenafil for the treatment of ED. This had to be disclosed to order to meet the requirements set out in s. 27(3) of the Act" and at paragraph 76 "Pfizer had the information needed to disclose the useful compound and chose not to release it."
+[234]
+Even though there were cascading claims which came down to sildenafil being one of two, Mr. Justice Lebel added at paragraph 80:
+However, the public's right to proper disclosure was denied in this case, since the claims ended with two individually claimed compounds, thereby obscuring the true invention. The disclosure failed to state in clear terms what the invention was. Pfizer gained a benefit from the Act --exclusive monopoly rights-- while withholding disclosure in spite of its disclosure obligations under the Act. As a matter of policy and sound statutory interpretation, patentees cannot be allowed to "game" the system in this way. This, in my view, is the key issue in this appeal. It must be resolved against Pfizer.
+He declared the patent void, notwithstanding that the appeal was in a PM (NOC) application. It had been assumed that the only issue in such applications was whether the Minister of Health should be prohibited from issuing a Notice of Compliance. Pfizer has applied to the Supreme Court for reconsideration.
+[235]
+In this case, the invention, (+)-Citalopram and how to get there, was properly disclosed. In fact, notwithstanding its disclosure (-)-Citalopram was not claimed. It seems to me that the answer lies in the construction of the patent. As taught in such cases as
+Free World Trust
+, above, construction is to be purposive and informed. One task is to separate the essential from the non-essential. Although a patent is to be read with the assistance of the skilled addressee (
+Whirlpool
+, at para 45), nevertheless a patent meets the definition of a "regulation" in the
+Interpretation Act
+and must be read to ensure the attainment of its objects. As mentioned earlier, "claims construction is a matter of law for the judge, and he was quite entitled to adopt a construction of the claims that differed from that put forward by the parties." (
+Whirlpool
+Although the Court needs the assistance of the skilled addressee to gain some understanding of racemates and enantiomers, and to understand what Citalopram actually is, there is a limit to the assistance required.
+[237]
+The sentence: "Results upon administration to human beings have been very gratifying." is not a technical one. I have no hesitation in holding that the sentence was not essential, so that the patent survives. In any event, if I do need assistance, neither Dr. Jenner nor Dr. Levy read the patent as meaning that tests of the enantiomers upon human beings actually had been conducted.
+[238]
+Depending on the outcome of Pfizer's application to the Supreme Court for reconsideration of <FRAGMENT_SUPPRESSED> , it may well be that it is not even open to Apotex to argue this particular point. Following <FRAGMENT_SUPPRESSED> , in
+<FRAGMENT_SUPPRESSED>  CPR (4th) 81, [2012] FCJ No 1426 (QL), an impeachment action relating to the same Viagra patent, Mr. Justice Zinn granted Apotex's motion for summary judgment based on the Supreme Court's decision. His decision is under appeal. Patent construction is a matter of law, so that it might well be that Apotex is bound by the construction I gave to the '452 patent, upheld by the Court of Appeal.
+Claim 7 of the Patent
+[239]
+The other insufficient disclosure allegation relates to claim 7 of the patent which reads:
+A method for the preparation of (+)-1-(3-dimethylaminopropyl)-1-(4'-fluorophenyl)-1,3-dihydroisobenzofuran-5-carbonitrile, which comprises the step of resolving the two enantiomers of a compound having the general formula
+wherein R' is hydrogen or a labile ester group, thereby obtaining the enantiomer giving (+)-1-(3-dimethylaminopropyl)-1-(4'-fluorophenyl)-1,3-dihydroisobenzofuran-5-carbonitrile, which enantiomer subsequently is cyclized by treatment with base or, if R' is hydrogen, with base in the presence of an acid derivative which is productive of a labile ester, and then isolating (+)-1-(3-dimethylaminopropyl)-1-(4'-fluorophenyl)-1,3-dihydroisobenzo-furan-5-carbonitrile as such or as a non-toxic acid addition salt thereof.
+[240]
+Apotex alleges that the process of claim 7 does not specifically teach which of the resolved enantiomers produces (+)-Citalopram, or the procedural steps for obtaining the enantiomer that produces (+)-Citalopram. It submits that Lundbeck is hoisted by its own petard. If claim 7 requires some testing to make it work, then the same testing would have allowed the skilled addressee to arrive at (+)-Citalopram in the first place. However, in my opinion, there is an important difference between testing done armed with the patent, or without. As noted by Dr. Davies, one of the enantiomers giving (+)-Citalopram is used for the rest of the method described. A skilled person would know that the ester could be the (+) or (-). I hold that claim 7 does not fall for insufficient disclosure.
+E. Sound Prediction
+[241]
+Sound prediction that something would work, as opposed to an actual demonstration, was dealt with in
+<FRAGMENT_SUPPRESSED>  prediction;
+ii. the inventor must have had at the time of the application an articulable (and sound) line of reasoning from which the desired result could be inferred from the factual basis; and
+iii. there must be proper disclosure (para 70).
+[242]
+Lundbeck had a sound basis for predicting that (+)-Citalopram would be useful in the treatment of depression in humans. The racemate had already proved useful, and the same type of
+and
+tests to which Citalopram had been subjected were run on (+)-Citalopram. They indicated that (+)-Citalopram had a greater potency than Citalopram itself.
+[243]
+However, Apotex submits that Lundbeck promised in the disclosure that (+)-Citalopram had greater therapeutic effect than Citalopram. This promise could only be demonstrated by testing upon humans, and so the patent falls unless there was a sound basis for making it. I agree that if such a promise was made it was not based on a sound prediction. However, the real question is whether Lundbeck made such a promise. I find that it did not.
+[244]
+Apotex infers this promise from a statement in the disclosure that "almost the entire 5-HT uptake inhibition resided in the (+)-Citalopram enantiomer" and from a table showing pharmacological test results
+and
+on rats and mice. The table shows:
+The lower the number the better. The table indicates that (+)-Citalopram is far more potent, some 60 times more than (-)-Citalopram and about 1.6 times more than Citalopram itself.
+[245]
+However, the experts on this point, including Dr. Blier by the time his cross-examination was over, agree that tests on rodents do not serve as an appropriate factual basis to predict that (+)-Citalopram had greater therapeutic effect than Citalopram. The differences between the species are just too great.
+[246]
+I accept Dr. Jenner's view that as of April 1988, a pharmacologist would expect that both enantiomers of Citalopram would have some activity as anti-depressant compounds in humans and would also expect that one of the enantiomers would be more potent than the other. He did not explain, however, the basis of his view that the patent promised that (+)-Citalopram was more potent in humans than the racemate. Dr. Levy, also called by Apotex, a most impressive witness, was of the view that the '452 patent was addressed to pharmacologists, chemists and medical doctors with an interest in treating depression. He thought that this skilled person would understand the '452 patent to promise that (+)-Citalopram would be a more potent anti-depressant in humans than racemic Citalopram. That greater potency, however, was not demonstrated and there was no factual basis and no line of reasoning disclosed which would allow the inventors to make that prediction.
+[247]
+I accept without hesitation his evidence, including his primer in pharmacology and metabolism, bioavailabity, and interspecies differences in metabolism, and that there was no appropriate basis for predicting that (+)-Citalopram was better than Citalopram in the treatment of depression in humans, notwithstanding that later on that proved to be true.
+[248]
+He noted that the patent stated that (+)-Citalopram had almost all the 5-HT reuptake inhibitory activity. He went on to say: "The pharmacologist would understand from this statement that (+)-Citalopram will have almost all the 5-HT reuptake inhibitory activity of Citalopram in humans", and by inference that (-)-Citalopram will have relatively little 5-HT reuptake inhibitory activity in humans. I agree with that reasoning.
+[249]
+However, he continued: "The pharmacologist would understand that the '452 Patent was promising that (+)-Citalopram will be a more potent antidepressant than citalopram in humans."
+[250]
+Dr. Blier, called by Lundbeck, was of the view that patent '452 promised that (+)-Citalopram would be useful in the treatment of depression but did not promise a specific comparative result.
+[251]
+Apotex submits that the evidence of Dr. Jenner and Dr. Levy should be preferred. Although Dr. Blier disclosed that he had done work for Lundbeck, he had not disclosed that he had also done work for Forest Laboratories who marketed (+)-Citalopram in the United States. He also had a bias against generics. I disagree with this latter point. He disagrees with some of the bioequivalent standards of Health Canada. He is not against generics as such.
+[252]
+Again, as stated by Mr. Justice Binnie in
+Whirlpool
+, above, at paragraph 61: "claims construction is a matter of law for the judge, and he was quite entitled to adopt a construction of the claims that differed from that put forward by the parties".
+[253]
+Although the Court needs advice from experts with respect to the chemistry of the patent, the common general knowledge and the attributes of the skilled addressee, there is nothing scientific about the points in dispute. Dr. Jenner and Dr. Levy do not explain why the skilled addressee of the patent would infer a promise that (+)-Citalopram was better. There is no explicit statement either in the disclosure or in the claims. The claim portion of the specification takes precedence over the disclosure portion in that the disclosure is read so as to understand what is meant by the claims "but not to enlarge or contract the scope of the claims as written and thus understood" (
+Whirlpool
+, above, at paragraph 52). To overclaim is to lose everything. The table illustrated that most of the inhibition was found in the (+) enantiomer. The insertion of Citalopram as a point of reference cannot be taken as a promise. These was no prediction that (+)-Citalopram was better than Citalopram.
+[254]
+To summarize, patent '452 is valid. The inventive concept was the two enantiomers of Citalopram, and methods to get there. As stated by counsel for Lundbeck, the first one who invents a route to the treasure is also entitled to the treasure. Before Lundbeck's work, the enantiomers did not exist separate and distinct from the racemate. The state of the art did not disclose how to arrive at the enantiomers. Their qualities were not known. The steps taken by Lundbeck were not obvious to the person skilled in the art, and also required a degree of inventiveness.
+Having found the patent and each and every one of its claims to be valid, I now deal with the infringement by both Apotex and Apotex Pharmachem. Both admitted that in the event the patent was found to be valid in all respects they have infringed.
+[256]
+In terms of remedy, rather than seeking compensatory damages, Lundbeck has elected for an accounting of profits. Based on Apotex's behaviour it also seeks punitive damages. As is usual in an infringement action, it also seeks delivery-up or destruction of the infringing material still on hand, a permanent injunction until the expiry of patent '452, interest and costs. I shall first deal with punitive damages.
+A. Punitive Damages
+[257]
+An election for an accounting of profits, rather than for compensatory damages, does not preclude the Court from awarding punitive damages (
+<FRAGMENT_SUPPRESSED> , [2012] SCJ No 8 ( <FRAGMENT_SUPPRESSED> , [2010] SCJ No 51 (QL)). Punitive or exemplary damages may be awarded in a patent infringement case (
+<FRAGMENT_SUPPRESSED>  CPR (4th) 87, [2012] FCJ No 107 (QL), currently in appeal).
+[258]
+The Court must consider whether a party's conduct has been malicious, oppressive and offensive to the Court's sense of decency or represents a marked departure from the ordinary standard of decent behaviour (
+<FRAGMENT_SUPPRESSED> , [2002] SCJ No 19 (QL);
+Microsoft Corporation v 9038-3746 Quebec Inc
+, 2006 FC 1509, 57 CPR (4th) 204, [2006] FCJ No 1965 (QL)).
+[259]
+The evidence is that Apotex stockpiled (+)-Citalopram in the expectation that the Minister would not be prohibited from issuing a notice of compliance. Its prediction was wrong, both in first instance and in appeal.
+[260]
+Thereafter, as it was prohibited from marketing (+)-Citalopram in Canada, it sold some of the product to affiliates in the Czech Republic and Australia.
+[261]
+Dr. Bernard Sherman, Chief Executive Officer of Apotex, testified that as a business decision sometimes Apotex stockpiled in anticipation of a favourable outcome in the PM (NOC) proceedings so as to get on to the market at soon as possible. At times this business strategy works, at other times, as in the present case, it backfires.
+[262]
+I do not consider Apotex's behaviour such that it would be appropriate to award punitive damages.
+[263]
+Dr. Sherman testified that once he found out the stockpiled product was being sold overseas, he immediately put a stop to it. Apotex led no evidence as to what safeguards, if any, it had in place to prevent such sales. In any event, the infringement began with the stockpiling, not with the sales overseas.
+[264]
+Were it not for the PM (NOC) Regulations and the mirror Food and Drug Regulations, presumably Apotex's generic version would have been found by Health Canada to be safe and efficacious and Apotex could have gone on to the Canadian market. The question would then have arisen whether Lundbeck could have obtained an interlocutory injunction. This would have been unlikely as damages would be a suitable remedy.
+[265]
+Apotex's behaviour does not compare to that set forth by Mr. Justice Martineau in the <FRAGMENT_SUPPRESSED> case, above, in which he had found that Bell Helicopter had claimed Eurocopter's invention as its own.
+[266]
+Lundbeck also asserts a cavalier attitude on the part of Apotex in earlier pleadings in which it specifically denied that if the patent were valid it had infringed. This may be a question of interpreting the pleadings, which are somewhat ambiguous, and there may have been a breakdown in communication between counsel and client. In any event, it would be more appropriate to deal with this issue as a matter of costs, which the parties have agreed should be deferred.
+B. Accounting of Profits
+[267]
+As with all equitable remedies, the trial judge has discretion, judicially exercised, to decide whether or not to grant this relief. Apotex submits that this remedy should not be granted in this case. It says that Lundbeck is not entitled to Apotex's profits from the foreign sales of (+)-Citalopram and that Lundbeck would be given an inequitable windfall were it to claim Apotex's profit on the Australian and Czech Republic sales, as it led no evidence that it had competed in those markets.
+[268]
+Furthermore, Apotex, according to Dr. Sherman, had acted in good faith that it considered the '452 patent to be invalid, and that at first he was unaware that (+)-Citalopram was being shipped to Apotex affiliates in Australia and the Czech Republic for sale. When he learned about it, he put a stop to it.
+[269]
+Lundbeck counters that this equitable remedy is contemplated by s 57(1)(b) of the
+Patent Act,
+and that although the Court is not bound by an election made by a party, the remedy is regularly awarded.
+[270]
+The election is ordinarily accepted unless there are circumstances which would warrant withholding it from the successful party (
+<FRAGMENT_SUPPRESSED>  (QL), affirmed (1996), 70 CPR (3d) 183 (FCA), [1996] FCJ No 1385 (QL)). In my opinion, there are no circumstances which should deprive Lundbeck of its election. As pointed out by Mr. Justice Addy in
+<FRAGMENT_SUPPRESSED>  (QL):
+It is most important to remember that the principles governing the awarding of damages to the owner of a patent, which is the remedy ordinarily chosen and which is of course strictly a legal one, must of necessity be quite different from those involved in applying the purely equitable remedy of requiring a wrongdoer to account for all profits derived from his illegal act. In the latter case, the position of the successful plaintiff in so far as any harm or damage he might or might not have suffered is completely irrelevant and, therefore, must not be taken into consideration.
+[271]
+Consequently, the fact that Lundbeck led no evidence as to its position in the Australian and Czech Republic markets is irrelevant. It may be that Lundbeck suffered little or no damage in those markets. The fact is, however, that Apotex made a profit and must account for it.
+[272]
+Furthermore, good faith on the defendants by counterclaim's part is not relevant either. They are not being punished. They made use of Lundbeck's intellectual property rights and must turn over the profits they made. It would be completely unreasonable to hold that the only consequence of infringement over several years would be to declare the patent valid and to enjoin them from continuing what they should not have done in the first place.
+C. The Profits
+[273]
+The concept is clear. Apotex and Apotex Pharmachem must account for the revenues generated by the sale of (+)-Citalopram. They are entitled to deduct therefrom expenses reasonably incurred in generating that revenue. The balance goes to Lundbeck. As so often happens, the devil is in the detail.
+[274]
+From 2005 through to 2010, Apotex purchased (+)-Citalopram Oxalate from two sources in
+[Redacted
+], and then a small quantity from Apotex Pharmachem.
+[275]
+Apotex Inc. purchased a total of
+[Redacted
+] of (+)-Citalopram Oxalate, all but
+[Redacted
+] thereof from the two
+[Redacted
+] companies. There is no evidence that these companies were corporately related to Apotex.
+[Redacted
+] had been returned to one of the
+[Redacted
+] vendors. The parties have agreed that the following quantities of (+)-Citalopram or (+)-Citalopram Oxalate are subject to the experimental use exemption provided under section 55.2 of the Act:
+ii. 0.53 kg for reserve and retained good samples; and
+iii. 2.59 kg of in-process finished goods samples.
+[276]
+Apotex admits to a profit of $969,072.94 based on sales of
+[Redacted
+].
+[277]
+Apotex Pharmachem Inc. admits to a profit of $33,568 based on one sale of
+[Redacted
+].
+[278]
+Lundbeck submits that the price of the (+)-Citalopram sold by Apotex its Australian affiliate should have been much higher. It also disputes some of the expenses claimed by both Apotex and Apotex Pharmachem.
+[279]
+The Court heard expert evidence from two chartered accountants, Pierre St-Laurent, called by Lundbeck, and Howard Rosen, called by Apotex. Both are experienced forensic chartered accountants and were qualified to assist the Court. There are two caveats to that remark. The first caveat is that both attempted to give an accounting effect to jurisprudence. It is up to the Court to decide what those cases mean.
+[280]
+The second caveat is that Lundbeck pointed out that Mr. Rosen's firm has acted as Apotex's external accountants for many years, and that he has, himself, been called as an expert witness by Apotex on many occasions. This approach was hardly surprising given the treatment of Dr. Davies, and was somewhat mild in comparison. Nevertheless, there may be some justification  <FRAGMENT_SUPPRESSED> 's position in that Mr. Rosen accepted that certain expenses were actually incurred although invoices could not be produced.
+[281]
+<FRAGMENT_SUPPRESSED> , [2004] SCJ No 29 (QL), Chief Justice McLachlin and Mr. Justice Fish, speaking for the majority, stated at paragraphs 100 and following that the accounting of profit remedy was based on "differential profits" and referred to an article by Professor Norman Siebrasse entitled "A Remedial Benefit-Based Approach to the Innocent-User Problem in the Patenting of Higher Life Forms" (2004), 20 C.I.P.R. 79. Professor Siebrasse was of the view that Canadian jurisprudence was somewhat inconsistent. He opined that the "differential profit" approach was clearly stated by the United States Supreme Court in
+The question to be determined in this case is, what advantage did the defendant derive from using the complainant's invention over what he had in using other processes then opened to the public and adequate to enable him to obtain an equally beneficial result.
+[282]
+In <FRAGMENT_SUPPRESSED> , the Court held that having elected for an accounting of profits, the plaintiff could not claim damages. Schmeiser had made no profit in the use of a patent relating to Canola in that he could have reached the same result without recourse to it.
+[283]
+This case is quite different. The only active ingredient in the Apotex product was (+)-Citalopram and so it must turn over all profit less legitimate expenses incurred.
+[284]
+I will deal first with revenues and then expenses.
+[285]
+The principal factual witness with respect to Apotex's sales to the Czech Republic and to Australia was Gordon Fahner, its Vice-President, Business Operations and Finance. He explained that the company's accounting system is based on ERP software (Enterprise, Resource, Planning System). After expenses are actually incurred, variations between budget and reality are entered. The system has been in place since 2001 and is remarkably accurate.
+[286]
+Transfer pricing to overseas affiliates depends to some extent on the regulatory regime in place. In the Czech Republic, the importer must wholesale the goods at the same price at which they were imported. This leaves no room for the expenses incurred by the Czech affiliate. That company was compensated out of Canada by an Apotex company. However, no deduction has been claimed and so no credit can be given. Lundbeck accepts that the sales to the Czech Republic totalled
+[Redacted
+] and does not challenge the reasonableness of that figure.
+[287]
+The Australian market was quite different. The selling price was lower. Apotex had always been wary of the position Canadian tax authorities might take with respect to transfer pricing between corporations not dealing at arms-length. See for example the recent decision of the Supreme Court in
+<FRAGMENT_SUPPRESSED>  [2012] SCJ No 52 (QL). A profit margin of
+[Redacted
+] over and above the C.I.F. selling price was considered acceptable. However, for reasons he could not quite explain, Apotex's profit of
+[Redacted
+[Redacted
+].
+[288]
+Lundbeck's counsel, however, suggests that the selling price should have been either in excess of $10,000,000 or close to $13,000,000. These scenarios are based on theories that Apotex could have sold in Australia at the same price as to the Czech Republic and that it, in fact, is "parking" profits overseas. Dr. Sherman testified that no money has come back to Canada indirectly by way of dividends or otherwise. Had Apotex reorganized its affairs to avoid a proper accounting, Lundbeck may have had a point. However, these business relationships were in place for some time, and were not designed to thwart Lundbeck. A fact scenario much closer to the point is
+<FRAGMENT_SUPPRESSED>  (QL). In that case, as part of a refinancing, a ship was sold and then bareboat chartered back to the original owner. This had the effect of defeating a portion of the plaintiff's action
+in rem
+. Nevertheless, the Court held that as no bad faith was involved, the plaintiff, a ship repairer, had lost that recourse.
+[289]
+Apotex Pharmachem had only one sale, which was to Apotex itself. It was in the amount of Canadian
+[Redacted
+], which works out to Canadian
+[Redacted
+] per kilo. The sales price was not contested, but the expenses it claimed were.
+[290]
+The experts had quite a different approach to the expenses which could properly be deducted. To deal first with Apotex itself, it claimed its cost of sales as follows:
+Cost of Sales
+Set/Cleanup Labour
+Direct Overhead
+Direct Quality Assurance
+Indirect Overhead
+Indirect Quality Assurance
+Fixed Overhead
+Depreciation
+Rounding differences
+Profit
+Quantities sold (kg)
+[291]
+Mr. St-Laurent agreed with the cost of material but would only allow
+[Redacted
+] with respect with the Australian packaging as supporting invoices were not produced. He would allow no deduction with respect to sales to either country for direct labour, set/clean-up labour, direct overheard, direct quality assurance, indirect overhead, indirect quality assurance, fixed overhead, depreciation and rent.
+[292]
+Mr. Rosen would allow all these expenses as claimed by Apotex.
+[293]
+Mr. St-Laurent's view was that these costs, fixed and variable, direct and indirect, would have been incurred in any event. The employees were not paid on a piecework basis. They would have been paid whether (+)-Citalopram was manufactured or not. In his report, he refers to the expert evidence he gave in this Court in
+<FRAGMENT_SUPPRESSED>  (QL). One of the problems was that sales were of an entire machine, only part of which infringed. This gave rise to apportionment issues. In speaking of an accounting of profits, Mr. Justice Rouleau said at para 70: "The objective of the award is to restore those actual profits to their rightful owner, the plaintiff, thereby eliminating whatever unjust enrichment has been procured by the defendant."
+[294]
+Although Mr. St-Laurent is of the view that his accounting concepts were accepted for the most part, Mr. Justice Rouleau held he was unable to conclude that any of the profit realized by the infringer was derived as a result of the infringement of Beloit's patent. Therefore he said at para 79: "It is for this reason that I have not referred in detail to the evidence of the accounting experts called for both sides. Although I have not discounted their evidence, it simply has little relevance to the issue now before me." The appeal was allowed in part, 94 FTR 102, 61 CPR (3d) 271, [1995] FCJ No 733 (QL), but did not touch upon Mr. Justice Rouleau's appreciation of the evidence regarding the profits on non-infringing parts of the machine.
+[295]
+I do not see any underlying philosophy in that case which might be helpful.
+[296]
+Mr. Rosen also relies on his courtroom experience. His preference as an accountant is for a full absorption method by which the entire costs of an enterprise are proportionately spread out against the manufactured products. However, that view was not fully accepted by Mr. Justice MacKay in
+<FRAGMENT_SUPPRESSED>  (QL). This was another case in which there was both infringing and non-infringing material involved in the infringer's sales. He favourably referred to the differential cost accounting, or incremental approach, method dealt with by the Court in
+<FRAGMENT_SUPPRESSED>  (QL), and
+<FRAGMENT_SUPPRESSED>  (QL), by which net revenues are calculated by deducting variable and fixed costs which contributed to the revenue. No part or portion of any expenditure which would have been incurred had the infringing activity not taken place is to be considered deductible. After referring to the paucity of evidence and limiting himself to the circumstances of the case, he allowed the following expenses: a) the cost of material; b) an allocation of Apotex's annual labour and factory overhead based on the proportion of units of the infringing product to the total production of all products; c) similarly an allocation of the annual cost of selling; and d) other items subject to agreement. This is another case which is not to be followed "au pied de la lettre".
+[297]
+Coming to the individual items in dispute, like Mr. St-Laurent, I would only allow
+[Redacted
+] of the
+[Redacted
+] for the cost of packaging material relating to the Australian exports. The burden was on Apotex, and it was unable to produce anything to evidence those costs. Mr. Rosen accepted the cost because the variances after expense incurred were otherwise very minor, as shown above. It was logical to assume that the expenses were incurred. That may well be so, but it is not established that this is an accounting principle. Whether it be inference or speculation, it is for the Court to decide. In my view, the cost of packaging, without supporting material, falls into the realm of speculation. As stated by Lord MacMillan in
+The dividing line between conjecture and inference is often a very difficult one to draw. A conjecture may be plausible but it is of no legal value, for its essence is that it is a mere guess. An inference in the legal sense, on the other hand, is a deduction from the evidence and if it is a reasonable deduction it may have the validity of legal proof.
+See also
+Minister of Employment and  <FRAGMENT_SUPPRESSED>  (QL).
+[298]
+I have no difficulty allowing the direct labour, set/clean-up labour, direct overhead and direct quality assurance. These figures were not challenged. What was challenged was whether they should be deductible in an accounting of profits before the Court.
+[299]
+Apart from the decision of Mr. Justice MacKay, it is well established that, without precise proof, a plaintiff who uses its own labour to repair damage caused by a defendant cannot make a profit but nevertheless is entitled to charge the cost of labour, including direct overhead on the basis that otherwise those employees would have been doing something else productive. ( <FRAGMENT_SUPPRESSED>  FTR 196, [2011] FCJ No 602 (QL) at paragraph 56, and authorities cited therein. The appeal, which maintained the decision, 2012 FCA 199, 433 NR 152, [2012] FCJ No 855 (QL), did not deal with this issue. The Supreme Court has granted leave to appeal.)
+[300]
+However, I am not prepared to allow indirect overhead, indirect quality assurance, fixed overhead, depreciation and rent. This appears to me to be very close to a full absorption method. In the decision of Mr. Justice MacKay, no breakdown was given between direct and indirect overhead, as has been done in this case. I am guided by the decision of Associate Chief Justice Thurlow in
+<FRAGMENT_SUPPRESSED>  (QL). That was a breach of a contract of affreightment case. The damages sought were the profits which would have been earned had the contract been performed. Damages were to be ascertained by calculation of the freight which would have been earned less the expenses to which the carrier would have been put in earning it, also taking into account mitigation of damages. The plaintiff's calculations were akin to what accountants would call a full absorption method in that its calculations included crew wages, insurance, maintenance, lubricants, and depreciation. The defendant only brought in as deductions items referable to earning the particular freight, such as loading and discharging expenses, bunkers and port expenses, the theory being that the other expenses were those which a shipowner had to bear regardless of any particular voyage. Associate Chief Justice Thurlow leaned more to the defendant, but differed somewhat from both.
+[301]
+It seems to me that indirect overhead, indirect quality assurance, fixed overhead depreciation and rent are too remote to be referable to the manufacture of (+)-Citalopram and so I disallow them.
+[302]
+In the result, I fix Apotex's profit at $1,410,906.21 based on sales of
+[Redacted
+[Redacted
+] (
+[Redacted
+[Redacted
+[Redacted
+[Redacted
+] for set/cleanup labour,
+[Redacted
+] for direct overhead and
+[Redacted
+] for direct quality assurance).
+[303]
+As for Apotex Pharmachem, Mr. St-Laurent is of the view that the expenses claimed are far too high. However, this was the first time it had manufactured (+)-Citalopram. The cost of the first item off the assembly line is always more expensive than if the set-up cost had been spread out over a much greater production. Of the
+[Redacted
+] of expenses claimed, he would allow only
+[Redacted
+]. Basing myself on the same principles I applied to Apotex, I would only disallow Apotex Pharmachem's indirect fixed overhead of
+[Redacted
+] as calculated by Mr. Rosen.
+[304]
+Consequently, Apotex Pharmachem has to turn over profits of $304,177.38 based on its one sale of
+[Redacted
+[Redacted
+].
+D. Delivery-Up or Destruction
+[305]
+Section 57 of the
+, both then and now, contemplates that the Court may make such orders as it sees fit enjoining a party, and generally respecting the proceedings. It is common ground that delivery-up or destruction of the infringing product is a remedy which the Court may order. In this case, Apotex still has in its possession 8.34 kilos of (+)-Citalopram. For its part, Apotex took the position that if it were found to have infringed, it should be able to work out an appropriate protocol with Lundbeck. This is a sensible suggestion, and so I leave it to the parties to work out the parameters.
+E. Permanent Injunction
+[306]
+Lundbeck is entitled to an order prohibiting the defendants, directly or indirectly, as well as their officers and directors, and the servants, employees or agents of any of them, and any other person, corporation or entity acting under their instructions or control, from making, selling, distributing, advertising, exposing for sale, offering for sale, stockpiling or possessing for the purposes of the foregoing or importing into Canada (+)-Citalopram prior to the expiration of patent 1,339,452 on 9 September 2014.
+The granting of prejudgment and post-judgment interest is governed by sections 36 and 37 of the
+Federal Courts Act
+. A distinction must be drawn between causes of action arising within a province, and causes of action arising outside a province or in more than one province. Lundbeck submits that the cause of action arose in Ontario, and Apotex concurs. Far be it from me to disagree, particularly since the Court, in its discretion, could have ordered a higher rate of interest if the cause of action arose other than in a single province.
+[308]
+In the circumstances, the
+Federal Courts Act
+incorporates Ontario law, more particularly sections 127 and following of the
+Courts of Justice Act
+, RSO 1990, c C43. Prejudgment interest is to be calculated from the date the cause of action arose, at the Bank of Canada's minimum rate on short-term advances to the banks listed in Schedule 1 of the
+. Post-judgment interest shall be calculated at that rate plus one percent.
+[309]
+Although the cause of action arose with stockpiling in contravention of the
+, had there been no sales, the remedies would have been limited to an injunction, delivery-up or destruction and costs. No interest would have been awarded. The interest to be awarded is based on the sales. According to Apotex's records, sales began 8 June 2009 and ended 20 August 2010. An approximate midpoint is the only sale in excess of $200,000 which occurred on 23 December 2009. It would be intolerable to have to do interest calculations on each sale. I shall fix the starting point for prejudgment interest on the Apotex sales as 1 January 2010.
+[310]
+Apotex Pharmachem had only one sale, which was to Apotex itself. The date of that sale was 22 June 2010. That date shall be the starting point on prejudgment interest.
+[311]
+Notwithstanding that a formal judgment is yet to be entered, post-judgment interest shall run from the date of these reasons.
+IX. COSTS
+[312]
+At the request of the parties, an order or directions relating to costs shall be deferred.
+CONFIDENTIALITY
+[313]
+As much of the evidence and testimony was covered by various confidentiality and sealing orders, the parties shall have ten (10) days from the date of these reasons, hopefully in conjunction with each other, to inform the Court if any portions hereof should be deleted or modified in the public version, and if so to provide suggestions.
+[314]
+For the sake of good order, all objections raised during trial not otherwise ruled upon are dismissed.
+In accordance with rule 394 of the
+Federal Courts Rules
+, I direct that counsel for Lundbeck prepare for endorsement a draft judgment to give effect to these reasons, approved as to form and content by Apotex. Should the parties be unable to agree, they shall so inform the Court within ten (10) days hereof and Lundbeck shall bring on a motion in writing for judgment in accordance with rule 369 of the
+Federal Courts Rules
+.
+.........................
+INTRODUCTION À LA CHIMIE ORGANIQUE
+24-33
+--D. Divulgation insuffisante
+225-240
+CONTREFAÇON
+255-311
+--E. Injonction permanente
+306
+Free World Trust c Électro Santé Inc
+, 2000 CSC 66, [2000] 2 RCS 1024, 9 CPR (4th) 168, [2000] ACS no 67 ( <FRAGMENT_SUPPRESSED> , 9 CPR (4th) 129, [2000] ACS no 68 (QL)).
+[14]
+Whirlpool
+Whirlpool
+...an invention that was
+not known or used by any other person before he invented it,
+not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned, and
+not in public use or on sale in Canada for more than two years prior to his application in Canada
+[19]
+[...] any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter
+INTRODUCTION À LA CHIMIE ORGANIQUE
+[24]
+M. Thomas Beesley
+[40]
+Chirality
+Tetrahedron Asymmetry
+Free World Trust
+Pharmacopsychiat
+, et « The Stereoselectivity of Serotonin Uptake in Brain Tissue and Blood Platelets: the Topography of the Serotonin Uptake Area » en 1986 dans
+Neuroscience & Biobehavorial Reviews
+Oxford Dictionary
+Enantiomers, Racemates and Resolutions,
+Stereochemistry of Carbon Compounds
+Journal of American Chemical Society
+,
+Journal of Organic Chemistry,
+Journal of Medicinal Chemistry, Tetrahedron
+,
+Tetrahedron Letters,
+Journal of the Royal Chemical Society (Chemical Communications, Perkin Series)
+Synthesis
+.
+[132]
+Chemical Abstracts
+chiral pool
+Rules for Ring Closure
+Enantiomers, Racemates and Resolutions
+Chemical Abstract
+Organic Chemistry
+Analytical Chemistry
+, intitulé: « An Enantiomeric Resolution and Chiral Recognition of Racemic Nicotine and Nicotine Analogues by -Cyclodextrin Complexation. Structure-Enantiomeric Resolution Relationships in Host-Guest Interactions ».
+[193]
+Oxford English Dictionary
+Whirlpool
+(
+D. Divulgation insuffisante
+[225]
+Free World Trust
+Whirlpool
+Whirlpool
+Whirlpool
+Whirlpool
+CONTREFAÇON
+[255]
+Microsoft Corporation c 9038-3746 Québec Inc
+, 2006 CF 1509, 57 CPR (4th) 204, [2006] ACF no 1965 (QL)).
+[259]
+in rem
+Coûts indirects fixes
+Sous-total
+Profit
+E. Injonction permanente
+[306]
+CONFIDENTIALITÉ
+[313]
+[End of document]

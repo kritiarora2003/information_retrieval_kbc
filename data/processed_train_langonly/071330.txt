@@ -1,0 +1,59 @@
+<FRAGMENT_SUPPRESSED>  CF 333)
+Federal Court
+Steven Beiles, for the applicant;
+Hillary Adams, for the respondent.
+Solicitors of Record:
+Steven Beiles, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+Introduction
+[1]
+: This is an application by Kseniya Sargsyan [the Applicant] for leave to commence an application for judicial review pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA] of a decision of the Refugee Protection Division [RPD] dated November 19, 2013. The RPD held that the Applicant was neither a Convention Refugee nor a person in need of protection within the meaning of sections 96 and 97 of IRPA.
+Facts
+[2]
+The Applicant is originally from Russia and used to live in the city of Orsk with her former husband [husband].
+[3]
+The Applicant claimed that her husband began to physically abuse her in October 2009. The Applicant alleged that she went to the local police department and to the local prosecutor's office but both said they could not help her.
+[4]
+The Applicant fled from her husband and moved to Vladivostok where she lived a few months before going to Ukraine. Using a smuggler, she entered Canada in February 12, 2012, and claimed refugee protection on April 17, 2012. Her refugee claim was refused on November 19, 2013. This is the decision under review.
+Impugned Decision
+[5]
+The RPD only addressed the question of Internal Flight Alternative [IFA] in its decision. It determined that the Applicant had an IFA in Vladivostok as well as in Moscow based on the two-prong test as described in
+The RPD also discussed how the Applicant had lived five months in Vladivostok without encountering any issues with her husband. The RPD further wrote that the Applicant testified that she did not know whether her husband had any connections in Vladivostok. She also stated that this city was far away from the city of Orsk, which made her feel safer.
+[7]
+Based on the evidence provided, the RPD determined that the Applicant was neither a Convention refugee nor a person in need of protection pursuant to sections 96 and 97 of IRPA.
+The Applicant submits that the RPD's finding that her husband would not want to find her in other cities is unsupported by the evidence. The documentary evidence presented demonstrates that her husband would be able to find her using the central residency database [registry database] for Russian citizens. The Applicant also submits that the RPD failed to take into account that she was a victim of domestic abuse and that consequently the Chairperson's Gender Guidelines [Gender Guidelines] applied to a determination of a possible IFA for her.
+[9]
+The Respondent replies that the RPD's decision is reasonable since the Applicant testified that her husband had no contact in Vladivostok and that she was able to fly out of this city without her husband knowing and preventing her from doing so. The Respondent adds that the RPD did not ignore evidence regarding the registry database in Russia, but rather acknowledged it in its decision. Lastly, the Respondent argues that the RPD's failure not to make explicit reference to the Gender Guidelines is not necessarily a reviewable error.
+I have reviewed the parties' submissions and respective records and frame the issue as follows:
+1. Is the RPD's analysis of an IFA in Russia reasonable?
+Standard of Review
+[11]
+The standard of review applicable to the RPD decision regarding the existence of an IFA is that of reasonableness (
+<FRAGMENT_SUPPRESSED> ). The Court shall only intervene if it concludes that the decision is unreasonable, and falls outside the "range of possible, acceptable outcomes which are defensible in respect of the facts and law" (
+The two-prong test applicable in an IFA analysis is:
+1. The RPD must be satisfied, on a balance of probabilities, that there is no serious possibility of the Applicant being persecuted in the part of the country in which it finds an IFA exist; and
+2. That the conditions in that part of the country are such that it would not be unreasonable for the Applicant to seek refuge there (
+<FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> , above).
+The burden of proof to demonstrate that no IFA exists in Russia lies with the Applicant ( <FRAGMENT_SUPPRESSED> , above at para 12; <FRAGMENT_SUPPRESSED> , above at para 24).
+[13]
+I am satisfied that the RPD committed no error in its analysis. The RPD discussed two IFA with the Applicant, Moscow and Vladivostok. With regards to the first part of the test, the RPD determined that the Applicant failed to demonstrate that her husband had any connections in Vladivostok. Indeed, the Applicant admitted at the hearing that she had no idea whether her husband had any connections in Vladivostok (Certified Tribunal Record [CTR] page 183 at lines 30-35 and page 186 at lines 15-25). She also wrote in her narrative that she moved to Vladivostok and remained there for five months because it was "far away from my city which made me feel safer" (CTR page 23 at para 10). She further testified that she had used her own legally issued passport to travel from Russia to Ukraine without any interference from her husband (CTR page 183 at line 5). The RPD also discussed the possibility of an IFA in Moscow and determined that even if her husband knew she lived in Moscow, there would only be less than a mere possibility that he would have the resources to find her. As for the Applicant's argument that her husband could find her using the registry database, this issue was discussed at the hearing and the RPD acknowledged the evidence pertaining to it in its decision. It reasonably concluded that the evidence presented was not enough to support her allegations that her husband would be able to find her, would want to find her or has the means to find her (AR pages 10-11 at para 13). The RPD reasonably dealt with the evidence on this issue. Based on the above, it was reasonable for the RPD to conclude that there is no serious possibility that the Applicant would be persecuted if she were to move to Vladivostok or Moscow.
+[14]
+As for the second prong of the test, based on the information above, the RPD's conclusion is also reasonable, as the Applicant has already lived in Vladivostok for five months. As for the arguments that the RPD did not deal with the assessment as to how she could establish herself with registration in Vladivostok, my reading of the decision shows that it was implicitly dealt with. Indeed, the RPD took note of her five months stay in that city, that she was able to travel with her passport without any problems, that she had no idea "if her husband had any connection in Vladivostok" and importantly that she "felt safer being far away" from the city of Orsz. I also understand that the Applicant is an economist. All of this makes this decision reasonable.
+[15]
+As for the Applicant's argument that the RPD failed to consider the Gender Guidelines, I agree with the Respondent that the RPD's failure to make an explicit reference to the Gender Guidelines is not a reviewable error in this case. The Gender Guidelines are an important tool in reviewing refugee claims based on domestic violence, more specifically when assessing credibility (
+<FRAGMENT_SUPPRESSED> ). Also, the "case law establishes that there is no need for the RPD to specifically mention the Gender Guidelines in a decision provided it adequately applies the principles enshrined in them" (see
+<FRAGMENT_SUPPRESSED> ). Upon reviewing the hearing transcript and the Certified Tribunal Record, I cannot find any insensitivity to the Applicant's status as a victim of domestic abuse. Moreover, credibility played no role in the RPD's IFA assessment in Russia. It was therefore reasonable for the RPD not to mention the Gender Guidelines specifically.
+Conclusion
+[16]
+The RPD properly applied the two-prong IFA test and adequately assessed the evidence presented before it. The RPD did not need to specifically mention the Gender Guidelines in its decision. My review of the transcript shows that the Applicant was dealt with professionally without any indication of a reproachable approach from the RPD. The RPD decision is thus reasonable and there is no need for this Court to intervene.
+[17]
+The parties were invited to submit questions for certification, but none were proposed.
+THIS COURT'S JUDGMENT is that:
+1. The application for judicial review is dismissed.
+2. There is no serious question of general importance to be certified.
+.........................
+[End of document]

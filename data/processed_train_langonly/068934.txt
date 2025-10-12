@@ -1,0 +1,103 @@
+[French language version follows English language version]
+Federal Court
+Nadia Maria Martinez Abarca, for the applicant;
+Thomas Cormie, for the respondent.
+Solicitors of Record:
+Nadia Maria Martinez Abarca, Avocate, Montreal (Quebec), for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Montreal (Quebec), for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+Introduction
+[1]
+[Translation]: The existence of an internal flight alternative (IFA) cannot be evaluated in the abstract; it must be determined in relation to the specific narrative as related by the refugee claimant to the decision-maker. While it is the claimant's obligation to provide actual, concrete evidence of the circumstances that would put his or her life in danger, the failure of the Refugee Protection Division of the Immigration and Refugee Board (Board) to consider the specific risks feared by a claimant in an IFA analysis is an error of law (
+The principal applicant, Oscar Mario Gamillo Vega, his spouse, Patricia Villa Rodriguez, and their minor son, Oscar Ivan Gamillo Villa, seek judicial review of a decision by the Board, dated August 9, 2012, rejecting their refugee claim filed under sections 96 and 97 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (IRPA), on the ground that the applicants' fear of persecution constituted a generalized risk faced by the Mexican population as a whole, and that, furthermore, the applicants had an IFA that was open to them in either the Campeche region or in Mexico City.
+Facts
+[3]
+The applicants are citizens of Mexico who formerly resided in the state of Chihuahua. The claims of the spouse and minor child are founded on the principal applicant's claim.
+[4]
+The principal applicant alleges that he is at risk and that he received death threats for refusing to pay an extortion demand of one thousand dollars to a group belonging to the La Linea cartel. The extortion demands and threats apparently began in September 2009. Tensions later increased to the point where the applicant's mother died in March 2010, due to the stress she was under in these circumstances, which had seriously affected her physical condition.
+[5]
+The principal applicant, who was living in the United States at the time, returned to Mexico for his mother's funeral. When he was in Chihuahua, La Linea tried to extort money from him, but he refused to pay.
+[6]
+The principal applicant phoned police twice to seek their assistance, but no action was taken to follow up on his denunciation. The principal applicant did not, however, file a complaint out of that his life would be in danger if members of La Linea were to find out that he had gone to the police.
+[7]
+The applicants returned to the United States on March 18, 2010. They claimed refugee protection in Canada in November 2010.
+Decision subject to this application for judicial review
+[8]
+The Board began by noting that the principal applicant's testimony was credible, that he clearly described the situation he had faced, and that, for the most part his narrative was entirely credible.
+[9]
+However, the Board indicated that, objectively, the situation faced by the applicants is the same one that is faced by most people in Mexico generally, and in particular those from the applicants' region, where organized criminal gangs are more numerous and more entrenched. The Board determined that the risk to which the principal applicant was subjected was not sufficiently personalized to fall within subsection 97(1) of the IRPA.
+[10]
+Furthermore, the Board briefly mentioned that the applicants had an IFA that was open to them if they moved from Chihuahua to the state of Campeche, which is located on the Yucatan peninsula, and with which La Linea was unfamiliar, according to the documentary evidence. The Board, however, did no analysis of the proposed IFA under the circumstances, nor did it provide any reference to the documentary evidence in question.
+[11]
+As for the alleged fear of persecution under section 96 of the IRPA, the Board did not specify whether there was a nexus to a Convention ground.
+Issues and applicable standard of review
+[12]
+The applicants presented no arguments to dispute the Board's finding with respect to the generalized risk of extortion by criminal gangs in Mexico. Rather, they raised the following two issues in their application for judicial review.
+(1) Is the impugned decision unreasonable with respect to the IFA assessment?
+(2) Is the impugned decision tainted by a breach of procedural fairness, the Board having failed to give adequate reasons for its decision?
+[13]
+It is not disputed that the issue concerning the Board's determination regarding the viability of the proposed IFA is a question of mixed fact and law to be determined on a reasonableness standard (
+<FRAGMENT_SUPPRESSED> ). The same standard applies to the interpretation of the exclusion of generalized risks of violence in paragraph 97(1)(
+) of the IRPA (
+It goes without saying that reasonableness is concerned with "the existence of justification, transparency and intelligibility in the decision-making process" and with "whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" (see
+In addition, the Court agrees with the respondent that, according to
+Newfoundland and  <FRAGMENT_SUPPRESSED> , any challenge to the reasoning/result of the decision should therefore be made within the reasonableness analysis; a separate analysis of the adequacy of the reasons is not required. Accordingly, "reasons must be proper, adequate and intelligible and include considerations of the parties' substantial points of argument" (
+<FRAGMENT_SUPPRESSED> ). In this sense, a reviewing court must look "into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes" (
+Newfoundland and Labrador Nurses' Union
+It should be recalled at the outset that according to well-established case law, the fact of having been a victim of extortion does not meet the criterion set out in
+In this case, the Board acknowledged that the applicants were victims of an organized criminal gang and that they lived in a region where criminal gangs are more active, but without determining whether, with regard to all of the evidence, the applicants were targeted for their membership in a particular social group. It is not, however, for the Court to rule on the issue and, in any event, the applicant's arguments are limited to the Board's analysis under subsection 97(1) of the IRPA, even though the Board rejected the claim under the two provisions.
+1)
+Is the impugned decision unreasonable with respect to the IFA assessment
+?
+[18]
+When an IFA is raised, a two-pronged test must be applied: the burden is on the applicant to prove, on a balance of probabilities, that there is a serious possibility of persecution in the proposed IFA, and that in all the circumstances, it would be objectively unreasonable for the applicant to seek refuge there (
+<FRAGMENT_SUPPRESSED> ). Applicants are required to demonstrate this by providing actual and concrete evidence of conditions jeopardizing their life and safety (
+<FRAGMENT_SUPPRESSED>  case, this analysis is entirely absent from the impugned decision. The Board merely designated two cities, namely, Campeche and Mexico City, as IFAs, without proceeding with the rest of the analysis. The case law holds that the Board's failure to consider the specific risks faced by a claimant in an IFA analysis constitutes an error in law ( <FRAGMENT_SUPPRESSED> , above, at paragraph 17 and <FRAGMENT_SUPPRESSED> , above, at paragraphs 2-4).
+[20]
+In this case, it is worth repeating the comments of Justice James O'Reilly in <FRAGMENT_SUPPRESSED> , above, regarding the need to justify the proposed IFA in light of the claimant's personal circumstances:
+[14] As noted, the Board made no findings about Ms. Orozco's experiences in Colombia.
+It appears to have accepted all of her evidence
+relating to her fear of FARC.
+The Board's decision is confined to an analysis of country condition documents
+from which it concluded that she could live safely in Bogota.
+[15] The concept of an IFA is an inherent part of the Convention refugee definition because a claimant must be a refugee from a country, not from a particular region of a country (
+<FRAGMENT_SUPPRESSED> , at para 6). Once an IFA has been proposed by the Board, it must consider the viability of the IFA according to the disjunctive two part test set out in <FRAGMENT_SUPPRESSED> . The claimant bears the onus and must demonstrate that the IFA does not exist or is unreasonable in the circumstances. That is, the claimant must persuade the Board on a balance of probabilities either that there is a serious possibility that he or she will be persecuted in the location proposed by the Board as an IFA, or that it would be unreasonable to seek refuge in the proposed IFA given his or her particular circumstances.
+[16] There may, however, be an overlap between the Board's consideration of an IFA and its analysis of state protection.
+The first branch of the IFA test is met where there is no serious possibility of persecution in the particular location. That finding may flow either from a low risk of persecution there or the presence of state resources to protect the claimant, or a combination of both
+. But, in either case, the analysis can only be carried out properly after the particular risk facing the claimant has been identified.
+the Board's failure to consider the specific risks feared by a claimant in an IFA analysis will constitute an error of law
+(
+<FRAGMENT_SUPPRESSED> ). It is an error, therefore, for the Board to make a blanket finding that an IFA is available to a refugee claimant, without reference to the type of persecution feared by the claimant or that person's particular circumstances. Again, the first question the Board must answer when a proposed IFA is in issue is whether, on a balance of probabilities, there is a serious possibility that the claimant will be persecuted in the location proposed by the Board. Generally speaking, that question cannot be answered if the nature of the person's fear has not been specifically identified.
+[18]
+Similarly, in the context of a state protection analysis, it is an error of law for the Board to conclude that state protection is available if it fails to make any findings about the applicant's personal circumstances
+(
+<FRAGMENT_SUPPRESSED> ). In <FRAGMENT_SUPPRESSED> , the Board found that the applicant, a native of Bogota, would not be targeted by FARC in that city, contrary to his testimony. That conclusion necessarily implied that the Board did not accept the applicant's account of events, yet it made no explicit adverse credibility findings. Therein lays one of the dangers in assessing state protection or IFA without analyzing the applicant's particular allegations - adverse credibility findings may creep into the analysis without explanation.
+[19] Here, having raised IFA as the determinative issue, the Board was required to determine whether, on a balance of probabilities, there was a serious possibility that Ms. Orozco would be persecuted in Bogota. The Board was further required to consider whether relocation to Bogota was unreasonable given Ms. Orozco's particular circumstances.
+[20] I find that the Board's failure to identify the particular risk Ms. Orozco claimed to fear resulted in a faulty IFA analysis ... [Emphasis added.]
+[21]
+The principles set out in <FRAGMENT_SUPPRESSED> , above, are entirely applicable in this case. The Board could not confine itself to simply stating that, according to (non-cited) documentary evidence, La Linea [translation] "does not have much of a presence" in the proposed cities. It should have inquired as to whether there was a serious risk that the applicant, and not any random person who happened to be a victim of extortion in Chihuahua, would once again be persecuted in the locations proposed by the Board.
+[22]
+The respondent refers the Court to evidence in the Package to argue that the activities of La Linea are confined to northern Mexico and to the Federal District. It is not the role of the Court to reweigh documentary evidence in order to determine whether the applicants risk persecution in this or that part of Mexico. It is sufficient to say that the three pages of the Board's reasons do not contain an adequate IFA analysis, they simply enumerate the reasons for rejecting the applicant's claims with regard to the serious possibility of being persecuted in the proposed IFA, as explained in <FRAGMENT_SUPPRESSED> , above.
+[23]
+The Court concurs with the respondent that the existence of a generalized risk is, in principle, insufficient to conclude that paragraph 97(1)(
+) of the IRPA does not apply, and justifies the rejection of the claim (
+However, although the applicants did not specifically challenge the Board's finding regarding the generalized nature of their risk, the Court noted that the Board did not conduct an analysis of the applicants' particular circumstances (especially the fact that the principal applicant's mother died while under constant threat from members of La Linea and that the applicant was subject to more of these threats upon his return to Mexico), to determine whether the risk to the applicants was sufficiently personalized, beyond the risk faced by the population as a whole.
+[25]
+The case law is consistent on the fact that the risk faced by a claimant resulting from criminal activity cannot rule out the possibility that the protection provided for in section 97 could be granted, and that a personalized assessment must be conducted in each case (
+<FRAGMENT_SUPPRESSED>  FTR 290 at paragraphs 26-36). In the words of Justice Donald Rennie in <FRAGMENT_SUPPRESSED> :
+... If any risk created by 'criminal activity' is always considered a general risk, it is hard to fathom a scenario in which the requirements of section 97 would ever be met. Instead of focusing on whether the risk is created by criminal activity, the Board must direct its attention to the question before it: whether the claimant would face a personal risk to his or her life or a risk of cruel and unusual treatment or punishment, and whether that risk is one not faced generally by other individuals in or from the country ...
+Conclusion
+[26]
+Accordingly, there is no need to address the second issue with respect to the adequacy of the reasons of the decision. The flawed IFA analysis and the failure to address the specific risk the applicants' would face if they were to return to Mexico are sufficient for the Court to set aside the impugned decision and refer the matter back to the Board for redetermination by a different member of the Refugee Protection Division.
+THE COURT ORDERS AND ADJUDGES that
+the application for judicial review be allowed and that the matter be referred back for redetermination by a different member of the Refugee Protection Division. There is no question of general importance to be certified.
+.........................
+Introduction
+[1]
+Newfoundland and Labrador Nurses' Union
+Conclusion
+[26]
+[End of document]

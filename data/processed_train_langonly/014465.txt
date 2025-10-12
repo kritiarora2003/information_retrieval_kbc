@@ -1,0 +1,61 @@
+<FRAGMENT_SUPPRESSED>  CF 69)
+Federal Court
+January 24, 2013.
+Simon Gruda-Dolbec, for the applicant;
+Suzanne Trudel, for the respondent.
+Solicitors of Record:
+Grey Casgrain, s.e.n.c., Montreal, Quebec, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+: This is an application for the judicial review of a decision of a visa officer [officer] of Citizenship and Immigration Canada [CIC], dated March 11, 2012, which refused the applicant's permanent resident visa application [application] under the Federal Skilled Worker [FSW] class.
+[2]
+The applicant, Mr. Tamer Mohamed Shawky Ahmad El Sherbiny, is a citizen of Egypt. He submitted his application on November 23, 2009 under the FSW category as a Specialist Physician (NOC code 3111). The application was assessed by the officer in accordance with the selection criteria and point system stipulated in the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [Regulations].
+[3]
+In particular, under the "Adaptability" criteria, the applicant was not awarded the 5 possible points for a family relationship in Canada, even though the applicant had listed Mr. Ahmed Mohamed Shawky Ahmed Ibrahim El Sherbiny [putative brother] as his brother and a permanent resident living in Canada.
+[4]
+According to the Computer Assisted Immigration Processing System [CAIPS] notes, on March 8, 2012, the officer noted the following:
+• The passport pages, whilst being issued two years [
+], appear to have been issued by the same person; as indicated by the penmanship.
+• PI has a birth certificate on file and there seems to be no reason to assume that his brother does not have one, [or in other words, as reformulated by the Court: "Applicant provided a birth certificate, but did not provide his brother's birth certificate."]
+• I am not satisfied that this represent [
+] evidence of an eligible family relationship.
+[5]
+It turns out that the officer awarded the applicant a total of 63 points. The minimum number of points required by the Minister for the application to succeed is 67. As a result, the application was refused by the officer. Had the officer recognized the applicant's alleged family relationship to the putative brother living in Canada, the applicant would have likely obtained the 5 extra points he needed for his application to succeed.
+[6]
+On one hand, an applicant bears the onus of providing adequate and sufficient evidence in support of his application, which means that the immigration officer is under no obligation to request further clarification from an applicant if he or she finds there is not enough evidence initially submitted. On the other hand, where there is a question related to the credibility, accuracy, or genuineness of the information an applicant has submitted, then the officer must give the applicant the opportunity to respond to the officer's concerns, but the credibility issue must be determinative.
+[7]
+Considering that the applicable standard of fairness is relatively low in the case of a visa application, I am not satisfied, on a balance of probabilities, that there has been a breach to procedural fairness. Moreover, the decision taken by the officer is not unreasonable in the circumstances.
+[8]
+The parties disagree on the interpretation to be given to the reasons found in the CAIPS notes. When read as a whole, I find that the officer's decision of whether or not to award the 5 points in question was based, on a balance of probabilities, as to whether or not the applicant was related to the putative brother, living in Canada as a permanent resident. In particular, I do not find that the doubts expressed in the CAIPS notes, if any, with respect to the authenticity of the applicant and the putative brother's passports is wholly determinative of the matter. Otherwise, the officer would not have also spoken of the failure to provide the brother's birth certificate. In my humble opinion, the officer simply concluded that the applicant did not supply sufficient documentation to establish that an eligible family relationship exists.
+[9]
+In this instance, on December 2, 2009, CIC's Centralized Intake Office sent the applicant a notice via email with information explaining how to submit a completed application in addition to instructions pertaining to supporting documents to be included with the application. I agree with the respondent that the applicant was informed, at this point, of the importance of submitting full actual documentation and was notified that his final eligibility would be determined based on the documentation filed. The same email pointed the applicant towards the website providing forms specific to the particular visa office as well as a list of all supporting documents the visa office required (www.cic.fc.ca/english/information/applications/skilled-mission.asp).
+[10]
+In the case at bar, I find that the officer has acted in accordance with the usual and standard procedure in these types of cases. I do not accept any suggestion made by applicant's counsel at the hearing that the officer should have conducted an interview. The procedure referred to in the OP 6A manual in force at the time is only a suggested guideline and the exercise of the officer's discretion depends on a number of factors. Each situation must be considered on its own. In this particular case, considering that the best proof of relationship would be the filing of the birth certificate of the putative brother instead of his passport, there was no legitimate expectation that an interview was required.
+[11]
+In particular, the respondent has drawn the Court's attention to the document checklist available to the applicant and his immigration consultant on the website at that time:
+Application for Permanent Residence - Skilled Workers- Visa Office Specific Instructions - Cairo
+- IMM7011 E (10-2009). Section 5 of this checklist outlines the documents necessary for "Proof of Relationship in Canada". It reads as follows:
+5. PROOF OF RELATIONSHIP IN CANADA (IF APPLICABLE)
+• Proof of relationship to your close relative in Canada, such as birth, marriage or adoption certificates.
+• If your close relative is a permanent resident of Canada: photocopy of his or her Record of landing (IMM 1000), Confirmation of Permanent Residence or Permanent resident Card.
+• If your close relative is a Canadian citizen: proof of Canadian citizenship, such as a photocopy of pages of a Canadian passport or Canadian citizenship card.
+[12]
+In the case at bar, documents included by the applicant in his application as proof of relationship to the close relative in Canada were simply copies of his passport and the putative brother's passport as well as the putative brother's permanent resident card. The names on the passports only show that the applicant and the putative brother apparently share the same family name (El Sherbiny) and that the father apparently has the same first name as them (Mohamed Shawky Ahmed), although the elements of the name are not necessarily in the same order. Further corroboration and proof would be warranted in this case. Unfortunately, the applicant did not provide a copy of the putative brother's birth certificate.
+[13]
+It was entirely within the officer's discretion to find the evidence submitted by the applicant inconclusive. According to the applicant, it is a widely known custom for Arabic individuals to carry their father's name within their own name. Be that as it may, there is no evidence on record that such custom was brought to the attention of the officer, and I cannot assume that the officer was cognizant of same. Moreover, while both the applicant and respondent agree that there is no legal requirement to submit a birth certificate, it is clear from the instructions that this was the quality and type of proof that CIC expected. The evaluation of the evidence rests with the officer. Courts should not be ready to interfere unless it is shown that the officer has acted arbitrarily in discarding relevant evidence or giving it very low weight.
+[14]
+As the applicant contends, assessing penmanship was clearly out the officer's specialized area of expertise, but I must agree with the respondent that the officer did not dismiss the application on the grounds that the two passports were unauthentic. Such a finding was never explicitly made by the officer, although the officer may have entertained some doubts. If the officer had concluded that the two passports were in fact not authentic, this would have been clearly indicated in the CAIPS notes. Accordingly, there would have been no reason for the officer to even process the application in the first place and to award points to the applicant.
+[15]
+Moreover, in final analysis, it cannot be concluded from the CAIPS notes that the officer rejected the application exclusively due to concerns relating to the authenticity of the passports submitted. Certainly, the applicant's omission to file a copy of the putative brother's birth certificate, a very important document to establish a family relationship, was a determinative factor. Thus, the exercise of the officer's discretion is not unreasonable in the circumstances, although this result may be unfortunate for the applicant who will have to submit a new application.
+[16]
+For these reasons, the application shall be dismissed. No serious questions of general importance were raised by the parties and none shall be certified by the Court.
+THIS COURT'S JUDGMENT is that
+the application is dismissed. No question is certified.
+.........................
+5. PREUVE DE LIENS DE PARENTÉ AU CANADA (S'IL Y A LIEU)
+LA COUR REJETTE
+[End of document]

@@ -1,0 +1,136 @@
+Federal Court
+February 1, 2012.
+Konstantinos Voggas, for the applicant;
+Gilles Robert, for the respondent.
+Solicitors of Record:
+Sweibel Novek s.e.n.c.r.l., Montreal, Quebec, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. FE.016.
+[1]
+Waiver of penalty or interest
+(3.1) The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer (or in the case of a partnership, a fiscal period of the partnership) or on application by the taxpayer or partnership on or before that day, waive or cancel all or any portion of any penalty or interest otherwise payable under this Act by the taxpayer or partnership in respect of that taxation year or fiscal period, and notwithstanding subsections 152(4) to (5), any assessment of the interest and penalties payable by the taxpayer or partnership shall be made that is necessary to take into account the cancellation of the penalty or interest.
+[14]
+Judicial Review of Administrative Action in Canada
+Stemijon Investments Ltd.
+Stemijon Investments Ltd.
+<FRAGMENT_SUPPRESSED>  filed by the applicant under section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7, of a decision by the Canada Revenue Agency (CRA) denying the request for relief from penalties and interest that it filed under subsection 220(3.1) of the
+Income Tax Act
+, RSC, 1985, c 1 (5th Supp) (ITA).
+Background and impugned decision
+[2]
+The applicant and Société Buffet Lazio (1985) Inc. (Buffet Lazio) are related companies of which Angelo Colastosti was the sole shareholder. The applicant owned a commercial immovable in the city of Laval that it rented to Buffet Lazio, where it operated a banquet hall business. The two companies signed a lease in 1988.
+[3]
+The immovable required major work and the companies agreed that Buffet Lazio would pay the cost of repairs and that the payment of rent would be suspended during that period; it was agreed that the companies would offset the amounts due for the work and the rent upon completion of the work.
+[4]
+In 1996, the applicant and Buffet Lazio did their accounting and decided that the amount for the work and the amount owed for rent were equal and, on their accountant's recommendation, they both erased their respective receivables and debts. The applicant submitted that its accountant had informed it that such a transaction could be done without any tax effects since the two companies were related. Financial statements for the year 1996, reflecting these transactions, were prepared for each company.
+[5]
+On August 17, 1998, the applicant's accountant sent Revenu Québec a letter including the corrected T2S(8) forms regarding the undepreciated capital costs for the years 1996 and 1997. Revenu Québec then asked the applicant's accountant, first in a telephone conversation and second in a letter dated September 2, 1998, to correct form T2S(8) or C175S. The accountant sent a letter to Revenu Québec explaining the offset between the applicant and Buffet Lazio for the work and rent amounts owing, but he failed to send a corrected T2S(8) form.
+[6]
+On April 8, 1999, because the requested form had not been received, the deputy minister of Revenu du Québec assessed the applicant, adding $616,960 to its income for the taxation year ending March 31, 1996 as gains from the settlement of a debt. On July 2, 1999, the applicant filed a notice of objection against this assessment on the grounds that it had offset this amount with Buffet Lazio.
+[7]
+On October 1, 1999, the CRA also added the amount of $616,960 to the applicant's income for the year 1996 and issued notices of assessment for the taxation year ending on March 31, 1996, and that ending on March 31, 1997. [see footnote 1] The applicant challenged these notices of assessment by filing a notice of objection on October 18, 1999.
+[8]
+On June 14, 2000, Revenu Québec dismissed the applicant's objection. On July 28, 2000, the applicant filed a motion to appeal this decision before the Court of Québec.
+[9]
+In the meantime, the applicant and the CRA agreed to suspend the matter at the federal level while they waited for the applicant's appeals from the assessment by Revenu Québec to be exhausted and to apply at the federal level the outcome of the provincial level objections.
+[10]
+The appeal hearing before the Court of Québec took place on December 13 and 14, 2006. The applicant submitted that it was during this hearing that it learned that in 1998 Revenu Québec had asked its accountant to send a corrected T2S(8) form and that he had failed to send it. It submitted that it was at this time that it also learned about the tax effects of this error. The applicant submitted that its accountant made two errors: he did not inform it of the content of the letter sent by Revenu Québec and did not make the requested correction. The applicant submitted that if its accountant had sent the corrected form, Revenu Québec and the CRA would not have issued the notices of assessment. The applicant also criticized Revenu Québec for not having informed it of its requirements and for communicating only with its accountant.
+[11]
+The Court of Québec dismissed the applicant's appeal on October 23, 2008. It found that the transaction between the applicant and Buffet Lazio was not an offset but a debt write-off that should be included in the calculation of income. The Court of Appeal upheld this judgment on October 23, 2008, and found that the applicant did not discharge its burden of proving that it had offset the amount with Buffet Lazio.
+[12]
+On February 15, 2010, the applicant submitted a request for relief to the CRA to cancel the interest and penalties related to the amounts assessed on October 1, 1999.
+[13]
+Subsection 220(3.1) of the ITA grants the Minister the authority to relieve the tax burden of a taxpayer by waiving the penalties and interest owing:
+Waiver of penalty or interest
+(3.1) The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer (or in the case of a partnership, a fiscal period of the partnership) or on application by the taxpayer or partnership on or before that day, waive or cancel all or any portion of any penalty or interest otherwise payable under this Act by the taxpayer or partnership in respect of that taxation year or fiscal period, and notwithstanding subsections 152(4) to (5), any assessment of the interest and penalties payable by the taxpayer or partnership shall be made that is necessary to take into account the cancellation of the penalty or interest.
+Furthermore, the CRA adopted Information Circular IC07-1 (Information Circular) regarding requests for relief.The Information Circular sets out the circumstances where relief from penalties and interest may be warranted, in particular when the interest or penalties in question result from extraordinary circumstances beyond the taxpayer's control, actions of the CRA or when the taxpayer is unable to pay or is experiencing financial hardship (paragraphs 23 to 28). Section 35 of the Information Circular deals with third-party errors as follows:
+Third-Party Actions
+¶35. Taxpayers are generally considered to be responsible for errors made by third parties acting on their behalf for income tax matters. A third party who receives a fee and gives incorrect advice, or makes arithmetic or accounting errors, is usually regarded as being responsible to their client for any penalty and interest charges that the client has because of the party's action.
+However, there may be exceptional situations, where it may be appropriate to provide relief to taxpayers because of third-party errors or delays.
+[Emphasis added]
+[15]
+In support of its request for relief, the applicant relied on the following evidence: (1) that its accountant had told it that both companies could offset the amounts without tax effect because they were related companies; (2) that the failure to submit a corrected T2S(8) form was due to its accountant; (3) that its accountant never informed it of the request from Revenu Québec and that Revenu Québec dealt only with its accountant; (4) that if its accountant had not made an error, Revenu Québec and the CRA would not have issued the notices of assessment; (5) that it learned about the request from Revenu Québec and the error made by its accountant in December 2006 during the hearing before the Court of Quebec.
+[16]
+On May 11, 2010, Robert Croteau, Audit Division, CRA, denied the applicant's request for relief on the ground that it was time-barred.
+[17]
+The applicant requested a review of this decision. In support of its request, it argued, among other things, that the limitation period should not be used against it since the periods were not supposed to begin until the time when it learned the facts, i.e. in 2006.
+[18]
+The applicant's record was analyzed by Julie Duval, who recommended that the request be denied because it was time-barred and was without merit.
+[19]
+On October 7, 2010, John Lyssikatos, Assistant Director, Audit Division, Tax Services Office, Laval (Assistant Director), denied the applicant's request for review.
+The only issue relates to the reasonableness of the Assistant Director's decision.
+[21]
+The challenge was made against two aspects of the Assistant Director's decision: the denial of the request based on the limitation period and the denial of the request on its merits.
+[22]
+<FRAGMENT_SUPPRESSED>  DLR (4th) 385 ( <FRAGMENT_SUPPRESSED> ), the Federal Court of Appeal deemed that the 10-year period set out in subsection 220(3.1) of the ITA was to be interpreted as authorizing the Minister to cancel the penalties and interest accumulated during the entire taxation year ending within the 10 years prior to the taxpayer's request for relief, separate from the time when the tax debt began. The respondent admitted that in light of this recent decision, the Minister could not deny the applicant's request for relief based solely on the limitation period.
+[23]
+Thus, the only real argument relates to the denial of the request for relief on merit.
+Standard of review
+[24]
+Both parties submitted-and I share their view-that the decision of the Assistant Director should be reviewed on reasonableness (
+The applicant submits that, having based his decision mainly on the limitation period, the Assistant Director had not conducted an exhaustive analysis of its request for relief and the grounds it raised in support of its request. It submitted that, in his decision, the Assistant Director merely mentioned the general principle in the Information Circular that taxpayers are generally considered to be responsible for errors made by third parties acting on their behalf, without stating whether he analyzed the grounds it had relied on or, if such was the case, without explaining why these grounds could not be considered extraordinary circumstances.
+[26]
+The respondent submitted that it appeared from the Assistant Director's decision and Ms. Duval's recommendation on which the Assistant Director relied, that an analysis of the circumstances relied on by the applicant was conducted and that these circumstances did not warrant a request for relief.
+[27]
+The Assistant Director's decision reads as follows:
+[Translation]
+...
+We have read the observations related to the request and we have carefully considered the facts of your case in light of the applicable provisions. We may waive interest and/or penalties in accordance with the guidelines of Information Circular IC07-1 in the following circumstances:
+b. actions of the CRA
+c. inability to pay or financial hardship
+We have carefully considered the facts in your record. Unfortunately, as noted in our response to your first request dated May 11, 2010, it is only possible to grant relief of interest or penalties for the taxation years ending 10 years before
+the calendar year during which the request or tax return was filed
+and not based on the year where the taxpayer becomes aware of the facts.
+In these circumstances, we cannot accommodate your request to cancel the penalties and interest for the returns of 1996 and 1997 since the period of 10 years during which the Minister may exercise his discretion has expired. It was not possible to review this period or its starting point despite the circumstances you related.
+Furthermore, it is important to point out that taxpayers are generally considered to be responsible for errors made by third parties acting on their behalf in their tax matters. Third parties who provide incorrect advice or who make errors are generally considered to be responsible to their client. Therefore, these situations are not considered extraordinary circumstances allowing us to grant your request under relief provisions.
+...
+[The underlined passages are from the original]
+[28]
+I find that this decision is unreasonable for the following reasons.
+[29]
+First, the decision is rather terse and it is not easy to determine whether the Assistant Director truly analyzed the merit of the applicant's request for relief. It is true that, after indicating that the period during which the Minister may exercise his discretion had expired, the Assistant Director added a paragraph in which he stated the principle that generally applies to requests for relief based on errors by third parties, citing part of paragraph 35 of the Information Circular. He then stated that the circumstances-third parties who provide inaccurate advice or who make errors-are not extraordinary circumstances allowing them to grant the request for relief. However, it is not possible to know whether the Assistant Director determined that the third-party error could never be used as a ground for a request for relief or if he instead reviewed the specific circumstances in which the applicant raised its accountant's error and deemed that they were not extraordinary circumstances warranting relief.
+[30]
+Subsection 220(3.1) of the ITA gives the Minister discretion. Although the Minister's delegate may rely on principles set out in an information circular or in guidelines, such policy statements cannot and should not limit the Minister's discretion. In this case, the Assistant Director's decision said nothing about subsection 220(3.1) of the ITA and simply stated the three circumstances provided in the Information Circular. Thus, he seems to have limited his review to the circumstances provided in the Information Circular. However, even paragraph 35 of the Information Circular states that the Minister has residual discretion to grant relief when the request is based on a third party's error in "extraordinary situations".In this case, the applicant not only relied on a third party's error; it relied on an entire set of circumstances that would explain and warrant its request for relief and the Assistant Director did not address these circumstances in his decision. Therefore, in the decision, nothing was indicated that allowed us to see whether the Assistant Director reviewed the circumstances relied on by the applicant in support of its request. If, however, this analysis was done, I find that the Assistant Director's decision did not provide sufficient reasons to understand its basis; we know absolutely nothing about why he found that the circumstances relied on were not extraordinary.
+[31]
+The respondent asked me to review Ms. Duval's recommendation report that the Assistant Director apparently relied on, which is more detailed than the Assistant Director's decision. I recognize that it is sometimes useful to review the record to understand the reasons and assess the reasonableness of the decision (
+, above, at para 37). The Supreme Court recently held in
+Newfoundland and  <FRAGMENT_SUPPRESSED>  (available on CanLII), that the reasons for a decision must be analyzed together with the outcome and that it was possible to review the record to assess the qualities that make a decision reasonable. Justice Abella stated the following:
+14 Read as a whole, I do not see
+as standing for the proposition that the "adequacy" of reasons is a stand-alone basis for quashing a decision, or as advocating that a reviewing court undertake two discrete analyses - one for the reasons and a separate one for the result (Donald J. M. Brown and John M. Evans,
+Judicial Review of Administrative Action in
+Canada (loose-leaf), at § 12:5330 and 12:5510). It is a more organic exercise - the reasons must be read together with the outcome and serve the purpose of showing whether the result falls within a range of possible outcomes. This, it seems to me, is what the Court was saying in
+when it told reviewing courts to look at "the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes" (para 47).
+15 In assessing whether the decision is reasonable in light of the outcome and the reasons, courts must show "respect for the decision-making process of adjudicative bodies with regard to both the facts and the law" (
+, at para 48). This means that courts should not substitute their own reasons, but they may, if they find it necessary, look to the record for the purpose of assessing the reasonableness of the outcome.
+[32]
+Therefore, I will review Ms. Duval's recommendation report, which is part of the record, to see whether it helps shed more light on the assessment of the merit of the applicant's request for relief.
+[33]
+The relevant portions of her report read as follows:
+[Translation]
+The taxpayer relies on an error or negligence by its accountant in filling out a form at the request of Revenu Québec. However, the actions of a third party, such as an accountant acting on behalf of the taxpayer, cannot be relied on as an extraordinary situation under the relief provisions as written in circular IC07-1 at para 35.
+The taxpayer also argues that the 10-year period enabling the Minister to exercise his discretion should not be considered to be expired as noted in our response to the first request for relief. It alleges that the limitation period should run from 2006 when it became aware of the facts and not from the calendar year during which the return was filed, i.e. 1996 and 1997. Paras 13 and 14 of circular IC07-1 are very clear that the limitation period is of 10 years from the calendar year when the return, for which the request for relief was made, was filed. In this case, it is not possible to request a cancellation of penalties and interest under the relief provisions. Neither is it in our power to review the starting point for the 10-year limitation period.
+In conclusion, the taxpayer's request was dismissed on appeal to Revenue Québec and by the Court of Quebec. In our view, the request appeared to have no merit at any level that the taxpayer brought its appeal to.
+[34]
+In terms of the recommendation, Ms. Duval stated that the 10-year period had expired for the taxation years in question (1996-1997). She also reported that the reason given by the applicant-an error made by its accountant that it was not aware of-was not valid. She added: [Translation] "Further, paragraph 35 of Information Circular IC07-1 clearly states that third-party actions, such as those of an accountant acting on behalf of the taxpayer are not covered by the relief provisions". She then recommended that the request for relief be denied because it was not consistent with the circular's guidelines and that no extraordinary circumstances warranted the use of the Minster's discretion.
+[35]
+In my opinion, it appears from Ms. Duval's report that she had indeed reviewed the merits of the applicant's request for relief and that she did not raise only the limitation period argument. Her recommendation nevertheless suggests that she felt that the actions of a third party, in this case the applicant's accountant, simply could not be relied on as an extraordinary circumstance, regardless of the circumstances surrounding this action. I understand from her report that she objected to a
+on the grounds raised by the applicant-its accountant's error-without it being necessary to review the circumstances surrounding this error. Therefore, she seems to not have reviewed whether the circumstances relied on by the applicant could have been extraordinary circumstances warranting a request for relief.
+[36]
+The respondent argued that Ms. Duval's report indicated that she analyzed the entire record and that she properly relied on the findings of Court of Quebec and Court of Appeal judgments determining no error by the accountant. With respect, in my view, this is reading much more into the report than it is actually saying. Ms. Duval stated that [Translation] "the taxpayer's request was dismissed on appeal ..." and that it appeared to her that [Translation] "request appeared to have no merit at any level that the taxpayer brought its appeal to." First, it is impossible for me to understand the inferences that Ms. Duval drew from the outcome of the applicant's appeals. The applicant's appeal related to the objection it made regarding the notices of assessment. Thus, it was the appropriateness of the notices of assessment that was at issue, not a request for relief. The "request" that Ms. Duval referred to was therefore completely different from a request for relief. Second, I do not understand the link that she made between the fact that the applicant's [Translation] "request appeared to have no merit at any level" and the request for relief. Had the applicant been successful in its appeal, a request for relief would have been futile because the notices of assessment would have been cancelled. This is exactly why the request for relief was made, because the appeal was dismissed and the assessments upheld. Third, I do not see any reference in Ms. Duval's report to the findings made by the Court of Quebec as to the alleged error made by the applicant's accountant.
+[37]
+I therefore find that the recommendation report does not add anything new to the matter and, as previous indicated, I find that the Assistant Director's decision was unreasonable because it is impossible to know the extent of his review of the circumstances relied on by the applicant.
+[38]
+The respondent requested that, if I found the Assistant Director's decision unreasonable, the matter not be referred back for reconsideration of the request for relief and that I use my discretion to deny the request for relief because the grounds relied on by the applicant were not valid. He based his request on
+, above, at paras 44-46. The applicant asked me to refer the matter with instructions.
+[39]
+I do not intend to grant either request. I feel that it is not for this Court to assess whether the circumstances raised in support of the applicant's request for relief warrant granting relief and, contrary to the circumstances that existed  <FRAGMENT_SUPPRESSED>  Investments Ltd
+, I am not prepared to make a finding that the circumstances and grounds relied on by the applicant were not valid and that it would be futile to refer the matter to the Minister for reconsideration. I also do not see the use in issuing instructions.
+[40]
+The matter will therefore be returned to the Minister for reconsideration of the applicant's request for relief.
+THIS COURT ORDERS AND ADJUDGES that
+the application for judicial review is allowed and the matter is referred back to the CRA for reconsideration of the applicant's request for relief, with costs.
+1. On March 8, 2011, the amount owing by the Applicant for the taxation year ending on March 31, 1996, was $192,684.12 plus $63,799.24 in interest for a total of $256,483.36; the amount owing for the taxation year ending on March 31, 1997, was $3,683.17 plus $1,057.51 in interest for a total of $4,740.68.
+[End of document]
