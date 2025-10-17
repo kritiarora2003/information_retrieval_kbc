@@ -56,7 +56,7 @@ def get_pairs(files):
     train_df = pd.DataFrame([{'query': query, 'target': target, 'tuple': (query, target), 'set': 'train'} for query, target in train_tuples])
 
     # Test:
-    json_test_labels_path = './data/task1_test_no_labels_2024.json'
+    json_test_labels_path = './data/task1_test_no_labels_2025.json'
     with open(json_test_labels_path, 'r') as f:
         test_queries = [t.rstrip('.txt') for t in json.load(f)]
     test_targets = []
