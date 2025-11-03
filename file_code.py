@@ -13,6 +13,14 @@ from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForSeq2SeqLM, AutoModel
 from torch.utils.data import DataLoader, Dataset
 from nltk.stem import PorterStemmer
+from concurrent.futures import ProcessPoolExecutor
+from concurrent.futures import ProcessPoolExecutor
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
+from tqdm import tqdm
+import pandas as pd
+import logging
+import spacy
+import os
 
 warnings.filterwarnings('ignore', category=UserWarning, module='tqdm')
 pd.options.mode.chained_assignment = None
@@ -45,10 +53,10 @@ def get_files():
 
     logging.info('Reading raw data from text files. Generating files dataframe.')
 
-    json_train_labels_path = './data/task1_train_labels_2024.json'
-    json_test_labels_path = './data/task1_test_no_labels_2024.json'
-    train_files_path = './data/task1_train_files_2024/'
-    test_files_path = './data/task1_test_files_2024/'
+    json_train_labels_path = './data/task1_train_labels_2025.json'
+    json_test_labels_path = './data/task1_test_no_labels_2025.json'
+    train_files_path = './data/processed_train_langonly'
+    test_files_path = './data/processed_test_langonly'
 
     # Get train & dev file lists:
     with open(json_train_labels_path, 'r') as f:
@@ -63,7 +71,7 @@ def get_files():
 
     for file in tqdm(os.listdir(train_files_path),desc="Read-in train files"):
         filename = file.rstrip('.txt')
-        if any(filename in filelist for filelist in [train_queries, train_targets]):
+        if filename in train_queries or filename in train_targets:
             file_path = os.path.join(train_files_path, file)
             with open(file_path, 'r', encoding='utf-8') as f:
                 text = f.read()
@@ -415,27 +423,27 @@ def get_english_propositions(files):
 
 
 # Method to add sentences to df, from the English paragraphs
-def add_sentences(files):
 
-    logging.info('Using spacy to extract sentences of char length > 25 from paragraphs:')
 
-    # In: List of paragraphs
-    # Return: List of sentences with char length > 25 (to exclude any single word / very common sentences)
-    def get_sentences(paragraphs):
+from concurrent.futures import ProcessPoolExecutor
 
-        text = ' '.join(paragraphs)
-        sentences = []
-        text = clean_text(text)
-        doc = nlp(text)
-        for s in [sent.text for sent in doc.sents]:
-            if len(s) > 25:
-                sentences.append(s)
-        return sentences
+def get_sentences(paragraphs):
+    text = ' '.join(paragraphs)
+    text = clean_text(text)
+    doc = nlp(text)
+    return [s.text for s in doc.sents if len(s.text) > 25]
 
-    tqdm.pandas(desc="Extracting sentences from paragraphs")
-    files['sentences'] = files['paragraphs'].progress_apply(get_sentences)
-
+def add_sentences(files, num_workers=4):
+    logging.info('Using spacy to extract sentences of char length > 25 from paragraphs (parallelized)')
+    
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        results = list(tqdm(executor.map(get_sentences, files['paragraphs']), total=len(files)))
+    
+    files['sentences'] = results
     logging.info('Added lists of sentences to "sentences".')
+    return files
+
+
 
 
 # Method to filter out non-English sentences
@@ -500,33 +508,60 @@ def add_quotes(files):
 
 
 # Method to get entities from English sentences:
-def add_entities(files):
+# def add_entities(files):
 
-    logging.info('Using spacy to extract noun entities, from English sentences:')
+#     logging.info('Using spacy to extract noun entities, from English sentences:')
 
-    # Helper function to tokenize, lower and remove stop words (for better matching of entities):
-    # join used zero space '' to ensure entity is considered as a whole during tfidf
-    def process_tokens(text):
-        words = text.split()
-        return ''.join([word.lower() for word in words if word.isalpha() and word.lower() not in ENGLISH_STOP_WORDS])
+#     # Helper function to tokenize, lower and remove stop words (for better matching of entities):
+#     # join used zero space '' to ensure entity is considered as a whole during tfidf
+#     def process_tokens(text):
+#         words = text.split()
+#         return ''.join([word.lower() for word in words if word.isalpha() and word.lower() not in ENGLISH_STOP_WORDS])
 
-    def get_entities(sentences_en):
-        text = ' '.join(sentences_en)
-        entities = []
-        doc = nlp(text)
-        for ent in doc.ents:
-            if ent.label_ in ["EVENT", "GPE", "LAW", "LOC", "NORP", "ORG"]:
-                processed_tokens = process_tokens(ent.text)
-                entities.append(processed_tokens)
-        entity_string = ' '.join(entities)
-        entity_set = set(entities)
+#     def get_entities(sentences_en):
+#         text = ' '.join(sentences_en)
+#         entities = []
+#         doc = nlp(text)
+#         for ent in doc.ents:
+#             if ent.label_ in ["EVENT", "GPE", "LAW", "LOC", "NORP", "ORG"]:
+#                 processed_tokens = process_tokens(ent.text)
+#                 entities.append(processed_tokens)
+#         entity_string = ' '.join(entities)
+#         entity_set = set(entities)
 
-        return entity_string, entity_set
+#         return entity_string, entity_set
 
-    tqdm.pandas(desc="Extracting entities from english sentences")
-    files[['entity_string','entity_set']] = files['sentences_en'].progress_apply(lambda x: get_entities(x)).apply(pd.Series)
+#     tqdm.pandas(desc="Extracting entities from english sentences")
+#     files[['entity_string','entity_set']] = files['sentences_en'].progress_apply(lambda x: get_entities(x)).apply(pd.Series)
 
+#     logging.info('Added entity strings to "entity_string" and entities as sets to "entity_set".')
+
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"  # optional safety
+
+def process_tokens(text):
+    words = text.split()
+    return ''.join([w.lower() for w in words if w.isalpha() and w.lower() not in ENGLISH_STOP_WORDS])
+
+def get_entities(sentences_en):
+    nlp = spacy.load("en_core_web_sm")  # load inside worker to avoid tokenizer fork issues
+    text = ' '.join(sentences_en)
+    entities = []
+    doc = nlp(text)
+    for ent in doc.ents:
+        if ent.label_ in ["EVENT", "GPE", "LAW", "LOC", "NORP", "ORG"]:
+            entities.append(process_tokens(ent.text))
+    entity_string = ' '.join(entities)
+    entity_set = set(entities)
+    return entity_string, entity_set
+
+def add_entities(files, num_workers=4):
+    logging.info('Using spacy to extract noun entities from English sentences (parallelized).')
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        results = list(tqdm(executor.map(get_entities, files['sentences_en']), total=len(files)))
+    files[['entity_string', 'entity_set']] = pd.DataFrame(results, index=files.index)
     logging.info('Added entity strings to "entity_string" and entities as sets to "entity_set".')
+    return files
 
 
 
@@ -673,8 +708,8 @@ def get_embeddings(files):
         embeddings_list = [embedding for embedding in embeddings_np]
 
         return embeddings_list
+    model_name = 'sentence-transformers/all-MiniLM-L6-v2'
 
-    model_name = 'sentence-transformers/all-mpnet-base-v2'
 
     # Initialize tokenizer and model
     device = "cuda:0" if torch.cuda.is_available() else "cpu"

@@ -17,6 +17,9 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras import backend as K
 from tensorflow.keras.models import load_model
 from sklearn.metrics import precision_score, recall_score, f1_score
+from sklearn.ensemble import RandomForestClassifier
+import logging
+
 
 random.seed(42)
 np.random.seed(42)
@@ -83,52 +86,159 @@ def save_train_df(train_df):
     print("Saved pickle: ", filename)
 
 
-# Train neural net model
-def build_train_model(train_df):
+# # Train neural net model
+# def build_train_model(train_df):
 
+#     pd.options.mode.chained_assignment = None
+
+#     # Scale positive class samples to ~ 1/100 ratio:
+#     positive_class = train_df[train_df['match'] == 1]
+#     scale_factor = max(1,len(train_df) / len(positive_class) / 100)
+#     multiplied_positive_class = pd.concat([positive_class] * round(scale_factor), ignore_index=True)
+#     train_df = pd.concat([train_df, multiplied_positive_class]).reset_index(drop=True)
+
+#     # Step 2: Define and train the Neural Network model
+#     X_train = train_df[fields]
+#     y_train = train_df['match']
+
+#     model = Sequential([
+#         Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
+#         Dense(32, activation='relu'),
+#         Dense(16, activation='relu'),
+#         Dense(1, activation='sigmoid')
+#     ])
+
+#     @tf.keras.utils.register_keras_serializable()
+#     def f1_score(y_true, y_pred):
+#         y_true = K.cast(y_true, 'float32')  # Cast y_true to float32
+#         y_pred = K.round(y_pred)  # Round y_pred to 0 or 1
+
+#         true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+#         predicted_positives = K.sum(K.round(K.clip(y_pred, 0, 1)))
+#         possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
+
+#         precision = true_positives / (predicted_positives + K.epsilon())
+#         recall = true_positives / (possible_positives + K.epsilon())
+
+#         return 2 * (precision * recall) / (precision + recall + K.epsilon())
+
+#     model.compile(optimizer='adam',
+#                 loss='binary_crossentropy',
+#                 metrics=['accuracy',f1_score])
+
+#     X_train = X_train.to_numpy().astype('float32')
+#     y_train = pd.to_numeric(y_train, errors='coerce').fillna(0).astype('float32').to_numpy()
+
+#     # Fit the model
+#     model.fit(X_train, y_train, epochs=15, batch_size=32)
+
+#     logging.info("Returned trained model.")
+
+#     return model, train_df
+
+
+
+import os, json, joblib, numpy as np
+from tensorflow.keras.models import load_model
+
+class EnsembleModel:
+    """Wrapper class for MLP + RandomForest ensemble with save/load support."""
+    def __init__(self, mlp_models, rf_models):
+        self.mlp_models = mlp_models
+        self.rf_models = rf_models
+
+    def predict(self, X):
+        X = np.array(X).astype('float32')
+        mlp_preds = np.mean([m.predict(X, verbose=0).flatten() for m in self.mlp_models], axis=0)
+        rf_preds = np.mean([r.predict_proba(X)[:, 1] for r in self.rf_models], axis=0)
+        return (mlp_preds + rf_preds) / 2
+
+    # ---------------- Save / Load ---------------- #
+    def save(self, path):
+        os.makedirs(path, exist_ok=True)
+        meta = {"mlp_paths": [], "rf_paths": []}
+
+        for i, m in enumerate(self.mlp_models):
+            m_path = os.path.join(path, f"mlp_{i}.keras")
+            m.save(m_path)
+            meta["mlp_paths"].append(f"mlp_{i}.keras")
+
+        for i, r in enumerate(self.rf_models):
+            r_path = os.path.join(path, f"rf_{i}.joblib")
+            joblib.dump(r, r_path)
+            meta["rf_paths"].append(f"rf_{i}.joblib")
+
+        with open(os.path.join(path, "manifest.json"), "w") as f:
+            json.dump(meta, f)
+
+    @classmethod
+    def load(cls, path):
+        with open(os.path.join(path, "manifest.json")) as f:
+            meta = json.load(f)
+
+        mlp_models = [load_model(os.path.join(path, p)) for p in meta["mlp_paths"]]
+        rf_models  = [joblib.load(os.path.join(path, p)) for p in meta["rf_paths"]]
+        return cls(mlp_models, rf_models)
+
+
+def build_train_ensemble(train_df, n_mlps=3, n_forests=3, epochs=15, batch_size=32):
     pd.options.mode.chained_assignment = None
 
-    # Scale positive class samples to ~ 1/100 ratio:
+    # --- Oversample positives (same as original) ---
     positive_class = train_df[train_df['match'] == 1]
-    scale_factor = len(train_df) / len(positive_class) / 100
+    scale_factor = max(1, len(train_df) / len(positive_class) / 100)
     multiplied_positive_class = pd.concat([positive_class] * round(scale_factor), ignore_index=True)
     train_df = pd.concat([train_df, multiplied_positive_class]).reset_index(drop=True)
 
-    # Step 2: Define and train the Neural Network model
-    X_train = train_df[fields]
-    y_train = train_df['match']
+    # --- Prepare training data ---
+    X_train = train_df[fields].to_numpy().astype('float32')
+    y_train = pd.to_numeric(train_df['match'], errors='coerce').fillna(0).astype('float32').to_numpy()
 
-    model = Sequential([
-        Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
-        Dense(32, activation='relu'),
-        Dense(16, activation='relu'),
-        Dense(1, activation='sigmoid')
-    ])
+    mlp_models = []
+    rf_models = []
 
-    @tf.keras.utils.register_keras_serializable()
-    def f1_score(y_true, y_pred):
-        y_true = K.cast(y_true, 'float32')  # Cast y_true to float32
-        y_pred = K.round(y_pred)  # Round y_pred to 0 or 1
+    # --- Define MLP builder (same architecture as your original) ---
+    def make_mlp():
+        model = Sequential([
+            Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
+            Dense(32, activation='relu'),
+            Dense(16, activation='relu'),
+            Dense(1, activation='sigmoid')
+        ])
 
-        true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
-        predicted_positives = K.sum(K.round(K.clip(y_pred, 0, 1)))
-        possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
+        @tf.keras.utils.register_keras_serializable()
+        def f1_metric(y_true, y_pred):
+            y_true = K.cast(y_true, 'float32')
+            y_pred = K.round(y_pred)
+            tp = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+            pp = K.sum(K.round(K.clip(y_pred, 0, 1)))
+            posp = K.sum(K.round(K.clip(y_true, 0, 1)))
+            precision = tp / (pp + K.epsilon())
+            recall = tp / (posp + K.epsilon())
+            return 2 * (precision * recall) / (precision + recall + K.epsilon())
 
-        precision = true_positives / (predicted_positives + K.epsilon())
-        recall = true_positives / (possible_positives + K.epsilon())
+        model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy', f1_metric])
+        return model
 
-        return 2 * (precision * recall) / (precision + recall + K.epsilon())
+    # --- Train MLP ensemble ---
+    for i in range(n_mlps):
+        mlp = make_mlp()
+        mlp.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, verbose=0)
+        mlp_models.append(mlp)
+        logging.info(f"Trained MLP model {i+1}/{n_mlps}")
 
-    model.compile(optimizer='adam',
-                loss='binary_crossentropy',
-                metrics=['accuracy',f1_score])
+    # --- Train Random Forest ensemble ---
+    for i in range(n_forests):
+        rf = RandomForestClassifier(n_estimators=100, random_state=42 + i)
+        rf.fit(X_train, y_train)
+        rf_models.append(rf)
+        logging.info(f"Trained RandomForest model {i+1}/{n_forests}")
 
-    # Fit the model
-    model.fit(X_train, y_train, epochs=15, batch_size=32)
+    # --- Create ensemble wrapper ---
+    ensemble_model = EnsembleModel(mlp_models, rf_models)
 
-    logging.info("Returned trained model.")
-
-    return model, train_df
+    logging.info("Returned trained ensemble model.")
+    return ensemble_model, train_df
 
 
 # Method to apply inference on dev set:
@@ -143,6 +253,8 @@ def inference_on_dev(model, dev_df, infer_type):
     # Compute precision, recall, and F1 score
     y_test = results_df['match']
     predictions = results_df['predicted_class']
+    y_test = pd.to_numeric(y_test, errors='coerce').fillna(0).astype(int)
+    predictions = pd.to_numeric(predictions, errors='coerce').fillna(0).astype(int)
 
     precision = precision_score(y_test, predictions)
     recall = recall_score(y_test, predictions)
@@ -276,7 +388,7 @@ def get_k_fold_model_dev_pairs(pairs):
 
         return (train_df, dev_df)
 
-    json_train_labels_path = './data/task1_train_labels_2024.json'
+    json_train_labels_path = './data/task1_train_labels_2025.json'
     with open(json_train_labels_path, 'r') as f:
         labels = json.load(f)
 
@@ -306,7 +418,7 @@ def get_k_fold_model_dev_pairs(pairs):
         dev_df['judge_pair_ratio'] = dev_df['judge_pair'].map(value_counts_combined).fillna(value_counts_combined.mean())
         dev_df['judge_pair_ratio'] = dev_df['judge_pair_ratio'] * 100
 
-        model, train_df = build_train_model(train_df)
+        model, train_df = build_train_ensemble(train_df)
         model_df_pairs.append((model,dev_df,train_df))
 
     return model_df_pairs

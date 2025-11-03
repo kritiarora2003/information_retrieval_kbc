@@ -42,7 +42,7 @@ def get_pairs(files):
     logging.info('Generating pairs dataframe from files.')
 
     # Train:
-    json_train_labels_path = './data/task1_train_labels_2024.json'
+    json_train_labels_path = './data/task1_train_labels_2025.json'
     with open(json_train_labels_path, 'r') as f:
         train_labels = json.load(f)
     train_queries = [t.rstrip('.txt') for t in list(train_labels.keys())]
@@ -56,7 +56,7 @@ def get_pairs(files):
     train_df = pd.DataFrame([{'query': query, 'target': target, 'tuple': (query, target), 'set': 'train'} for query, target in train_tuples])
 
     # Test:
-    json_test_labels_path = './data/task1_test_no_labels_2024.json'
+    json_test_labels_path = './data/task1_test_no_labels_2025.json'
     with open(json_test_labels_path, 'r') as f:
         test_queries = [t.rstrip('.txt') for t in json.load(f)]
     test_targets = []
@@ -226,6 +226,45 @@ def get_prop_max_jaccard_sents(files, pairs):
     pairs['prop_max_jaccard_sents'] = pairs.progress_apply(get_max, axis=1)
 
     logging.info('Added prop_max_jaccard_sents to pairs.')
+
+# def get_prop_max_jaccard_sents(files, pairs):
+#     import logging
+#     from tqdm import tqdm
+
+#     logging.info('Getting max jaccard similarity between sentences_en_sets and propositions_en_sets.')
+
+#     sentences_en_set_dict = files.set_index('filename')['sentences_en_set_list'].to_dict()
+#     propositions_en_set_dict = files.set_index('filename')['propositions_en_set_list'].to_dict()
+
+#     def safe_get(d, k):
+#         return d.get(k, [])
+
+#     def get_max(row):
+#         query = row['query']
+#         target = row['target']
+
+#         query_sets = safe_get(propositions_en_set_dict, query)
+#         target_sets = safe_get(sentences_en_set_dict, target)
+
+#         if not query_sets or not target_sets:
+#             logging.warning(f"Missing sets for query={query} or target={target}")
+#             return 0.0
+
+#         max_jaccard = 0
+#         for qs in query_sets:
+#             for ts in target_sets:
+#                 jaccard = jaccard_similarity(ts, qs)
+#                 max_jaccard = max(max_jaccard, jaccard)
+
+#         return max_jaccard
+
+#     tqdm.pandas(desc="Getting max jaccard proposition-sentences")
+#     pairs['prop_max_jaccard_sents'] = pairs.progress_apply(get_max, axis=1)
+
+#     logging.info('Added prop_max_jaccard_sents to pairs.')
+
+#     return pairs
+
 
 # Get maximum jaccard sim between proposition word set - paragraphs word sets:
 def get_prop_max_jaccard_paras(files, pairs):

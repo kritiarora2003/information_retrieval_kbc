@@ -1,3 +1,0 @@
-Train and test data to be copied into this subfolder.
-
-Data can be requested from COLIEE 2024 organisers. See: https://sites.ualberta.ca/~rabelo/COLIEE2024/

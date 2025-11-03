@@ -41,8 +41,8 @@ def get_trainer():
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     logging.info('Building trainer on device: %s' % device)
 
-    model = AutoModelForSeq2SeqLM.from_pretrained("t5-base").to(device)
-    tokenizer = AutoTokenizer.from_pretrained("t5-base")
+    model = AutoModelForSeq2SeqLM.from_pretrained("t5-small").to(device)
+    tokenizer = AutoTokenizer.from_pretrained("t5-small")
     data = load_dataset("csv", data_files='./files/t5_train_data.csv')
     max_input_length = 512
     max_target_length = 128
@@ -59,18 +59,20 @@ def get_trainer():
 
     tokenized_datasets = data.map(preprocess_function, batched=True)
 
-    batch_size = 8
     args = Seq2SeqTrainingArguments(
-        "model-training",
+        output_dir="model-training",
         learning_rate=2e-5,
-        per_device_train_batch_size=batch_size,
-        per_device_eval_batch_size=batch_size,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
         weight_decay=0.01,
         save_total_limit=3,
-        num_train_epochs=20,
+        num_train_epochs=100,
         predict_with_generate=True,
-        save_steps=10000000
+        save_strategy="steps",    # enables step-based saving
+        save_steps=100,             # save after each step
+        logging_steps=100,          # optional: log every step
     )
+
 
     data_collator = DataCollatorForSeq2Seq(tokenizer)
 
